@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Dzulum es un blog con diferentes temáticas, desde apuntes de informática hasta historias de terror.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Me esforzaré por dar buen contenido desde el anonimato que un pseudónimo y los servicios de privacidad de internet me puedan dar.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Dzulum](mailto:dzulum@mortemale.org)
