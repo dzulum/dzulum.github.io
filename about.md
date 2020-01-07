@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Sobre-mi/
+permalink: /about/
 ---
 
 Dzulum es un blog con diferentes temáticas, desde apuntes de informática hasta historias de terror.
