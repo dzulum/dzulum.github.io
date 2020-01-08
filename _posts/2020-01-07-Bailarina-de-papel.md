@@ -2,4 +2,7 @@
 layout: post
 title: Bailarina de papel
 ---
-A ver si sale
+Bailarina de papel,
+Cenicienta del dolor,
+Siento frío el corazón,
+Soy la escarcha de tu piel...
