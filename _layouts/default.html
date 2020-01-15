@@ -4,7 +4,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>{{ site.title | default: site.github.repository_name }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 <style>
 t1 { white-space: pre-wrap;}
 
@@ -17,13 +23,15 @@ t1 { white-space: pre-wrap;}
 <div class="w3-sidebar w3-dark-grey w3-bar-block w3-large w3-collapse w3-card-2 w3-animate-left"
  style="width:200px;" id="mySidebar">
 <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
-{% for item in site.webpages %}
-  {% assign bs = "" %}
-  {% if page.url == item.url %}
-    {% assign bs = " w3-gray" %}
-  {% endif %}
-  <a href='{{ item.url | relative_url }}' class='w3-bar-item w3-button{{ bs }}'>{{ item.title }}</a>
-{% endfor %}
+{%- for path in page_paths -%}
+            {% assign bs = "" %}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            {% assign bs = " w3-gray" %}
+            {%- endif -%}
+            <a class="w3-bar-item w3-button{{ bs }}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {%- endfor -%}
+
 </div>
 
 <!-- Page Content -->
