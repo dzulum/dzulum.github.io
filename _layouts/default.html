@@ -1,53 +1,56 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="{{ site.lang | default: "es-MX" }}">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>{{ site.title | default: site.github.repository_name }}</title>
+<style>
+t1 { white-space: pre-wrap;}
 
-    {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+   </style>
+</head>
+<body>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+<!-- Sidebar -->
+<div class="w3-sidebar w3-dark-grey w3-bar-block w3-large w3-collapse w3-card-2 w3-animate-left"
+ style="width:200px;" id="mySidebar">
+<button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
+{% for item in site.webpages %}
+  {% assign bs = "" %}
+  {% if page.url == item.url %}
+    {% assign bs = " w3-gray" %}
+  {% endif %}
+  <a href='{{ item.url | relative_url }}' class='w3-bar-item w3-button{{ bs }}'>{{ item.title }}</a>
+{% endfor %}
+</div>
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+<!-- Page Content -->
+<div class="w3-main" style="margin-left:200px">
+<div class="w3-black">
+  <button class="w3-button w3-black w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</button>
+</div>
+<div class="w3-container">
+  <h1>{{ site.title | default: site.github.repository_name }}</h1>
+</div>
+{% if page.image_url %}
+<img class='w3-image' src='{{ page.image_url | relative url }}' style='width:100%'>
+{% endif %}
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+<div class="w3-container">
+{{ content }}
+</div>
+</div>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
- <img src="{{ site.baseurl }}/images/logo.jpg" />
-          </div>
-         
+<script>
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+}
+</script>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">Sobre Mi</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+</body>
 </html>
