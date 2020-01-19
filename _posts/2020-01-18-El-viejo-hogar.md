@@ -1,7 +1,6 @@
 ---
 layout: post
 comments: true
-title: 'title'
 ---
 
 # El Viejo Hogar
