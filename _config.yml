@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/dzulum/dzulum.github.io/master/images/
 #
 # Flags below are optional
 #
-
+paginate: 1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -75,6 +75,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap
   - jekyll-feed # Create an Atom feed
+  - jekyll-paginate
 # Exclude these files from your production _site
 exclude:
   - Gemfile
