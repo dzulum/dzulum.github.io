@@ -1,10 +1,8 @@
 ---
 layout: post
 comments: true
+title: El viejo hogar
 ---
-
-# El Viejo Hogar
-
 Tan antiguo como las
 memorias de sus víctimas,
 Vacío tal cual mi alma,
