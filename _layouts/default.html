@@ -28,14 +28,6 @@ t1 { white-space: pre-wrap;}
 <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
 <a href="{{ site.baseurl }}/">Blog</a><br>
 <a href="{{ site.baseurl }}/about">Sobre Mi</a><br>
-<hr>
-{% for item in site.webpages %}
-	{% assign bs = "" %}
-	{% if page.url == item.url %}
-		{% assign bs = " w3-gray" %}
-	{% endif %}
-	<a href='{{ item.url | relative_url }}' class='w3-bar-item w3-button{{ bs }}'>{{ item.title }}</a>
-{% endfor %}
 </div>
 
 <!-- Page Content -->
