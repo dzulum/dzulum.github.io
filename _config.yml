@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/dzulum/dzulum.github.io/master/images/
 #
 # Flags below are optional
 #
-paginate: 5
+#paginate: 5
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
