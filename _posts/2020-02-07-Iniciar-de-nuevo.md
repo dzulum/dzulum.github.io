@@ -2,6 +2,7 @@
 layout: post
 ---
 
+![warning](/images/warning.gif)
 Pues simplemente eso...
 
 Iniciar nuevamente, todo gracias a lo único que es mi debilidad...
