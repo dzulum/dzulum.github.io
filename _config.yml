@@ -20,7 +20,7 @@ paginate_path: "/:num/"
 footer-links:
   dribbble:
   email: dzulum@mortemale.org
-  facebook: https://m.facebook.com/mxsicker/
+  facebook: mxsicker/
   flickr:
   github: dzulum
   instagram:
