@@ -22,3 +22,15 @@ Medio huevo
 Leche 11
 Marías
 Chockis
+
+
+Sr albañil
+
+Red 3l 24
+Tortillas 25
+Maruchan 24
+Café 7
+Azúcar 5
+Queso 20
+Sabroleche 11
+Huevo 26
