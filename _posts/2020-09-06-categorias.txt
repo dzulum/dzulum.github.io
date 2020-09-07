@@ -1,10 +1,10 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [relatos]
+categories: [relatos]
 #date: 2020-09-06 22:10:30
-title: 'title'
-category: "relatos"
+title: 'Prueba de tags o categorias'
+
 ---
 
 Solo una prueba para ver si funciona
