@@ -1,4 +1,0 @@
----
-slug: relatos
-name: Relatos
----
