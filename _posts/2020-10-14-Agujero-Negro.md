@@ -1,7 +1,5 @@
 ---
 layout: post
-date: 2020-10-14 15:10:00
-title:'Agujero Negro'
 ---
 
    Agujero Negro
