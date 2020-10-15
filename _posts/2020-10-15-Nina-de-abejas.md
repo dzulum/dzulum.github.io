@@ -5,18 +5,18 @@ Niña de Abejas
 Autor: : Gabriel Benítez
 Un relato del taller LeGuin de Laberinto
                                      1.
-   Nikki siguió a su hermana a las cajas de abejas aquel día. Lo hizo a
-   escondidas porque sabia bien que si ella se enteraba la golpearía. Pero
-   Nikki era muy hábil para eso de espiar a las personas y Carolina nunca
-   llegó a enterarse de lo que vio su hermana en los apiarios aquella
-   tarde. Por su parte, Nikki hubiera preferido no haberlo visto nunca
-   Los apiarios se encontraban cerca de la pequeña carretera que baja de
-   la autopista principal hacia la colonia. Se deslizaba aproximadamente
-   unos 700 metros a través del bosque para después convertirse en una
-   curva cerrada que daba acceso a las casas del lugar. Ahí, en medio de
-   la herradura del camino y la colonia, situadas entre un claro de
-   arboles se encontraban las cajas de abejas, a buen resguardo de lluvia,
-   viento y nieve.
+Nikki siguió a su hermana a las cajas de abejas aquel día. Lo hizo a
+escondidas porque sabia bien que si ella se enteraba la golpearía. Pero
+Nikki era muy hábil para eso de espiar a las personas y Carolina nunca
+llegó a enterarse de lo que vio su hermana en los apiarios aquella
+tarde. Por su parte, Nikki hubiera preferido no haberlo visto nunca
+Los apiarios se encontraban cerca de la pequeña carretera que baja de
+la autopista principal hacia la colonia. Se deslizaba aproximadamente
+unos 700 metros a través del bosque para después convertirse en una
+curva cerrada que daba acceso a las casas del lugar. Ahí, en medio de
+la herradura del camino y la colonia, situadas entre un claro de
+arboles se encontraban las cajas de abejas, a buen resguardo de lluvia,
+viento y nieve.
    La cajas no eran muchas, en realidad. Seis, siete tal vez.
    Nikki nunca llegó a saber quien las había puesto ahí o quien se
    encargaba de ellas. Ignoraba también si obtenían de la cajas miel para

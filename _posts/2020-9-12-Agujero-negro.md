@@ -2,18 +2,18 @@
 layout: post
 ---
 
-   Agujero Negro
-   Por Alfonso Chacón
+Agujero Negro
+Por Alfonso Chacón
 
-   Empezó como un tenue aguijoneo, algo picante en algún rincón de mi
-   panza, tan insignificante que ni sabía en qué lugar de la barriga
-   estaba, señor oficial. Yo sé que usted está muy ocupado, que ha venido
-   por algo importante, pero tengo que empezar desde el principio, si no
-   usted no me va a entender, como no entendieron María ni mi casero, ni
-   el vecino y mi madre, porque la verdad ni tuve chance de explicarles.
-   Téngame paciencia. Deme un minuto nada más.
+Empezó como un tenue aguijoneo, algo picante en algún rincón de mi
+panza, tan insignificante que ni sabía en qué lugar de la barriga
+estaba, señor oficial. Yo sé que usted está muy ocupado, que ha venido
+por algo importante, pero tengo que empezar desde el principio, si no
+usted no me va a entender, como no entendieron María ni mi casero, ni
+el vecino y mi madre, porque la verdad ni tuve chance de explicarles.
+Téngame paciencia. Deme un minuto nada más.
    
-   Primero era chiquito, así de diminuto, tanto que yo pensé que con un
+Primero era chiquito, así de diminuto, tanto que yo pensé que con un
    pinche confite lo llenaba, y así fue señor oficial, así fue ese día y
    por un tiempo. Pero el caso fue que el vacío creció, levemente al
    principio, pero creció. María me servía la misma ración de siempre, al
