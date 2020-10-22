@@ -4,7 +4,9 @@ layout: post
 Niña de Abejas
 Autor: : Gabriel Benítez
 Un relato del taller LeGuin de Laberinto
+
 ## 1
+
 Nikki siguió a su hermana a las cajas de abejas aquel día. Lo hizo a
 escondidas porque sabia bien que si ella se enteraba la golpearía. Pero
 Nikki era muy hábil para eso de espiar a las personas y Carolina nunca
@@ -39,7 +41,9 @@ tanto si su hermana cumplía la amenaza. A sus ocho años - según su
 abuela - ya estaba grande para jugar con esas cosas. Que Carolina
 quemara a las Sweet Babies si quería esta vez, ella se iba a enterar de
 que era lo que hacia su hermana en los apiarios.
+
 ## 2
+
 Nikki volvió a su casa en la colonia exactamente para el cumpleaños de
 su hermana. Cuando llegó no vio nada muy diferente. Los prados
 continuaban bien cortados, las casas bien pintadas y la alberca llena
@@ -157,7 +161,9 @@ seguro que también rodeaban toda el área.
 
 Carolina estaba determinada a no ser descubierta.
 Bueno En ese casó Nikki también y su hermana no iba a detenerla.
+
 ## 4
+
 El infierno volvió poco después de las cuatro.
 
 No era un secreto para nadie en la casa que Nikki y Carolina no se
