@@ -1,7 +1,5 @@
 ---
 layout: post
-tags: []
-categories[]
 date: 2020-10-15 00:00:00
 title: Niña de abejas
 ---
