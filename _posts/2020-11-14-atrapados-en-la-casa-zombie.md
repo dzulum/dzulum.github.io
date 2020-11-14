@@ -3,7 +3,7 @@ layout: post
 tags: []
 categories[]
 date: 2020-11-14 00:01:03
-title:'Atrapados en la casa zombie'
+title: Atrapados en la casa zombie
 ---
 # Atrapados en la casa Zombie
 

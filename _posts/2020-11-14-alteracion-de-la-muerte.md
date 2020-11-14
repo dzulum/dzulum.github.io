@@ -3,7 +3,7 @@ layout: post
 tags: []
 categories[]
 date: 2020-11-14 00:00:10
-title:'Alteración de la muerte'
+title: Alteración de la muerte
 ---
 # ALTERACION DE LA MUERTE
 

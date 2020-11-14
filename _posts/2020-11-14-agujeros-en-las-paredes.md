@@ -3,7 +3,7 @@ layout: post
 tags: []
 categories[]
 date: 2020-11-14 00:00:05
-title:'Agujeros en las paredes'
+title: Agujeros en las paredes
 ---
 # Agujeros en las Paredes
 

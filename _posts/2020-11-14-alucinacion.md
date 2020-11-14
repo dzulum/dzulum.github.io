@@ -3,7 +3,7 @@ layout: post
 tags: []
 categories[]
 date: 2020-11-14 00:00:11
-title:'Alucinación'
+title: Alucinación
 ---
 # Alucinación
 
