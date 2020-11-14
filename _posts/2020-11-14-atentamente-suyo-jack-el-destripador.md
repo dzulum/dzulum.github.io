@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:13
-title: 'Atentamente suyo, Jack el destripador'
+title: Atentamente suyo, Jack el destripador
 ---
 # ATENTAMENTE SUYO, JACK EL DESTRIPADOR
 
