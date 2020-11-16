@@ -1,2 +1,0 @@
---- layout: default ---
-{% if site.categories[page.slug] %} {% for post in site.categories[page.slug] %} <p class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p> <!-- Your themeplate for the post loop goes here --> {% endfor %} {% else %} <p>There are no posts in this category.</p> {% endif %}
