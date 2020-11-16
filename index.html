@@ -11,7 +11,7 @@ layout: default
 <p class="author">
 	<span class="date">{{ post.date }}</span>
 </p>
-<div class="content"> {{ post.content }} </div>
+<div class="content"> {{ post.content | markdownify | strip_html | truncatewords: 50 }} </div>
 {% endfor %}
 <!-- Pagination links -->
 <div class="pagination">
