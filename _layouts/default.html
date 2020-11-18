@@ -19,6 +19,9 @@ t1 { white-space: pre-wrap;}
 
 
    </style>
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
 </head>
 <body>
 
