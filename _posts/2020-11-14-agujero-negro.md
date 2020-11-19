@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:04
-tags agujero hambre
+tags: agujero hambre
 title: Agujero Negro
 ---
 # Agujero Negro

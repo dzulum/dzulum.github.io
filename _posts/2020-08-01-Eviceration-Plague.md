@@ -1,6 +1,6 @@
 ---
 layout: post
-tags video
+tags: video
 title: Eviceration Plague
 ---
 {% include youtube.html id='482tDopNzoc' %}

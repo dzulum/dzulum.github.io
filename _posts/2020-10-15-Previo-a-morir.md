@@ -1,6 +1,6 @@
 ---
 layout:post
-tags sicker
+tags: sicker
 title: Previo a morir
 ---
 Previo a morir
