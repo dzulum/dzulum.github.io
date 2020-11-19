@@ -113,7 +113,7 @@ body {
 }
 h1,h2,h3,h4,h5,h6{
     text-shadow: 4px 4px 8px red; 
-    color: #666; 
+    color: silver; 
     text-align:center; 
     margin:0; 
     font-family: AnglicanText; 
@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 60px
 }
 a{
-    color:silver;
+    color:red;
     text-decoration:none;
     font-size:lighter;
 }
