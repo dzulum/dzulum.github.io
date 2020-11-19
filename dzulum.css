@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  font-size: 16px;
 }
 
 /* Style the body */
@@ -150,5 +149,6 @@ img {
 .author .date .content .post .entry{
     color: silver;
     background-color: none;
+font-size: 16px;
 }
 t1 { white-space: pre-wrap;}
