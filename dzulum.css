@@ -121,12 +121,12 @@ h1,h2,h3,h4,h5,h6{
     font-size: 60px
 }
 a{
-    color:red;
+    color:silver;
     text-decoration:none;
     font-size:lighter;
 }
 a:hover{
-    font-weight:bold;
+    color:darkred;
 }
 P:first-letter {
 	font-size: 400%;
