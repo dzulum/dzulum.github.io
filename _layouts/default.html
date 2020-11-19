@@ -46,7 +46,7 @@
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="dzulum.css">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dzulum.css">
 {% include meta.html %}
 {% if site.tags != "" %}
   {% include collecttags.html %}
