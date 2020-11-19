@@ -23,11 +23,11 @@ body {
     color: white;
 }
 
-/* Increase the font size of the heading */
+/* Increase the font size of the heading 
 .header h1 {
     font-size: 40px;
 }
-
+*/
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden;
