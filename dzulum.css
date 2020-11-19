@@ -146,7 +146,7 @@ img {
     margin-right: auto;
     width: 100%;
 }
-.author .date .content .post .entry .footer{
+.author, .date, .content, .post, .entry, .footer{
     color: silver;
     background-color: none;
 font-size: 16px;
