@@ -8,4 +8,4 @@ En este lugar encontraras algunos enlaces con una breve descripción, enlaces qu
 
 # Radio y Audios
 
-- [Death.fm](http://death.fm/modules.php?name=Listen "Death Fucking Metal Radio")
+- [Death.fm](http://death.fm/modules.php?name=Listen "Death Fucking Metal Radio"){:target="_blank}
