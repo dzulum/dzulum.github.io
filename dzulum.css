@@ -162,15 +162,15 @@ t1 { white-space: pre-wrap;}
 .youtube-wrapper { 
    /* position: relative; */
     width: 100%;
-   /* height: auto;
-    padding-bottom: 50%;*/
+    height: auto;
+    padding-bottom: 50%;
     } 
 .youtube-wrapper iframe { 
 /*position: absolute;
 top: 0;
 left: 0; */
 width: 100%; 
-/*height: auto;*/ 
+height: auto;
 border: 0; 
 }
 
