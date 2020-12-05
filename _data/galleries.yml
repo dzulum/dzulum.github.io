@@ -1,0 +1,40 @@
+- id: vampirella
+  description: Esta galeria esta dedicada a Vampirella.
+  imagefolder: /imgages/vampirella
+  images:
+  - name: vampirella.jpg
+    thumb: thumb-vampirella.jpg
+    text: Esa luna resalta tus ojos...
+  - name: vampirella0.jpg
+    thumb: thumb-vampirella0.jpg
+    text: Un delicioso baño...
+  - name: vampirella1.jpg
+    thumb: thumb-vampirella1.jpg
+    text: Ese color te queda bien...
+  - name: vampirella2.jpg
+    thumb: thumb-vampirella2.jpg
+    text: Linda mirada...
+  - name: vampirella3.jpg
+    thumb: thumb-vampirella3.jpg
+    text: En buena compañia...
+  - name: vampirella4.jpg
+    thumb: thumb-vampirella4.jpg
+    text: Nubes...
+  - name: vampirella5.jpg
+    thumb: thumb-vampirella5.jpg
+    text: Una portada...
+  - name: vampirella6.jpg
+    thumb: thumb-vampirella6.jpg
+    text: Noche de chicas...
+  - name: vampirella7.jpg
+    thumb: thumb-vampirella7.jpg
+    text: En el cementerio...
+  - name: vampirella8.jpg
+    thumb: thumb-vampirella8.jpg
+    text: ...
+  - name: vampirella9.jpg
+    thumb: thumb-vampirella9.jpg
+    text: Buena chica...
+  - name: vampirella10.jpg
+    thumb: thumb-vampirella10.jpg
+    text: Alas...
