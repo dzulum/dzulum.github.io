@@ -1,6 +1,6 @@
 - id: vampirella
   description: Esta galeria esta dedicada a Vampirella.
-  imagefolder: /imgages/vampirella
+  imagefolder: /images/vampirella
   images:
   - name: vampirella.jpg
     thumb: thumb-vampirella.jpg
