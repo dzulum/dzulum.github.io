@@ -160,15 +160,15 @@ t1 { white-space: pre-wrap;}
 @import "{{ site.baseurl }}/assets/css/variables.scss";
  
 .youtube-wrapper { 
-    position: relative; 
+   /* position: relative; */
     width: 80%;
     height: auto;
-    padding-bottom: 50%;
+   /* padding-bottom: 50%;*/
     } 
 .youtube-wrapper iframe { 
-position: absolute;
+/*position: absolute;
 top: 0;
-left: 0; 
+left: 0; */
 width: 80%; 
 height: auto; 
 border: 0; 
