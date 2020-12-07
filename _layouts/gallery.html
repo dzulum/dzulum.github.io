@@ -6,15 +6,15 @@ layout: default
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
     <h1>{{ gallery.description }}</h1>
-    <ol>
+    
     {% for image in gallery.images %}
-      <li>
+    
         {{ image.text }}<br>
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="400px" height="auto">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="150px" height="auto">
         </a>
-      </li>
+    
     {% endfor %}
-    </ol>
+    
   {% endif %}
 {% endfor %}
