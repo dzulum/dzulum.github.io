@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tags: vampiro
 date: 2020-12-06 08:45:00
 title: Confesión

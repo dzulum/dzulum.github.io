@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 date: 2020-12-06 10:45:00
 tag: scifi
 title: De gran corazón
