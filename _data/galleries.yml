@@ -38,3 +38,46 @@
   - name: vampirella10.jpg
     thumb: thumb-vampirella10.jpg
     text: Alas...
+- id: anime
+  description: Galeria de anime variado
+  imagefolder: /images/anime
+  images:
+  - name: anime-bikini.jpg
+    thumb: thumb-anime-bikini.jpg
+    text: Bikini azul
+  - name: anime-bra.jpg
+    thumb: thumb-anime-bra.jpg
+    text: Ubresotas
+  - name: anime-cuni.jpg
+    thumb: thubm-anime-cuni.jpg
+    text: Lengua oh si
+  - name: anime-cutes.jpg
+    thumb: thumb-anime-cutes.jpg
+    text: Ojos azules
+  - name: anime-estudiante.jpg
+    thumb: thumb-anime-estudiante.jpg
+    text: A la escuela
+  - name: anime-girls.jpg
+    thumb: thumb-anime-girls.jpg
+    text: Varias chicas
+  - name: anime-glasses.jpg
+    thumb: thumb-anime-glasses.jpg
+    text: Que inocente con esas gafas
+  - name: anime-nalgas.jpg
+    thumb: thumb-anime-nalgas.jpg
+    text: Me pregunto que mirada
+  - name: anime-negro.jpg
+    thumb: thumb-anime-negro.jpg
+    text: Ropita negra
+  - name: anime-orejas.jpg
+    thumb: thumb-anime-orejas.jpg
+    text: Conejote
+  - name: anime-orejas0.jpg
+    thumb: thumb-anime-orejas0.jpg
+    text: Conejote
+  - name: anime-rojo.jpg
+    thumb: thumb-anime-rojo.jpg
+    text: Lenceria roja
+  - name: anime-vamps.jpg
+    thumb: thumb-anime-vamps.jpg
+    text: Vampiros
