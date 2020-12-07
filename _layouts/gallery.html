@@ -11,7 +11,7 @@ layout: default
       <li>
         {{ image.text }}<br>
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="400px" height="auto">
         </a>
       </li>
     {% endfor %}
