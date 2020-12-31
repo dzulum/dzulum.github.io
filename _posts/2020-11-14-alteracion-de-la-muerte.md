@@ -1,14 +1,15 @@
 ---
 layout: post
 date: 2020-11-14 00:00:10
+tags: relato
 title: Alteración de la muerte
 ---
 # ALTERACION DE LA MUERTE
 
 ### Autor: CARLOS DIAZ.
 
-La pareja salió del teatro. Y mientras caminaban hacia el
-   estacionamiento, a sus espaldas se apagaba la marquesina que decia: "   UNICA FUNCION" VIRTUAL " LA ADOLESCENTE QUE VE Y HABLA A LOS ESPIRITUS".
+La pareja salió del teatro. Y mientras caminaban hacia el estacionamiento, a sus espaldas se apagaba la marquesina que decia: 
+"UNICA FUNCION" VIRTUAL " LA ADOLESCENTE QUE VE Y HABLA A LOS ESPIRITUS".
    
 -Que manera de desperdiciar mi tiempo y mi dinero--decía el joven
    mientras sonreía y movía la cabeza en señal de desaprobación--los

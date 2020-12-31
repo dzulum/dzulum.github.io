@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:12
+tags: relato
 title: Amanecer Rojo
 ---
 # AMANECER ROJO.

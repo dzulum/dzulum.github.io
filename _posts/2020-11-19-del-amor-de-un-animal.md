@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-16 00:01:30
-tags: animal amor
+tags: relato
 title: Del amor de un animal
 ---
 # DEL AMOR DE UN ANIMAL

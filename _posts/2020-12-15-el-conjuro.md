@@ -1,6 +1,6 @@
 ---
 layout: post
-tags:
+tags: relato
 date: 2020-12-15 10:55:55
 title: "El conjuro"
 ---

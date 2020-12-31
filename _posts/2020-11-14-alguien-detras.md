@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:08
+tags: relato
 title: Alguien detrás
 ---
 # Alguien detrás

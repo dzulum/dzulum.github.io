@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-16 00:01:30
+tags: relato
 title: Calle M. Le Prince #252
 ---
 # Calle M. Le Prince, Nº 252 (No. 252 Rue M. le Prince-1895)

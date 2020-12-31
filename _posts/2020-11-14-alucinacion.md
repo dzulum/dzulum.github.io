@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:11
+tags: relato
 title: Alucinación
 ---
 # Alucinación
@@ -11,8 +12,8 @@ title: Alucinación
    Los ríos arden, pero no se mueven.  
    La carne ¿será la carne?  
    yace debajo de una piedra recalentada.  
-   La lava se elevaba en los campos consumidos 
-   por el fuego..." 
+   La lava se elevaba en los campos consumidos  
+   por el fuego..."  
    Norman Mailer  
    Noches de la antigüedad  
    Ya sabes lo que tienes que hacer.

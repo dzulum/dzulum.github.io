@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: asesino
+tags: relato
 date: 2020-12-15 10:44:40
 title: 'El cazador'
 ---

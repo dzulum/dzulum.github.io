@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:01:03
+tags: relato
 title: Atrapados en la casa zombie
 ---
 # Atrapados en la casa Zombie

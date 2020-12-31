@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: video"
+title: "Tag: Vídeo"
 tag: video
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-16 00:01:30
-tags: amigo hija
+tags: relato
 title: El amigo de mi hija
 ---
 # El Amigo de mi Hija

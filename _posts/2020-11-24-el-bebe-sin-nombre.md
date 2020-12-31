@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-24 09:00:30
-tags: bebe
+tags: relato
 title: El bebe sin nombre
 ---
 # EL BEBE SIN NOMBRE

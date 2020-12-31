@@ -1,7 +1,7 @@
 
 ---
 layout: post
-tags: caballero
+tags: relato
 date: 2020-11-24 09:00:00
 title: El caballero delgado de las manos enguantadas
 ---

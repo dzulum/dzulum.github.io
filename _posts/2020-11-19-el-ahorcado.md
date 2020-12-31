@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-19 00:01:30
-tags: horca ahorcado
+tags: relato
 title: El ahorcado
 ---
 # El Ahorcado

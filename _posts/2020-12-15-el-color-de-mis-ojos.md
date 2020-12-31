@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 
+tags: relato 
 date: 2020-12-15 10:54:00
 title: "El color de mis ojos"
 ---

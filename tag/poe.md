@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: poe"
+title: "Tag: Poe"
 tag: poe
 ---

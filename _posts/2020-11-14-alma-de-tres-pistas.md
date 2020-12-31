@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:09
+tags: relato
 title: Alma de tres pistas
 ---
 # ALMA DE TRES PISTAS

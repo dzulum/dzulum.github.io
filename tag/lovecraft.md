@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: lovecraft"
+title: "Tag: Lovecraft"
 tag: lovecraft
 ---

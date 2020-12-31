@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-30 06:30:01
-tags: bucle
+tags: relato
 title: Círculo (La maldición de Everett)
 ---
 # CÍRCULO (La maldición de Everett)

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-19 00:01:30
-tags: cantina carretera
+tags: relato
 title: De cantina en cantina, encontramos nuestro propio infierno
 ---
 # DE CANTINA EN CANTINA, ENCONTRAMOS NUESTRO PROPIO INFIERNO

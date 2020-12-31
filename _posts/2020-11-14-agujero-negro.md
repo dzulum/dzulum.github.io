@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2020-11-14 00:00:04
-tags: agujero hambre
+tags: relato
 title: Agujero Negro
 ---
 # Agujero Negro
 
-### Por Alfonso Chacón
+**Por Alfonso Chacón**
 
 Empezó como un tenue aguijoneo, algo picante en algún rincón de mi panza, tan insignificante que ni sabía en qué lugar de la barriga estaba, señor oficial. Yo sé que usted está muy ocupado, que ha venido por algo importante, pero tengo que empezar desde el principio, si no usted no me va a entender, como no entendieron María ni mi casero, ni el vecino y mi madre, porque la verdad ni tuve chance de explicarles.
 

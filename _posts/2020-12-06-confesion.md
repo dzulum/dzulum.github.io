@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: vampiro
+tags: relato
 date: 2020-12-06 08:45:00
 title: Confesión
 ---

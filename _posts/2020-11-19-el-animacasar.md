@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-19 00:01:30
-tags: vampiro
+tags: relato
 title: El antimacasar
 ---
 # EL ANTIMACASAR

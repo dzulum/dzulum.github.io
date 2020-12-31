@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: relato
 date: 2020-11-14 00:00:05
 title: Agujeros en las paredes
 ---
@@ -11,7 +12,7 @@ Juan llevaba una vida de trabajo muy agitada, sin tiempo para nada, siempre corr
 
 El médico le había dicho que si mantenía ese ritmo de vida no había solución, que las medicinas no harían nada. Y así seguía un día tras otro, trabajando duro para llegar a un puesto donde tuviera que trabajar aun mas duro.
 
-Un día le pareció ver al causante de los agujeros. Vio un extremo del extraño animal escurriendose dentro de la pared, una pared donde podría jurar, momentos antes no había ningún hueco por donde escurrirse.
+Un día le pareció ver al causante de los agujeros. Vio un extremo del extraño animal escurriéndose dentro de la pared, una pared donde podría jurar, momentos antes no había ningún hueco por donde escurrirse.
 
 Definitivamente no era un ratón como se había estado diciendo a si mismo durante tanto tiempo, no parecía ningún animal que él hubiera visto antes. Un sábado llegó a casa por la noche. Le apetecía darse un baño así que lleno la bañera y se metió dentro a relajarse. Pronto quedó dormido, amodorrado por el vapor y el agua caliente. Súbitamente despertó, inquieto, sintiendo frío. Tardó unos segundos en relacionar el que la bañera estuviera vacía con el viscoso animal que pululaba por su piso. Su cuerpo seguía mojado así que no podía haber pasado mucho tiempo desde que el agua se escurriera. ¿ Por donde ?- era la pregunta.
 
@@ -32,9 +33,9 @@ Ya estaba cerca, si no lograba moverse el gusano le atravesaría, aunque quizá 
 
 Tomaría unas vacaciones, eso era lo que le hacía falta. Seguiría la recomendación de su médico y estaría alejado del trabajo. Seguro que a la vuelta ya no había ningún gusano en su casa y que los agujeros habían desaparecido.
 
-El dolor le hizo pegar un salto poniendose de esa manera fuera del camino de la oruga. Al menos eso era lo que el creía . Fue la sangre que manaba de su talón lo que le hizo reaccionar. En la suela del zapato había uno de los ya habituales agujeros que tan bien conocía.
+El dolor le hizo pegar un salto poniéndose de esa manera fuera del camino de la oruga. Al menos eso era lo que el creía . Fue la sangre que manaba de su talón lo que le hizo reaccionar. En la suela del zapato había uno de los ya habituales agujeros que tan bien conocía.
 
-Que curioso - penso entre la bruma de la inconsciencia- ahora ya aparecen hasta en los zapatos. Y se sumergió en el caos de la noche.
+Que curioso - pensó entre la bruma de la inconsciencia- ahora ya aparecen hasta en los zapatos. Y se sumergió en el caos de la noche.
 
 Dentro de la pierna el gusano seguía su camino, hacia arriba, siempre recto, sin parar.
 

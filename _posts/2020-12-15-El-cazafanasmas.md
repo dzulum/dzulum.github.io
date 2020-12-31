@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-12-15 10:51:00
+tags: relato
 title: 'El cazafantasmas'
 ---
 

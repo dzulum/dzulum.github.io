@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-12-06 10:45:00
-tag: scifi
+tag: relato
 title: De gran corazón
 ---
 

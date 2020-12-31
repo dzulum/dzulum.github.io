@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:00:07
+tags: relato
 title: Alas de plomo
 ---
 # ALAS DE PLOMO
