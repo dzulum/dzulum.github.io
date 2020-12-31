@@ -1,0 +1,285 @@
+# El pacto
+
+**Autor: Francesc Pedragosa**
+
+
+El escritor se revolvió en su asiento, estaba inquieto y esa inquietud
+no le dejaba concentrarse debidamente en lo que escribía, se pasó las
+manos por el rostro e hizo una bola con el papel donde antes había
+escrito unas líneas y lo lanzó a la papelera ya rebosante, alargó la
+mano y bebió un nuevo trago del vaso largo que tenía sobre la mesa
+supletorio. Luego desvió sus ojos hacia un punto neutro mas allá de la
+estancia. La cuestión radicaba en que, "Creyéndose imbuido de toda la
+razón, se estaba creando una especie de burbuja de realidad virtual que
+lo alejaba cada vez mas del mundo real" ya no distinguía el sueño
+onírico de la vigilia, empezaba a creerse predestinado para ser el
+nuevo "Mesías" que con la palabra como arma... cambiaría al "sino" del
+humano y lo catapultaría hacía un nuevo mundo celeste, quisiera éste o
+no lo quisiera.
+
+Si entre medio debía saltarse unas cuantas reglas e insultar a los
+impíos retrógrados y desagradecidos mortales... pues lo haría. Si tenía
+que armar una revolución para mostrar el camino, pues también, si tenía
+que aguantarse la risa y matar el humor... lo haría sin vacilar. Sin
+embargo la cosa tenía un inconveniente, el ritmo que llevaba acabaría
+por enloquecerlo y lo sabía, tanta dispersión a la larga sólo engendra
+bobadas y el erigirse en dios y parte a la vez, el hecho de querer
+"estar" presente en muchos sitios al mismo tiempo, el tocar varias
+teclas al unísono... en resumen, este don de la ubicuidad del que era
+un orgulloso poseedor, lo llevaría a hacerle perder la perspectiva
+general y acabaría andando por las ramas como un "simio" dios no!!!
+¡Él, un aspirante a inmortal jamás llegaría a eso! En consecuencia y
+con el beneplácito de sus "apóstoles" se dedico a escribir "LA OBRA" el
+libro que probaría ante los ojos de todos los vulgares mortales sus
+auténticas dotes de dios de las letras y único referente a partir de
+entonces, por encima de Platón, Aristóteles, Kant y menudencias
+similares. Alcanzaría la luz y reinaría sobre los mortales, aboliría
+los gobiernos e instauraría la dictadura de la sabiduría celeste, su
+reino no tendría parangón en los siglos y duraría mil años. Pero
+antes... debería resolver una "pequeña" cuestión.
+
+Si pudiera serenarme, pensó... ¿A quién quiero engañar? Pase que trate
+de justificarme delante de los demás, pero a mí mismo ya no puedo
+engañarme más Ni siquiera los halagos desmesurados y las alabanzas
+coreadas por sus acólitos que lo ponían a la altura de un elegido,
+podían ya esconder la auténtica verdad.
+
+Llevaba mucho tiempo tratando de plasmar ideas en el papel, pero sólo
+era capaz de dar rodeos y andar en círculos. Parto de un "lugar"
+pensando que llevo una buena línea y que esta vez será una línea larga
+y fructífera y al final vuelvo al mismo sitio donde estaba al partir
+unos días antes. Tengo que aceptarlo, estoy bloqueado y tanto o más
+seco que un pergamino de la V Dinastía!
+
+Y eso no es lo peor, lo peor es que mis "apóstoles" esperan resultados,
+me avanzaron una fuerte suma de dinero que gasté, y mis lectores
+esperan otro éxito como el de "Kronificados" y no sé como dárselo, cómo
+les digo que aquello fue una pura concomitancia? Lo he probado todo,
+incluso copiar ideas ajenas pero ya no es cuestión de ideas sino de
+ritmo narrativo, lo he perdido, me voy por las ramas, no soy capaz de
+concretar y las frases cada vez se acortan más, miro el papel en blanco
+como a un enemigo al que hay que derrotar y así me va, cada vez salgo
+perdiendo. Así no lograré la cumbre de las letras. Por consiguiente
+decidió buscar un pacto con el... ¡Diablo!
+
+Aquella noche repasó el libro Esotérico sobre pactos con el Maligno, se
+titulaba: "El Recontramicom", buscó el capítulo dedicado a pactar con
+Belcebú, fue pasando páginas donde ponía los diferentes tipos de pacto
+que se podían realizar... Cómo hacer feliz a tu jefe, cómo satisfacer a
+tu mujer, cómo engañar a tu mujer, cómo deshacerte de tu mujer, cómo tu
+mujer se puede deshacer de ti, cómo ganar en bolsa, como escribir la
+Historia más grande jamás contada... cómo as... ¡alto! Aquí estaba lo
+que buscaba. En el epígrafe 6º párrafo 3º barra 4ª del capitulo IV aquí
+lo tenía bien claro... todo saldría perfecto, lo leyó para hacerse una
+somera idea y apuntó lo que necesitaría para llevarlo a la práctica.
+A la mañana siguiente se dedicó a comprar los utensilios necesarios
+para tal efecto a saber: Caca de vaca, ojos de lagarto, cola de ratón y
+bigotes de morsa, además de aliento de aligato... que le costó un
+montón encontrar y verrugas de sapo. Esperó la llegada de la medianoche
+con impaciencia mientras aprovechó para "dibujar" el círculo con el
+pentagrama en el medio. Una vez concluida esta parte se dispuso a
+hervir todos los mejunjes como una especie de "sopa" en un caldero de
+hierro negro como mandaba la tradición, luego lo colocó en una vasija
+al lado del círculo.
+
+Cuando el reloj de pared marcó la medianoche en la casa del escritor un
+silencio sobrenatural se hizo cargo del lugar, parecía que el tiempo se
+hubiera parado o andara tan despacio que se podía hasta tocar con la
+mano, el aire se cargó de una fuerza invisible pero casi perceptible
+con el ojo psíquico, la cuestión es que le entró un poco de aprensión
+pero se acordó de la Obra mas grande... bla. bla. y se puso manos a la
+obra sin dilaciones, encendió unas velas rodeando el círculo como
+mandan las tradiciones y acto seguido se introdujo en el círculo y
+recitó las letras de la invocación:  
+¡ORUM PACTORUM MEI, OBELICUS PANGENUIS HIPOTALAMUS... bla. bla. bla.
+bla...!
+
+Al pronto se oyó una especie de "implosión" en la estancia como si algo
+hubiese succionado el aire hacia dentro, cayeron libros, estanterías y
+sillas aunque las velas no se movieron un milímetro, de pronto se dio
+cuanta que al fondo, junto a las cortinas allí donde las sombras eran
+más espesas... había una figura negra que lo contemplaba pues podía ver
+unos ojos rojos como tizones, estaba de pie frente a él en completo
+silencio. Después de un tiempo que al escritor le pareció eterno la
+figura abandonó su posición estática y adoptó una actitud como la del
+"pensador". Le pasó por la cabeza que estaría rumiando que hacer con
+él, eso le puso aún mas nervioso y decidió hablar.
+
+**El Desenlace**
+
+¡Canastos! es usted señor demonio? preguntó con un hilo de voz el
+escritor.
+
+El silencio fue la única respuesta a su pregunta, notó que el sudor
+empezaba a correr por su frente y sintió húmedas sus axilas y las
+manos, se las refregó en un acto reflejo y se aclaró la garganta.
+Ejem... Señor diablo, no me oye usted? lo hice todo bien? espero que sí
+pues a veces soy muy olvidadizo.
+
+Esta vez el silencio era absoluto, lentamente se fue elevando un lejano
+ronroneo que fue aumentando paulatinamente hasta hacerse insoportable,
+toda la estancia quedó dominada por aquel sonido HUMMMMMMMM... El
+escritor pensó que algo no estaba al gusto de su excelencia y no habría
+pacto, en su lugar le pediría el alma como pago por haberlo
+molestado... joder ya se veía sin su gran Obra. En aquel momento cesó
+el penetrante sonido y el silencio casi fue peor, pues era ominoso y
+desagradable, de pronto una voz lo quebró:  
+¡Hola pequeño!... Era una voz de mujer sensual y distendida pero fuerte
+y dominante a la vez.
+
+Ejemmm. Hola. ¿quién es?  
+¿Quién crees que soy?  
+
+Esto pues, pues debe haber una confusión, yo pedí ver al mismísimo
+diablo pero veo que algo no anda bien.
+
+Todo esta en orden "capullo", ¡YO soy el diablo! lo que pasa es que
+vuestra cultura judeo-cristiana siempre me pintó como un tipo
+desagradable con cola y cuernos pero en verdad que no soy así... soy,
+soy digamos "diferente", ya lo verás pobre mortal. Dicho esto dio unos
+gráciles pasos hacía el escritor y salió de las sombras, y la pudo
+contemplar por primera vez... no es que hubiera mucho que ver, pero lo
+poco valía la pena. Un rostro blanquísimo de grandes ojos negros como
+la noche sin luna, aunque en según que posición parecían rojos, unas
+cejas pobladas pero elegantes, una nariz recta y aceptable, unos labios
+carnosos y rojos como manzanas de esta variedad, a saber... unos
+pómulos glotones y un cuello largo y sedoso, enmarcado en una lacia y
+negrísima mata de pelo salvaje... eso era todo... todo? bueno el resto
+estaba tapado por una especie de túnica negra que le llegaba a los
+tobillos dejando, eso sí, a la vista unos pies riquísimos y muy
+aceptables.
+
+Ejem, verá, yo esperaba otra cosa sabe usted? dijo el escritor muy
+modosito.
+
+El diablo como respuesta abrió la túnica de manera "provocadora" y lo
+que vio el escritor le hizo sudar aún mas... Aquel diablo se gastaba un
+cuerpo bárbaro, ¡Por todos los avatares divinos!  
+Bien escritorzuelo, vayamos al grano... dime qué deseas. le dijo
+tapándose otra vez.
+
+Bien pues yo... ejem, verá lo llamé para hacer un trato con usted, ya
+sabe mi alma por la Obra mas GrAnDe jamás escrita por mortal alguno.
+Humm, veo que te gusta la celebridad, pero dime, qué es eso de la raza
+traspasando la frontera de los sentidos y bla. bla. bla...
+
+Bah, sólo cortinas de humo para que el circo no decaiga, son juegos
+malabares... Lo que ahora persigo es algo importante... Mi propia
+inmortalidad a través del reconocimiento, quiero ser la luz que guíe a
+los pobres mortales hacía el Vahalla y...
+
+Sí bueno, corta el rollo que ya nos conocemos. Venga pues, que sea tu
+deseo pero no quiero nada de ti, mañana encontrarás la Obra sobre tu
+mesa, no te garantizo la inmortalidad exactamente, eso sólo es posible
+para los seres elegidos y los desencarnados, cuando llegue tu turno...
+hablaremos.
+
+Pero yo... yo...  
+Silencio, ¿no te fías de mí?  
+Sí, sí, pero...  
+Entonces cállate, ahora adiós, mortal.
+
+El diablo desapareció entre un remolino de humo negro, la estancia
+volvió a quedar tal como antes de la aparición. Un silencio natural fue
+perceptible en el tic tac del reloj de pared, el tráfico como ruido de
+fondo...
+
+Al día siguiente el escritor encontró la Obra tal como le había
+prometido el maligno, en el acto la presentó a su editor después de
+echarle un somero vistazo. Parecía que la cosa era consistente, ya se
+veía en la cumbre, por encima de Cervantes o Shakespeare. No veía el
+momento de que saliera de las imprentas para conquistar el mundo,
+primero el Cervantes después el Nobel y por último la inmortalidad de
+sus postulados, cualquiera que éstos fueran.
+
+Habían pasado los años, el escritor se encontraba recostado en la silla
+del jardín, su mente ya no se acordaba de lo que había comido el día
+anterior... pero aún mantenía muy presente los recuerdos del pasado y
+especialmente... de "El pAcTo". Las cosas no habían salido exactamente
+como él las tenía previstas... El libro tuvo una buena acogida y logró
+una tirada magnífica, hasta se situó en el ranking del Corte Belga como
+uno de los más vendidos, pero no paso de ahí, sus sueños de
+inmortalidad no se vieron lo que se dice cumplidos y no fue por culpa
+suya ni siquiera del diablo, la crítica (un puñado de envidiosos)
+crucificaron el libro por pretencioso visionario e insustancial, la
+gente resultó ser más analfabeta de lo que creyó en un principio, no lo
+habían entendido, eso era todo. Dirigió sus ojos al limonero que tenía
+enfrente y por un momento vio los frutos a punto de florecer, estaban
+en primavera, el escritor suspiró y en medio del suspiro se quedó
+quieto. Frente a él, como una onda de calor estaba materializándose una
+figura... Después de tantos años. ¡Era el diablo!, otra vez lo tenía
+enfrente y esta vez sin haberlo invocado.
+
+¡Hola viejo chivo! cómo sigues? Le preguntó la silueta que ya estaba
+materializada del todo.
+
+No le resultó difícil reconocer aquel rostro de marfil, aquel pelo
+negrísimo y los ojos entre negros y rojos. Por aquel semblante no
+parecían haber pasado los años, parecía que lo hubiera dejado ayer
+mismo cuando en realidad pasaron cuarenta años nada menos. El escritor
+volvió a sentir el mismo cosquilleo que antaño, pero se sobrepuso y
+comentó:  
+Qué tal, siempre me quedó la duda de si eres un hombre o una mujer, que
+me puedes decir a esto?
+
+Ni una cosa ni la otra, pero me gusta presentarme de mi lado femenino,
+no te fue mal verdad?
+
+No me puedo quejar no, pero sabes... esperaba algo más... más... más...
+digamos definitivo. El diablo se le acercó y pudo ver aquel rostro a la
+luz del día, aun así una especie de neblina lo envolvía dándole un
+aspecto ensombrecido... Se recostó en la silla que tenía al lado suyo y
+le dijo con voz pausada:
+
+Mira tus días se te acaban y es justo que sepas la verdad de todo.
+
+Cuando me llamaste estabas a punto de conseguir de verdad la "Obra" que
+tanto perseguías pero tu falta de confianza en ti mismo y tu deseo
+incontrolado de alcanzar a cualquier precio la fama te traicionaron, si
+hubieras esperado un poco más, si hubieras tenido algo más de
+constancia lo habrías logrado... pero eso no podía permitírtelo, el
+hecho que pusieras patas arriba el gallinero, las cosas deben ir paso a
+paso, tu obra hubiera sido demasiado "llamativa" para aquella época, y
+para ciertas mentalidades autoritarias... tú ya me entiendes! quizá
+dentro de doscientos años tal vez... en consecuencia te entregué una
+vulgar sombra de la que hubieras escrito. El escritor permaneció mudo
+durante un largo rato... asimilando aquello que acababa de oír de voz
+del diablo.
+
+Pero no lo comprendo, no querías un trato? no eres tú el que anhela
+poseer las almas de los mortales? le comentó dolido.
+
+Estáis equivocados, el diablo no existe como tampoco dios... somos uno
+solo, el bien y el mal son la misma cosa, yo soy el Avatar o todos los
+Avatares a la vez o ninguno. Este es vuestro error, dejaros llevar por
+los mitos antiguos. En aquella ocasión me apeteció hacer el bien y
+salvar al mundo de un pequeño dictador pero peligroso porque no
+manejabas armas sino ideas que son más dañinas que las balas, más
+cuando tus postulados eran concomitantes con ideas hitlerianas (dónde
+estaría yo cuando aquel tipo proclamo los mil años del III Reich??)
+No lo puedo creer, cómo no me di cuenta? exclamó el escritor.
+
+Pues muy fácil, estabas tan convencido que no lo lograrías que al ver
+un extracto de la Obra la diste por buena. Ahora adiós, nos veremos
+pronto.
+
+Y el escritor se quedó postrado en la silla sin poderse creer lo que
+acababa de oír. La rabia empezó a aflorar a su cara y estuvo a punto de
+proferir un grito de protesta pero en aquel momento se acercaba la
+enfermera con el desayuno compuesto por una papilla de frutas (como los
+niños) pensó entristecido.
+
+Lo que pudo haber sido musitó temblando de rabia.
+
+Por toda respuesta la solícita enfermera le acercó el plato de papilla
+y le dijo como dirigiéndose a un niño:
+
+Venga a engullir abuelo, ésta para pepito... ésta para lupita... así me
+gusta, así. No se olvide ésta para jorgito... así.
+
+Qué circo montamos a finales de los 90, dios qué circo. dijo con
+nostalgia el viejo. Los tenía a todos hipnotizados con mis ideas
+celestiales, pero ahora que lo pienso, quizá se me vio demasiado el
+plumero... y siguió "tragando".
+
+Fin.
