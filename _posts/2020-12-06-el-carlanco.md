@@ -2,7 +2,7 @@
 layout: post
 tag: bloomerfield relato
 date: 2020-12-06 10:50:00
-title: El Carlanco
+title: 'El Carlanco'
 ---
 
 # EL CARLANCO
