@@ -1,14 +1,13 @@
 ---
 layout: post
 date: 2020-10-15 00:00:00
-tags: abejas hermana
+tags: relato
 title: Niña de abejas
 ---
 # Niña de Abejas
 
-## Autor: : Gabriel Benítez
-
-### Un relato del taller LeGuin de Laberinto
+**Autor: Gabriel Benítez**  
+**Un relato del taller LeGuin de Laberinto**
 
 ![Niña de abejas](../images/ninaabejas.jpg "Niña de abejas")
 

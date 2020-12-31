@@ -1,5 +1,8 @@
 ---
 layout: post
+tags: dzulum
+date: 2020-02-07 0:0:1 -0600
+title: 'Iniciar de nuevo'
 ---
 
 ![warning](/images/warning.gif)
