@@ -4,7 +4,7 @@ date: 2020-11-14 00:00:10
 tags: relato
 title: Alteración de la muerte
 ---
-# ALTERACION DE LA MUERTE
+# ALTERACIÓN DE LA MUERTE
 
 ### Autor: CARLOS DIAZ.
 

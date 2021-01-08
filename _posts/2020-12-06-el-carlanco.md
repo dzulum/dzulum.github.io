@@ -1,12 +1,12 @@
 ---
 layout: post
-tag: bloomerfield relato
+tag: bloomerfield, relato
 date: 2020-12-06 10:50:00
 title: 'El Carlanco'
 ---
 
 # EL CARLANCO
-
+**Gerardo Bloomerfield**
    Juancito tenía apenas seis años. Era poco lo que sabia en la vida: sabía
    a que hora empezaba su programa preferido en la tele, sabía que su
    maestra de escuela no usaba "sutien", sabía que cuando habia ruido en el

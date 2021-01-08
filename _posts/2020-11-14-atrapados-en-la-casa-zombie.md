@@ -6,7 +6,7 @@ title: Atrapados en la casa zombie
 ---
 # Atrapados en la casa Zombie
 
-###    Por Julio Cevazco Alcazar
+### Por Julio Cevazco Alcazar
 
    Hace unos momentos nunca hubiera pensado que al pasar unas horas me
    encontraría rodeado de un grupo de horribles zombies. Pero por qué

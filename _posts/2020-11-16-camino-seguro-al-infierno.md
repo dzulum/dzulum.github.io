@@ -6,6 +6,7 @@ title: Camino seguro al infierno
 ---
 # CAMINO SEGURO AL INFIERNO
 **Por Grey Wolf (J. David Guardado L,).**
+
 **E-mail: greywolf1@writeme.com**
 
    Jake Baker iba de viaje por la carretera. Hacía mucho tiempo que no

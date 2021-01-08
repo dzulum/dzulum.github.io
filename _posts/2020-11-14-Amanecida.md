@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-14 00:01:14
-tags: relato bloch
+tags: relato, bloch
 title: Amanecida
 ---
 # AMANECIDA

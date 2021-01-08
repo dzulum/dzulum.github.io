@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-19 00:01:30
-tags: lovecraft relato
+tags: lovecraft, relato
 title: El árbol en la colina
 ---
 # El árbol en la colina
