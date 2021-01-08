@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-16 00:01:30
-tags: bloomerfield, relato
+tags: bloomerfield relato
 title: Bienvenido al infierno, Juan
 ---
 # BIENVENIDO AL INFIERNO, JUAN...

@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-01-08 17:45:25
+title: Cuestión matemática
+---
+
 # CUESTIÓN MATEMÁTICA
 
 Acaba de atardecer y salí cautelosamente de mi ataúd como era costumbre. Suelo despertarme más tarde que mis congéneres, pero mi

@@ -1,3 +1,10 @@
+---
+layout:post
+tags: relato bloch
+date: 2021-01-08 17:46:45
+title: Cuaderno hallado en una casa deshabitada
+---
+
 # CUADERNO HALLADO EN UNA CASA DESHABITADA
 ### Autor: ROBERT BLOCH
 

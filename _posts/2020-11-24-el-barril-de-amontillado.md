@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-24 09:00:30
-tags: poe, relato
+tags: poe relato
 title: El barril de amontillado
 ---
 # El barril de amontillado

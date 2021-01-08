@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: lovecraft, relato
+tags: lovecraft relato
 date: 2020-12-15 10:53:40
 title: "El crerigo malvado"
 ---

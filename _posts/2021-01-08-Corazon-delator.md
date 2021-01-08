@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato poe
+date: 2021-01-08 17:40:45
+title: El corazón delator
+---
+
 # EL CORAZÓN DELATOR
 
    Verdaderamente soy muy nervioso, terriblemente nervioso y siempre lo he

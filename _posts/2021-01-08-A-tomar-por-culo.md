@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-01-08 17:37:40
+title: A tomar por culo
+---
+
 # A tomar por culo.
 ¡¡ BANG !!
 

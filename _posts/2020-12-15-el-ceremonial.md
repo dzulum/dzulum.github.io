@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-12-15 10:52:01
-tags: lovecraft, relato
+tags: lovecraft relato
 title: El ceremonial
 ---
 # EL CEREMONIAL

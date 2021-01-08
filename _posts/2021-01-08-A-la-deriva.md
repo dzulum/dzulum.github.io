@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-01-08 17:32:45
+title: A la deriva
+---
+
 # A la deriva
 **(Autor: Horacio Quiroga )**
 

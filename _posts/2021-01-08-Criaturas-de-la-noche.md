@@ -1,5 +1,13 @@
+---
+layout: post
+tags: relato
+date: 2021-01-08 17:43:30
+title: Criaturas de la noche
+---
+
 # CRIATURAS DE LA NOCHE
-### Por José María Climent Martínez
+**Por José María Climent Martínez**
+
 ### 1
 
  En una carretera al sur de Tejas, en mitad de la noche, un coche circulaba por la interestatal sin más compañía que el desierto. En el interior viajaba un matrimonio joven que había intentado inútilmente recobrar durante el verano la ya olvidada chispa que sintieron durante su noviazgo.
