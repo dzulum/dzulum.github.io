@@ -1,0 +1,49 @@
+---
+layout: post
+tags: relato
+date: 2021-02-09 12:25:00 -0600
+title: Deir el Bahari
+---
+# Deir el Bahari
+
+Egipto. 13 de Marzo de 1897.
+
+A quien por desdicha del azar me encuentre:
+
+Huye de aquí, viajero. Huye de este lugar maldito que jamás debiste visitar. Ese reseco montón de huesos que ves a tus pies es la
+advertencia, la señal de que has llegado demasiado lejos, de que has cruzado la puerta que conduce a la locura. Quizá aún estés a tiempo: huye. 
+
+Ricketts lo intentó, y, aunque no puedo asegurarlo pues su figura se desvaneció en la tormenta de arena apenas abandonó la cueva, mi corazón me dice que logró cruzar el desfiladero y llegar a la llanura de El-Arhel. No te adentres en la cueva. No te dejes engañar por los extraños bajorrelieves, no prestes atención a su historia, a su canción de muerte que lleva esperando siglos...
+
+El resto de la expedición arqueológica de la que Ricketts y yo formábamos parte, encabezada por Sir Benjamin Morell, el famoso
+arqueólogo de Boston, y compuesta de otros tres hombres, llegó a esta la más desolada e inexplorada parte de Egipto con la intención de contrastar las teorías de Sir Morell. Nuestro líder sostenía que en esta árida franja de desierto entre las montañas de Deir el-Bahari se encontraban las tumbas, aún no descubiertas y con mucha probabilidad todavía no profanadas, de una dinastía de faraones antiquísima y cruel, cuyas infamias y despropósitos para con sus súbditos habían hecho que su historia se perdiese en las tinieblas de leyendas susurradas al oído de generación en generación. Sir Morell había bosquejado la existencia de las tumbas a través de decenas de viajes por la región, recopilando historias balbuceadas en oscuros patios por personajes considerados
+como locos y visionarios. Si logró reunir el capital necesario para tan disparatada expedición no fue sino gracias a mi apoyo ante el consejo de la universidad de Arkham, de cuyo cuerpo docente había sido yo parte durante años.
+
+La expedición partió de Boston el 12 de Enero, en un enmohecido velero de nombre "Shelley", cuyos continuos vaivenes a la menor racha fuerte de viento ponía nervioso a la mayor parte del grupo. El viaje fue realmente tedioso. Por fin llegamos a El Cairo a principios de Febrero.
+
+Allí nos esperaba un equipo de guías nativos que ya habían colaborado con Sir Morell en anteriores expediciones. Esto no evitó, empero, que casi la tercera parte de los mismos desaparecieran en cuanto se les dio a conocer nuestro destino. El resto aceptó a conducirnos hasta Deir el-Bahari, si bien por una cantidad bastante superior a la previamente fijada. La travesía por el desierto se vio constantemente retrasada por desafortunados incidentes que no lograron, sin embargo, desanimarnos.
+
+Tres de los nueve guías egipcios desaparecieron durante el viaje, como tragados por la fría noche del desierto. Ninguno de ellos robó nada, ni siquiera provisiones o agua. Perdimos a otro guía más, así como al egiptólogo escocés Augustus Lloyd, durante una pavorosa tormenta de arena que se levantó el décimo día y que duró tres días y tres noches.
+
+De no haber sido por la habilidad de los guías para construir un improvisado refugio al pie de unas lomas de piedra caliza, abríamos sucumbido todos con total seguridad.
+
+Tardamos un día entero en recoger nuestras pertenencias, y tratando en vano de encontrar los cuerpos de los dos desaparecidos.
+
+Después de la tormenta planteamos a Sir Morell la posibilidad de desistir, pero el ímpetu en forma de brillo enfermizo que sus ojos despedían nos dio fuerzas para seguir. Tras otras dos semanas de duro tránsito por dunas traicioneras avistamos por fin el desfiladero de Deir el-Bahari, que se abría ante nosotros como una herida fatal en las montañas. El viento soplaba por él canciones siniestras cuyo significado tan sólo los guías egipcios parecieron entender, pues se negaron en redondo a seguir. Para
+entonces estabamos demasiado excitados con la idea de haber llegado como para preocuparnos de la irracional actitud de los guías, así que acordamos dejarles parte de las provisiones para que montaran un pequeño campamento a la entrada del desfiladero, donde debían esperar a nuestro regreso. No fue sino tras dos días más de lento caminar bajo la refrescante pero amenazadora sombra de los riscos del desfiladero que hallamos los primeros vestigios de ruinas, que confirmaban la existencia de algún tipo de construcción. Las ruinas eran poco más que piedras normales a la vista debido a la brutal erosión del viento y la arena, y habrían pasado desapercibidas ante ojos menos expertos y ansiosos que los nuestros. Poco se podía decir de la forma o función de la estructura en cuestión, pero por nuestras mentes pasaron sombras de enhiestos templos incrustados en la roca, fachadas de construcciones seguramente continuadas en grutas excavadas en la roca.
+
+Fue durante una más minuciosa comprobación del terreno que Rickett encontró la entrada de la cueva, en la pared Este del desfiladero, semioculta por lo que parecídan ser los restos de una enorme columna. No tardamos en pertrecharnos con un improvisado equipo espeleológico y adentrarnos en la caverna. Si bien los treinta primeros metros resultaron ser bastante angostos, teniendo incluso que arrastrarnos en determinados puntos del recorrido, el techo de la gruta se elevó bruscamente al llegar a una especie de bóveda natural. Allí fue donde hicimos nuestro primer gran descubrimiento: una serie de bajorrelieves de extraña factura y espantosa antigüedad, que no encajaban en absoluto con lo hasta ahora documentado sobre arte egipcio. En vez de la rigidez
+y sencillez habitual de la época Tinita, fecha en la cual datamos al principio los bajorrelieves, éstos mostraban figuras semihumanas en posturas indescriptibles, seres extraños retorciéndose en un oscuro rito que no alcanzábamos a comprender. Todo aquello no sirvió sino para intrigarnos más y alimentar nuestras expectativas de realizar un asombroso descubrimiento. Los bajorrelieves parecían narrar la historia del pueblo que antaño habitó Deir el-Bahar, pues los frisos, si bien incomprensibles, insinuaban una continuidad casi lineal, un argumento evolucionante que, si bien nosotros no entendíamos, nuestro cerebro parecía empezar a asimilar. Nuestras lámparas de aceite alcanzaban apenas a iluminar un radio de tres escasos metros, pero parecía claro
+que los bajorrelieves se extendían largamente por la pared de la cueva.
+
+Fue así siguiendo los hechos probablemente de carácter mitológico tallados en la roca como os fuimos adentrando sin darnos cuenta en las profundidades de la gruta, cuya longitud parecía no tener fin. Creo que fue Rickett el único que se dio cuenta de que el techo se elevaba cada vez más, hasta alturas imposibles, y de que nuestras lámparas apenas ya alumbraban, no por falta de combustible sino por la extraña voracidad con la que la oscuridad la devoraba.
+
+Quizá por eso se fue rezagando del grupo cada vez más quizás por eso su mirada se enturbió con un pánico indescriptible, y quizás por eso logró escapar de aquí con vida. Cuando el resto llegamos al final de la cueva hacía ya tiempo que el charco de luz de la lámpara de Rickett se había perdido tras nosotros. Nos encontramos entonces con una pétrea puerta, cuyo marco no había sido concebido para permitir la entrada de cuerpos humanos, pues ángulos imposibles lanzados desde los casi irreconocible vértices del marco hacían pensar más bien en las retorcidas figuras de los relieves. No recuerdo con claridad quién fue el que empujó la 
+puerta, tan sólo que ésta se deslizó sin resistencia hacia el interior, mostrando un estrecho corredor cuyo suelo estaba decorado con símbolos mareantes y sin sentido, y cuyas curvas y esquinas nos hicieron agradecer que no hubiera bifurcaciones en el camino, pues jamás habríamos sido capaces de encontrar el camino de vuelta. No sé durante cuánto tiempo vagamos por aquel corredor, con Sir Morell a la cabeza, la lámpara en alto, tratando de adivinar por fin el final de aquel corredor.
+
+De pronto las paredes volvieron a distanciarse, e irrumpimos en lo que creo que era la cámara funeraria de los faraones que las leyendas recogidas por Sir Morell insinuaban. Solo que no se trataba de faraones. Y tampoco estaban muertos... No relataré, viajero, lo que allí vimos. No me atrevería a repetir las espantosas imágenes que fueron la muerte de los demás expedicionarios, ni a narrar mi desesperada huida a ciegas a través de la oscuridad. La expresión de mi desencajado rostro bastó para que Rickett, que esperaba al principio de la bóveda de los bajorrelieves, se desmayara. Cuando recobró el sentido intentamos ganar la salida, pero allí nos esperaba una tormenta de arena cuya violencia e intensidad superaba con mucho la que anteriormente habíamos sufrido en el desierto. No soportaba la idea de seguir en la cueva, pero la primera tentativa de salir al exteriorm acabó con nuestro presto regreso al amparo de la gruta, nuestros rostros sangrando debido a la terrible fuerza con que el viento arrastraba la arena hacia nosotros. Esperamos en vano a que amainase durante horas, y fue entonces cuando entre los aullidos locos del viento pudimos escuchar un sordo sonido que venía de las profundidades de la gruta. Rickett me miró con angustia, y en mi rostro encontró la
+confirmación a sus terrores. Rickett se adentró de un salto en la tormenta. Espero que haya conseguido escapar. Por mi parte, hice lo que la conciencia me dictaba, ya que fui uno de los impulsores de la expedición, y por tanto responsable de lo ocurrido. Con una pequeña carga de dinamita, que llevábamos por si era necesario despejar alguna galería obturada por los desprendimientos, clausuró la entrada de la cueva, quedándome yo dentro...
+
+Que Dios me perdone, pero yo no acabaré como los demás. Espero que mi pistola aún funcione...
+
+Autor: Miguel Velasco

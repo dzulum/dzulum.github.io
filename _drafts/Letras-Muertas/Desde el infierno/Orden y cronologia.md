@@ -17,12 +17,10 @@ Resurrección
 
 Nueva Cronología
 
-Alisdair - Desde el infierno
-
-Sicker (Todo el libro Letras Muertas)
-
-Azzkorpze - Devorado por Gusanos
-
-Dzulum - Exhumado
-
+Alisdair - Desde el infierno  
+Sicker (Todo el libro Letras Muertas)  
+Azzkorpze - Devorado por Gusanos  
+Dzulum - Exhumado  
 Resurrección
+
+Nuevo libro retomado sera precuela a Desde el infierno, desde el infierno es precuela a letras muertas.

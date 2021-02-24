@@ -1,0 +1,63 @@
+# HOLLY
+
+El viento entró por la ventana mientras Holly dormía plácidamente,
+mientras meditaba en sus más profundo descanso, en la escena más
+acústica de los sonidos celestiales.
+
+Holly solía tener hermosos sueños, imaginaba acompañantes, imaginaba
+mundos de extraños colores en los que se veían todo tipo de bondades
+angelicales y paisajes de colores azules, llenos de animales que
+corrían de arriba a abajo disfrutando de la gran extensión de las
+praderas y de los lagos.
+
+Ahora Holly siente el miedo, ese miedo horrible que deja escapar todos
+los instintos de súplica y que hace estremecer al corazón más fuerte y
+firme, un temor que entraba ahora por el viento de su habitación.
+
+Holly despertó de un brinco e hizo que su cabello se deslizara sobre su
+rostro. La habitación estaba oscura, como una carretera abandonada a
+media noche y el tiempo corría muy lento, como si las horas fueran
+infinitas y duraderas, como si la pesadilla más terrorífica nunca se
+fuera a acabar.
+
+De pronto todos los recuerdos angustiosos por los que Holly había
+pasado llegaron a su mente.
+
+Un vacío se abrió en la habitación y comenzaron a entrar reminiscencias
+espantosas, que hicieron fluir lágrimas en los ojos de la hermosa
+Holly.
+
+"Ay alguien ahí" gritó levemente, mientas trataba de pasar la saliva
+que no la dejaba gesticular.
+
+Los sonidos salieron de abajo, de la entrada principal de la casa, así
+que a Holly le dio tiempo de cerrar la puerta; luego abrió la ventana
+con demencia y se tiró hacia el patio de la casa para salir corriendo
+por la puerta trasera. Holly no estaba preparada a esto, sintió que su
+corazón estaba casi afuera y que la taquicardia aceleraba cada vez más.
+
+No había nadie en la calle, Holly tocó todas las puertas de sus vecinos
+y ninguna estaba habitada, entonces una idea se le vino a la cabeza,
+algo estremecedor: NO HABÍA NADIE EN EL PUEBLO.
+
+Holly no sabía que hacer, corría a oscuras por la calle, no sabía por
+donde iba y su cuerpo se balanceaba de temblor. Después de correr hacia
+donde la brisa la guiaba alcanzó a visualizar un castillo, igual a uno
+que imaginó en un sueño, pero no era igual de lindo, este se hallaba
+oscuro y espectral.
+
+Holly entró en él y escuchó risas por todas partes "Basta, déjenme
+escapar de este sueño" "déjenme salir de este sueño"... pero nada
+respondía ante sus súplicas, así que Holly quedó abatida en el suelo
+como si la muerte hubiera presagiado su desgracia.
+
+Holly despertó bruscamente en su cama y se convenció de que todo había
+sido una pesadilla, así que se levantó dirigiéndose al baño, prendió la
+luz y se limpió el sudor que yacía en su frente y se sintió muy feliz
+de que todo volvió a la normalidad. Antes de apagar la luz Holly sintió
+de nuevo una sensación rara de brisa y observó que las luces volvían a
+desvanecerse, gritó lo más fuerte que pudo, pero no sirvió de nada,
+porque aunque el grito le hubiese ensordecido, no sería necesario en su
+próxima pesadilla, fuera de la ventana.
+
+**Escrito por: Hernan D.Ortiz**

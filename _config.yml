@@ -77,6 +77,8 @@ gems:
   - jekyll-sitemap # Create a sitemap
   - jekyll-feed # Create an Atom feed
   - jekyll-paginate
+plugins:
+  - jekyll-paginate
 # Exclude these files from your production _site
 exclude:
   - Gemfile

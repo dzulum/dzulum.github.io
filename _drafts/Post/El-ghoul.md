@@ -1,0 +1,211 @@
+# El ghoul
+**Autor: C. A. Smith**
+
+DURANTE el reinado del Califa Vathek, un joven de buena familia y
+reputación, llamado Noureddin Hassan, fue conducido ante el Cadi Alimed
+ben Becar de Bassorah. Pero Noureddin era un joven atractivo, de mente
+abierta y aspecto gentil; y grande fue el asombro del Cadi y de los
+demás presentes cuando escucharon los cargos que se habían elevado
+contra él. Estaba acusado de haber asesinado a siete personas, una a
+una, en siete noches sucesivas, y de haber abandonado los cadáveres en
+un cementerio próximo a Bassorah, donde fueron encontrados tendidos,
+con sus miembros devorados de un modo espantoso, como por chacales. En
+cuanto a la gente que se suponía que había matado, tres eran mujeres,
+dos mercaderes errantes, uno un mendigo, y otro un sepulturero.
+
+Abmed ben Becar estaba henchido por los conocimientos y la sabiduría de
+honorables años, y poseía además una gran perspicacia. Pero estaba
+profundamente perplejo por la extrañeza y atrocidad de aquellos
+crímenes y por el apacible comportamiento y aparente buena casta de
+Noureddin Hassan, que no casaban en modo alguno con los crímenes.
+
+Escuchó en silencio el testimonio de los testigos que habían visto, en
+la víspera, a Noureddin transportar sobre sus hombros el cuerpo de una
+mujer hacia el cementerio; y otros que, en similares ocasiones, le
+habían observado rondar por el vecindario a horas indecorosas a las que
+sólo los ladrones y asesinos merodean. Entonces, habiendo considerado
+todo aquello, interrogó al joven con amabilidad.
+
+"Noureddin Hassan," le dijo, "Habéis sido acusado de unos crímenes que
+exceden lo obsceno, y que contradicen vuestro porte y linaje. ¿Existe
+una explicación a estos sucedidos con la cual deseéis exculparos, o en
+alguna medida mitigar estos hechos, en caso de que seáis culpable? Os
+conmino a contarme la verdad en este asunto."
+
+Ahora, Noureddin Hassan se alzó ante el Cadi; y el peso de su vergüenza
+y pesar eran visibles en su semblante.
+
+"Ay de mí, Oh Cadi," contestó, "pues los cargos que han sido
+presentados contra mí son, en verdad, ciertos. Fui yo, y ningún otro,
+quien mató a aquella gente; y no puedo ofrecer atenuante alguno a mis
+actos."
+
+El Cadi quedó aturdido y entristecido al escuchar esta respuesta.
+
+"Debo, por fuerza, creeros," dijo severamente. "Pero habéis confesado
+una cosa que hará de vuestro nombre, de ahora en adelante, una
+abominación ante los oídos y las bocas de los hombres. Os ordeno que me
+digáis por qué fueron cometidos esos crímenes, y qué ofensas os habían
+infringido esas personas, o qué daño os habían hecho; o si quizás les
+matásteis por dinero, como un ratero común."
+
+"Ni ofensa ni daño alguno me causaron," replicó Noureddin. "Y no les
+maté por dinero, posesiones o apariencia, pues no tengo necesidad de
+tales cosas, y, aparte de eso, siempre he sido un hombre honesto."
+"Entonces," gritó Ahmed ben Becar, altamente intrigado, "¿Cual fue la
+razón, si no fue ninguna de esas?"
+
+Ahora, el rostro de Noureddin Hassan acusó un mayor pesar; e inclinó la
+cabeza de una manera avergonzada que revelaba su profundo
+remordimiento. Y permaneciendo así ante el Cadi, narró su historia:  
+"Los reversos de la fortuna, Oh Cadi, son rápidos y penosos, y van más
+allá de las posibles advertencias del hombre. ¡Ay! Hará menos de quince
+días era yo el más feliz y el menos culpable de los mortales, sin
+pensamiento alguno de hacer daño a nadie. Estaba casado con Amina, la
+hija del mercader de joyas Aboul Cogia; y la amaba tan profundamente
+como ella, a su vez me amaba a mi; y además preparábamos, por aquel
+tiempo, el nacimiento e nuestro primer hijo. Yo había heredado de mi
+padre una rica hacienda y muchos esclavos; los pesares de la vida eran
+mera luz sobre mis hombros; y tenía, a todas luces, todas las razones
+para contarme a mi mismo entre aquellos que Alá ha bendecido, con un
+anticipo del paraiso en la tierra.
+
+Juzga, entonces, la excesiva naturaleza de mi desgracia cuando Amina
+murió en el momento de dar a luz. Desde ese momento, en el terrible
+extremo de mi lamento, fui como alguien privado de luz y conocimiento;
+fui sordo a todos aquellos que desearon consolarme, y ciego a sus
+amistosos servicios.
+
+Tras enterrar a Amina mi pesar se tornó verdadera locura, y vagué de
+noche, hacia su tumba del cementerio cercano a Bassorah y me arrojé al
+suelo, postrándome ante la lápida recién escrita, sobre la tierra que
+había sido removida ese mismo día. Mis sentidos me abandonaron, y no
+supe cuánto tiempo había estado sobre el húmedo barro bajo los
+cipreses, mientras el haz de una luna decreciente se alzaba en el
+cielo.
+
+Entonces, en mi estupor y abandono, escuché una terrible voz que me
+impelió a levantarme del suelo en el que me hallaba tendido. Y elevando
+un poco mi cabeza, vi un espantoso demonio de gigantesca frame y
+estatura, con ojos de fuego escarlata bajo una frente tosca como una
+raiz embrollada, y colmillos que sobresalían de una cavernosa boca, y
+dientes negros, como la tierra, más largos y afilados que los de la
+hiena. Y el demonio me dijo:  
+"Soy un ghoul, y es mi oficio devorar los cuerpos de los muertos. He
+venido ahora a reclamar el cadáver que ha sido enterrado hoy bajo el
+suelo sobre el que yaces de ese modo tan grosero. Vete, pues no he
+llantado desde ayer por la noche, y estoy muy hambriento."
+
+Fue entonces, a la vista de este demonio, ante el sonido de su
+terrorífica voz, y ante el aún más terrorífico significado de sus
+palabras, que estuve a punto de desmayarme de terror sobre el frío
+barro. Pero me recuperé de algún modo, y encarándome a él, le dije:  
+"Olvidad esta tumba, os lo imploro; pues la que yace enterrada en su
+interior, es más querida para mi que cualquier otro mortal viviente; y
+no desearía que su hermoso cuerpo fuera el sustento de un sucio demonio
+como vos."
+
+En este punto el ghoul se enfadó, y pensé que podría hacerme algún daño
+físico. Pero de nuevo me encaré a él, invocando a Alá y Mahoma con
+muchos solemnes juramentos de que le garantizaría algo comestible y le
+haría cualquier favor que estuviera en manos de un hombre realizar, si
+dejaba intacta la recién cavada tumba de Amina. Y el ghoul se apaciguó
+de alguna manera, y dijo:  
+"Si deseáis, de hecho, hacerme un cierto servicio, haré lo que habéis
+pedido."
+Y yo contesté:  
+"No hay servicio, sea cual sea su naturaleza, que no hiciera yo por
+vos, por esta causa; y os ruego que me digáis vuestros deseos."
+
+Dijo entonces el ghoul: "Esto es: que me traigáis cada noche, durante
+ocho noches sucesivas, el cuerpo de alguien a quien halláis matado por
+vuestra propia mano. Haced esto, y ni devoraré ni desenterraré el
+cuerpo que yace enterrado allí abajo."
+
+Fui embargado entonces por el más absoluto horror y desesperación, pues
+me había comprometido por mi honor a garantizar al ghoul su espantosa
+petición. Y le supliqué que cambiase los términos de nuestro pacto,
+diciendole:  
+"¿Os es necesario, oh comedor de cadáveres, que los cuerpos sean los de
+gente a quién yo mismo haya matado?"
+
+Y el ghoul dijo: "Si, pues los demás serían como mi comida habitual, o
+la de cualquiera de mi clase. Os conmino por la promesa que me habéis
+dado, a que vengáis aquí mañana por la noche, cuando la oscuridad ha
+caído por completo, o poco despues, según podáis, trayéndome el primero
+de los ocho cuerpos."
+
+Diciendo esto, se alejó entre los cipreses, y comenzó a cavar en otra
+tumba reciente a poca distancia de la de Amina.
+
+Abandoné el cementerio en un estado de mayor angustia que cuando entré,
+pensando en lo que tendría que hacer para cumplir mi maldita promesa,
+para preservar el cuerpo de Amina, de ese demonio. No sé cómo sobreviví
+al día siguiente, abrumado como estaba entre el pesar por la muerte y
+mi horror por la noche venidera, con su repugnante tarea.
+
+Cuando la oscuridad hubo descendido, salí a acechar en una solitaria
+carretera cercana al cementerio; y esperando allí, entre las largas
+ramas de los árboles, asesiné al primer caminante con una espada y
+transporté su cuerpo al punto acordado con el ghoul. Y cada noche
+siguiente, durante seis noches más, regresé al mismo lugar y repetí
+este hecho, matando siempre al primero que venía, ya fuera hombre o
+mujer, o mercader o mendigo o enterrador. Y el ghoul me esperaba en
+cada ocasión, y comenzaba a devorar a su provender en mi presencia, con
+un breve agradecimiento y escasa ceremonia. Siete personas maté en
+total, hasta que sólo una faltaba para completar el número acoradado; y
+la persona que maté anoche fue una mujer, tal como el testigo ha
+narrado. Todo esto lo hice con la mayor repugnancia y rechazo, y
+sostenido únicamenente por el recuerdo de mi palabra dada, y por el
+destino que caería sobre el cuerpo de Amina si yo rompiera el trato.
+
+Esta, Oh Cadi, es toda mi historia. ¡Ay de mi! Pues de estos
+lamentables crímenes no me he beneficiado, y he fallado por completo en
+mantener mi acuerdo con el demonio, que sin duda esta noche, consumirá
+el cuerpo de Amina en lugar del otro cuerpo que aún necesitaba. Me
+resigno a vuestro juicio, Oh Ahmed ben Becar, y no os imploro más
+piedad que la muerte, con la que terminaré tanto mi pesar como mi
+remordimiento."
+
+Cuando Noureddin Hassan hubo terminado su narración, el asombro de
+todos los que lo habían escuchado fue verdaderamente incrementado, pues
+nadie recordaba haber escuchado un relato más extraño. Y el Cadi
+reflexionó un largo rato y entonces adoptó una decisión, diciendo:  
+"Debo por fuerza maravillarme de vuestro relato, pero los crímenes que
+habéis cometido no son por ello menos atroces, y el mismo Iblis
+retrocedería horrorizado ante ellos. Por otra parte, debería tenerse en
+cuenta el hecho de que le dísteis vuestra palabra al ghoul y los hechos
+fueron consumados para cumplir su demanda, sin importar lo horrible de
+su maturaleza. Y tengo además en consideración vuestro pesar de esposo,
+que os impelió a defender del demonio, el cuerpo de vuestra mujer. Por
+ello, no puedo juzgaros culpable, aunque sé que el castigo que sería
+apropiado en un caso tan atroz, no tendría parangón. Por lo tanto, os
+dejo libre, con esta orden, que expieis vuestros crímenes de la manera
+que mejor consideréis, y que apliquéis la justicia a vos mismo y a
+otros, en la medida de lo posible."
+
+"Os agradezco vuestra piedad," replicó Noureddin Hassan; y entonces se
+partió de la corte ante el gran asombro de todos los presentes. Se
+produjo un gran debate en cuanto se hubo ido, y muchos estaban prestos
+a cuestionar la sabiduría de la decisión del Cadi. Había quienes
+mantenían que Noureddin debería haber sido sentenciado a muerte sin
+demora por sus abominables actos aunque otros argüían sobre la santidad
+de su palabra dada al ghoul, que le exculpaba del todo, o en parte. Y
+se contaron historias y se citaron casos concernientes a los hábitos de
+los ghules y las extrañas obligaciones de los hombres que habían
+sorprendido a dichos demonios en sus búsquedas nocturnas. Y de nuevo la
+discusión retornó a Noureddin, y el veredicto del Cadi fue de nuevo
+atacado y defendido con distintos argumentos. Pero ante todo aquello,
+Ahmed ben Becar permaneció en silencio, diciendo unicamente:  
+"Esperad, pues este hombre rendirá justicia ante sí mismo y ante los
+demás implicados, tan pronto como le sea posible."
+
+Y, de hecho, así ocurrió, pues a la mañana del siguiente día, otro
+cuerpo fue encontrado en el cementerio cerca de Bassorah, yaciendo
+medio devorado sobre la tumba de la mujer de Noureddin Hassan, Amina. Y
+el cuerpo era el de Noureddin, que se acuchilló a sí mismo, para, no
+sólo cumplir de este modo la orden del Cadi sino para, también,
+mantener su promesa con el ghoul proveyéndole del numero acordado de
+cadáveres.
+
+Fin.
