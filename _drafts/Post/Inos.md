@@ -1,0 +1,225 @@
+# INOS
+**Gerardo Bloomerfield**  
+**(dedicado a Robert Bloch)**
+
+Dicen que todo ser humano, por regla, tiene una doble vida,un "yo" oculto, que estamos plagados de secretos.
+
+Y dígamelo usted, acostumbrado a indagar una y otra vez en busca de ese "algo" que nadie sabe, para publicarlo, para obtener su nota: ¿quién puede ponerlo en duda?  
+
+Cierto día le comenté a una de mis abundantes ex-parejas, una "traumada" que vivía recriminando mi falta de sinceridad que de existir la posibilidad de filmar cada minuto, cada instante de nuestras vidas, nadie, absolutamente nadie tendría el valor de proyectar la filmación a ninguna otra persona, lejana o cercana...
+
+Vamos, no me refiero a esas dos o tres infidelidades conyugales que le confesamos al cura un domingo con resaca o los revaluos monetarios que le confesamos al contador tras una inspección del "fisco". 
+
+Me refiero al verdadero yo. Al oculto, al que nada ni nadie, salvo Dios (y gracias a EL) en caso de existir y de poder abarcar cada centímetro del planeta con su ojo logrará ver jamás...
+
+Piénselo... 
+
+Muy en el fondo, aquello que a usted mismo se oculta...
+
+Se probó la ropa interior de su mujer,¿no es cierto?
+
+Sí, ríase. Adelante,piense como ellos que estoy loco...
+
+Pero todos hacemos "aquello".
+
+Aquello que nadie sabe, que ni a uno mismo se lo confesaría...
+
+Aquella buena señora que nos habla desde arriba de un tapada sintético...
+
+Tal vez probó su propio excremento para ver que gusto tenía... ¿no? O esa dulce niña que acariciamos y creemos la inocencia personificada. 
+
+Quien sabe su secreto...
+
+Introduce cosas en su cuerpo...
+
+O tortura a su mascota cuando nadie la vé...
+
+Todos tenemos pequeñas secretos de ese estilo...
+
+No necesariamente tan perversos...
+
+No necesariamente abundan los casos de personas que en la soledad disfrutan con orinarse encima, o quitar mocos de su nariz y
+pegarlos quien sabe donde... No... Hay quienes compran secretamente juguetes, "para mis hijos" dicen a la dueña del bazar y juegan
+enfermizamente sobre escritorios de empresario, los prenden fuego con su "bic" y los contemplan derretirse sobre el cenicero...
+
+Y están los que se masturban pensando en la almacenera, en la sobrina,en la hermana... en la propia hija.
+
+Claro el loco soy yo, no siempre lo fui, pero ahora el loco soy yo.
+
+Por decir la verdad... Se que suena a enfermizo, pero es la verdad... Pregúntenle a un psicologo, de esos que me vienen a visitar
+cada quince días a este maldito manicomio... Aunque no les contestará, no... Ellos solo escuchan, solo apuntan en esos malditos
+bloques de notas.
+
+Son como ustedes los periodistas, ¿sabe?... Solo preguntan y escuchan... Viven de la locura, ustedes los periodistas de la locura del mundo... Ellos de la locura de los habitantes del mismo... Pero imaginense lo que ellos saben, los psicólogos saben de pederastías, de incestos, de violaciones, de masoquismos... Pues bien, es solo una parte, solo lo que un cerebro presionado se atrevio a desbordar por entre un par de labios, asi que imaginese mejor aquello que ignoran... lo peor... no saben de nuestros rituales y costumbres mas cotidianas, las secretas, lo que hacemos cuando nadie nos ve... No saben lo que nos atrevemos a pensar, saben solo lo que creemos pensar...
+
+Yo tengo mis secretos por supuesto... Pero jamás los diré y menos se los contaré a usted. Pero si le contaré algo por si no se ha dado cuenta, la mayoría de lo oculto en un ser humano, sucede en ese lugar incluso llamado "tan sagrado" por la imaginación popular en un verso, que se denomina baño, ese lugar que los shopings denominan "SSHH" como pidiendo silencio a quien penetre sus puertas... Ese lugar donde yo trabajé la mayor parte del tiempo antes de que me encerraran en este maldito lugar, al baño del cual por supuesto jamás voy desde que sucedió aquello, defeco y orino en cualquiera de los árboles que encuentro por allí a la hora del "recreo"... Y claro, esto los convence de su teoría, de que estoy loco "miren al loco cagandose encima y por los rincones"
+Pero poco me importa, así estoy a salvo.
+
+Nada jamás me obligará a sentarme en una de esas tazas de loza llamadas "water", que casi adoramos, esos tronos fríos en los
+sanitarios,lavados, servicios higienicos o como usted quiera llamarles... ¿Que vulgaridad ocultan esos pestillos redondeados de sus puertas? ¿Bulimias, onanismo...?
+
+Nadie sabe lo que sucede allí, aunque una regla tácitamente respetada nos obliga a creernos mutuamente que solo entramos a orinar y
+defecar...
+
+Alguien seguramente en algun momento hizo algo mas que eso, no se cuando ni donde... Pero al hacerlo nos lo hizo a todos... Alguien lo puso allí... ¿Cómo a quién?
+
+A INOS.
+
+Antes de considerarme loco como todos ellos,¿por qué mejor no deja que le cuente? Que mas dá.. Si mi historia no le sirve,vaya y
+filme la mugre que hay por todos los pasillos de la institución y escriba un artículo de crítica social,de las condiciones infrahumanas reinantes en los manicomios como este... Pero dejeme contarle mi historia... Dejeme compartir los recuerdos antes de que me vuelvan realmente loco de remate... Dejame hablarle de INOS.
+
+YO lo ví... Si, en mi propio inodoro,lo sentí bajo mis nalgas, aunque estoy seguro que no es el único lugar en el mundo por el cual se asoma de vez en cuando ...Cuando quiere alimentarse. ¿Nunca ha pensado que los inodoros del mundo son de alguna forma precursores de la tan mentada hoy día INTERNET? Sí, no me mire así... Este hecho ha levantado mi ego de plomero mas de una vez...
+
+Piénsenlo, todas las redes de desagüe están conectadas de alguna forma entre sí,y todas a su vez llegan a un río, mar, oceano o lo que sea, y están conectadas a su vez a otros desagües de todo el mundo... En otras palabras la mierda y lo que sea que se arroje al inodoro tiene la capacidad física de llegar a cualquier parte del mundo...Y en esto también se parece a la red. Cualquier cosa podría viajar a traves del planeta por el sistema de cloacas, cruzar mares, oceanos... asomarse a cada salida... si tuviera vida,claro- Y EL la tiene.
+
+No se si gracias a la CIA, a un experimento genético,a un producto químico ilegalmente desagotado por allí o vayase a saber que mierda (valga el término en este caso) pero la tiene Y YO LO VI, Y LO SENTI... Y LO OLÍ...
+
+Fue lo mas asqueroso de lo que me ha tocado ser testigo e imagínese como sanitario las cosas que la vida me ha dado el privilegio de ver a lo largo de ella .De ahí se que la gente arroja toda clase de cosas a traves de su querido inodoro:y claro, yo luego como sanitario tengo la sagrada encomienda de quitarlo, de destapar las inmundicias del mundo... Preservativos, revistas, droga, y en un caso... Bueno llegue a quitar de un desagüe atascado algo realmente espantoso, una enorme rata, completamente descompuesta... Pero nada vi semejante a... AQUELLO.
+
+No se si trata de una especie que convive con nosotros... ¿Porque no?... Los indigenas ignoraron al hombre blanco durante siglos y
+habitaban el mismo mundo... Así como muchas especies desparecen de tanto en tanto, tambien otras nuevas son descubiertas... Ignoro su origen, no soy zoologo ni biologo, apenas un fontanero... Pero sé que está allí, en algún lugar. Y necesita alimentarse.
+
+Como el día en que lo sentí ...
+
+Estaba defecando,como acostumbraba a hacer antes, normalmente, sentado placidamente en mi inodoro celeste.
+
+Defecando y leyendo. Usted sabe, no puedo hacerlo sin leer... Y senti una suave caricia en mis genitales... Lo atribuí a algún trozo de papel higiénico de esos que suelo depositar sobre el agua antes de comenzar "mi labor" para que que el excremento no me salpique el culo al caer pesadamente dentro... Y continué leyendo sin darle importancia, hasta que sentí el dolor...
+
+Me incorporé sobresaltado...
+
+Algo había mordisqueado mis testículos.
+
+De acuerdo,riase. Así lo hicieron mis amistades cuendo lo conté... Pero a mi, en aquel momento poca gracia me causó, de hecho, sea lo que sea dejó una marca en mi escroto, por la cual acudí al médico.
+
+Su consejo fue tajante, mi mujer no debería poner tanta lejía al lavar la taza del water ya que al apoyar mis genitales sufrí una irritación severa, según el diagnóstico oficial... Le mencioné que en realidad mi mujer no utilizaba hipoclotrito para esta tarea, que de hecho no lavaba jamás el inodoro y lo que es mas que ni siquiera era casado... También le mencione acerca de que en realidad lo que sentí fue un mordisco y no una reacción alérgica... Gracias a ello conseguí un par de calmantes y un sendo pase al psiquiatra.
+
+Pero no podía olvidarme del tema, asi nomás. Si lo comentaba nadie me creeria... Ah, pero lo investigaría... Recordé el episodio de la rata obstruyendo el caño y me dije: ¿por que no? A lo mejor una inmundicia de ellas abogó por salir justo en el momento menos indicado... Debo reconocer que con mis gases hice todo lo posible para que así fuera... He escuchado algunos casos, personas mordidas por ratas en su inodoro... ¿Sabía que las muy hija de putas pueden sobrevivir horas debajo del agua y luego salir donde ven luz?
+
+Hablé al respecto con un amigo fumigador antes de atreverme a sentarme nuevamente y junto nos encargamos de rellenarlo con abundante veneno, insoluble al agua... Por mi parte registre el desagüe y las cañerias adyacentes.
+
+¿O para que soy sanitario acaso? Porque no se si le mencioné que esa es mi profesión... ¿Lo hize?...
+
+Allí encontre la explicación lógica que la mente de un habitante de este casi siglo 21 necesitaba y decidí luego de unos días de pedir el baño prestado a mi vecina, volver a cagar en mi viejo y entrañable inodoro celeste.
+
+Rata o lo que fuera, según me aseguró Pedro el fumigador, estaba muerto o se habría ido buscando culos mejores...
+
+De todas formas le confiezo que debí dominar el miedo antes de apoyar mi trasero en aquel lugar, pero lo hice... Pasaron los minutos... Y nada... De hecho defeque sin problemas...
+
+Y allí comencé a sentir los ruidos. Traté de dominarme, traté de pensar que debía esperar... Sentí el ruido y algo viscoso que acarició mis nalgas.
+
+Me incorporé y lo ví. Cuando se lo describa entenderá porque corrí con los pantalones aún bajos, lo cual generó mi caida en la puerta del baño mismo...
+
+LO VI:
+
+Era clara su forma y si aun no piensa que estoy loco, creo que muchos de sus lectores lo pensaran en caso de que decida publicar esta historia...
+
+Era un feto, si un horrible feto, cubierto de excrementos e hilos verdosos... En su cabeza, especie de calva se podían observar lo que parecían heridas. Abria su pequeña boca llena de pequeños y afilados dientes, por entre los cuales brotaba lo que parecía ser sangre pero oscura. No supe lo que era pero evidentemente no se trataba de una rata... Era lo mas parecido a un feto humano que he visto en mi vida e incluso logre escucharlo... Tenía una voz muy suave, casi inaudible, mezclada con llantos que le erizarian el pelo a cualquiera...
+
+Murmuró una y otra vez:
+
+INOS...
+
+INOS...
+
+INOS...
+
+Una de sus pequeñas manitos,como garras, se aferraba al borde del inodoro intentando arrastrar al resto de su ponsoñoso cuerpo y en ese momento no pensé en otra cosa que escapar, si escapar de mi propia casa... Así a medio vestir, con el "traste" sin limpiar siquiera, aunque no supiera hacia donde huir... Solo supe que no regresaría jamás, al diablo el apartamento, los vecinos, al diablo todo...
+
+Busque una explicación lógica... No la encontraba... ¿Se trataría de un feto arrojado al inodoro por una de esas hijas de putas, o directamente putas, que los paren y los tiran al desagüe porque no los quieren?
+
+Algún colega me contó algun caso semejante... Pero ¿cómo llegó a mi inodoro, me quiere decir?... Ya se lo dije, fisicamente es posible, es posible que llegue a cualquier maldito inodoro en el mundo entero... Pero ¿Cómo sobrevivió?
+
+No tuve otra idea que subir mis pantalones allí mismo en el corredor del edificio donde solía vivir,ante las miradas de un par de vecinos que habían escuchado mis gritos, sucio y todo y concurrir a la seccional policial más próxima...
+
+El comisario de la misma fue tajante en su conclusión, consumo de drogas probable o posiblemente locura. Los invite a concurrir a mi apartamento y comprobar por si mismos la veracidad de lo que afirmaba y al cabo de dos horas de suplicas dos agentes accedieron a mi petición con autorización de su superior.
+
+¿Que rastro podrían hallar?
+
+Un water sucio de algas, mierda por todo el piso... Nada que no se pudiera explicar en dos lineas de un parte policial:
+
+"El hombre es sanitario, se tomo unas copas de mas, destapaba el water de su casa donde habrá arrojado algunas hojas de acelga que vomitó de la pascualina del mediodía y sufrió una alucinación..."
+
+Caso cerrado...
+
+Pero ya no regresé a dormir a ese lugar:créame no lo hubiese hecho ni por todo el dinero del mundo. Alquile una habitación en una pensión cerca de la ciudad vieja,y cañas y grapas mediante traté de olvidar el asunto... No fue fácil, no. Sobre todo a la hora de ir al baño. Trataba de tranquilizarme pensando que en todo caso "aquello" solo era capáz de aparecer en el baño de MI apartamento... Pero explíqueselo a mis genitales que aun tenían las marcas de mi primer encuentro...
+
+Por Dios... ¿Que diablos era aquello? ¿Que hacía un feto deforme y con dientes que evidentemente no eran de leche buceando por entre las cloacas, mordiendo las partes intimas de la gente?... ¿era el mundo inferior que buscaba venganza por todas aquellas veces que en mi vida de plomero había invadido?
+
+Fue allí que decidí investigar. Yo sabia que no estaba loco... Sabía lo que había visto... Pero necesitaba explicarme el fenómeno de alguna forma para convencerme de ello.
+
+Me dirigí a la biblioteca nacional... Busque la palabra INOS... Nada... Ni en periódicos, ni en revistas, ni en diccionarios ni
+nada. Busque en las revistas amarillistas, sensacionalistas... Si, como en la que usted trabaja y discúlpeme por el término.
+
+Usted sabe... De esas que se llaman "Mundo Insólito", "Decimotercera dimensión", "Mas alla del mas acá", que se yo... Con ese material tuve mas suerte. Tres noches sin dormir me permitieron encontrar por fin un artículo y luego otro, y otro...
+
+Informes desde México, desde Chile, desde Estados Unidos....
+
+"Una mujer fue brutalmente mutilada en su propio baño en Guadalupe en el año 1986. Cuando la policia llegó solo murmuraba la palabra "INOS, INOS"...
+
+Lo atribuyeron a un maniático y probablemente al desvario de la pobre tras el ataque. Un niño fue literalmente castrado en Santiago de Chile mientras hacia sus necesidades... Lo atribuyeron a una rata, como la que un servidor tuvo el gusto de quitar para desatascar una cañería en cierta ocasión... Pensé también en muchos de los casos atribuidos a estos asquerosos roedores... tal vez estabamos siendo injustos con los mismos, acusándoles falsamente de daños que "algo" diferente había causado...
+
+Mas aún... Recordé un concocido dato. Usted debe saber que el baño de una casa es el lugar donde mas accidentes se sufren de acuerdo a las estadísticas... ¿Cuántos de esos golpes en la cabeza,de esos resbalones, fueron provocados por una desesperada huída... por el pánico de verlo a él... a ese ser que murmura "INOS", "INOS"...sin cesar?
+
+No me pregunte como es capáz de nadar cientos y miles de kilometros de un pais a otro,de una cloaca a otra y asomarse a traves de los inodoros, le repito no se si se trata de un solo ejemplar o de una especie. Pero la cuarta noche desde el suceso, la única en que conseguí por fin dormir, una pesadilla espantosa me dio una teoría al respecto...
+
+"Estaba en un sitio oscuro, abrigado, caliente y flotaba... De pronto una luz se abrió ante mi. Sentí miedo, terror. No sabia quien era, ni qué era... Pero la luz me llamaba. Lloré con todas mis fuerzas mientras me acercaba hacia ella, mientras salia a un mundo brillante que me cegaba... Algo sostuvo mis pies con fuerza y entonces escuche otro llanto, era el de una mujer que me sostenía por los pies... Bajo de mi un blanco, sucio y maloliente inodoro. Lo reconocí, reconocí las intenciones de la mujer. Y comprendí qué era. 
+
+Era un feto, un maldito feto recién nacido...
+
+Las manos de la mujer me soltaron... Era mi propia madre... Mi cabeza fue lo primero que chocó contra la loza fría y luego sentí el ruido del agua que me inundaba... No termine de escuchar la primer palabra que llegaba a mis oidos en ese mundo al cual recién asomaba: "INODORO"... Eso decía la mujer mientras me empujaba a través... Solo escuche una parte de la misma: "INO..." ... SSSSSssssssssssshhhh...
+
+Ni "mamá", ni "papá"... Solo Ino... SSSSSssssss... la cisterna, el tunel que me arrastraba a las tinieblas, al excremento,  a esa enorme red mundial de inmundicia y horror..."
+
+Fue espantoso, pero desperté... Ignoro si fue la sugestión, estaba bañado en sudor, ignoro si la criatura estableció algún contacto mental conmigo y me dio cierta explicación acerca de su origen... tal vez me conociera, tal vez me halla visto en mas de una ocasión mientras bajé durante el desempeño de mi profesión a las cloacas y a los desagües... Tal vez fue una conclusión tomada por mi inconciente directamente de mis temores mas profundos...
+
+Lo ignoro... ¿Cómo sobrevivió?
+
+Quién sabe... Muchas cosas se arrojan al inodoro a diario... Preservativos, productos quimicos... bebés... Quién sabe que pueden producir ciertas mezclas de tantas cosas que desconocemos... Solo sé lo que hice a continuación... Corrí hacia el baño de aquel sucio hotel, me acerqué al maloliente water, me arrodillé, metí mi mano dentro dispuesto a acabar con la criatura: extraterrestre, duende, feto mutante o lo que fuera...
+
+Solo hallé excrementos y paños higienicos...Me incorporé... Comencé a patear aquel inodoro a gritar...
+
+Me sujetaron entre varios inquilinos y en pocos minutos los hombres de blanco estaban allí a mi lado, colocandome una de esas cómodas camisas sin botones y una de esas "generosas" agujas en el cuello, cargándome a la fuerza en una ululante ambulancia.
+
+Pero juraría que escuché detrás de mi su risa mientras me llevaban... La risa de un bebé, horriblemente distorsionada... La risa de INOS, una risa triunfal y paciente...
+
+Me trajeron aquí... Al manicomio. Les conté exactamente lo que ví, pero por supuesto no me creyeron, y dudo que usted lo haga, pueden creer que de la célula de una oveja fabriquen una réplica exacta y la llamen "Dolly" o que con una pastillita color azul un viejo de noventa años pueda fornicar, pero mi historia no la pueden creer... Por que solo soy un sanitario...
+
+Para usted soy solo una nota curiosa en uno de esos pasquines... Pero se lo suplico, permitame el beneficio de la duda e informe a sus lectores que sean precavidos... Que observen la taza de su inodoro antes de sentarse y esten atentos al menor ruido... El se alimenta de nosotros, ¿sabe?... De nuestra carne. Y si lo que soñé es su origen, si la energía que lo mueve logró transmitirme su dolor, puedo decirle que el tiene mucho odio....
+
+No sé como sobrevivió, pero tiene mucho odio, tal vez sea esto lo que le mantiene con vida...
+
+¡¡Haga que lo investiguen por favor, usted es la prensa usted puede hacerlo...!!
+
+Espere no se vaya aún... No he terminado... se que vienen ellos los hombres de blanco... ¡¡ESPEREN, DIJE!!
+
+Quieren pincharme con esas agujas y llevarme al baño, ¡AYÚDEME!... Dicen que no está bien que cague en el patio o en mi cuarto... No se vaya...
+
+¡¡No los deje!! Por favor se lo suplico...
+
+Yo le dí mi historia...
+
+Usted debe ayudarme señor periodista...
+
+Usted tiene que creerme...
+
+No nooooooo, no estoy loco...
+
+No quiero entrar en ese baño...
+
+Escucho su risa...
+
+¿No la escuchan ustedes acaso?...
+
+¡¡¡Me esta esperando en el baño!!!
+
+¡¡Por favor!!
+
+¡¡¡Ayudeme!!!
+
+Usted no quiere la verdad, ¿no? Solo quiere una historia creíble para sus lectores... Por favor... ¡¡Sueltenme!!
+
+¡Pensarán que se trató de un suicidio!
+
+¡Que me mutilé yo mismo como el paciente de la sala 12 que encontraron ayer!
+
+FIN

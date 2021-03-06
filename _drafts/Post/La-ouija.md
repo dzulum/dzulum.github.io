@@ -1,0 +1,40 @@
+La Ouija
+
+Un fin de semana después de haber salido de la escuela, mis amigos y yo
+nos fuimos a la plaza para jugar con una ouija que nos habíamos
+encontrado en un basurero cerca de la escuela.
+
+Ya cuando empezábamos a jugar sentimos un aire muy frío que nos rodeaba
+pero no le pusimos atención, Luis (uno de mis amigos) le pregunto a la
+ouija ¿Cuándo moriré? y la flecha de la ouija indico mañana... Luis
+soltó una carcajada y dijo -no te creo- después la ouija señalo -ya lo
+veras te pesara haber dudado de mí-
+Luis haciéndose el valiente le escupió a la ouija, después la ouija
+señaló -me están cansando todos, ya no quiero jugar con ustedes- mis
+amigos la empezaron a patear pero yo ni le busque porque ya había
+escuchado que cuando una ouija se enoja suele ser muy mala, después
+todos preguntaron: ¿Y quién se quedará con ella? después de que nadie
+se quiso quedar con ella la fuimos a tirar al basurero donde la
+habíamos encontrado.
+
+Al día siguiente en la escuela recibimos la noticia de que Luis había
+Muerto, todos pensamos que fue culpa de la ouija, inmediatamente sin
+pedir permiso todos fuimos a aquel basurero donde habíamos dejado la
+ouija, y ahí estaba. Uno de mis amigos de la escuela le prendió fuego a
+la ouija, todos nos retiramos y nos fuimos a clases.
+
+Pasó el día, y al día siguiente; mi amigo, el que le prendió fuego a la
+ouija, llegó temblando a la escuela y con rasguños por todas partes,
+todos le preguntamos que le había pasado y nos dijo -la ouija regreso a
+mi casa y en la noche de ayer cuando dormía vi a la ouija en mi cuarto
+y de repente se cerró la puerta y todas las cosas de mi cuarto
+empezaron a flotar después vi unos círculos rojos en el aire y ya no me
+acuerdo de mas, de inmediato fuimos a su casa por la ouija después
+corrimos a la iglesia con un Padre a preguntarle que era lo que estaba
+pasando, rápido el padre saco un frasco con agua bendita y lleno a la
+ouija de el agua que el padre decía que acabaría con la ouija, la ouija
+se rompió, pulverizó, la dejamos en el piso y en 5 minutos ya había
+desaparecido... nos fuimos muy asustados pero jamas volvimos a tocar
+una ouija.
+
+Nota: a este texto se le cambio el titulo y palabras "Huija" por "Ouija", sabemos que la redaccion es una mierda pero asi fue encontrado en la extinta pagina de Nino.
