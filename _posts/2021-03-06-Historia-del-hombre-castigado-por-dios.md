@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories[]
-date: 2020-10-13 00:00:00
-title:'Historia del hombre castigado por dios'
+tags: relato
+date: 2020-03-06 21:15:00
+title: Historia del hombre castigado por dios
 ---
 
-# HISTORIA DEL HOMBRE CASTIGADO POR DIOS
-### Autor: Raúl Bonilla.
+# Historia del hombre castigado por dios
+
+**Autor: Raúl Bonilla.**
 
    No debí vacilar en matar a ese negro que vivía dos casa mas allá de los
    Knepper. Debí obedecer la voluntad de Dios y pegarle un tiro cuando

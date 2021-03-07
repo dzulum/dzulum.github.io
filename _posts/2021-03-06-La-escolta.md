@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-03-06 21:23:00 -0600
+tags: relato
+title: La escolta
+---
+
 # La Escolta
 
 Lo seguían a todas partes, dejando un tenue rastro de luz. A Guillermo no le gustaba sentir que tras desí iba semejante horda; en realidad ya  estaba cansado. Al principio el asunto le había parecido gracioso, hasta poético. Luego intentó deshacerse de ellos, pero las "limpias" no  dieron resultado; les gritó y por contestación sólo obtuvo tiernas risitas. Rezó por su liberación, y lo siguieron cada vez más de cerca.

@@ -1,4 +1,12 @@
-# UNA FÁBULA PORTEÑA
+---
+layout: post
+date: 2021-03-06 21:17:00 -0600
+tags: relato
+title: Una fábula porteña
+---
+
+# Una fábula porteña
+
 **Autor: GONZÁLEZ FABIÁN**
 
 No es fácil encontrar el residuo de lo gótico en Buenos Aires. Es una ciudad de eterna vigilia, en donde lo mundanal ha ahogado lo fantástico y los relatos no tienen oyentes. Tal vez es cierto que ningún fantasma ha caminado por sus calles, que ninguna maldición se ha posado sobre sus casonas antiguas. Pero me basta caminar por la madrugada, en ese único momento en que la gran ciudad duerme para saber que sigue existiendo magia en sus veredas. Es una sensación, tal vez un sonido, un murmullo. Es un instante en que la muchedumbre durmiente no puede silenciar a los espectros. Esos fantasmas emiten su discurso pronunciado en antigua y desconocida lengua. Tratan de contar lo que les pasó a los transeúntes despreocupados, sumidos en el dolor de las almas que no estén en el cielo pero tampoco en el infierno.

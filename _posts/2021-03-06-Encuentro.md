@@ -1,4 +1,10 @@
-# ENCUENTRO
+---
+layout: post
+date: 2021-03-06 21:14:00 -0600
+tags: relato
+title: Encuentro
+
+# Encuentro
 
 Hoy es día diecisiete de Julio y ya estamos en Bukovina, hemos pasado la frontera esta misma mañana, y en menos de un mes estaremos en Bucarest.
 

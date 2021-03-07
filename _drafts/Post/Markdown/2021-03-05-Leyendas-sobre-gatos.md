@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-03-06 21:20:00 -0600
+tags: relato
+title: Leyendas sobre gatos
+---
+
 # Leyendas Sobre Gatos
 
 Como en otros espantos andinos, el gato es parte de la asociación del

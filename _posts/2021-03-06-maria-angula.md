@@ -1,5 +1,12 @@
+---
+layout: post
+date: 2021-03-06 21:21:00
+tags: relato
+title: María Angula
+---
+
 # María Angula
-### Autor: Jorge Renán de la Torre
+**Autor: Jorge Renán de la Torre**
   
    María Angula era una niña alegre y vivaracha, hija de un hacendado de
    Cayambe. Le encantaban los chismes y se divertía llevando cuentos entre
