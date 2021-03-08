@@ -5,4 +5,4 @@ tags: audio
 title: Leyendas legendarias - Las poquianchis
 ---
 
-<amp-iframe width="500" height="280" sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin" layout="responsive" frameborder="0" src="https://mx.ivoox.com/es/player_ej_58291416_6_1.html"><amp-img src="https://static-1.ivoox.com/img/web/comunidad_LG.jpg" placeholder width="500" height="500" layout="fill" alt="Trailer"></amp-img></amp-iframe>
+<iframe id='audio_33322123' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://mx.ivoox.com/es/player_ej_33322123_6_1.html'></iframe>
