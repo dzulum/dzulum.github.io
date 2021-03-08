@@ -10,7 +10,7 @@ layout: default
     {% for image in gallery.images %}
     
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="150px" height="auto">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="200px" height="auto">
         </a>
     
     {% endfor %}
