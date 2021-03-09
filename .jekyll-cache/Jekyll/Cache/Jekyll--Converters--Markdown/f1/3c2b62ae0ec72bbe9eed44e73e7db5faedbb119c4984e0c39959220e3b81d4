@@ -1,0 +1,56 @@
+I"�<p>Para aquellos que inician este viaje conmigo les doy la bienvenida a esta pequeña sección donde cada que sea posible iré compartiendo las travesías que se viven en el día a día cuando se usa un sistema operativo que no es común, si por algún motivo identificas el logo del blog con alguna distribución de GNU/Linux sabrás que dicha distro es <a href="https://archlinux.org">Archlinux</a> así que, aclarado eso, vamos a lo importante.</p>
+
+<p>Archlinux es una distribución orientada a usuarios que quieren instalar sistemas ligeros, configurados a punto, los cuales pueden ser utilizados desde la linea de comandos o bien armar un sistema complejo con escritorios pesados y robustos como KDE y GNOME, puede ser configurado desde lo mas mínimo, e incluso puede ser lazado desde el inicio como simple sistema de linea de comandos hasta que el usuario necesite utilizar un sistema grafico.</p>
+
+<p>Por mi cuenta solo utilizo un administrador de ventanas (Windows Manager), el que he elegido es <a href="https://i3wm.org/">i3</a>, es ligero, muy configurable, fácil de aprender a utilizar y sobre todo hermoso.</p>
+
+<p>Así que en esta primer publicación te muestro como luce actualmente mi configuración de i3, junto con una lista de software que uso tanto de manera cotidiana como de manera esporádica, en esta distribución a sido común para mi ir instalando software conforme lo voy necesitando, en ocasiones las herramientas necesarias ya están instaladas como parte del conjunto <em>core</em> o base del sistema.</p>
+
+<p>Las actualizaciones del sistema se realizan desde la linea de comandos utilizando la herramienta <em>pacman</em> con una secuencia de opciones y argumentos.</p>
+
+<p><code class="language-plaintext highlighter-rouge">pacman -Syu #Esta linea actualiza el sistema completo.</code></p>
+
+<p>O bien</p>
+
+<p><code class="language-plaintext highlighter-rouge">pacman -Syyu #Esta linea realiza la actualización de las bases de datos de software antes de ejecutar la actualización, es recomendable cuando llevas tiempo sin actualizar.</code></p>
+
+<p>Por ejemplo <code class="language-plaintext highlighter-rouge">sudo pacman -Ss chromium</code> seria el comando de búsqueda para el programa Chromium.</p>
+
+<p><code class="language-plaintext highlighter-rouge">pacman -S xterm</code> seria el comando para instalar el programa xterm.</p>
+
+<p>Ahora sin mas rodeos, presento algunas capturas de mi entorno de trabajo, aunque en realidad no lo uso para trabajo.</p>
+
+<p>Escritorio limpio:<br />
+<img src="/images/clean0.png" alt="Escritorio Limpio" /></p>
+
+<p>Conky:<br />
+<img src="/images/conky.png" alt="Conky" />
+<img src="/images/conky0.png" alt="Conky" />
+<img src="/images/conky-nano.png" alt="Conky" />
+<img src="/images/conky-xterm.png" alt="Conky" /></p>
+
+<p>Ranger (administrador de archivos):<br />
+<img src="/images/ranger.png" alt="Ranger" /></p>
+
+<p>Sublime (editor de codigo):<br />
+<img src="/images/sublime-xterm.png" alt="Sublime" /></p>
+
+<p>Terminal:<br />
+<img src="/images/terminal.png" alt="Terminal" /></p>
+
+<p>Como se puede observar en los detalles de cada imagen, hay transparencias, el fondo de pantalla cambia, el monitor de recursos se cambia de lugar e incluso se agrega una pequeña sección de información para el uso del sistema, esa fue parte de la evolución de la configuración de mi entorno basado en i3.</p>
+
+<p>Acá tenemos una imagen de la creación de este blog en entorno local.</p>
+
+<p><img src="/images/blog.png" alt="Blog" /></p>
+
+<p>Y por ultimo dejo esta imagen, donde ya se ve la configuración que utilizo actualmente con etiquetas en los espacios de trabajo, una barra un poco mejor organizada y desde donde comenzaremos a trabajar para ir generando el contenido de este sitio.</p>
+
+<p><img src="/images/actual.png" alt="Blog" /></p>
+
+<p>De momento esta es la primer publicación del blog, en siguientes entradas iré explicando la configuración que estoy utilizando y por supuesto el software que he instalado y que utilizo para mi día a día.</p>
+
+<p>Me despido de aquel que este leyendo esto, esperando que cause curiosidad sino de instalar y usar definitivamente este tipo de sistemas, por lo menos de profundizar y seguir investigando sobre el tema.</p>
+
+<p>Me despido, de momento…</p>
+:ET

@@ -1,4 +1,11 @@
-# LA CRUZ DEL DIABLO
+---
+layout: post
+date: 2021-03-07 19:33:00 -0600
+tags: relato
+title: La cruz del diablo
+---
+
+# La cruz del diablo
 
 "Hace mucho tiempo atrás existió un grupo de moros que se apoderó de un pueblo. El líder de este grupo era un tipo desgraciado y temido por la gente del lugar.
 

@@ -95,7 +95,13 @@ body {
     text-align: center;
     background: #000;
 }
-
+.pagination{
+    background-color: #000000;
+    color: silver;
+}
+.pagination a:hover{
+    color: red;
+}
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 700px) {
     .row {   
@@ -135,6 +141,13 @@ P:first-letter {
 	font-family: AnglicanText;
 	text-shadow: 2px 2px 1px red;
 	}
+code, .language-plaintext, .highlighter-rouge, .highlight{
+
+    background-color: black;
+    color: silver;
+    font-family: monospace;
+    font-size: 12px;
+}
 @font-face {
 font-family: AnglicanText;
 src: url(./AnglicanText.ttf);
@@ -146,18 +159,15 @@ img {
     margin-right: auto;
     /*width: 100%;*/
 }
+.entry img {
+    width:90%;
+}
 .author, .date, .content, .post, .entry, .footer{
     color: silver;
     background-color: none;
 font-size: 16px;
 }
 t1 { white-space: pre-wrap;}
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "{{ site.baseurl }}/assets/css/highlights.scss";
-@import "{{ site.baseurl }}/assets/css/svg-icons.scss";
-@import "{{ site.baseurl }}/assets/css/reset.scss";
-@import "{{ site.baseurl }}/assets/css/variables.scss";
  
 .youtube-wrapper { 
    /* position: relative; */

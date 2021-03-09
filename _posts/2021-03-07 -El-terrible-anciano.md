@@ -1,6 +1,14 @@
+---
+layout: post
+tags: lovecraft
+date: 2021-03-07 19:27:00 -0600
+title: El terrible anciano
+---
+
 # El Terrible Anciano
-### H.P. Lovecraft
-### Título original: The Terrible Old Man, 1920.
+
+**H.P. Lovecraft**  
+**Título original: The Terrible Old Man, 1920.**
 
    Fue idea de Angelo Ricci, Joe Czanek y Manuel Silva hacer una visita al
    Terrible Anciano. El anciano vive a solas en una casa muy antigua de

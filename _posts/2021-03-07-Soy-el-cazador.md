@@ -1,11 +1,11 @@
 ---
 layout: post
-tags: []
-categories[]
-date: 2020-10-13 00:00:00
-title:'Soy el cazador'
+tags: relato
+date: 2021-03-07 19:22:00
+title: Soy el cazador
 ---
-# SOY EL CAZADOR
+
+# Soy el cazador
 
    La música todavía resuena en mis oídos aunque ya estamos fuera del
    local. Allí, bajo la luz de las farolas de la avenida, parece aún más

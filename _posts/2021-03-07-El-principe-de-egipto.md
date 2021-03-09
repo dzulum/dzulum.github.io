@@ -1,4 +1,11 @@
-# El Principe de Egipto
+---
+layout: post
+tags: relato
+date: 2021-03-07 19:24:00
+title: El príncipe de Egipto
+---
+
+# El Príncipe de Egipto
 
 **Autor: D.Velasco**
 
