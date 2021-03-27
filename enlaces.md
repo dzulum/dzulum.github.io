@@ -6,6 +6,10 @@ title: Enlaces
 
 En este lugar encontraras algunos enlaces con una breve descripción, enlaces que de alguna manera me resultaron interesantes o bien que son de algún conocido...
 
+# Mi carpeta de Wallpapers
+
+- [Wallpapers (Mega)](https://mega.nz/folder/bj5BxIBR#jXKaSaDMb7GkDjKU3e_ysQ)
+
 # Radio y Audios
 
 - [Death.fm](http://death.fm/modules.php?name=Listen "Death Fucking Metal Radio") -Radio de metal

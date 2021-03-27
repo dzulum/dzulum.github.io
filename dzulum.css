@@ -66,10 +66,10 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-    -ms-flex: 30%; /* IE10 */
-    flex: 30%;
+    -ms-flex: 35%; /* IE10 */
+    flex: 35%;
     background-color: #000;
-    padding: 20px;
+    padding: 15px;
     color: white;
 }
 
@@ -141,6 +141,8 @@ P:first-letter {
 	font-family: AnglicanText;
 	text-shadow: 2px 2px 1px red;
 	}
+	/*.atag{background-color: darkred;color: white;}
+	.atag:hover{background-color: black;color: red;}*/
 code, .language-plaintext, .highlighter-rouge, .highlight{
 
     background-color: black;
@@ -160,7 +162,7 @@ img {
     /*width: 100%;*/
 }
 .entry img {
-    width:90%;
+    width:85%;
 }
 .author, .date, .content, .post, .entry, .footer{
     color: silver;
@@ -183,7 +185,7 @@ width: 100%;
 height: 400px;
 border: 0; 
 }
-
+hr {width: 50%;}
 .svg-icon {
   width: 40px;
   height: 40px;
