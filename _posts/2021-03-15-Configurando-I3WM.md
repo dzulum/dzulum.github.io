@@ -5,19 +5,19 @@ tags: tech
 title: Configurando (ahora si) I3
 ---
 
-Pues ahora si iniciamos a hacer la magia, en esta publicacion voy a dejar mi configuracion actual y los ajustes que he escrito en el archivo de configuracion para lograr esto.
+Pues ahora si iniciamos a hacer la magia, en esta publicación voy a dejar mi configuración actual y los ajustes que he escrito en el archivo de configuración para lograr esto.
 
 ![Escritorio Limpio](/images/2021-03-15-limpio.png)
 
-Vamos por partes, seguramente te llama la atencion ese par de cosas semi transparentes de las orillas o las letras de colores de abajo, pues las "cosas" transparentes son ventanas de [conky](https://wiki.archlinux.org/index.php/Conky)y, sirven segun la configuracion que les des para monitorizar el sistemaa y sus recursos (izquierda) o para mostrar algun mensaje y/o informacion (derecha), lo que aparece en color verde del lado izquierdo es el nombre del espacio de trabajo, el que abre por defecto es el 1 y en este caso es donde estan asignadas todas las ventanas de terminal, aunque las puedo mover entre espacios conforme lo requiera, solo las asigno ahi por comodidad, mas adelante veremos porque.
+Vamos por partes, seguramente te llama la atención ese par de cosas semitransparentes de las orillas o las letras de colores de abajo, pues las "cosas" transparentes son ventanas de [conky](https://wiki.archlinux.org/index.php/Conky) y, sirven según la configuración que les des para monitorizar el sistema y sus recursos (izquierda) o para mostrar algún mensaje y/o información (derecha), lo que aparece en color verde del lado izquierdo es el nombre del espacio de trabajo, el que abre por defecto es el 1 y en este caso es donde están asignadas todas las ventanas de terminal, aunque las puedo mover entre espacios conforme lo requiera, solo las asigno ahí por comodidad, mas adelante veremos porque.
 
-Seguramente tambien has visto que los fondos de pantalla no siempre son el mismo, bueno, primero que nada no pienses que ando por internet buscando que imagen robar para ponerla de ejemplo, mas bien consiste en un script muy sencillo en bash que se encarga de ir rotando las imagenes cada cierto tiempo.
+Seguramente también has visto que los fondos de pantalla no siempre son el mismo, bueno, primero que nada no pienses que ando por internet buscando que imagen robar para ponerla de ejemplo, mas bien consiste en un script muy sencillo en bash que se encarga de ir rotando las imágenes cada cierto tiempo.
 
-Ahora, si eres detallista, sin duda te habras percatado de dos iconos que no contrastan con la barra inferior, estos dos iconos que van justo en la esquina, uno es un block de notas para cuando estoy escribiendo ideas o cosas rapidas, el otro es un administrador de clipboard, digamos que puedes copiar muchas veces y ese programa se encarga de recordar lo que copiaste.
+Ahora, si eres detallista, sin duda te habrás percatado de dos iconos que no contrastan con la barra inferior, estos dos iconos que van justo en la esquina, uno es un bloc de notas para cuando estoy escribiendo ideas o cosas rápidas, el otro es un administrador de clipboard, digamos que puedes copiar muchas veces y ese programa se encarga de recordar lo que copiaste.
 
-Los colores, bueno el naranja es monitor de procesador, el cyan de temperatura, morado de espacio libre en la particion de sistema, el verde palido indica cuanto espacio libre tengo para mi usuario, el siguiente verde es el monitor de wifi, se pone rojo si esta desconectado, el siguiente es el monitor de volumen, muestra el porcentaje de volumen y se pone rojo si queda en mudo, el fondo lila es calendario y reloj.
+Los colores, bueno el naranja es monitor de procesador, el cyan de temperatura, morado de espacio libre en la partición de sistema, el verde pálido indica cuanto espacio libre tengo para mi usuario, el siguiente verde es el monitor de wifi, se pone rojo si esta desconectado, el siguiente es el monitor de volumen, muestra el porcentaje de volumen y se pone rojo si queda en mudo, el fondo lila es calendario y reloj.
 
-Bien, eso fue una leve explicacion de lo que viste en la imagen, ahora vamos a ver como es que funciona.
+Bien, eso fue una leve explicación de lo que viste en la imagen, ahora vamos a ver como es que funciona.
 
 ![I3 config](/images/2021-03-15-i3config-1.png)
 
@@ -36,7 +36,7 @@ hide_edge_borders none
 bindsym $mod+u border none
 bindsym $mod+y border pixel 1
 bindsym $mod+n border normal
-# Fuente para los titulos, se usa en la barra si no hay otra definida.
+# Fuente para los títulos, se usa en la barra si no hay otra definida.
 font pango:Monospace 8
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -45,7 +45,7 @@ font pango:Devicons Regular 8
 
 Como se puede apreciar en la imagen y en el texto lo primero que aparece es un comentario de que se hace y porque, `set $mod Mod4` hace que la tecla que se encargue de conmutar los modos de I3 de uso a comando.
 
-Mas abajo se da la orden de que las nuevas ventanas tengan un borde de un pixel de ancho, que el tipo de las ventanas flotantes nuevas sea normal y algunas instrucciones para modificar los bordes, *bindsym* le informa a i3 que le daremos ordenes por medio de una combinacion de teclas, por ejemplo `bindsym $mod+u border none` es la asignacion de las teclas *Win+u* para que los bordes de la ventana cambien a 0, mas abajo estan declaradas las fuentes y el tamaño a utilizar.
+Mas abajo se da la orden de que las nuevas ventanas tengan un borde de un pixel de ancho, que el tipo de las ventanas flotantes nuevas sea normal y algunas instrucciones para modificar los bordes, *bindsym* le informa a i3 que le daremos ordenes por medio de una combinación de teclas, por ejemplo `bindsym $mod+u border none` es la asignación de las teclas *Win+u* para que los bordes de la ventana cambien a 0, mas abajo están declaradas las fuentes y el tamaño a utilizar.
 
 ![Accesos directos](/images/2021-03-15-i3config-2.png)
 
@@ -81,7 +81,7 @@ exec --no-startup-id xpad
 set $refresh_i3status killall -SIGUSR1 i3status
 ~~~
 
-En esta parte asignamos los programas que vamos a lanzar con los accesos que estamos indicando en la configuracion, de inicio tenemos:
+En esta parte asignamos los programas que vamos a lanzar con los accesos que estamos indicando en la configuración, de inicio tenemos:
 
 - spacefm *Administrador de archivos*
 - scrot *Para tomar capturas de pantalla*
@@ -93,13 +93,13 @@ Estan asignados respectivamente a las teclas:
 - ImpPnt o PrntScrn (imprimir pantalla)
 - Win+F3
 
-Despues viene la pantalla de bloqueo la cual se ejecuta automaticamente a los diez minutos de no tener interaccion con la pc, como todo esto es configurable, puede ser un minuto, una hora, tu tienes el control absoluto.
+Después viene la pantalla de bloqueo la cual se ejecuta automáticamente a los diez minutos de no tener interacción con la pc, como todo esto es configurable, puede ser un minuto, una hora, tu tienes el control absoluto.
 
-Y si quieres bloquear manualmente la pantalla tambien tenemos asignado un comando `$mod+l` *Win+l*, nota la diferencia, cuando se ejecuta un comando automaticamente al inicio de la sesion se declara por el comando `exec` y si lo vamos a lanzar nosotros se hace mediante `bindsym`.
+Y si quieres bloquear manualmente la pantalla también tenemos asignado un comando `$mod+l` *Win+l*, nota la diferencia, cuando se ejecuta un comando automáticamente al inicio de la sesión se declara por el comando `exec` y si lo vamos a lanzar nosotros se hace mediante `bindsym`.
 
-El siguiente comando que lees es `$mod+Shift+F10` *Win+Sifht+F10* este esta asignado para apagar el sistema.
+El siguiente comando que lees es `$mod+Shift+F10` *Win+Shift+F10* este esta asignado para apagar el sistema.
 
-Mas abajo tenemos los programas que se inician junto al sistema, como no estoy usando el **nm-applet** esta comentado por un numeral, como puedes observar cuando una linea inicia por el caracter del numeral la linea cambia de color, eso significa que es un comentario y no se ejecuta como una instruccion.
+Mas abajo tenemos los programas que se inician junto al sistema, como no estoy usando el **nm-applet** esta comentado por un numeral, como puedes observar cuando una linea inicia por el carácter del numeral la linea cambia de color, eso significa que es un comentario y no se ejecuta como una instrucción.
 
 La lista de programas que inician junto a i3 son:
 
@@ -111,7 +111,7 @@ La lista de programas que inician junto a i3 son:
 - clipit (administrador de texto copiado)
 - dunst (para las notificaciones mas adelante se usa)
 
-Hasta aqui todo lo importante de ese texto.
+Hasta aquí todo lo importante de ese texto.
 
 ![Audio y pantalla](/images/2021-03-15-i3config-3.png)
 
@@ -126,9 +126,9 @@ bindsym XF86MonBrightnessUp exec "xbacklight -inc 10; notify-send 'Light up'"
 bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'Light down'"
 ~~~
 
-En esta seccion declaramos las teclas multimedia para aumentar, disminuir y enmudecer el audio respectivamente.
+En esta sección declaramos las teclas multimedia para aumentar, disminuir y enmudecer el audio respectivamente.
 
-- XF86AudioRaiseVolume (Aumentar) vease el comando notify-send, ahi se usa dunst
+- XF86AudioRaiseVolume (Aumentar) vease el comando notify-send, ahí se usa dunst
 - XF86AudioLowerVolume (Disminuir)
 - XF86AudioMute (Enmudecer)
 
@@ -154,16 +154,16 @@ bindsym $mod+Shift+q kill
 
 Como bien dice el texto usamos la tecla `Win` para arrastrar una ventana que este en modo flatante dando click y manteniendo mientras arrastramos.
 
-Lo siguiente es la instruccion para abrir nuestra terminal usando `$mod+Return` o mejor dicho `Win+Enter` esto ejecutara cualquier terminal que hayas declarado o bien la que usa por default i3, en  mi caso aunque a veces uso lxterminal ya me empiezo a acostumbrar a xterm.
+Lo siguiente es la instrucción para abrir nuestra terminal usando `$mod+Return` o mejor dicho `Win+Enter` esto ejecutara cualquier terminal que hayas declarado o bien la que usa por default i3, en  mi caso aunque a veces uso lxterminal ya me empiezo a acostumbrar a xterm.
 
 Por ultimo hay una linea que indica el acceso directo `$mod+Shift+q` `Win+Shift+q` simplemente va a cerrar la ventana que este en `Focus` al ejecutarse.
 
 ![Mover y apuntar](/images/2021-03-15-i3config-5.png)
 
-Ahora viene la seccion donde apuntamos y movemos las diferentes ventanas que podamos tener en un espacio de trabajo, a grandes rasgos mover las ventanas seria `Win+Shift+la tecla de direccion que quieras usar` y para apuntar `Win+Tecla de direccion a cual apuntar`
+Ahora viene la sección donde apuntamos y movemos las diferentes ventanas que podamos tener en un espacio de trabajo, a grandes rasgos mover las ventanas seria `Win+Shift+la tecla de dirección que quieras usar` y para apuntar `Win+Tecla de dirección a cual apuntar`
 
 ~~~
-# menu de programas
+# menú de programas
 bindsym $mod+d exec --no-startup-id rofi -show drun
 
 # change focus
@@ -200,19 +200,19 @@ bindsym $mod+v split v
 bindsym $mod+f fullscreen toggle
 ~~~
 
-La combinacion interesante es `Win+d` que nos mostrara el menu desde donde podemos lanzar programas, se llama Rofi.
+La combinación interesante es `Win+d` que nos mostrara el menú desde donde podemos lanzar programas, se llama Rofi.
 
-`$mod+h` o `Win+h` convertira el layout en horizontal mientras `$mod+v` o `Win+v` convertira el layout en vertical y finalmente `Win+f` convertira una ventana a pantalla completa.
+`$mod+h` o `Win+h` convertirá el layout en horizontal mientras `$mod+v` o `Win+v` convertirá el layout en vertical y finalmente `Win+f` convertirá una ventana a pantalla completa.
 
 En la siguiente imagen vemos como se agrega el acceso directo para las funciones layout stacking `Win+s` layout tabbed `Win+w` y layout toggle split `Win+e` te recomiendo experimentar para que veas los cambios que ejecutan desde usar varias ventanas hasta usar una sola con varias pestañas y cada pestaña sea un programa diferente.
 
-Despues viene el floating toggle, interambia entre modo ventana flotante `Win+Shift+space` focus mode toggle y focus parent, en realidad solo sirven para cambiar el modo de vista y aunque no los uso mucho a veces son muy utiles.
+Después viene el floating toggle, intercambia entre modo ventana flotante `Win+Shift+space` focus mode toggle y focus parent, en realidad solo sirven para cambiar el modo de vista y aunque no los uso mucho a veces son muy útiles.
 
 ![Layouts](/images/2021-03-15-i3config-6.png)
 
 ![Declarando espacios de trabajo](/images/2021-03-15-i3config-7.png)
 
-Aqui es donde esta lo mas interesante de la configuracion, por lo menos para mi, como se puede observar en la imagen de arriba dice que se asignan los nombres de los espacios de trabajo y se asignan sus respectivos accesos directos.
+Aqui es donde esta lo mas interesante de la configuración, por lo menos para mi, como se puede observar en la imagen de arriba dice que se asignan los nombres de los espacios de trabajo y se asignan sus respectivos accesos directos.
 
 ~~~
 # Define names for default workspaces for which we configure key bindings later on.
@@ -244,11 +244,11 @@ bindsym F10 workspace number $ws10
 Simplemente explicare esto:  
 set $wsX "X: Nombre" es el formato donde X corresponde a un numero y nombre al nombre que quieres aplicar a tu espacio de trabajo, en mi caso tengo asignados espacios del 1 al 10 y se invocan con los accesos directos.
 
-`bindsym FX` donde FX es una tecla del F1 al F10 pero escapando aquellas teclas que tienen funciones asignadas a otros programas, como F5 para refrescar sitios en internet, F2 para renombrar archivos en el Administrador de archivos etcetera, en esos casos  se usa `Win+FX`.
+`bindsym FX` donde FX es una tecla del F1 al F10 pero escapando aquellas teclas que tienen funciones asignadas a otros programas, como F5 para refrescar sitios en internet, F2 para renombrar archivos en el Administrador de archivos etcétera, en esos casos  se usa `Win+FX`.
 
-La siguiente seccion de la configuracion es para asignar accesos directos con los cuales mover los programas entre espacios de trabajo.
+La siguiente sección de la configuración es para asignar accesos directos con los cuales mover los programas entre espacios de trabajo.
 
-Todos estan asignados a las teclas de numero mas la combinacion de la tecla windows y shift.
+Todos están asignados a las teclas de numero mas la combinación de la tecla windows y Shift.
 
 `Win+Shift+1` hasta `Win+Shift+0` Correspondiendo 1 al espacio 1 y 0 al espacio 10.
 
@@ -272,57 +272,103 @@ Y ahora, vamos a mostrar la magia de organizar todo como mejor te parezca y para
 
 ![Programas por espacio](/images/2021-03-15-i3config-9.png)
 ![Programas por espacio](/images/2021-03-15-i3config-10.png)
-~~~ Asignando programas a sus espacios y cambiando a la 
- ventana recien abierta Terminales --- assign [class="XTerm"] 
- $ws1 for_window [class="XTerm"] focus assign 
- [class="Lxterminal"] $ws1 for_window [class="Lxterminal"] 
- focus Internet --- assign [class="Chromium"] $ws2 for_window 
- [class="Chromium"] focus assign [class="Google-chrome"] $ws2 
- for_window [class="Google-chrome"] focus assign 
- [class="gFTP"] $ws2 codigo --- assign [class="subl"] $ws3 
- for_window [class="subl"] focus assign [class="Atom"] $ws3 
- for_window [class="Atom"] focus assign [class="Electron"] 
- $ws3 for_window [class="Electron"] focus Archivos --- assign 
- [class="Spacefm"] $ws4 for_window [class="Spacefm"] focus 
- Escritura --- assign [class="ghostwriter"] $ws5 for_window 
- [class="ghostwriter"] focus assign [class="FocusWriter"] 
- $ws5 assign [class="calibre-edit-book"] $ws5 for_window 
- [class="calibre-edit-ebook"] focus assign [class="Notes-Up"] 
- $ws5 for_window [class="Notes-Up"] focus assign 
- [class="Leafpad"] $ws5 for_window [class="Leafpad"] focus 
- Imagen --- assign [class="Gimp"] $ws6 for_window 
- [class="Gimp"] focus assign [class="Inkscape"] $ws6 
- for_window [class="Inkscape"] focus assign 
- [class="org.inkscape.Inkscape"]$ws6 for_window 
- [class="org-inkscape.Inkscape"] focus assign [class="krita"] 
- $ws6 for_window [class="krita"] focus assign 
- [class="Gimagereader-gtk"] $ws6 for_window 
- [class="Gimagereader-gtk"] focus assign [class="Viewnior"] 
- $ws6 for_window [class="Viewnior"] focus Lectura --- assign 
- [class="calibre"] $ws7 for_window [class="calibre"] focus 
- assign [class="calibre-ebook-viewer"] $ws7 for_window 
- [class="calibre-ebook-viewer"] focus assign [class="Evince"] 
- $ws7 for_window [class="Evince"] focus juegos --- assign 
- [class="mGBA"] $ws8 Multimedia assign [class="mpv"] $ws9 
- for_window [class="mpv"] focus programas que necesitan fix 
- for_window [class="Inkscape"] move to workspace $ws6 
- workspace number $ws6 for_window 
- [class="org.inkscape.Inkscape"] move to workspace $ws6 
- workspace number $ws6 ~~~ Bueno aca si es algo mas tecnico 
- para lograr esto, aunque creeme, no es nada del otro mundo y 
- aprenderas mas cosas sobre los programas que tienes o 
- tendras instalados en tu equipo, como se observa tengo 
- varios apartados, terminales, lectura, etc. Ahi es donde 
- asignare cada programa segun su uso para mas comodidas mia, 
- en el espacio 1 terminales, 2 internet, 3 codigo, 4 archivos, 5 escritura, 6 diseño, 7 lectura, 8 juegos, 9 multimedia, 10 varios.
 
-Cada programa se asigna de acuerdo al nombre de clase que tiene, `assign [class=""] $wsX` donde se debe rellenar el espacio entre comillas con el nombre de la clase del programa y $wsX sera el nombre del espacio de trabajo, algunos tienen debajo `for_window [class=""] focus` esta declaracion se hace para que cuando ese programa se habra vayas directamente a el, luego hay programas que necesitan un pequeño fix donde se forza mover ventanas secundarias a el mismo espacio de trabajo que la ventana proncipal de ese programa, en el ejemplo se ve el caso con Inkscape.
+~~~
+#Asignando programas a sus espacios y cambiando a la ventana recién abierta Terminales
+ 
+assign [class="XTerm"] $ws1  
+for_window [class="XTerm"] focus  
+assign [class="Lxterminal"] $ws1  
+for_window [class="Lxterminal"] focus 
+
+#Internet ---
+
+assign [class="Chromium"] $ws2  
+for_window [class="Chromium"] focus  
+assign [class="Google-chrome"] $ws2   
+for_window [class="Google-chrome"] focus  
+assign [class="gFTP"] $ws2  
+
+#codigo --- 
+
+assign [class="subl"] $ws3  
+for_window [class="subl"] focus  
+assign [class="Atom"] $ws3  
+for_window [class="Atom"] focus  
+assign [class="Electron"]  
+$ws3 for_window [class="Electron"] focus  
+
+#Archivos --- 
+
+assign [class="Spacefm"] $ws4  
+for_window [class="Spacefm"] focus  
+
+#Escritura --- 
+
+assign [class="ghostwriter"] $ws5  
+for_window [class="ghostwriter"] focus  
+assign [class="FocusWriter"] $ws5  
+assign [class="calibre-edit-book"] $ws5
+for_window [class="calibre-edit-ebook"] focus  
+assign [class="Notes-Up"]  
+$ws5 for_window [class="Notes-Up"] focus
+assign [class="Leafpad"] $ws5  
+for_window [class="Leafpad"] focus  
+
+#Imagen --- 
+
+assign [class="Gimp"] $ws6  
+for_window [class="Gimp"] focus  
+assign [class="Inkscape"] $ws6  
+for_window [class="Inkscape"] focus  
+assign [class="org.inkscape.Inkscape"]$ws6  
+for_window [class="org-inkscape.Inkscape"] focus  
+assign [class="krita"] $ws6  
+for_window [class="krita"] focus  
+assign [class="Gimagereader-gtk"] $ws6  
+for_window [class="Gimagereader-gtk"] focus  
+assign [class="Viewnior"] $ws6  
+for_window [class="Viewnior"] focus
+
+#Lectura --- 
+
+assign [class="calibre"] $ws7  
+for_window [class="calibre"] focus  
+assign [class="calibre-ebook-viewer"] $ws7  
+for_window [class="calibre-ebook-viewer"] focus  
+assign [class="Evince"] $ws7  
+for_window [class="Evince"] focus  
+
+#juegos --- 
+
+assign [class="mGBA"] $ws8 
+
+#Multimedia ---
+
+assign [class="mpv"] $ws9 
+for_window [class="mpv"] focus
+
+#programas que necesitan fix#
+
+for_window [class="Inkscape"] move to workspace $ws6 workspace number $ws6  
+for_window [class="org.inkscape.Inkscape"] move to workspace $ws6 workspace number $ws6
+~~~
+
+Bueno acá si es algo mas técnico 
+para lograr esto, aunque créeme, no es nada del otro mundo y 
+aprenderás mas cosas sobre los programas que tienes o 
+tendrás instalados en tu equipo, como se observa tengo 
+varios apartados, terminales, lectura, etc. Ahí es donde 
+asignare cada programa según su uso para mas comodidad mía, 
+en el espacio 1 terminales, 2 internet, 3 código, 4 archivos, 5 escritura, 6 diseño, 7 lectura, 8 juegos, 9 multimedia, 10 varios.
+
+Cada programa se asigna de acuerdo al nombre de clase que tiene, `assign [class=""] $wsX` donde se debe rellenar el espacio entre comillas con el nombre de la clase del programa y $wsX sera el nombre del espacio de trabajo, algunos tienen debajo `for_window [class=""] focus` esta declaración se hace para que cuando ese programa se abra vayas directamente a el, luego hay programas que necesitan un pequeño fix donde se fuerza mover ventanas secundarias a el mismo espacio de trabajo que la ventana principal de ese programa, en el ejemplo se ve el caso con Inkscape.
 
 ![Reload, restart y salir](/images/2021-03-15-i3config-11.png)
 
-En esta imagen se ven accesos directos para recargar el archivo de configuracion de i3 `Win+Shift+c`, para reiniciar i3 `Win+Shift+r`, y para cerrar la sesion `Win+Shift+e`.
+En esta imagen se ven accesos directos para recargar el archivo de configuración de i3 `Win+Shift+c`, para reiniciar i3 `Win+Shift+r`, y para cerrar la sesión `Win+Shift+e`.
 
-Mas abajo la configuracion para el modo de redimension de ventanass y su correspondiente acceso directo `Win+r`.
+Mas abajo la configuración para el modo de redimensión de ventanas y su correspondiente acceso directo `Win+r`.
 
 ~~~
 # reload the configuration file
@@ -362,7 +408,7 @@ bindsym $mod+r mode "resize"
 
 Por ultimo declaramos donde y como se va a ver la barra y el acceso directo para mostrarla o no, `Win+m`.
 
-Esta ultima parte solo la deje asi, venia en la configuracion inicial.
+Esta ultima parte solo la deje así, venia en la configuración inicial.
 
 ~~~
 
@@ -460,4 +506,4 @@ Es para configurar el modo gap, los espacios entre ventanas.
 ![Gaps](/images/2021-03-15-i3config-13.png)
 ![Gaps](/images/2021-03-15-i3config-14.png)
 
-Esto seguramente fue tedioso de leer para ti, imaginate cuanto fue para mi escribirlo... pero ya esta listo, en breve vamos a iniciar con los programas mencionados entre la configuracion y algunos otros.
+Esto seguramente fue tedioso de leer para ti, imaginate cuanto fue para mi escribirlo... pero ya esta listo, en breve vamos a iniciar con los programas mencionados entre la configuración y algunos otros.

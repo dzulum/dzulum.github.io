@@ -62,21 +62,25 @@ body {
     flex-wrap: wrap;
     opacity:0.95; filter:alpha(opacity=95);
 }
-
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-    -ms-flex: 35%; /* IE10 */
-    flex: 35%;
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
     background-color: #000;
-    padding: 15px;
+    padding: 5px;
     color: white;
 }
 
 /* Main column */
 .main {   
-    -ms-flex: 70%; /* IE10 */
-    flex: 70%;
+    -ms-flex: 75%; /* IE10 */
+    flex: 75%;
     background-color: #222;
     padding: 20px;
     color: silver;
@@ -135,14 +139,12 @@ a:hover{
     color:darkred;
 }
 P:first-letter {
-	font-size: 120%;
-	color: #600;
+	font-size: 180%;
+	color: #aaa;
 	font-weight: Lighter;
 	font-family: AnglicanText;
-	text-shadow: 2px 2px 1px red;
+	text-shadow: 0px 0px 5px red;
 	}
-	/*.atag{background-color: darkred;color: white;}
-	.atag:hover{background-color: black;color: red;}*/
 code, .language-plaintext, .highlighter-rouge, .highlight{
 
     background-color: black;
