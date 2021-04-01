@@ -1,0 +1,124 @@
+I"�!<p>Saludos desde el mas allá…</p>
+
+<p>Este documento y los siguientes de la serie no pretenden (tampoco yo) ser la verdad absoluta en el mundo del aprendizaje de desarrollo y maquetación de sitios web, si bien mi diseño puede ser incomodo a la vista también lo es el contenido, así que, úsalo como mejor entienda tu cabeza y al igual que yo, mantente curioso y aprende todo lo que se te atraviese, ser autodidacta es la mejor forma de superarte a ti mismo.</p>
+
+<p>Dicho esto vamos a la historia del lenguaje.</p>
+
+<p>Pero eso lo vas a leer acá:</p>
+
+<ul>
+  <li><a href="https://es.wikipedia.org/wiki/HTML">HTML Wikipedia</a></li>
+  <li><a href="https://www.w3.org/html/">W3C</a></li>
+  <li><a href="https://html.spec.whatwg.org/multipage/">Whathwg</a></li>
+  <li><a href="https://w3c.github.io/html/">Github Repo (Mirror del anterior)</a></li>
+</ul>
+
+<p>Bien, ahora vamos por la lista de materiales necesarios para ir iniciando en este mundillo (de dolores de cabeza y) de lenguaje de etiquetas.</p>
+
+<p><strong>Lista de materiales</strong></p>
+
+<ul>
+  <li>Una PC (no importa el sistema operativo instalado en esta).</li>
+  <li>Un editor de texto plano (Universalmente recomiendo Sublime es de prueba pero para los 3 sistemas mas conocidos Win, Mac y *nix).</li>
+  <li>Un navegador de internet.</li>
+  <li>Muchas ganas de aprender.</li>
+</ul>
+
+<p>Espero que hayas leído, porque no voy a explicar mucho, solo pondré ejemplos y te diré que hacen.</p>
+
+<p>Un documento HTML tiene una sintaxis básica que debe seguirse si o si, son una serie de etiquetas que componen de manera básica el documento en cuestión y por ende lo van estructurando.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;HTML&gt;
+	&lt;HEAD&gt;
+		&lt;TITLE&gt;&lt;/TITLE&gt;
+	&lt;/HEAD&gt;
+&lt;BODY&gt;
+
+&lt;/BODY&gt;
+&lt;/HTML&gt;
+</code></pre></div></div>
+
+<p>Estas lineas son las mas básicas en la creación de un documento HTML, y explicando el código como siempre hago o intento hacer la etiqueta <code class="language-plaintext highlighter-rouge">&lt;HTML&gt;</code> le dice al navegador que tipo de documento es el que esta leyendo, después se abre <code class="language-plaintext highlighter-rouge">&lt;HEAD&gt;</code> ahí va todo el contenido que no es visible ante tus ojos cuando navegas en un sitio web, exceptuando el titulo que se encuentra entre las etiquetas <code class="language-plaintext highlighter-rouge">&lt;TITLE&gt;&lt;/TITLE&gt;</code> y el icono que algunos sitios utilizan <code class="language-plaintext highlighter-rouge">favicon.ico</code>.</p>
+
+<p>Más abajo vemos las etiquetas <code class="language-plaintext highlighter-rouge">&lt;BODY&gt;&lt;/BODY&gt;</code> que son las que encapsulan el cuerpo de nuestro documento HTML y por ultimo el cierre de la etiqueta <code class="language-plaintext highlighter-rouge">&lt;HTML&gt;</code> que indica el final de el documento actual.</p>
+
+<p>Todo aquello que sera visible en nuestro documento se encuentra en el BODY, el HEAD sirve para definir algunas cosas, como el lenguaje en el que estará escrito nuestro documento <code class="language-plaintext highlighter-rouge">&lt;HTML lang="es"&gt;</code> para español por ejemplo, los estilos para no estar escribiendo el estilo de cada elemento, las meta-tags que son información adicional de nuestro sitio para el navegador, e incluso llamadas a archivos de estilos, fuentes y otros aunque no estén alojados junto a nuestro documento HTML.</p>
+
+<p>Ahora que tienes esta pequeña reseña vamos a hacer un ejercicio muy básico.</p>
+
+<p>Abre tu editor de texto y copia y pega el código de arriba, o si lo prefieres escribelo para irte acostumbrando a abrir y cerrar etiquetas, ya que es fundamental, todas las etiquetas de HTML llevan cierres, exceptuando unas cuantas <code class="language-plaintext highlighter-rouge">&lt;IMG&gt;, &lt;HR&gt;, &lt;BR&gt;</code> por ejemplo.</p>
+
+<p>Ahora vamos a escribir dentro de las etiquetas de BODY.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Este es un texto normal.&lt;br&gt;
+Este es un texto un poco mas largo, pero que no deja de ser normal.&lt;br&gt;
+
+&lt;p&gt;
+Ahora esto es un parrafo, que tambien puede cortar sus lineas con un break&lt;br&gt;
+pero sigue su formato hasta cerrarse.&lt;/p&gt;
+
+Y por último un &lt;a href="#"&gt;Enlace&lt;/a&gt; que no lleva a ningún lugar.
+</code></pre></div></div>
+
+<p>De acuerdo al editor de texto que estés utilizando deberás guardar con extensión o no el archivo.</p>
+
+<p>Para que vayas sabiendo que es cada etiqueta te explico a grandes rasgos, <code class="language-plaintext highlighter-rouge">&lt;BR&gt;</code> es un break, rompe la linea actual e inicia otra, puede usarse incluso con solo un carácter por detrás <code class="language-plaintext highlighter-rouge">1&lt;br&gt;</code> o <code class="language-plaintext highlighter-rouge">-&lt;br&gt;</code> harán lo mismo, los párrafos se encierran entre las etiquetas <code class="language-plaintext highlighter-rouge">&lt;p&gt;&lt;/p&gt;</code> inician en la primer etiqueta y obviamente terminan en la que tiene <code class="language-plaintext highlighter-rouge">/</code> slash.</p>
+
+<p>La etiqueta mas interesante de este ejercicio es la etiqueta <code class="language-plaintext highlighter-rouge">&lt;a&gt;&lt;/a&gt;</code> (antes de esto te habrás dado cuenta que use mayúsculas al inicio y ahora minúsculas, bien, es a propósito, porque para HTML es indiferente) esta etiqueta tiene varios atributos que pueden ser utilizados.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="#"&gt;Enlace Normal&lt;/a&gt;
+&lt;a href="#" target="_blank"&gt;Enlace abierto en página nueva&lt;/a&gt;
+&lt;a href="#Ancla"&gt;Enlace a una sección de la pagina actual llamada #Ancla&lt;/a&gt;
+&lt;a href="#" title="Descripción del enlace"&gt;Enlace&lt;/a&gt;
+</code></pre></div></div>
+
+<p>Y lo mejor es que si quieres usar todos los atributos juntos los puedes usar sin problema alguno.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="#Ancla" target="_blank" title="Descripción"&gt;Enlace&lt;/a&gt;
+</code></pre></div></div>
+
+<p>Ahora ¿como es que una pagina lleva a otra? pues en el contenido del enlace en el atributo <code class="language-plaintext highlighter-rouge">href=""</code> debes escribir a donde quieres ir, por ejemplo, si tienes en una carpeta varios archivos puedes enlazarlos todos entre si escribiendo un código que deberás insertar en todas las paginas de la carpeta mira el codigo de ejemplo.</p>
+
+<p>Su pongamos que en tu carpeta de trabajo tienes los siguientes archivos:</p>
+
+<ul>
+  <li>index.html (La entrada de tu sitio)</li>
+  <li>sobremi.html (Una descripción de quien eres y a que te dedicas)</li>
+  <li>productos.html (Porque ahí anuncias lo que vendes)</li>
+  <li>contacto.html (Seguro querrás que alguien se comunique contigo)</li>
+  <li>servicios.html (Quizá aparte de productos vendes servicios)</li>
+</ul>
+
+<p>Bien si eso es la estructura de tu carpeta debes enlazar todo, vamos a escribir ese código.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="index.html"&gt;Inicio&lt;/a&gt;
+&lt;a href="sobremi.html"&gt;Sobre Mí&lt;/a&gt;
+&lt;a href="productos.html"&gt;Productos&lt;/a&gt;
+&lt;a href="servicios.html"&gt;Servicios&lt;/a&gt;
+&lt;a href="contacto.html"&gt;Contacto&lt;/a&gt;
+</code></pre></div></div>
+
+<p>Ahora ese mismo código debe estar presente en todas las paginas de tu carpeta, esto para que el usuario pueda navegar entre todas las secciones de tu sitio web.</p>
+
+<p>Bien, hasta aquí creo que no hay ningún motivo para pensar que HTML es difícil de aprender, vamos a escribir nuestra primer página completa y después vamos a explicar un poco más el código.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;HTML&gt;
+	&lt;HEAD&gt;
+		&lt;TITLE&gt;Titulo bien shidoris&lt;/TITLE&gt;
+	&lt;/HEAD&gt;
+&lt;BODY&gt;
+&lt;h1&gt;Encabezado chinwenwenchon&lt;/h1&gt;
+&lt;p&gt;
+Bienvenido a mi primer página en HTML ese Sicker me anda enseñando.
+&lt;/p&gt;
+&lt;p&gt;Espero que seas buen alumno y aprendas rápido y sin complicaciones.&lt;/p&gt;
+&lt;/BODY&gt;
+&lt;/HTML&gt;
+</code></pre></div></div>
+
+<p>Código:<br />
+<img src="/images/html1.png" alt="HTML" /></p>
+
+<p>Navegador:<br />
+<img src="/images/html1-1.png" alt="HTML" /></p>
+:ET
