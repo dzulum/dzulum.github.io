@@ -1,3 +1,10 @@
+---
+layout: post
+date 2021-06-12 00:00:00 -0600
+tags: relato
+title: María, la niña que jugaba en el cementerio.
+---
+
 # María: La niña que jugaba en el cementerio
 
 **Autor: Grey Wolf. (J. David Guardado L.).**  

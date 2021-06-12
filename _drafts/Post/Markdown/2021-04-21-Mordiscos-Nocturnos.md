@@ -1,3 +1,10 @@
+---
+layout: post
+date 2021-04-21 18:32:00 -0600
+tags: relato
+title: Mordiscos Nocturnos
+---
+
 # Mordiscos Nocturnos 
 
 Se confundía en las sombras de la callejuela, convirtiéndose en una

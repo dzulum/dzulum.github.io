@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-04-21 21:24:00 -0600
+tags: relato
+title: A los pies de la cama
+---
+
 # A LOS PIES DE LA CAMA
 
 Red y Sadie entraron en la habitación de su hijo al escuchar los

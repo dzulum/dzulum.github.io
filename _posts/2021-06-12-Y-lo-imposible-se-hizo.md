@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-12 00:00:00 -0600
+tags: relato
+title: Y lo imposible se hizo
+---
+
 # Y lo imposible se hizo.
 
 La momia se encontró en una mastaba de Egipto, era una momia de niño.

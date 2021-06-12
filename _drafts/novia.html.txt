@@ -1,9 +1,8 @@
-                      La Leyenda De La Novia sin Cabeza
-                                [barbed.gif]
-   La Leyenda De La Novia sin Cabeza
-                     Artículo de Juan José Toro Montoya,
-                  tomado del periódico Los Tiempos Digital,
-                          lunes 2 de agosto de 1998
+# La Leyenda De La Novia sin Cabeza
+
+**Artículo de Juan José Toro Montoya,**  
+**tomado del periódico Los Tiempos Digital,**  **lunes 2 de agosto de 
+1998
    ¿Quién se atrevería a desafiar el frío que se apodera de las calles
    potosinas en las noches de invierno? Las bajas temperaturas recluyen a
    las personas en sus viviendas mientras el "chirihuayrita" se pasea

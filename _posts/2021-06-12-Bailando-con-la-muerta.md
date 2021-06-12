@@ -1,6 +1,13 @@
+---
+layout: post
+date 2021-06-12 00:00:00 -0600
+tags: relato
+title: Bailando con la muerta
+---
+
 # Bailando con la muerta
 
-Los Nombres fueron cambiados para protejer a los inocentes, cualquier
+Los Nombres fueron cambiados para proteger a los inocentes, cualquier
 coincidencia con la realidad es pura ¿casualidad?...
 
 -¿Qué onda? Mi "Chido", ¿qué ha habido?, ¡Oye, ya supiste lo del
