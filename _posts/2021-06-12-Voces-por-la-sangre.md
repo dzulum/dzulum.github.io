@@ -1,8 +1,8 @@
 ---
 layout: post
-date 2021-06-12 00:00:00 -0600
+date 2021-06-12 00:00:02 -0600
 tags: relato
-title: Voces: por la sangre
+title: "Voces por la sangre"
 ---
 
 # Voces: Por la sangre

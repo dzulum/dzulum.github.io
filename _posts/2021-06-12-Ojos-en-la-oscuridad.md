@@ -1,8 +1,8 @@
 ---
 layout: post
-date 2021-06-12 00:00:00 -0600
+date 2021-06-12 00:03:00 -0600
 tags: relato
-title: Ojos en la oscuridad
+title: "Ojos en la oscuridad"
 ---
 
 # Ojos en la Oscuridad

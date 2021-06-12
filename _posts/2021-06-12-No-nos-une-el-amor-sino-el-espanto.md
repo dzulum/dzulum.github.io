@@ -1,8 +1,8 @@
 ---
 layout: post
-date 2021-06-12 00:00:00 -0600
+date 2021-06-12 00:04:00 -0600
 tags: relato
-title: No nos une el amor sino el espanto
+title: "No nos une el amor sino el espanto"
 ---
 
 # No nos une el amor sino el espanto
