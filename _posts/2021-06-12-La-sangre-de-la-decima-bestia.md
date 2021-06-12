@@ -1,6 +1,6 @@
 ---
 layout: post
-date 2021-06-12 00:00:00 -0600
+date: 2021-06-12 00:00:00 -0600
 tags: relato
 title: La sangre de la décima bestia
 ---
