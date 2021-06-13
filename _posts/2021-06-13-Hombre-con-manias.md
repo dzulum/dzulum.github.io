@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:05 -0600
+tags: bloch
+title: Hombre con manias
+---
+
 # Hombre con manías
 
    **Autor: Robert Bloch**

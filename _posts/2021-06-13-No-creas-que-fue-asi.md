@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:10 -0600
+tags: relato
+title: No creas que fue así
+---
+
 # No creas que fue así
 
 **AUTOR: Fernando (FERNAT)**

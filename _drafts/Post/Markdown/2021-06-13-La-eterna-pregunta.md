@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:04 -0600
+tags: relato
+title: La eterna pregunta
+---
+
 # LA ETERNA PREGUNTA
 
 El muchacho llego a aquel pueblo por la mañana, y al bajarse del auto bus y pisar el suelo por primera vez, tuvo la extraña sensación de haber estado ahí antes.

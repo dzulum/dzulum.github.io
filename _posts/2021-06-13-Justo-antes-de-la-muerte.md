@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:07 -0600
+tags: relato
+title: Justo antes de la muerte
+---
+
 # Justo antes de la muerte
 
 Muchos nos hemos preguntado que sucede después de la muerte, quizás

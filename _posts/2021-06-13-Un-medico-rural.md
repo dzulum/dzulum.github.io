@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:01 -0600
+tags: relato
+title: Un médico rural
+---
+
 # UN MÉDICO RURAL
 
 **Autor: Franz Kafka.**

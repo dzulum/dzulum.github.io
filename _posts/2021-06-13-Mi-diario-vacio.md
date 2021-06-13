@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-13 00:00:09 -0600
+tags: relato
+title: Mi diario vacío
+---
+
 # : MI DIARIO VACÍO
 X / Y / Z : Hoy la vi en el parque, me sobrecogió aquella fotografía,
 jamás me imaginé que pasase por allí, nunca la gustó la naturaleza
