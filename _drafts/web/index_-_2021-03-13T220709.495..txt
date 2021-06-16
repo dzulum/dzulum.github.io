@@ -1,0 +1,201 @@
+   .
+   [cerrarpopup.png]
+
+   [audio_off.png]
+   [1][hora.png] [2][esquela.png] [3][amenazas.png] [4][leyendas.png]
+   [5][almas.png] [6][foro.png]
+   [7][bt_registrarse.jpg]
+      Usuario:
+   _________
+   Contraseña:
+   _________
+   Ingresar
+
+Mr. Mix
+
+   por BellaThorne
+   ¿Alguien recuerda un viejo juego de PC de la década de 1990 llamado
+   "Mix señor?'' Es principalmente un juego que mecanografía, similar a
+   Mario enseña mecanografía, donde usted tiene que escribir las palabras
+   en una caja para hacer un chef (el titular Mix Sr. ) poner los
+   ingredientes en un tazón.
+   A diferencia de la mayoría de juegos de escritura, sin embargo, este
+   juego es famoso por tener una curva de dificultad demencial. El juego
+   tiene un "palabras por minuto" requisito para cada nivel, al ser tan
+   bajo como 10 en el nivel uno y un máximo de 85 en el tercero. Por nivel
+   cinco, el requisito llega a más de 500, por lo que es efectivamente
+   imposible seguir adelante.
+   Una de las principales cosas que la gente cuenta sobre este juego,
+   inmediatamente fue la música de fondo. La música en el primer nivel era
+   un patrón inquietante de gruñidos que iba haciéndose cada vez más
+   fuerte como el nivel continuó, a menudo causando daños en los altavoces
+   del ordenador primeros que no fueron diseñados para manejar volúmenes
+   muy altos de sonido.
+   El segundo nivel tenía ninguna música en absoluto, y el tercero tenía
+   lo que parecía ser una grabación de muy baja calidad de un secador de
+   pelo que juega en el fondo. Los otros dos niveles tenían una muy fuerte
+   y agudo zumbido en todo el nivel que causó graves daños en el tímpano
+   para los que lograron llegar tan lejos.
+   Otro aspecto inquietante del juego fue el diseño del propio Sr. Mix.
+   Era un grande, de cara redonda, el hombre gordo con grandes ojos
+   redondos y brillantes y manchas rojas en las mejillas.
+   La mayoría de los niños que las reglas del juego informaron tener
+   pesadillas vívidas de Mr. Mix hablándoles en voz baja, ronca y
+   amenazándolos de no hablar de algo. Sin embargo, ninguno de ellos pudo
+   recordar exactamente lo que era.
+   Un psicólogo que vio a muchos de estos niños reportaron haber sido
+   perturbado por la gran cantidad de terror en los rostros de los niños
+   mientras relataba los detalles de la pesadilla.
+   Muchos de los niños rompieron a llorar en el proceso, rogando por sus
+   padres para "salvarlos". Sin embargo, sin relación directa con el juego
+   en sí mismo podría ser determinado por estos pocos casos, como no todos
+   los niños que sufren los mismos efectos adversos.
+   Por razones obvias, este juego no se vendió muy bien. Se mantuvo en una
+   relativa oscuridad hasta hace unos años, cuando los hackers PC
+   apoderado de una ROM del juego y empezó a cavar a través de él.
+   Uso de software de memoria de hacking, lograron descifrar el código del
+   juego sin pasar por el quinto nivel imposible. Lo que encontraron, sin
+   embargo, era extremadamente preocupante y ha causado muchos de ellos a
+   abandonar la expedición por completo.
+   De acuerdo con los informes de estos hackers dejaron atrás, el juego se
+   comporta de manera extraña si el quinto nivel se pasa por alto. El
+   juego se bloquea y se cierra violentamente, escribiendo un montón de
+   archivos en el directorio System32 del usuario hasta el punto de que la
+   RAM se llena casi por completo.
+   Estos archivos son los informes, cuadros de la gente con rostros
+   horriblemente deformados, que aparecen a gritar de dolor y agonía con
+   los ojos que parece estar sangrando por sus conductos lacrimales y su
+   capa externa de la piel desgarrada limpiar en varios lugares.
+   Si el usuario intenta eliminar estos archivos, el ordenador se
+   bloqueará y violentamente pantalla azul, causando un daño irreparable
+   permanente en el disco duro del usuario.
+   Los hackers descubrieron que esto fue causado por un byte único en la
+   ROM del juego que desencadenó cuando el quinto nivel se ha completado.
+   Después de eliminar este byte, que fueron capaces de pasar al siguiente
+   nivel sexta y final.
+   Por desgracia, todos los hackers originales se negó a discutir lo que
+   vieron en el último nivel. Todos ellos llegaron a ser extremadamente
+   paranoico y solitario, negándose a hablar de cualquier cosa relacionada
+   con el juego y muestra síntomas asombrosamente extremas de estrés
+   post-traumático.
+   La mayoría de ellos dejaron de ser capaz de formar frases coherentes
+   dentro de una semana, y dentro de un mes, todos ellos desaparecieron.
+   Todas las copias restantes del partido fueron destruidos.
+   A día de hoy, nadie sabe lo que había en ese juego que les causó daño
+   psicológico tanto. Tal vez sea mejor así.
+   Dos años después de este incidente, un hombre fue arrestado después de
+   intentar secuestrar a una niña de ocho años en una tienda de
+   comestibles. A través de análisis de ADN y huellas digitales, el hombre
+   fue identificado como uno de los hackers originales que vieron el
+   último nivel del juego.
+   Llevaba un sombrero blanco de chef y tenía una mirada de inefable
+   maldad y la locura en la cara. Cuando fue interrogado, el hombre se
+   limitó a decir una cosa.
+   "Soy Mr.Mix. Shhh"...
+   Foto: Mr Mix <br /> <br /> ¿Alguien recuerda un viejo juego de PC de la
+   década de 1990 llamado "Mix señor?'' Es principalmente un juego que
+   mecanografía, similar a Mario enseña mecanografía, donde usted tiene
+   que escribir las palabras en una caja para hacer un chef (el titular
+   Mix Sr. ) poner los ingredientes en un tazón. <br /> A diferencia de la
+   mayoría de juegos de escritura, sin embargo, este juego es famoso por
+   tener una curva de dificultad demencial. El juego tiene un "palabras
+   por minuto" requisito para cada nivel, al ser tan bajo como 10 en el
+   nivel uno y un máximo de 85 en el tercero. Por nivel cinco, el
+   requisito llega a más de 500, por lo que es efectivamente imposible
+   seguir adelante. <br /> <br /> Una de las principales cosas que la
+   gente cuenta sobre este juego, inmediatamente fue la música de fondo.
+   La música en el primer nivel era un patrón inquietante de gruñidos que
+   iba haciéndose cada vez más fuerte como el nivel continuó, a menudo
+   causando daños en los altavoces del ordenador primeros que no fueron
+   diseñados para manejar volúmenes muy altos de sonido. <br /> <br /> El
+   segundo nivel tenía ninguna música en absoluto, y el tercero tenía lo
+   que parecía ser una grabación de muy baja calidad de un secador de pelo
+   que juega en el fondo. Los otros dos niveles tenían una muy fuerte y
+   agudo zumbido en todo el nivel que causó graves daños en el tímpano
+   para los que lograron llegar tan lejos. <br /> <br /> Otro aspecto
+   inquietante del juego fue el diseño del propio Sr. Mix. Era un grande,
+   de cara redonda, el hombre gordo con grandes ojos redondos y brillantes
+   y manchas rojas en las mejillas. <br /> <br /> La mayoría de los niños
+   que las reglas del juego informaron tener pesadillas vívidas de Mr. Mix
+   hablándoles en voz baja, ronca y amenazándolos de no hablar de algo.
+   Sin embargo, ninguno de ellos pudo recordar exactamente lo que era. <br
+   /> <br /> Un psicólogo que vio a muchos de estos niños reportaron haber
+   sido perturbado por la gran cantidad de terror en los rostros de los
+   niños mientras relataba los detalles de la pesadilla. <br /> <br />
+   Muchos de los niños rompieron a llorar en el proceso, rogando por sus
+   padres para "salvarlos". Sin embargo, sin relación directa con el juego
+   en sí mismo podría ser determinado por estos pocos casos, como no todos
+   los niños que sufren los mismos efectos adversos. <br /> <br /> Por
+   razones obvias, este juego no se vendió muy bien. Se mantuvo en una
+   relativa oscuridad hasta hace unos años, cuando los hackers PC
+   apoderado de una ROM del juego y empezó a cavar a través de él. <br />
+   <br /> Uso de software de memoria de hacking, lograron descifrar el
+   código del juego sin pasar por el quinto nivel imposible. Lo que
+   encontraron, sin embargo, era extremadamente preocupante y ha causado
+   muchos de ellos a abandonar la expedición por completo. <br /> <br />
+   De acuerdo con los informes de estos hackers dejaron atrás, el juego se
+   comporta de manera extraña si el quinto nivel se pasa por alto. El
+   juego se bloquea y se cierra violentamente, escribiendo un montón de
+   archivos en el directorio System32 del usuario hasta el punto de que la
+   RAM se llena casi por completo. <br /> <br /> Estos archivos son los
+   informes, cuadros de la gente con rostros horriblemente deformados, que
+   aparecen a gritar de dolor y agonía con los ojos que parece estar
+   sangrando por sus conductos lacrimales y su capa externa de la piel
+   desgarrada limpiar en varios lugares. <br /> <br /> Si el usuario
+   intenta eliminar estos archivos, el ordenador se bloqueará y
+   violentamente pantalla azul, causando un daño irreparable permanente en
+   el disco duro del usuario. <br /> <br /> Los hackers descubrieron que
+   esto fue causado por un byte único en la ROM del juego que desencadenó
+   cuando el quinto nivel se ha completado. Después de eliminar este byte,
+   que fueron capaces de pasar al siguiente nivel sexta y final. <br />
+   <br /> Por desgracia, todos los hackers originales se negó a discutir
+   lo que vieron en el último nivel. Todos ellos llegaron a ser
+   extremadamente paranoico y solitario, negándose a hablar de cualquier
+   cosa relacionada con el juego y muestra síntomas asombrosamente
+   extremas de estrés post-traumático. <br /> <br /> La mayoría de ellos
+   dejaron de ser capaz de formar frases coherentes dentro de una semana,
+   y dentro de un mes, todos ellos desaparecieron. Todas las copias
+   restantes del partido fueron destruidos. <br /> <br /> A día de hoy,
+   nadie sabe lo que había en ese juego que les causó daño psicológico
+   tanto. Tal vez sea mejor así. <br /> <br /> Dos años después de este
+   incidente, un hombre fue arrestado después de intentar secuestrar a una
+   niña de ocho años en una tienda de comestibles. A través de análisis de
+   ADN y huellas digitales, el hombre fue identificado como uno de los
+   hackers originales que vieron el último nivel del juego. <br /> <br />
+   Llevaba un sombrero blanco de chef y tenía una mirada de inefable
+   maldad y la locura en la cara. Cuando fue interrogado, el hombre se
+   limitó a decir una cosa. <br /> <br /> "Soy Mr.Mix. Shhh"...
+
+   Temas relacionados
+   [8]Mr. Mix cocina gritos
+     __________________________________________________________________
+
+   No hay comentarios a mostrar
+
+   [9]Estasmuerto.com
+
+   [10]Aviso Legal Designed by [11]F.A.C. ©Copyright 2002-2021
+
+   Estasmuerto.com es una página de entretenimiento, y como tal se ha de
+   tomar. Estasmuerto.com no se responsabiliza del uso que se dé de esta
+   web, siendo responsabilidad última del usuario.
+
+References
+
+   Visible links:
+   1. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=tuhora
+   2. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=esquela
+   3. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=amenazas
+   4. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=leyendas
+   5. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=almas
+   6. file:///home/sicker/Downloads/web/index_-_2021-03-13T220709.495.html?L=foro&forumcall=index.php
+   7. http://www.estasmuerto.com//index.php?action=register
+   8. http://www.estasmuerto.com/index.php?L=resultadosleyenda&palabra=Mr.%20Mix%20cocina%20gritos
+   9. http://www.estasmuerto.com/
+  10. file:///home/sicker/Downloads/web/index.php?L=legal
+  11. http://fixandchips.es/
+
+   Hidden links:
+  13. http://ads.boom.es/www/delivery/ck.php?n=a7ce30e1&cb=INSERT_RANDOM_NUMBER_HERE
+  14. http://ads.boom.es/www/delivery/ck.php?n=a391a403&cb=INSERT_RANDOM_NUMBER_HERE
+  15. http://ads.boom.es/www/delivery/ck.php?n=a3fef439&cb=INSERT_RANDOM_NUMBER_HERE
