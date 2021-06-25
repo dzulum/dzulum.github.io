@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-25 13:57:00 -0600
+tags: lovecraft
+title: Las legiones de la tumba
+---
+
 # Las legiones de la tumba
 
 **Autor: Howard Phillips Lovecraft.**

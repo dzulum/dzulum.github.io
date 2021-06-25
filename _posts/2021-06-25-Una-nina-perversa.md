@@ -1,3 +1,11 @@
+---
+layout: post
+date: 2021-06-25 13:55:00 -0600
+tags: relato
+title: Una niña perversa
+---
+
+
 # Una niña perversa
 
 Esta tarde empujé a Arturo a la fuente. Cayó en ella y se puso a hacer

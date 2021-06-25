@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-06-25 14:01:00 -0600
+tags: relato
+title: La mansión de la colina
+---
+
 # La mansión de la colina
 
 **(Dedicado a Randolph Carter)**
