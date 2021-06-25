@@ -81,3 +81,55 @@
   - name: anime-vamps.jpg
     thumb: thumb-anime-vamps.jpg
     text: Vampiros
+- id: zing
+  description: Galeria de Zings para el blog
+  imagefolder: /images/zing
+  images:
+  - name: portada.jpeg
+    thumb: portada-thumb.jpeg
+    text: Dzulum
+  - name: img.jpeg
+    thumb: img-thumb.jpeg
+    text: Zing
+  - name: img0.jpeg
+    thumb: img0-thumb.jpeg
+    text: Zing
+  - name: img1.jpeg
+    thumb: img1-thumb.jpeg
+    text: Zing
+  - name: img2.jpeg
+    thumb: img2-thumb.jpeg
+    text: Zing
+  - name: img3.jpeg
+    thumb: img3-thumb.jpeg
+    text: Zing
+  - name: img4.jpeg
+    thumb: img4-thumb.jpeg
+    text: Zing
+  - name: img5.jpeg
+    thumb: img5-thumb.jpeg
+    text: Zing
+  - name: img6.jpeg
+    thumb: img6-thumb.jpeg
+    text: Zing
+  - name: img7.jpeg
+    thumb: img7-thumb.jpeg
+    text: Zing
+  - name: img8.jpeg
+    thumb: img8-thumb.jpeg
+    text: Zing
+  - name: img9.jpeg
+    thumb: img9-thumb.jpeg
+    text: Zing
+  - name: img10.jpeg
+    thumb: img10-thumb.jpeg
+    text: Zing
+  - name: img11.jpeg
+    thumb: img11-thumb.jpeg
+    text: Zing
+  - name: img12.jpeg
+    thumb: img12-thumb.jpeg
+    text: Zing
+  - name: img13.jpeg
+    thumb: img13-thumb.jpeg
+    text: Zing
