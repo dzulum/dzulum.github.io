@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-07-05 18:47:00
+tags: relato
+title: La hija del enterrador
+---
+
 # LA HIJA DEL ENTERRADOR
 
 Era un día frío y ventoso. El aire ondulaba los árboles que se

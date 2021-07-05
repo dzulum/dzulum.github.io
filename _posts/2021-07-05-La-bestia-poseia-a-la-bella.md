@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-07-05 18:56:00
+title: La bestia poseia a la bella
+---
+
 # La Bestia poseía a la Bella
 
 **Autor: Inaseres Gomez**

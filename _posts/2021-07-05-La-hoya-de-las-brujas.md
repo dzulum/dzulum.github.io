@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-07-05 18:53:00
+tags: lovecraft
+title: La hoya de las brujas
+---
+
 # La Hoya de las Brujas
 
 **H. P. Lovecraft y A. Derleth**
