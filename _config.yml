@@ -11,6 +11,8 @@ description: Desearas Morir.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/dzulum/dzulum.github.io/master/images/dzulum.jpg
 
+# set timezone
+timezone: America/Mexico_City
 #
 # Flags below are optional
 #
