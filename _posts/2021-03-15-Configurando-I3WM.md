@@ -2,6 +2,7 @@
 layout: post
 date: 2021-03-15 22:00:00 -0600
 tags: tech
+image: /images/2021-03-15-limpio.png
 title: Configurando (ahora si) I3
 ---
 
