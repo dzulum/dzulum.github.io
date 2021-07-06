@@ -12,7 +12,7 @@ layout: default
 
             {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
-                <img {{ html }} />
+                <img {{ html }} width="80%" />
                 {% assign foundImage = 1 %}
             {% endif %}
         {% endif %}
