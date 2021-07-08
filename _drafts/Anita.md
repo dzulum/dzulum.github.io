@@ -1,6 +1,5 @@
 ---
 layout: post
-
 tags: sicker
 date:
 title: Anita
@@ -8,7 +7,7 @@ title: Anita
 
 # Anita
 
-Cierta noche muy fria me encontre con una chica, me encontraba en el estado de puebla, la encontre mientras buscaba algo para cenar, buscaba un sitio donde poder descansar de un largo dia de trabajo, donde en el dia habia hecho bastante calor y apenas callo la noche el clima se volvio frio y con viento.
+Cierta noche muy fría me encontre con una chica, me encontraba en el estado de Puebla, la encontre mientras buscaba algo para cenar, buscaba un sitio donde poder descansar de un largo dia de trabajo, donde en el dia habia hecho bastante calor y apenas callo la noche el clima se volvio frio y con viento.
 
 Encontre un pequeño local donde vendian comida, el sitio parecia tranquilo y no habia mas que una pareja y una chica, esperando sus pedidos, entre al lugar y ordene, lo primero fue una taza de cafe, para entrar en calor, tome asiento en una de las mesas y espere, en la mesa de a lado se encontraba la chica y en la mesa, parecia distraida en su telefono, quiza mensajeaba con alguien, de pronto sin mas guardo su telefono, pense que su orden venia y ya debia irse, no pude evitar mirarla fijamente pues se me hizo atractiva.
 
@@ -36,3 +35,24 @@ Por la noche volvi a casa, estaba muy relajada en ese momento asi que al volver 
 
 Penso que estaba jugando me pidio que me callara, que los dejara descansar, ni me dio tiempo de explicarle, aunque siento que tampoco me habria creido si le hubiera contado lo que sucedio.
 
+Cada día desde entonces han sucedido cosas extrañas en mi habitación, a veces cuando estoy acostada y no siento presencias extrañas puedo conciliar el sueño pronto, pero si siento que hay algo lo más seguro es que algún ser me ataque por la noche, he amanecido con marcas en brazos y piernas, específicamente arañones y moretones, como cuando alguien te aprieta fuerte, a veces solo se escucha como rasguñan debajo de mi cama, no me asomo porque se que no veré nada, nunca hay nada, tampoco cuando tocan mi ventana o cuando se escuchan finas garras a través del cristal, se escuchan los finos rasguños haciendo ese chirrido tan característico.
+
+Cuando terminó de contarme esto yo estaba mirándola y escuchando tan atento que apenas había bebido un poco de café, estaba totalmente hipnotizado por su voz, tenía tantas ganas de seguir escuchando todo aquello que pregunte si tenía más por contarme, ella me miró pensativa.
+
+Prométeme que no te vas a burlar- dijo absolutamente seria -te contaré lo que me ha pasado en estos últimos días.
+
+No me burlaría -conteste- prosigue.
+
+Verás, hace días he visto algunas sombras, siempre que llegó de la calle veo sombras en el patio, en la sala, las veo rondando por los pasillos, pero nunca puedo verlas fijamente, siempre las miro por el rabillo del ojo, a veces están ahí paradas o deambulando alrededor de mí.
+
+No sé que hacer o como contarle a mis padres sobre todo esto que me sucede, ellos no creen en estas cosas, aunque ya han notado cosas extrañas, por ejemplo ese olor nauseabundo que de repente inunda el ambiente por las mañanas, cuando todos desayunamos antes de salir a trabajar, o aquellos ruidos tan extraños cuando no hay nadie más en casa, esos ruidos que escuchamos cuando solo hay una persona en la casa, pasos, los muebles arrastrándose, las monedas que caen al suelo, hasta canicas en el techo, ¿Quien juega canicas en el techo?
+
+Su historia cada vez era más interesante para mí, así que prestaba atención a todo lo que me decía, después de escucharla en silencio por un tiempo más terminé mi taza de café, ella miraba en silencio hacia el vacío, su mirada estaba perdida, como si estuviera recordando todas esas experiencias que desde hacía tiempo sufría dentro de su casa.
+
+De pronto algo nos saco de esa situación, un destello iluminó el cielo y una ráfaga de aire se sintió, después un estruendoso trueno retumbó en el cielo, varios más después de este primero y el aire comenzó a sentirse húmedo, en cualquier momento caería una fuerte lluvia, la mire y ella volteo como adivinando que le diría algo, - debo irme, la lluvia me va a agarrar en el camino- le dije estirando la taza para entregarla- si me permites puedo venir mañana a buscarte- ella tomo la taza y al momento comenzó a llover, -espera a que pase la lluvia- me dijo seria -entra para que no te mojes- solo pude poner como pretexto que pasaría si llegaba alguien y me encontraba ahí adentro con ella, en absoluto nada, respondió.
+
+Abrió la puerta y entramos, la motocicleta se quedó ahí, junto a la puerta, nosotros entramos, caminamos por su oscuro patio, iluminados solo por los destellos de los relámpagos, durante un instante uno de los relámpagos reveló una figura al final del patio, en lo más lejano de la casa, parecía una mujer, una anciana con una larga falda y un chal cubriendo su cabeza, pensé que sería alguien de su familia y no comenté nada, Ana me tomo de la muñeca abruptamente y me jalo hacia ella, ¿la viste? -pregunto con cierta ansiedad- ¿Verdad que la viste también? Volteo a verme con una muñeca de preocupación en la cara, pensé que se refería a la mujer que ví al final del patio y no supe que decir, -la sombra que estaba mirando desde la ventana, ¿La viste? - insistió - mientras apretaba su mano en mi muñeca.
+
+La verdad no la ví - conteste - no es que no quiera creerte, pero estaba distraído viendo el fondo del patio, ví una anciana o una mujer, con falda y chal, su rostro cambio de esa expresión de ansiedad a una de confusión, si más espera entramos directamente a la sala, en el ambiente se sentía un aroma putrefacto, como si hubiera algún animal muerto tirado en algún rincón de la casa, supe que no era normal ese aroma cuando después de encender la luz ella se llevó la mano al rostro cubriéndose la nariz y la boca, me miró con los ojos más abiertos de lo normal y dijo - así no olía cuando entré, seguro hay algo aquí, un gato se habrá metido con un animal - yo sabía que no era así, la pestilencia era demasiada para ser un animal que un gato pudiera meter, apenas estábamos intentando sentarnos en sofá cuando por el pasillo que llevaba a las habitaciones se escucharon pasos, unos lentos y cadenciosos pasos que más que caminar parecían arrastrarse, cada vez más audibles y claros, se acercaban poco a poco y ambos volteamos hacia el pasillo, aque largo pasillo que permanecía en penumbras, la luz de la sala apenas iluminaba la entrada del pasillo, pero el destello de los rayos entraba por las ventanas iluminando una silueta, que se dibujaba entre penumbras y avanzaba hacia nosotros, poco a poco haciendo más sonoros esos pasos disparejos que se arrastraban cada vez más parecidos a pisadas de pezuñas resbalando por el piso que a pies humanos arrastrándose.
+
+Ambos estábamos quietos, observando como aquella figura seguía avanzando, aquellos sonidos inundando el ambiente, aquella pestilencia que se hacía cada vez más nauseabunda, en algún momento la silueta simplemente desapareció del pasillo junto con los ruidos y aquel olor, Ana y yo nos miramos, sabíamos que algo estaba sucediendo, no había dudas de que su historia era real y ella ahora tenía la certeza de que si le creía.
