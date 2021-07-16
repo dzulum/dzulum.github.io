@@ -1,0 +1,21 @@
+---
+layout: post
+tags: relato
+date: 2021-02-09 12:20:00 -0600
+title: Culebrilla 2
+---
+# Continuación: CULEBRILLA
+
+Y desperté aquí, en este hospital señor comisario con usted preguntando si yo estaba drogado y si recordaba algo... Pero el efecto de los calmantes que me suministraron en un primer momento no me permitían contestarle. Ni decirle que todo lo que aparentemente yo había murmurado mientras estuve inconsciente, es decir, trozos de la historia que le acabo de contar,había sido real... Puede preguntarle a los de aquel bar:ellos me vieron irme con el viejo... Y vieron sus llagas también. Se que eso no prueba nada,lo sé... Pero pueden buscar a Doña María en el barrio aquel todos la conocían y no le costará mucho a usted como oficial de policía encontrarla, porque ella aún vive allí, yo la vi, aunque me diga que la única curandera del "Barrio Judío" que ustedes tenían fichada, murió hace años... ¿Me dice que la que vive allí ahora es la nieta con su madre?... Pregúnteles a ellas entonces... Si le dijeron que murió le mintieron. Doña María no murió: yo la ví con mis ojos. Ahora me siento lo suficientemente lúcido para contarle todo esto, aunque le parezca fantástico o increíble. Y le recalco que si bien había bebido esa noche, en ese momento recobré por completo mi lucidez... Sobre todo cuando ví... aquello... Antes de que todo se borrara.¿Es necesario que lo describa de nuevo? Cuando vi... salir del vientre del viejo... "eso"... Era... No sé lo que era...
+
+Pero era realmente espantoso. No podría compararlo con nada que mis ojos hayan visto. Salvo una rara especia de tarántulas que habitan el desierto que ví en cierto documental: color crema y muy peludas, con dos especies de globos viscosos en la base de sus mandíbulas y pelos claros en todo su abdómen blanco... No que fuera exactamente asi pero me causó la misma impresión... Era como... "algo". Algo no natural. Lo pude ver solamente por un segundo... Hizó... explotar la barriga del viejo, y le salieron litros y litros de sangre y supongo también que de vino... Lo abrió todo... Me miró y creo que hasta con curiosidad. Pareció reirse y se esfumó. Contorneó todo su alargado cuerpo, como de serpiente y se esfumó... Como una culebra. Como la vieja. Como todo lo demas. No estoy loco comisario. Despues abrí los y usted y las enfermeras y Blanca me dijeron que habia tenido un accidente de auto, que iba ebrio y choqué contra una columna del alumbrado público. De esto no recuerdo nada. Ni la columna, ni el accidente ni nada. Solo recuerdo lo que le acabo de contar... ¡Es la verdad! Jamás había visto al viejo en mi vida, ni me quizo robar ni nada.
+
+Lo conocí en aquel bar y no sé por qué tuve el impulso irrefrenable de llevarlo con la curandera... Otra cosa no recuerdo. ¡Ah si!
+
+Y un dialogo que escuche aquí en el hospital en un brave lapso de lucidez que me hizo retornar fugazmente de mi inconciencia.
+
+Apenas lo escuche,muy tenuemente pero lo recuerdo,señor comisario. Apenas, casi como a traves de la niebla, casi como en aquellos relatos de gente que regresa de la muerte aunque supe bien después que a pesar de la gravedad del choque el mio no fue el caso
+sino apenas una pérdida de conocimiento...Apenas pero escuche el dialogo. Una era la voz de Blanca,mi novia: -¿Va a estar bien
+doctora...? -No soy doctora... Apenas soy enfermera... Pero si quedate tranquila, va a estar bárbaro... La verdad la sacó barata... ¡Hay que ver como quedo el otro que iba con él!... Fue un choque terrible.
+
+¿Quien sería no? Parece que era un vagabundo... ¿No lo habría querido robar a tu novio?... Bueno, así quedo, pobre... Y esta frase provocó en mi una inmediata reacción. -¿Cómo... por favor, como...? -grité con mis ultimas fuerzas antes de perder nuevamente el conocimiento, con una angustia tan grande que asombró a la enfermera e hizo que Blanca respondiera a mi pregunta, aunque casi supe la respuesta antes de oirla...  -Bueno estaba... Estaba... -y dudó si decírmelo o no pero mi rostro suplicante la obligó a hacerlo: -Estaba...  ¡Estaba partido en dos!

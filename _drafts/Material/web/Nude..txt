@@ -1,0 +1,70 @@
+     * [1]Home
+     * [2]Archive
+     * [3]About
+     * [4]Back to Themes
+
+Nude
+
+A minimalist theme
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+   commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+   velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+   occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+   mollit anim id est laborum.
+   Photo of Marina and a doggy underneath a green tree and backlit by a
+   bright morning sunrise.
+
+   A sample image caption. This is me and a doggy!
+
+   Nulla porttitor massa id neque aliquam vestibulum. Eget dolor morbi non
+   arcu risus quis varius quam quisque. Morbi tristique senectus et netus
+   et malesuada fames ac. Ullamcorper a lacus vestibulum sed arcu.
+   Vulputate ut pharetra sit amet aliquam.
+   A photo of snow and pine trees in a dim purple sunset. A large lake
+   peeks out from behind the trees.
+
+   Cursus turpis massa tincidunt dui ut ornare lectus. Mi bibendum neque
+   egestas congue quisque. Donec et odio pellentesque diam. Magnis dis
+   parturient montes nascetur ridiculus mus mauris. Ut enim blandit
+   volutpat maecenas volutpat blandit. Facilisi cras fermentum odio eu. A
+   scelerisque purus semper eget duis. Iaculis at erat pellentesque
+   adipiscing commodo elit at imperdiet. Ac feugiat sed lectus vestibulum
+   mattis ullamcorper velit sed. Montes nascetur ridiculus mus mauris
+   vitae ultricies leo integer malesuada. Suspendisse sed nisi lacus sed
+   viverra tellus in.
+     __________________________________________________________________
+
+An Example List of Desserts:
+
+    1. Chocolate cake
+    2. Flan
+    3. A healthy apple
+    4. Sandwich (of the ice cream variety)
+
+   Placerat orci nulla pellentesque dignissim enim sit amet venenatis
+   urna. Neque egestas congue quisque egestas diam. Consequat semper
+   viverra nam libero justo laoreet. Urna molestie at elementum eu
+   facilisis sed odio morbi. Ac auctor augue mauris augue neque gravida in
+   fermentum. Ipsum suspendisse ultrices gravida dictum fusce ut placerat
+   orci.
+   [5]« Next Post | [6]Home | [7]Previous Post »
+     __________________________________________________________________
+
+   Zonelets.net is written by [8]Marina Kittaka, built with [9]Zonelets,
+   and hosted by [10]Neocities!
+
+References
+
+   1. https://zonelets.net/index.html
+   2. https://zonelets.net/archive.html
+   3. https://zonelets.net/about.html
+   4. https://zonelets.net/posts/2020-11-08-Theme-Gallery.html
+   5. https://zonelets.net/posts/2020-11-09-Y2K.html
+   6. https://zonelets.net/index.html
+   7. https://zonelets.net/posts/2020-11-10-Hiking-Shoes.html
+   8. https://twitter.com/even_kei
+   9. https://zonelets.itch.io/zonelets
+  10. https://neocities.org/

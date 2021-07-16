@@ -1,0 +1,538 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.or
+g/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TradeDoubler site verification 1695487 -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="verify-v1" content="D5SETcUDl0Eb/CMD4Jg86Nk99T8rESYuvLAvtDR9gog=" />
+<meta property="og:image" content="http://www.estasmuerto.com/img/logo_pie.gif"
+/>
+<title>:: EstasMuerto.com :: Conoce el dÃa de tu muerte o comunÃcate con mÃ¡s no
+ muertos...</title>
+<link rel="shortcut icon" href="img/favicon2.ico" >
+<link rel="STYLESHEET" type="text/css" media="all" href="css/estilo.css" />
+<script src="system/jquery.js" type="text/javascript"></script>
+<script src="system/jfunctions.js" type="text/javascript"></script>
+<script src="system/whizzywig.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-15556049-8";
+</script>
+<!--[if IE 6]>
+        <link rel="STYLESHEET" type="text/css" media="all" href="css/estilo_6.cs
+s" />
+<![endif]-->
+<!--[if IE 7]>
+        <link rel="STYLESHEET" type="text/css" media="all" href="css/estilo_7.cs
+s" />
+<![endif]-->
+</head>
+
+<body>
+        <div id="shadow">
+</div>
+<div id="popup">
+        .
+
+
+                <div id="emergecont" class="emergecont">
+
+                        <b class="right cerrar popupcerrar"/><img src="img/cerra
+rpopup.png"></b>
+
+                        <div id="contenidoemergente">
+
+
+
+
+                        </div>
+
+                </div>
+
+        </div>
+<div id="main">
+
+        <div id="head">
+
+                <div id="cabeceravuelta"></div>
+                <div class="banner">
+                        <div id="botonaudio"><img src="img/audio_off.png" id="au
+dio_off"></div>         <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=16");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a7c
+e30e1&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7ce3
+0e1' border='0' alt='' /></a></noscript>
+
+                </div>
+                <div id="nav">
+
+                                <a href='?L=tuhora'><img src="img/hora.png" clas
+s="hoverbotton"/></a>
+                                <a href='?L=esquela'><img src="img/esquela.png"
+ class="hoverbotton"/></a>
+                                <a href='?L=amenazas'><img src="img/amenazas.png
+"   class="hoverbotton" /></a>
+                                <a href='?L=leyendas'><img src="img/leyendas.png
+"  class="hoverbotton" /></a>
+                                <a href='?L=almas'><img src="img/almas.png"  cla
+ss="hoverbotton" /></a>
+                                <a href='?L=foro&forumcall=index.php'><img src="
+img/foro.png"  class="hoverbotton" /></a>
+
+                </div>
+
+        </div>
+
+        <div id="content">
+
+                <div id="left">
+                        <div  class="div_usuario borde_blanco">
+        <a href='http://www.estasmuerto.com//index.php?action=register'>
+                                <img src='img/bt_registrarse.jpg'>
+                                </a>
+                <form action="http://www.estasmuerto.com/index.php?action=login2
+" method="post" accept-charset="ISO-8859-1">
+                        <table border="0" cellspacing="1" cellpadding="0" class=
+"ssi_table">
+                                <tr>
+                                        <td align="right"><label for="user">Usua
+rio:</label>&nbsp;</td>
+                                </tr><tr>
+                                        <td><input type="text" id="user" name="u
+ser" size="9" value="" /></td>
+                                </tr><tr>
+                                        <td align="right"><label for="passwrd">C
+ontrase&ntilde;a:</label>&nbsp;</td>
+                                </tr><tr>
+                                        <td><input type="password" name="passwrd
+" id="passwrd" size="9" /></td>
+                                </tr><tr>
+                                        <td><input type="hidden" name="cookielen
+gth" value="-1" /></td>
+                                </tr><tr>
+                                        <td><input type="submit" value="Ingresar
+" /></td>
+                                </tr>
+                        </table>
+                </form></div>
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=39");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a39
+1a403&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=39&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a391a
+403' border='0' alt='' /></a></noscript>
+
+
+                </div>
+
+                <div id="right">
+
+<div class="div_leyenda">
+<div class="div_leyenda">
+<h2>El bosque maldito</h2><p class='right'><i>por  Mariann </i></p><br/><br/><br
+/>Dice la historia que en  una parte  de el bosque de Majalca ocurren cosas extr
+añas.Dicen que ahi rondan espiritus de gente que fue asesinada por un maniatico.
+Ese maniatico se habia escapado de un manicomio.Lo estubieron buscando por 3 mes
+es hasta que se dieron por vencidos, pero un dia una persona llamo a la policia
+avisando que habia visto a un sujeto rondando por el bosque.Cuando las autoridad
+es llegaron al lugar encontraron al maniatico muerto quemado.Pensaron que ahi ac
+ababa todo pero se dieron cuenta que habia mucha gente desaparecida en esa area.
+Los han buscado por muchos años pero nunca los han encontrado.<br />
+ <br />
+Unos amigos y yo nunca nos creimos esta histroria hasta lo que nos sucedio.Fuimo
+s de vacaciones a Majalca e ivamos a acampar ahi por una semana.<br />
+ <br />
+El Lunes llegamos y pusimos las tiendas de campaña y fuimos a dar una vuelta por
+ ahi.Cuando regresamos ya era tarde.Todos nos metimos a las tiendas.Yo estaba co
+n mi amigo Juan estabamos platicando de la historia de el maniatico.Nos estabamo
+s burlando de el.Hasta que hoimos a nuestro amigo Abraham salir corriendo y grit
+ando de la tienda de campaña.Fuimos a ver que le habia pasado.Nos conto que habi
+a visto a un niño tratando de agarrarlo pero dijo que ese niño tenia cortadas po
+r todo el cuerpo.No le creimos nada y volvimos a dormir.<br />
+ <br />
+El Martes hicimos carne asaday andubimos en nuestras motos dando paseos por ahi.
+Llego la noche y un amigo no regresaba del paseo.Todos nos preocupamos por el y
+fuimos a buscarlo.Lo buscamos por casi 4 horas hasta que ya estabamos muy cansad
+os.Veniamos llegando al campamento cuando vimos su moto en el suelo junto a una
+cabaña que nunca habiamos visto antes.Entramos y avansamos hasta el ultimo cuart
+o donde el estaba totalmente quemado.Inmediatamente salimos corriendo de el luga
+r.Encuanto salimos de ahi la casa se prendio fuego por si sola y se oian gritos
+de personas.Salimos huyendo de el terrorifico lugar.Llegamos a la estacion de po
+licia y les dijimos lo que habia sucedido.Fuimos al lugar pero ahi no habia nada
+.<br />
+ <br />
+Desde entonces no nos acercamos a ese lugar.</div> <a href="http://www.estasmuer
+to.com/index.php?L=resultadosleyenda&palabra="></a><hr>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>mateo1314</b></div>
+
+                <div class="comentario_text">
+                una segunda parte por favor                     <i>2013-07-19 09
+:02:54</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>luly_</b></div>
+
+                <div class="comentario_text">
+                mmm...esta buena                        <i>2013-02-26 12:48:47</
+i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>NIEBLAMORTAL</b></div>
+
+                <div class="comentario_text">
+                Por fin una excelente historia                          <i>2012-
+09-28 11:22:07</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="http://http://www.google.co
+m.py/imgres?q=monstruos+mitologicos&amp;um=1&amp;hl=es&amp;sa=X&amp;biw=1440&amp
+;bih=781&amp;tbm=isch&amp;tbnid=XZ8U6L8kBqPx8M:&amp;imgrefurl=http://www.taringa
+.net/posts/info/8371767/Monstruos-Mitologicos.html&amp;docid=Xrh7hB0">
+                        <b>MONSE 555</b></div>
+
+                <div class="comentario_text">
+                SI ES REAL,POBRE CHICO.
+                        <i>2012-04-21 02:43:02</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>fabricio1511</b></div>
+
+                <div class="comentario_text">
+                heeee, no dio miedo, pero fue buena la historias
+<i>2011-10-08 10:24:42</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>auscias</b></div>
+
+                <div class="comentario_text">
+                ammm si buena pero no tanto komo para kausar temor
+                        <i>2011-06-01 05:40:04</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>galleta_54</b></div>
+
+                <div class="comentario_text">
+
+xD                      <i>2011-01-26 11:26:38</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>tarantulamantis</b></div>
+
+                <div class="comentario_text">
+                eso es basofia pichuleros                       <i>2010-08-11 06
+:27:45</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>ezpectra</b></div>
+
+                <div class="comentario_text">
+                chida la historia                       <i>2010-07-15 05:44:22</
+i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>snak</b></div>
+
+                <div class="comentario_text">
+                es muy buena
+                        <i>2010-07-14 11:09:14</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>angel de las tinieblas</b></div>
+
+                <div class="comentario_text">
+                yy esta hay ta buena                            <i>2010-05-02 05
+:05:17</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>loby</b></div>
+
+                <div class="comentario_text">
+                qqqqqqquuuuuuuuueeeeeeee bbbbbbbbiiiiiiieeeeeennnnnnn eeeeeeesss
+ssssstttttttttaaaaaaaa rrrrreeee sssssssaaaaaaaarrrrrrrrpppppppeeeeeee
+        <i>2009-11-02 04:39:26</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>esqueletor</b></div>
+
+                <div class="comentario_text">
+                nunca abia leído algo que me asustara tanto bbbbbbbbbbbbbbbbiiii
+iiiiiiiiiiiieeeeeeeeeeennnnnnnnnnnnnnnnnnn hhhhheeeeecccccchhhhhoooooo
+        <i>2009-10-22 08:46:19</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>mistica</b></div>
+
+                <div class="comentario_text">
+                Pues la verdad nose si sea o no real, pero que paso con el cadav
+er de tu amigo que le encontraron quemado??? Debe haber una explicacion logica a
+ esto, pero lo del niño que le a visto tu amigo si da miedo....
+<i>2009-10-13 06:44:54</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>bbc!t@</b></div>
+
+                <div class="comentario_text">
+                la verdad no me gusto mucho, no me parecio muy interesante
+        <i>2009-09-04 11:34:35</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>y@zm!n</b></div>
+
+                <div class="comentario_text">
+                miraaaa no te creo en lo absoluto
+                        <i>2009-07-27 10:13:47</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>martuchi</b></div>
+
+                <div class="comentario_text">
+                MMM... NI MAL NI BN ._.
+                        <i>2009-07-19 10:12:08</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>ruth</b></div>
+
+                <div class="comentario_text">
+                 y ¿por que creo dices que pasaban cosas extrañas en ese bosque,
+ si creo tu no mencionaste que cosas extrañas pasaron en ese lugar?, y como creo
+ tu no mencionaste que cosas extrañas pasaron en ese lugar, ¿por que dices que y
+a no se acercaron a ese lugar,                          <i>2009-07-15 05:29:04</
+i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>tokiiitha</b></div>
+
+                <div class="comentario_text">
+                FOMEEEEEEEEEEEEEEE¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¿
+<i>2009-07-09 09:27:19</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>star_666</b></div>
+
+                <div class="comentario_text">
+                que fuerte esta buenaa                          <i>2009-06-16 03
+:26:10</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+
+
+
+</div>
+                </div>
+
+
+
+
+        </div>
+
+        <div id="footer">
+                        <div style="float: left; height: 125px; width: 125px; fo
+nt-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9px; color: rgb(50, 68
+, 103); background-image: url(http://www.es/banners/125x125-boom-es.png); text-a
+lign: center; margin-left: 20px;">
+<div style="height: 22px;"></div>
+<br>
+<ul style="list-style-type: none; margin-left: -40px; font-size: 11px;">
+</ul>
+</div >
+
+<div class="banner">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=17");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a3f
+ef439&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=17&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3fef
+439' border='0' alt='' /></a></noscript>
+</div>
+
+<br clear="all">
+<div >
+                <a href="http://www.estasmuerto.com"><img src="img/logo_pie.gif"
+ align="left" alt="Estasmuerto.com" /></a>
+                <p><a href="index.php?L=legal">Aviso Legal</a> Designed by <a hr
+ef="http://fixandchips.es/">F.A.C.</a> &copy;Copyright 2002-2021 </p>
+                <p>Estasmuerto.com es una página de entretenimiento, y como tal
+se ha de tomar. Estasmuerto.com no se responsabiliza del uso que se dé de esta w
+eb, siendo responsabilidad última del usuario.</p>
+
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
+p://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
+js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15556049-8");
+pageTracker._setDomainName(".estasmuerto.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+        </div>
+
+</div>
+
+
+</body>
+</html>
+
+
+
+
+
+

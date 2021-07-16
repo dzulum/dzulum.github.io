@@ -1,0 +1,130 @@
+# El Diario
+
+Silencio. Sólo necesito eso. Silencio. A solas con mis pensamientos, me
+relajo y disfruto preparando el día siguiente. Sin embargo, hay días en
+los que parece que las cosas se ponen en contra y no hay manera de que
+nada salga bien.
+
+Aún recuerdo cómo hablando con el casero del inmueble, me aseguró una y
+otra vez que la zona era un remanso de tranquilidad. Yo insistí en la
+importancia que tenía para mí esta circunstancia debido a mi trabajo
+como escritor, y él se comprometió personalmente a encargarse de
+cualquier problema que hubiera en ese aspecto en el menor tiempo
+posible, fuera la hora que fuera.
+
+Debí comprender entonces que no hablaba sinceramente. Lo único que le
+interesaba era alquilarme el apartamento, ya que decidí pagar mi
+exigencia con un alto porcentaje de más en el precio habitual. Esto
+hizo que el casero prometiera todo lo que yo le pidiera sin pararse a
+pensar si de verdad podría cumplirlo.
+
+Las cosas fueron mal desde la primera vez que le llamé. Mi vecina de
+arriba, una señora mayor de pelo blanco, no hacía más que usar su
+maldita batidora a todas horas, preparando todo tipo de purés, zumos y
+no sé qué más extrañas elaboraciones. Cuando no estaba con sus
+brebajes, se dedicaba a pasar la aspiradora por toda la casa como si la
+vida le fuera en ello. El ruido era insoportable, y no podía hacer otra
+cosa en todo el día más que imaginar a mi vecina en su casa de un lado
+para otro sin parar ni un solo instante.
+
+Llamé al casero en varias ocasiones, y éste estuvo hablando con ella
+sin obtener resultados. Yo sabía que no podría aguantar mucho tiempo
+allí y así se lo hice saber. Preocupado ante la pérdida económica que
+le provocaba mi marcha, se decidió a bajar con la señora a mi casa para
+tratar de arreglar las cosas como buenos vecinos.
+
+Loco. Maldito loco idiota. Yo sólo quería paz y tranquilidad y él vino
+a molestarme en mi propia casa. Cuando llamaron y vi que eran ellos,
+les invité a que se fueran sin ni siquiera abrir la puerta.
+
+Insistieron. La señora empezó a gritarme y a increparme para que
+saliera. No, no, no... eso es lo peor que podían hacer.
+
+Me empecé a poner nervioso. No sabía que decidir. Podía oír cómo el
+casero insistía una y otra vez en que sólo querían arreglar las cosas,
+mientras la señora se quejaba de mi educación. De pronto, empecé a
+notar un sudor frío y unas palpitaciones. Ese sudor frío y esas
+palpitaciones que tantas otras veces había sentido y que tan funestas
+consecuencias habían tenido.
+
+Me refugié en mi habitación lo más alejado posible de la puerta, y me
+encadené a la pared como tantas otras veces había hecho. Oí ruido de
+llaves en la entrada y comprendí que ante mi silencio habían decidido
+entrar.
+
+No me dio tiempo a nada más. Podía oír al casero llamarme a gritos
+desde el pasillo, mientras las venas de mi cuello se ensanchaban y mis
+mandíbulas se deformaban por el rápido crecimiento de unos enormes y
+afilados colmillos. Mis manos, pobladas de oscuro pelo, se
+transformaron en cuchillos capaces de destrozar cualquier cosa que se
+pusiera por delante de un solo zarpazo. Mi mente, aturdida, me ordenaba
+librarme de la única cadena que me dio tiempo a enrollar en mi pie
+derecho, obligándome a dar fuertes tirones y golpes, con el objetivo de
+partirla.
+
+El ruido atrajo a los dos intrusos hacia mi habitación justo en el
+momento en el que la metamorfosis había concluido. Mi cuerpo, ahora
+pletórico de fuerzas, se abalanzó de un gran salto hacia lo
+sorprendidos visitantes y de un certero zarpazo destrozó la cara del
+casero con cuatro profundos cortes. El golpe, derribó a éste y a la
+aturdida vecina, que quedo postrada en el suelo ante mí, apenas a medio
+metro de distancia.
+
+Retrocedí unos pasos y salté de nuevo, ésta vez hacia la vecina, que
+vio cómo arremetía contra ella, y cómo me quedaba prácticamente colgado
+de mi pie sin poder alcanzarla, debido a la cadena que me aprisionaba.
+Intenté apresar parte de su vestido sin éxito. Ella, como pudo, se
+arrastró hacia la puerta dando gritos de terror.
+
+En ese instante, vi cómo el casero intentaba moverse y se llevaba las
+manos a la cara desgarrada, emitiendo balbuceantes sonidos de
+sufrimiento. Me giré hacia él y cogí su pierna derecha. Sonó como una
+rama al romperse cuando la giré con fuerza, provocando un nuevo alarido
+de dolor. Sin prestar mucha atención, hundí mis largas uñas a la altura
+de la rodilla y arranqué la pierna de un tirón seco, llevándome en el
+empeño parte del pantalón.
+
+Dirigí la carne a mi boca y comencé a saciar mi sed estrujando la
+pierna desde el tobillo hasta los despedazados gemelos. Una gran
+cantidad sangre se vació en mi boca tranquilizando mis instintos
+animales. Terminé de devorar la maltrecha extremidad y empecé a
+relajarme poco a poco.
+
+Recobré la consciencia tumbado sobre un gran charco de sangre. Tenía un
+extraño sabor de boca y mis ropas estaban destrozadas. Vi al casero
+tirado a mi lado con una intensa hemorragia en su pierna derecha.
+
+Todavía respiraba. Arranqué unas tiras de mi camisa y le hice un
+torniquete a la altura del muslo. Inspeccioné su cara. Unos profundos
+cortes en diagonal le habían abierto unos enormes ojales en las
+mejillas. Afortunadamente para él, los ojos parecían no haber sufrido
+daño, aunque los mantenía cerrados y bañados en sangre.
+
+De repente, me acordé de la vecina. Si había conseguido escapar, no
+tardaría mucho tiempo en llamar a la policía. Busqué en los cajones de
+la cómoda, y cogí la llave para desembarazarme de la gruesa cadena.
+
+Salí corriendo de la habitación y subí a casa de la señora lo más
+rápidamente que pude. La encontré desvanecida en el suelo de la cocina.
+La impresión había sido muy fuerte para ella e hizo que se desmayara.
+
+Pensé que era posible que le hubiera dado tiempo a llamar a alguien,
+por lo que decidí irme lo antes posible. Baje a mi apartamento y cogí
+mi documentación y algo de ropa. Lo metí todo el maletín en el que
+guardo mi diario y salí a la calle.
+
+Tendría que buscar una nueva casa en la que vivir. Debe ser una zona
+tranquila, porque a mí los ruidos me ponen muy nervioso y no me dejan
+dormir bien... tengo pesadillas. Pesadillas en las que pesados vecinos
+no paran de hacer ruido y de pedirte ajos o sal.
+
+Creo que iré a ver a mi editor. Él siempre dice que vive en una casa
+muy tranquila en la que puedo pasar alguna temporada siempre que siga
+escribiendo mis historias de terror. Le hace mucha gracia que lo llame
+'mi diario'. También le gusta el estilo con el que está escrito, como
+si fueran parte de la vida de una persona.
+
+Si, creo que le haré una visita, a ver si por fin encuentro paz y
+tranquilidad...
+
+Historias de Al-azraz

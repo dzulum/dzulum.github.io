@@ -1,0 +1,129 @@
+---
+layout: post
+tags: []
+categories[]
+date: 2020-10-13 00:00:00
+title:'La celda'
+---
+# La Celda
+
+   Alejandro era acompañado por dos guardias y el director del penal hacia
+   su celda. Caminaban por un pasillo sin muebles, sin ventanas y
+   completamente blanco, tan blanco que no se podía ver el techo ni las
+   paredes o distinguir si tenia final. Ni siquiera las puertas de las
+   celdas se distinguían, de no ser por una pequeña ranura donde se
+   introducían las tarjetas que las abrían.
+   
+   En el pasillo se escuchaban gritos espantosos, dementes, algunos no
+   parecían humanos. Gritos que parecían venir de las entrañas de un ser
+   desquiciado, gritos que se te meten en la cabeza y rebotan sin poderlos
+   parar.
+   
+   Al fin llegaron. Se detuvieron frente a una pared completamente blanca
+   y el director introdujo una tarjeta. El prisionero fue sujetado por los
+   brazos mientras el director le decía: Bueno 434370. Este sera tu hogar
+   durante 20 años. Estoy seguro de que te llevaras bien con tu compañero.
+   Soltó una carcajada y el prisionero fue arrojado al interior de la
+   celda tras recibir una inyección que le hizo perder el conocimiento.
+   Tardo varios días en volver en si. Tardo todavía mas en recobrar la
+   vista.
+   
+   Cuando pudo ver, encontró a su compañero frente a el. Todavía no
+   distinguía bien, solo veía manchas.
+   
+   -¿Porque te trajeron aquí? pregunto Alejandro.  
+   El reo tardo varios minutos en responder.  
+   -Asesine a mi mujer.  
+   -No mientas.  
+   -No miento.  
+   -Es que yo también mate a mi mujer.  
+   -Ah, ¿Como la mataste?  
+   -La envenene.  
+   -Yo también la envenene.  
+   -Entonces somos compañeros del mismo delito.  
+   -Eso parece.  
+   -Pero yo creo que tuvimos motivos diferentes. Cuéntame por que lo
+   hiciste.  
+   -No quiero contarte.  
+   -Pues como quieras, pero si vamos a pasar aquí juntos tanto tiempo es
+   mejor que me tengas confianza.  
+   -Esta bien, conocí a mi novia hace años, era una joven muy
+   conservadora. Hija de padres católicos y persignados.  
+   -¡Es increíble!, parece que estas describiendo a mi Adelita.  
+   -La mía también se llama Adela.  
+   -Que chistoso ¿no?  
+   -Callate y escucha. Era una mujer sumamente conservadora pero fiel a su
+   ideología. Creía en compartir su vida con un solo hombre hasta la
+   muerte. De hecho era virgen.  
+   -¡No puede ser! Esa es mi Adelita.  
+   -Déjame continuar. Como te decía, era una mujer sana y eso era lo que
+   mas me atraía de ella. Sobre todo su virginidad, pienso que por eso me
+   case con ella.  
+   -Esperate, alguien te platico mi historia. ¿Verdad? Te mandaron para
+   torturarme.  
+   -Deja de llorar, pareces niño, mejor escucha. Me case completamente
+   enamorado, y en la noche de bodas se comporto de una forma que me
+   asombro. Primero se quejo, pero después se volvió una tormenta,
+   brincaba, gritaba, se movía de un lado para otro. Lo disfrutaba mas que
+   yo. Nunca había estado con una mujer que tuviera tanta pasión. Cuando
+   estaba debajo parecía un demonio sin dejarse exorcizar y cuando estaba
+   arriba, parecía un ángel con sonrisa de lujuria. Sentía como si
+   estuviera haciendo el amor con veinte mujeres a la vez. La ame seis
+   veces y no se saciaba, pedía mas y mas. Me encanto.  
+   -¿Y por que la mataste?  
+   -Porque me decepciono.  
+   -¿No te encanto?  
+   -Si pero no entiendes. Creí que iba a ser decente, sumisa y en la cama
+   resulto ser otra. Para eso mejor voy con una prostituta y le pago para
+   hacerle lo que yo quiera, pero a mi mujer, respeto y ella tiene que
+   respetarme.  
+   -Estas loco, de veras.  
+   -Tu no has de estar muy cuerdo, por eso estas aquí. Cuéntame, tu porque
+   mataste a tu Adela.  
+   -¡Es Adelita, no Adela!  
+   -Es igual  
+   -Bueno me case creyendo que ella era le mejor mujer en mi vida. Pero
+   eso lo reafirme en nuestra noche de bodas.  
+   -Así que tu también la envenenaste el día siguiente a tu noche de
+   bodas.  
+   -¡Ya deja de torturarme! No puede haber tantas coincidencias.  
+   -Si las hay  
+   -Si sigues con eso me callo.  
+   -Continua.  
+   -Bien nos fuimos a Tepoztlán para compartir nuestras noches de amor.  
+   -Nosotros también.  
+   Alejandro estuvo a punto de lanzarse sobre su compañero.  
+   -Te juro que es verdad, pero me callo. Sigue.  
+   -Adelita fue la única mujer que me ha hecho sentir hombre. Me amo como
+   nunca antes lo habían hecho.  
+   -¿Y por eso la mataste?  
+   -No, la envenene por el temor a perderla. Quería que siempre estuviera
+   junto a mi. Tenia miedo de que alguien me la quitara, miedo a que un
+   día me abandonara. Por primera vez en mi vida había encontrado el amor
+   y no estaba dispuesto a perderlo.  
+   -Tu si estas loco.  
+   -No, porque ahora mi Adelita esta junto a mi y siempre lo estará.  
+   -¿Como era tu Adelita?  
+   -Noble, pura, tierna. La mas bella de todas.  
+   -No ¿Como era físicamente?  
+   -Delgada, morena, de mi estatura. De cabellos muy negros, muy lacios.  
+   -Mi mujer también.  
+   -Te advierto que es la ultima vez, a la próxima broma te mato.  
+   -Lo juro. ¿Tenia los ojos cafés y la nariz respingada?  
+   -¡Si!  
+   -¿Sus pechos dulces como agua de rio y sus entrañas sabor a mar?  
+   -¡Basta! ¡No puedo creerte! Tu mujer y la mía no pueden ser tan
+   parecidas.  
+   -Tranquilo. Tienes razón, no puede ser la misma mujer, ademas las
+   matamos por motivos diferentes ¿No Alejandro?
+   ¿Alejandro? ¿Como sabes que me llamo así?  
+   -Porque yo me llamo igual.
+   
+   Histérico se abalanzo a golpes contra su compañero. Pegaba y pegaba
+   pero no pasaba nada. Solo se lastimaba sus puños.
+   
+   Entonces comenzó a gritar. Alejandro unió sus gritos a los demás cuando
+   se dio cuenta de que estaba en una celda cubierta de espejos. Tapizada
+   de espejos.
+
+ Fin.

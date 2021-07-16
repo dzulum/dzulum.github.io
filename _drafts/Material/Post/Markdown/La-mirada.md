@@ -1,0 +1,555 @@
+# LA MIRADA
+
+El gélido filo de la navaja se deslizó por su garganta dejando tras de
+sí un rojo sendero. Una gota corrió por la garganta arrancando
+bermellones destellos a la mortecina luz lunar que sumergía en sombras
+el callejón. En su caída se conjugó con el sudor que cubría con
+diminutas cúpulas el esbelto cuello para dejar una mancha en la blusa.
+
+-Un solo movimiento y te mato. ¡Te juro que te mato, zorra!
+Moverse.
+
+En ese momento Natalie Brown, estudiante de secundaria de dieciséis
+años, estaba concentrada nada más que en una cosa: tomar el que quizá
+fuese su
+último aliento. Pero hasta el simple echo de respirar era doloroso. La
+fría presión de la hoja sobre su cuello había convertido en un tubo
+atorado, reseco y áspero a una de las gargantas más privilegiadas del
+coro de su parroquia. Sentía cómo una bola de gasa impregnada de
+diminutos cristales atoraba las paredes de su traquea, convirtiendo
+cada respiración en una acometida de infinidad de cuchillos, un ataque
+mucho más doloroso que el de aquel filo sobre su piel.
+
+Podía notar el deslizarse de la mano de él, profanadora, incontrolada,
+violando cada centímetro de su cuerpo. Su mano se desplazaba lenta pero
+firmemente, presionando, estrujando, acariciando a veces sus curvas,
+recorriéndola tras haber desgarrado brutalmente la blusa de seda.
+
+Aquella mano concluyó su retorcido recorrido sobre el lugar que tanto
+temía Natalie. Los dedos, húmedos de sudor, se deslizaron bajo la
+braga: sabían perfectamente lo que buscaban, y cómo conseguirlo. Una
+alarma resonó en lo más recóndito de su mente. La parte más primitiva
+del cerebro de Natalie reaccionaba desesperadamente buscando un único
+objetivo: supervivencia. Su más primigenia consciencia se debatía para
+escapar, luchando contra el acoso del agresor inútilmente porque
+niveles superiores habían tirado la toalla tiempo atrás. Natalie había
+quedado atrapada dentro de ella misma sumergida en el autismo, evadida
+a distantes lugares, mucho más placenteros, abandonando su cuerpo a su
+suerte.
+
+En el callejón sólo quedaba el depredador bramando victorioso sobre el
+cuerpo inerte de su víctima. La bestia rugiendo, una aberración que
+sólo sabía demostrar su cruel condición con actos de igual clase: el
+ejemplo encarnado de la involución de las especies. En aquel cuerpo de
+cerebro primitivo nada más cabía un pensamiento: penetrar, penetrar a
+esa maldita puta, a aquella asquerosa criatura que en su desesperada
+necesidad de un falo le había incitado a tomarla como suya. Aquella
+pueril criatura que ahora sollozaba de placer ante la enormidad y
+fiereza de sus embates, que temblaba de lujuria con el contacto de su
+piel. Podía sentir el fuego de su miembro ardiendo en las brasas de
+aquel pozo de carne: caliente, cada vez más caliente, más y más
+caliente.
+
+Robbie Bishop había desaparecido.
+
+Eso es lo malo de tener una mente escindida: de vez en cuando, el otro
+toma el control y uno se queda relegado a la nada. Ahora ese otro, el
+maestro, estaba haciendo de nuevo de las suyas. Y Robbie, el inocente
+Robbie, no podía evitarlo. Cuando el maestro decidía que era hora de
+una lección, era hora de una lección.
+
+El maestro Robert siempre tenía la razón.
+
+El profesor Robert veía perfectamente que la chica se había evadido,
+que estaban simplemente ante un cadáver con vida. Bueno, así sería más
+fácil. Sin pataleos, gritos y demás histéricas y fútiles estupideces.
+
+Total, la estaba haciendo un favor: si no era él, sería otro, y quien
+mejor que él para enseñarle la crudeza de la vida. Robert no entendía
+cómo ante su ofrecimiento siempre reaccionaban de esa manera tan
+violenta. Cuando se dan clases gratis, quejarse es de desagradecidos.
+
+Sobre todo cuando las imparte un consumado maestro.
+
+La clase había empezado con una demostración de caricias.
+
+-Atiende, puta, que todo esto lo hago por tu bien.
+
+Para ser una niña pija de las de "hoy dieta, mañana también" no tenía
+mal cuerpo. Los pechos no eran muy grandes, y no caían flácidamente
+como había ocurrido en otras alumnas (es más, estos mantenían su forma
+aun reposando tumbada: ¿silicona?). Unos oscuros y pequeños pezones
+coronaban las suaves colinas de sus pechos, unos pezones que todavía no
+estaban duros, pero que al fin de la clase serían columnas graníticas.
+
+A medida que la clase avanzaba aumentaba la confianza del maestro con
+su alumna, que en el papel de un maniquí hierático le permitía
+practicar hasta el más enrevesado ejercicio. Finalmente llegó el
+momento de la lección principal. No fue muy cómodo, ya que no estaba
+muy lubricada, lo que obligó a Robert a ensalivar un poco su miembro.
+
+Pero aun así prosiguió: uno, dos, uno, dos, lenta pero constante la
+lección proseguía... hasta que el profesor Robert, y Robbie en la
+distancia a la que había sido relegado, lo sintieron...
+
+Era un par de clavos al rojo vivo, incrustados profundamente en su
+nuca. Poco a poco iban horadando su cerebro, pulsando lenta e
+implacablemente como corazones gemelos bombeando odio, repulsión, asco.
+
+Aquello era un novedad para Robert, verse interrumpido en plena acción,
+¡que falta de decoro! No sabía bien cómo reaccionar por lo que decidió
+tomar el camino más fácil: hecharle el muerto encima al otro. Con la
+rapidez de un pensamiento Robert se acurruco en su distante cubil
+sumergido en las tinieblas del subconsciente de Robbie, para dejarle a
+él frente al problema.
+
+No muy sorprendido, pero no por ello algo horrorizado, Robbie descubrió
+que estaba sobre una chica desmayada a la que había arrancado la mayor
+parte de la ropa para dejar su lívido y bien proporcionado cuerpo
+bañado en la luz pálida de la luna: su bello torso, sus protuberantes
+pechos, su cintura de avispa y su mullido coño. Y él estaba aun dentro,
+su pene recibiendo el húmedo beso de aquellos labios, sintiendo el
+acogedor calor de la vagina en su glande. Pero no era, ni con mucho,
+algo placentero: con asco sacó su miembro de aquel orificio, ya que la
+frágil respiración de la chica no evitaba que por la mente de Robbie se
+cruzara la terrible idea de un acto necrofílico.
+
+Gracias a Dios aparte del desmayo la chica parecía estar perfectamente,
+pensó Robbie con cierto consuelo. La única señal de violencia era un
+pequeño corte en su garganta. Por lo menos ésta no había acabado
+repleta de cardenales como la última. Por el contrario, su cuerpo
+brillaba perlado con diminutas gotitas de sudor por toda su piel, de la
+misma manera que el desnudo bajovientre de Robbie rezumaba una mezcla
+de sudor y otros flujos. Robbie sentía frío por todo su cuerpo, con el
+enredado pelo y el chandal pegados a su piel empapado en sudor.
+
+Pero no debía distraerse: aquella sensación de su nuca no había
+desaparecido. No tenía ninguna duda acerca de lo que era, y sólo
+admitía una respuesta: la huida. Alguien les estaba observando, y
+seguramente no le haría mucho caso a su explicación de que él no había
+sido, que el culpable era el maestro que llevaba dentro y al que no
+podía controlar. Con un gesto rápido se colocó bien el pantalón y huyó
+a lo largo del callejón. Corrió junto a un desbordado contenedor de
+basuras escoltado por numerosas bolsas de basura que en caótica
+alineación rebosaban los laterales del callejón. El aire era denso y
+con regusto dulce, henchido del hedor de la materia orgánica en
+acelerada descomposición por el calor de los últimos días; uno casi
+podía cortar aquella peste con un cuchillo.
+
+Un maullido lejano resonó.
+
+El fin del angosto callejón estaba a poco más de diez metros, y con él
+la huida definitiva. Los dos clavos seguían hiriendole en la base del
+cerebro, inundándole con su carga de agresividad. La persona que les
+estaba espiando sin duda debía estar muy, muy cerca, ya que la
+sensación era terriblemente opresiva. Sabía perfectamente que en aquel
+callejón no había ningún tipo de ventana, escalera de incendios, o
+puerta (justamente por eso lo había escogido). Forzosamente aquel tío
+debía de estar al fondo del callejón.
+
+Robbie giró su cabeza, anónimo bajo su pasamontañas, tratando de
+descubrir al espía. En el callejón, descontando el cuerpo de la chica
+tendido en el suelo, no parecía haber nadie más y la basura no formaba
+montones lo suficientemente grandes como para que alguien pudiera
+ocultarse tras ellos. Sólo quedaba una posibilidad, la mancha de
+tinieblas que era el extremo más profundo del callejón, allí donde no
+llegaba luz alguna. En aquella boca abisal se podría ocultar todo un
+ejercito y pasar desapercibido. Pero Robbie lo veía: eran dos finos
+destellos, dos pálidas estrellas en el oscuro espacio, los dos ojos de
+aquel bastardo que les estaba observando, aquel bastardo que les había
+interrumpido en su quehacer.
+
+Una suave brisa surgió de la oscuridad e invadió el callejón alzando al
+vuelo papeles y bolsas. Delicados dedos etéreos acariciaron el rostro
+de Robbie y su olfato se vio saturado por el hedor a podredumbre. Una
+bolsa vacía se enredó en sus pies.
+
+Aquello le estaba dando miedo, autentico miedo.
+
+Pero el profesor no era Robbie y con una leve convulsión volvió a tomar
+el control. Ahora que había visto a su observador, ya no le tenía el
+menor miedo. Alzó la navaja hasta la altura de aquellos ojos y la
+balanceó amenazadoramente haciendo que la luz de la luna arrancase
+destellos teñidos de sangre al filo.
+
+-El siguiente serás tú, ¡y la tuya será una lección definitiva! -
+gritó Robert retorciéndose de rabia.
+
+Tras ello dio tranquilamente la espalda a la oscuridad del callejón,
+consciente de que la víctima y el espía sabían con quien trataban.
+
+Todos los periódicos de la región habían recogidos las lecciones del
+profesor, incluido alguna de las moralejas que había dejado tras
+culminar alguna lección. Aquel bastardo no se atrevería a salir de
+casa: el siguiente podría ser él. En cuanto a la putita, se había
+desmayado en el mismo momento en que empezó su lección por lo que nada
+podría contar a la pasma.
+
+Con paso seguro se dirigió a su coche, aparcado bastantes manzanas al
+norte. El dolor en su nuca parecía remitir.
+
+De vuelta a casa siempre era Robbie el que controlaba la situación. El
+profesor, como un experimentado locutor deportivo, le narraba algunas
+escenas, las más relevantes, acompañadas de flashes gráficos, a la vez
+que le calmaba prometiéndole que aquella sería la última lección, que
+la sociedad aprendería y volvería al buen camino.
+
+Siempre el mismo discurso, y siempre se veía obligado a volver a
+actuar. La sociedad es cabezona, y no quiere aprender.
+
+Robbie conducía tranquilamente por Greenwood Avenue, contemplando los
+ancianos plátanos con sus grandes, céreas hojas brillando fatuamente a
+la luz de las farolas igual que lo debieron hacer hace más de dos
+siglos. Realmente el nombre era muy apropiado para la avenida ya que en
+ella, aparte de la hilera de plátanos centenarios, y tras verjas
+herrumbrosas, había auténticos bosques ocultando los escasos vestigios,
+en más de un caso ruinas, del esplendor de la región siglos atrás.
+Había varias historias acerca de aquellas casas de tajados combados por
+la humedad y los años en las que se decía que aun estaban habitadas por
+los malignos seres que habían dado nombre al pueblo: Wichgrave. El
+tiempo no había podido borrar los acontecimientos de la cercana Salem y
+en qué manera habían afectado a toda esta región: aquí habían sido
+enterradas muchas de las brujas. Aquello era imposible de olvidar, y
+mucho menos cuando la vieja Marsha Ashcott había predicho mientras su
+cuerpo era consumido por las llamas que si en algún momento eran
+olvidadas ella y sus compañeras, cuando se olvidase lo que en los
+cimientos del pueblo había, la perdición recorrería las calles
+acompañada de la muerte.
+
+Pueblo decrépito, pueblo embrujado: pueblo hermoso.
+
+Estaba Robbie ensimismado en estos pensamientos cuando le asaltó de
+nuevo el dolor. Las dos punzadas volvían a su cerebro, taladrando,
+quemando, abrasando su nuca. Miró por el espejo retrovisor con
+dificultad, el dolor era tan intenso que le nublaba la vista y le
+impedía siquiera girar la cabeza, pero aun así pudo distinguir los
+lejanos destellos de unos faros unos cincuenta metros más atrás.
+
+-El muy bastardo nos ha seguido.
+
+Dos mentes se arremolinaban en un cerebro escindido, dos mentes que
+reaccionaron de manera opuesta al estimulo que se acercaba carretera
+atrás.
+
+La mitad que era Robbie experimentaba una extraña sensación de
+predestinación, de que eso que le estaba ocurriendo era inevitable, una
+especie de castigo a su alter ego. La sensación empezó como una
+diminuta, ínfima semilla en el núcleo de su conciencia, pero en breves
+instantes se tornó en un robusto, colosal árbol cuyo retorcido tronco
+se alzaba desafiando el vacío propagado por el profesor. Con unos ojos
+que no eran físicos, Robbie contempló el árbol, obsceno en su
+enormidad, podrido desde su médula, alzándose solitario en la cima de
+una colina, rodeado de un infinito mar de hierba pardusca. Una suave
+brisa mecía las oscuras, se podría decir que negras, hojas dando la
+impresión de ser un cónclave de brujas, danzando todas alrededor de un
+chamuscado ídolo. Robbie estaba al pie del enorme árbol, sumergido en
+las tinieblas de su sombra. La oscuridad era acogedora, cálida como una
+manta en pleno invierno, el definitivo refugio. Pero algo también le
+decía que el antinatural árbol estaba a punto de dar frutos, y que
+entonces, y sólo entonces, aquel erial de soledad y decrepitud
+mostraría su secreto. Y con ello llegaría el olvido. Y Robbie quería el
+olvido.
+
+Una sensación extraña se había apoderado de aquella personalidad
+llamada Robbie, una impresión que tardó unos instantes en reconocer:  
+soledad, verdadera y autentica soledad. Por primera vez en su vida
+estaba solo, completamente solo. Allí no podía llegar el profesor. Esto
+le gustó, y esa simple complacencia manipuló unas tijeras que
+recortaron su alma separándole definitivamente del otro, del depravado
+profesor Robert. Robbie notó con alegría que ya nunca más sería uno con
+el profesor: que ya era libre.
+
+Al instante siguiente la mente que observaba atónita y desconcertaba
+los mandos del coche era la del profesor: un profesor que de un plumazo
+había sido abandonado por su eterno compañero, ahora reemplazado por un
+brusco vacío en su cerebro. Había sido abandonado para quedar solo
+frente a la presencia que metros atrás le asfixiaba.
+
+¿Quién necesita a ese estúpido remilgado de Robbie?, pensó el profesor,
+dibujándose una nerviosa sonrisa en su rostro. -Creo que voy a tener
+que despistarle, señor.
+
+Los dos focos de dolor iban lentamente incrementando su tortura,
+incrustándose milímetro a milímetro en su carne en dirección precisa
+hacia el centro de su cráneo. Dio un volantazo a la derecha,
+abandonando Greenwood Avenue y entrando en Pickman Street. Aquella zona
+era perfecta para despistar a cualquiera ya que pasados los primeros
+cien metros de fincas se entraba en una serie de edificios bajos
+apiñados en pequeñas manzanas. Todas las bocacalles conducían a
+callejuelas mal iluminadas y estrechas, la zona antigua del pueblo, un
+laberíntico escenario digno del Arkham de Lovecraft.
+
+El profesor pisó el acelerador nada más superar la última finca. En su
+mente de desplegaba un plano del pueblo, en el que un imaginario
+rotulador iba trazando el más serpenteante recorrido posible. Dentro de
+dos bocacalles...
+
+La mirada seguía clavada en la base de su cráneo como dos trozos de
+metralla al rojo vivo, quemando de modo insoportable su piel, su carne,
+su mente. El profesor echó una ojeada al retrovisor. Los faros del
+coche perseguidor se iban perfilando lenta pero constantemente en el
+espejo retrovisor. Debía usar algún tipo especial de luces ya que,
+aunque el haz iluminaba directamente a los ojos del profesor, no
+deslumbraban; parecía que en vez de emitir luz ellos mismos se
+limitaran a reflejarla de alguna lejana fuente. La figura del coche no
+era nada más que una mancha de oscuridad difusa e imprecisa, una
+oscuridad mucho más extraña que la naturaleza de los faros, sin
+desprender ningún destello, ni el más mínimo reflejo. Una intuición se
+apoderó del profesor, presentándole una posibilidad que se hundió en su
+mente, excavando como un gusano hasta encontrar la fuente del miedo,
+beber de ella y continuar esparciendo su destrucción: aquel era un
+coche muy especial, un coche que le buscaba, un coche a cuyo volante
+estaba su verdugo. Iba tras de él, y sólo su inteligencia evitaría el
+ser capturado, juzgado y ajusticiado. El gusano en su mente devoraba
+todos sus pensamientos, tranformandolos en terror. El gusano sólo
+dejaba crecer en su cerebro una idea: escapar, escapar, escapar.
+
+Escapar de aquel ser que le había clavado aquellos aceros al rojo vivo
+en su cerebro, aquel ser cargado de odio hacia él, aquel ser que
+deseaba enfundarse la capucha de verdugo y balancear su hacha sobre su
+cabeza para dar el golpe definitivo.
+
+Ahí estaba la entrada a la calle elegida.
+
+El cuerpo de Robert se aplastó contra la puerta por el brusco volantazo
+a la derecha. Las ruedas gimieron ante el esfuerzo, derrapando y
+dejando un rastro negro y humeante en el asfalto. La nueva calle estaba
+mucho menos iluminada, con nada más que unas mortecinas farolas cada
+cincuenta metros. Una iluminación pálida se derramaba desde las
+encostradas bombillas, expuestas a la intemperie en rotos fanales,
+incapaz de arrancar las de tinieblas las aceras. Los portales eran
+amenazadoras bocas, las esquinas abismos verticales de los que
+cualquier horrenda criatura podría salir. Aquellas casas de ventanas
+entabladas sólo podrían ser la guarida de degenerados y proscritos,
+seres marginales hambrientos de una nueva presa. El claustrofóbico
+ambiente se iba apoderando de Robert, cebando con más miedo al gusano
+que devoraba su mente. El mismo gusano que buceando entre su
+subconsciente encontró otro dato para alimentares: era en esa misma
+calle donde un demente caníbal había destripado a una pareja
+arrancándole a ella el feto de su vientre, y sólo una semana antes.
+
+El coche había perdido mucha velocidad y serpenteaba como borracho por
+la insegura conducción del profesor, más ausente que presente, perdido
+en las simas de terror de su mente. Desde la profundidad del pozo de su
+pavor su mente desesperada apenas era capaz de evitar estrellarse.
+
+Debía, necesitaba adquirir algo de autocontrol, y la certera
+posibilidad de su muerte fue el medio para acumularlo.
+
+Pero era como si el gusano se confabulara con aquellos dos clavos,
+incrementando su quemazón a cambio de ese autocontrol, horadando cada
+vez más profundamente, cerca ya del centro de su cerebro.
+
+Casi había llegado al final de la calle, y sólo la ridícula velocidad a
+la que se movía salvó a Robert de chocar. Pero si él había ido tan
+lento, el coche perseguidor debía estar ya a su altura. Allí estaba,
+sí, con los focos envueltos en una masa densa de oscuridad,
+perfilándose con más definición pero a la misma distancia, jugando con
+él, solazándose de sus dificultades para mantener el control. Y aquello
+el profesor no lo soportaba, enfureciéndole. El miedo se sublimó en
+odio y furor, determinación para escapar y poder vengarse otro día.
+
+Robert el acelerador al máximo, aplastándose contra el asiento por el
+empuje. Sólo cuando estaba el coche a la máxima velocidad dirigió su
+mirada hacia el espejo retrovisor, convencido de haber dejado atrás al
+sorprendido perseguidor.
+
+Pero cuando lo hizo palideció, sus ojos se desorbitaron, su garganta se
+anudó de tal forma que solamente el más profundo de los terrores podría
+desatarla: el coche que le perseguía se había esfumado para dejar en su
+lugar algo mucho peor. En el asiento trasero, suspendidos de una sombra
+antropomórfica, dos globos oculares perfectos, de un azul pálido e
+inyectados en sangre le observaban. De sus contraídas pupilas parecían
+surgir centellas, haces de luz pútrida, leprosa desbordándose del
+gélido mar azul de los iris, empapando al profesor con odio y repulsión
+indecibles.
+
+El profesor gritó como nunca antes había gritado, e incapaz de soportar
+aquel demencial espectáculo perdió la consciencia. El coche sin control
+derivó unos metros para acabar estrellándose violentamente contra una
+pared. Dentro del amasijo de hierros Robert permanecía inconsciente,
+ausente al fuego que con rapidez se propagaba por todo el habitáculo.
+
+Las llamas fueron consumiendo lentamente su cuerpo mientras aquellos
+ojos contemplaban impasibles, flotando en el vacío del asiento trasero,
+inmunes al fuego.
+
+Robbie estuvo por un tiempo impreciso bajo la sombra de aquel extraño
+árbol, gozando de esa soledad recién adquirida, mientras esperaba el
+desenlace final. En aquel recóndito paraje no había otro sonido que el
+de la brisa meciendo las ramas. Ningún insecto chasqueaba la hierba,
+ningún reptil recorría el suelo de ceniza que era la base del árbol.
+
+Simplemente contemplaba maravillado cómo el árbol crecía, con sus ramas
+combándose bajo el peso de las colosales hojas. En un abrir y cerrar de
+ojos todo el árbol estaba en flor, con grandes cálices, de pétalos del
+tamaño de una mano humana y color negro insondable. Tronco, hojas y
+flores eran una mareante mancha de negrura, dentro de la cual nada más
+podían apreciarse perfiles imprecisos. De los pistilos surgía un aroma
+agridulce, indefinido pero embriagador, un aroma que Robbie conocía
+pero que no era capaz de recordar, un aroma vagamente familiar, pero
+muy característico. Las flores, como su padre, se desarrollaban,
+crecían y maduraban a una velocidad imposible, fecundados por invisible
+polen. Su negrura se colapsaba, pasando de esa increíble falta absoluta
+de color, a un marrón oscuro, degradándose hasta acabar en un ocre
+amarillento, muy semejante al del hueso algo chamuscado. Pero lo que
+sorprendió más a Robbie fue la extraña forma de los frutos, que le
+recordaban huesos humanos... Allí veía una calavera sin el maxilar
+inferior, allá lo que sin duda era una cadera, más arriba una caja
+torácica.
+
+Absorto ante el extraño espectáculo, casi no notó cómo la brisa se
+intensificaba. Balanceaba las hojas, las ramas, pasaba a través de los
+múltiples órganos musicales que eran los frutos. El árbol entero
+canturreaba una olvidada canción en un idioma olvidado ya. La brisa
+adquirió fuerza, hasta acabar convirtiéndose en un viento huracanado.
+
+Los frutos entrechocaban entre sí, pero no caían.
+
+Robbie, estupefacto, vio como los frutos a medida que el viento
+arremetía contra ellos con creciente violencia empezaban a brillar con
+una iridiscencia fungosa, entre amarillenta y verdosa, enfermiza,
+depresiva, hasta acabar prendiéndose, ardiendo con lenguas negras de
+fuego. El solitario árbol se había convertido en un horrendo faro,
+alzándose desafiante sobre su atalaya rocosa rodeado de su huracanado
+mar de hierba.
+
+Entonces la locura llegó a su clímax. De distancias desconocidas, pero
+que a los oídos de Robbie se le hicieron inconmensurables, llegaron
+alaridos, gemidos, gritos desgarrados que acompañaron al árbol en su
+obscena canción, entonando salmos por eones olvidados. La tierra
+tembló, sobreponiendo su agónico crujido a las demenciales voces
+cantarinas. Desde la lejanía Robbie contempló impotente como una grieta
+avanzaba, directa hacia la colina. El mar de hierba parecía tratar de
+impedir el avance de la grieta, arrojándole una tras otra olas de
+convulso terreno. Pero el ser invocado era imparable, y ninguna de las
+extrañas fuerzas del paraje podía detener su llegada. Y en un abrir y
+cerrar de ojos allí estaba aquella criatura, un colosal gusano negro
+como la noche, recortando su oblonga figura contra el encapotado cielo.
+
+De alguna manera, Robbie sabía que ante él estaba el dueño de ese
+imposible árbol, y que Él, y sólo Él, podría darle aquella paz, aquel
+olvido que tanto deseaba.
+
+El ser le estudió detenidamente, cómo si evaluase a Robbie,
+olfateándole, palpándole con su hocico babeante. Robbie no podía hacer
+nada más que esperar, aterrorizado, que todo culminara, que aprobara el
+examen y le dejaran perderse en su soledad.
+
+Al fin el Gusano habló dentro de su mente:  
+-Eres bienvenido a mi reino. Sé que quieres conseguir el olvido
+eterno, la última soledad. Yo soy quien puede otorgarte esos raros
+bienes, pero debes aceptarlos voluntariamente. Tuya es la decisión.
+
+Tienes todo el tiempo que desees.
+
+Robbie no lo dudó y dio un paso al frente. El gusano abrió su boca y se
+abalanzó contra él, tragándole de un solo bocado.
+
+El profesor despertó envuelto en densas tinieblas. Mareado por el
+choque, no comprendía donde estaba: era un lugar silencioso y apacible.
+
+No podía ser el interior del coche, ya que si fuera así estaría viendo
+los hierros retorcidos, la calle..., y sin duda tendría el dolor. Sin
+embargo le rodeaba una sensación de paz , de tranquilidad
+inconmensurables.
+
+¿Esto es la muerte? ¿Qué hay de todo ese rollo del pasillo iluminado,
+del tío que te da la bienvenida con los brazos abiertos y enfundado en
+un ridícula túnica luminosa?, pensó el profesor. La idea de estar
+muerto no le agradaba lo más mínimo. Todavía quedan muchas lecciones
+que dar. El mundo no ha aprendido aun mis enseñanzas. ¡No debo morir!
+Pero allí estaba él, sin que le llegara ninguna sensación, envuelto en
+negrura.
+
+¿Hay alguien ahí?
+
+»Son imaginaciones mías o ni siquiera puedo hablar. Debo tener
+afectadas las cuerdas vocales... ¡o no tenerlas! ¡Ser un fantasma! ¡No!
+Nervioso, el profesor estudió su situación. La negrura era atemporal,
+anodina, desesperante. No había referencias, nada de nada. Simplemente
+esa oscuridad agobiante, asfixiante y húmeda.
+
+¡Un momento! ¡Humedad! Eso es una sensación corporal, así como también
+es una sensación corporal este calor que ahora empiezo a notar. Al fin
+y al cabo ¡no estoy muerto!
+
+»¡ESTOY VIVO!  
+»Quizá por el accidente tengo un shock y permanezco ¡entre lo hierros
+del coche! ¡Debo salir de aquí, Dios mío!  
+Pero los intentos por moverse del profesor le aportan un nuevo y
+preocupante dato.
+
+No puedo moverme casi nada. No siento dolor, lo que me indica que no
+estoy en el coche. Debo haber sido trasladado a un hospital, y muy
+presumiblemente me han anestesiado para evitar los dolores del
+accidente.
+
+»¿Cuanto tiempo llevaré aquí? No se si desde que intenté moverme han
+pasado segundos o horas. ¡Me cuesta tanto pensar! Sin duda alguna me
+han drogado. Este calor es insoportable, y la humedad... ¡Auxilio,
+sáquenme de aquí, por favor!
+
+»Este silencio me está devorando. ¿Quiere alguien decirme algo? ¡Estoy
+vivo, por el amor de Dios! ¡DÍGANME ALGO O ME VOLVERÉ LOCO!
+»¿Qué ha sido eso? Sí, lo escucho, es débil pero puedo oírlo: un ruido
+de bombeo, un compresor o algo así. ¡No estoy sordo!
+
+»Debo mantener la calma, o esta soledad me acabará volviendo loco. Pero
+es tan desesperante esta existencia. Debo salir de aquí cuanto antes
+mejor. Debo escapar.
+
+»¿Será así cómo se sienten las personas en coma? ¿Cuanto tiempo llevo
+así? ¿Me habrá descubierto la policía? Mis acciones no eran malas ,
+sólo pretendía enseñar. No quiero morir en la silla, ¡no!
+El profesor prosiguió durante un tiempo indefinido retorciéndose en su
+desesperación, mientras poco a poco se iba familiarizando a la
+naturaleza de su celda. Ésta era de paredes acolchadas, muy cálida,
+estrecha y húmeda. No podía moverse casi nada en aquél ínfimo espacio,
+y aunque fuera mayor, sabía que su condición física era pésima,
+agravada por su embotamiento a causa de las drogas. De vez en cuando, y
+por razones que no llegaba a comprender, las paredes temblaban con
+brusquedad, como sacudidas por un terremoto.
+
+Al menos podía decir que no sentía dolor alguno, y que todavía no tenía
+prueba alguna de que la policía estuviera tras de él.
+
+Aquella monótona existencia le enfrentaba a sus acciones que día a día,
+si podía decirse que en aquel atemporal presidio pasara el tiempo,
+corroían su mente enrevesandose más y más, amenazándole con envolverle
+en una demencial maraña de remordimientos para acabar empujarle al
+precipicio de la locura.
+
+Pero al fin la monotonía se quebrantó.
+
+Las paredes se mueven. Sí, se mueven, y con mucha mas intensidad que
+otras veces. ¡Y sobre mí noto frío!
+
+»¡Allí, allí adelante! ¡Luz! ¡Veo luz! Me ciega pero es luz. Quizá soy
+ya libre, al fin. ¡Gracias a Dios, todo esto parece acabar! Ya puedo
+ver mejor: colores, matices. ¡Qué hermoso es poder ver! Parece que
+estoy en una especie de túnel, o tubo. Y allí delante, ¡la salida!
+»Pero ¿qué es eso? ¡No puede ser! ¡No! ¡Noooo! ¡Agghhhhh! ¡Duele, duele
+mucho! ¡Me estáis arrancando la carne! ¡Agghhh! Por favor, ¡parad,
+duele! ¡Aaaaaahh! ¿Es que no me oís? ¡¡El dolor!!
+»¡Dios, qué es esto? ¡No, tú no1 ¡Esos ojos no! ¡Porqué me persigues!
+¡DÉJAME EN PAZ! ¡EL DOLOR! Aaaaaaaahh
+
+Natalie Brown permanecía recostada en el estribo, sudorosa y aun
+temblando de miedo y repulsión. Había tenido que gastarse todos sus
+ahorros pero había merecido la pena. Al fin lo había conseguido, y
+ahora respiraba tranquila, sintiendo que un gran peso había sido
+quitado de sus hombros. No era fácil en el pueblo explicar su caso, y
+mucho menos solucionarlo, por lo que se había visto obligada a irse a
+Boston. Pero todo estaba ya solucionado. Aquella voz áspera de fumador
+lo había dicho al fin:  
+-Señorita Brown, el aborto ha concluido con éxito.
+
+Ya podía mirar con todo el odio y desprecio que sus pálidos ojos azules
+podían la semilla que en ella había sembrado su violador. Una leve
+sensación de torsión y desgarro y ya tenía frente a ella a eso,
+ensartado por los garfios que lo habían arrancado de su vientre como a
+una mala hierba. Aquel feto aun sin forma que se retorcía levemente
+parecía como si le estuviera mirando, implorándole.
+
+-Gracias a Dios, al fin me he desecho de ese bastardo.

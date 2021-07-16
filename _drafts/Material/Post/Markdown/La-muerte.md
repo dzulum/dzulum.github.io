@@ -1,0 +1,71 @@
+# LA MUERTE
+
+La Secretaria le hizo saber a don Guillermo Pacheco que una señora lo
+esperaba adentro de su oficina. Tal noticia le causó una natural
+sorpresa. Es que nunca antes lo había llegado a visitar ninguna señora
+que de una vez se hubiera metido a su oficina. Aún cuando no logró
+comprenderlo, un pequeño miedo se le comenzó a trepar por la espalda.
+Dándose un ligero aire de importancia y poniendo cara de circunstancias
+se dispuso a entrar.
+
+Efectivamente, adentro estaba una señora. Blanca, pálida, de una
+palidez casi mortal, vestida de negro absoluto que en todo caso la
+hacía ver muy elegante. LLevaba el pelo liso, arreglado hacia un lado y
+tenía la mirada bien penetrante. A él le pareció que tenía algo de
+sobrenatural. Estaba sentada en una de las dos sillas que habían justo
+adelante de su escritorio. Como ella le tendiera su mano, él se la dio
+en normal saludo y se la sintió fría. Definitivamente sepulcral. En ese
+momento don Guillermo Pacheco estuvo seguro que si le hubiera tomado el
+pulso no se lo habría encontrado. Terminó de arreglar sus cosas, colocó
+su saco en el perchero, se sentó en su silla, se sintió extrañamente
+nervioso y se dispuso a atenderla.
+
+-He venido a traerle buenas noticias. Se acabaron sus problemas- Le
+dijo ella. Y se lo dijo de una manera tan impersonal, tan contundente,
+tan estudiada, tan maquinal, tan fría, que él se sintió asustado.
+Se acomodó en su sillón sin saber exactamente qué hacer. Como ella sólo
+se lo quedara mirando sin decirle nada inició un estúpido juego mental
+que consistió en tratar de establecer en qué iba a parar todo ese
+asunto.
+
+De pronto ella le dijo bien fríamente:  
+-Vengo a venderle un contrato funerario.
+
+Y comenzó a sacar de su portafolios una serie de papeles en los que se
+podían ver preciosas fotografías de brillantes ataúdes, de mausoleos
+rodeados de bellas áreas jardinizadas, de relucientes carros fúnebres,
+de estatuas de Cristos en diferentes poses, de carreteras sólidamente
+adoquinadas para el fácil acceso, Etc.
+
+Las reacciones mentales de don Guillermo Pacheco siempre fueron lentas,
+y si a eso agregamos que el hombre estaba comenzando a sentirse presa
+del terror, no entendió, -o no pudo entender-, (o no quiso entender),
+lo que había escuchado. Levantó su maletín y lo colocó sobre el
+escritorio. Después lo devolvió a su lugar y se dio cuenta que estaba
+realmente confundido. Se miró sus manos y casi se sorprendió de
+vérselas allí, luego se las colocó sobre sus piernas y se las sintió
+heladas. La dama, sin inmutarse en lo más mínimo le dijo en tono
+maquinal: -Nuestros precios son en dólares Don Guillermo Pacheco trató
+de levantarse de su silla pero no pudo. Sus piernas no le obedecían.
+Escuchó el violento ritmo de su corazón. Se sintió la boca seca.
+
+Sacó un cigarrillo y quiso llevárselo a la boca, pero se le cayó de las
+manos.
+
+-¡Firme aquí!- Le ordenó ella alcanzándole un papel lleno de letritas,
+indicándole con su dedo largo, blanco y huesudo el lugar en el que
+debía firmar. Don Guillermo trató de decir algo, de hacer algo, de
+argumentar alguna cosa pero no pudo. Frente a él se encontraban los
+ojos más penetrantes enmarcados en la cara más dura que había visto
+jamás. Con su mano engarrotada y temblorosa firmó de una vez todos los
+papeles.
+
+La señora guardó sus documentos, se despidió con un frío apretoncito de
+manos, se dio la vuelta y se fue. Don Guillermo Pacheco se encontró
+descompuesto. Y se puso peor cuando comprendió que acababa de contraer
+una deuda espantosa. Como primera providencia llamó a su secretaria y a
+gritos le ordenó que jamás volviera a permitir que nadie entrara a su
+oficina.
+
+Cuando se calmó tuvo la inequívoca certeza que ese día precisamente se
+había comenzado a morir.
