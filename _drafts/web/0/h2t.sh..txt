@@ -1,5 +1,0 @@
-   #!/bin/sh # h2t, convert all htm and html files of a directory to text
-   #NUM=0 ; for FILE in *.html ; do NUM=`expr $NUM + 1` ; mv $FILE
-   file\($NUM\) ; d one #for file in `ls *.htm` #do #new=`basename $file
-   htm` #lynx -dump $file > ${new}txt #done ##### for file in `ls *` do
-   new=`basename $file html` lynx -dump $file > ${new}txt done

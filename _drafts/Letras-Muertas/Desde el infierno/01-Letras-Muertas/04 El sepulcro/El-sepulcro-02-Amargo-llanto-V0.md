@@ -1,23 +1,0 @@
-# Amargo llanto (V0.0)
-
-Entre los recuerdos de mi vida me tope con uno muy doloroso, fue una de las pocas veces que llore en mis cinco mil años, recuerdo bien como aquella hermosa niña me amaba por sobre todas las cosas, como me deseaba para siempre a su lado, como es que ella se sentía protegida a mi lado y también todo el respeto que significaba mi simple presencia para ella, recuerdo muy bien que también siempre estaba ebrio, apestando a rayos y truenos de los mil infiernos, siempre lejos de nuestro hogar, siempre buscando lo que ya tenia en mi hogar, siempre solo, solo... solo...
-
-Tan vivo y tan muerto como hoy, tan vivo que me podían tocar, tan muerto como lo soy ahora, como lo somos todos los vampiros, como
-todos o bien los pocos que somos privilegiados y podemos andar de día, y ser humanos cuando queramos, por favor no nos confundan con los dhampire's ellos son un poco menos que nosotros, son menos desgraciados ellos pueden morir, nosotros no, Shavon, una vez mas entre los vivos, por error, por mi amargo llanto aquella noche en la casa donde murieron sus padres, mi pequeña protegida ahora era como yo, y sabia que ahora ya no podía estar con ella por culpa de nuestra condición de vampiros, pero... que extraño, ella había sido un dhampire toda su vida y murió naturalmente... pero ahora era... ¿que era?... no lo se, había muerto y se había levantado de ultratumba gracias a que mi sangre entro entre sus labios, pero no se que era mi nena, solo se que por mi culpa era eso, advertí desde el primer momento que no podía estar a su lado por que así lo dictaban mis sentimientos, ahora ya no debía estar con ella por que acabaría matándola como suelo hacer con todos los vampiros que encuentro en mi camino, bueno solo cuando no son Lasombra, o no son de mi camada ni mi manada.
-
--adiós Shavon- retumbo mi hueca voz entre las paredes al tiempo de dar la media vuelta -ahora eres inmortal, no se lo que eres pero cuando deseaba que fueras eterna como yo no lo eras y ahora que lo eres me doy cuenta de que corres más peligro, adiós- y su llanto no se hizo esperar, con sangre en el rostro me pidió que no fuera así, mas no me importo, sabia que si seguía llorando
-moriría, no era mi problema, no era el suyo... solo lloraba por mi ausencia eterna y debía aceptar su soledad que, como la mía también era para siempre.
-
-Adiós niña, mi pequeña y amada Shavon, te vi nacer, crecer, te vi en el lecho fúnebre y ahora te debería ver morir, esta vez (la segunda) sería por siempre, no quería hacerlo yo, prefería que fuera ese amargo llanto, que dolor por ti mi nena, casi mi hija y ahora por error mi chiquilla, ¡maldita sea ya deja de llorar!, no quiero que llores mas solo quiero que mueras ahora que puedes yo ya no puedo ya fue mucho, pero tu dejas de llorar ahora mismo o te mueres decidelo ya, Shavon adiós mi frágil flor de cristal, hermosa rosa eterna hoy te secaras y desaparecerás ante mis ojos para ir al lado de nuestros padres Caín y Lilith, ahora si podre decir que te extrañare una eternidad.
-
-Al momento de que tome su rostro y deposite un beso en sus labios teñidos de su propia sangre, al apartarme escupí sus sangre para no beberla, ya que de alimentarme de sangre muerta yo también moriría, mi primer beso a los labios de Shavon fue para despedirme de ella, después de escupir su sangre la abrace y toque por ultima vez su cabello, por ultima vez sentí su cuerpo junto al mio y pronuncie aquella frase que según yo la haría llorar aun mas, -te odio con toda mi alma... -dije sin tocarme el corazón- ella lloro con amargura...
-
-Y es que estas palabras tal vez sean poco para cualquier otro pero no para la nena que creció a mi lado, no para aquella chiquilla que me amo tantos años y ahora podía amarme por la eternidad, pero que yo no quería que sufriera tanto a mi lado...
-
-Adiós Shavon... púdrete en soledad...
-
-Espero que comprendas por que lo hago antes de que mueras, acto seguido vi como su llanto fluyo aun mas nítido sobre sus mejillas y sus labios, nuevamente di la media vuelta y escuche como caía Shavon al suelo sollozando camine algunos pasos hacia la puerta con paso lento y antes de sentir esa ráfaga de aire y terminar salpicado de sangre escuche se que me amas por eso te vas, por eso me matas sin violencia...
-
-Adiós amor mio... -dijo Shavon- al terminar su frase sentí esa maldita ráfaga de aire y como su sangre golpeaba suavemente mi ropa, segundos después sentí como su sangre quemaba mi piel y se convertía en simples manchas de sangre vieja y muerta...
-
-Adiós Shavon te recordare algún día, después de hacerlo como hoy, después de beber tanto como hoy, sabes que mi amor hacia ti es muy especial ya que fuiste mi hija, mi protegida, mi chiquilla y hoy me di cuenta de que también fuiste mi amor...
