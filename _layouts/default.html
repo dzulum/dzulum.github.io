@@ -29,6 +29,12 @@ $(document).ready(function() {
         return this.hostname && this.hostname !== location.hostname;
     }).attr('target', '_blank');  
 });
+</script><script>
+$(document).ready(function() {
+    $('a[href^="http://"]').filter(function() {
+        return this.hostname && this.hostname !== location.hostname;
+    }).attr('target', '_blank');  
+});
 </script>
 </HEAD>
 <BODY>
