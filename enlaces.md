@@ -2,6 +2,7 @@
 layout: page
 title: Enlaces
 ---
+<div class="sociales">
 # Enlaces de interés
 
 En este lugar encontraras algunos enlaces con una breve descripción, enlaces que de alguna manera me resultaron interesantes o bien que son de algún conocido...
@@ -26,3 +27,4 @@ En este lugar encontraras algunos enlaces con una breve descripción, enlaces qu
 - [Metal Archives](https://www.metal-archives.com/ "Metal Archives") -Inglés
 - [The Horror Zine](https://www.thehorrorzine.com/ "The Horror Zine") -Inglés
 - [Church of Satan](https://www.churchofsatan.com/ "Church of Satan") -Inglés
+</div>
