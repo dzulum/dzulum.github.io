@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<div class="darkgreyt center separador esquinas">
+<div class="darkgreyt center separador esquinas sociales">
 <h1>Publicaciones sobre: {{ page.tag }}</h1>
-<ul class="sociales">
+<ul>
 {% for post in site.tags[page.tag] %}
 <li>({{ post.date | date_to_string }}) - <a href="{{ post.url }}">{{ post.title }}</a>
   </li>

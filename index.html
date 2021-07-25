@@ -15,7 +15,7 @@ layout: default
 
             {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
-                <img {{ html }} width="80%" />
+                <img {{ html }} width="80%" /><br>
                 {% assign foundImage = 1 %}
             {% endif %}
         {% endif %}
