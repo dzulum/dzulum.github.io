@@ -373,3 +373,7 @@ border: 0;
   align-content: center;
   text-align: center;
 }
+a{
+  color: red;
+}
+a:hover{ color: white; }
