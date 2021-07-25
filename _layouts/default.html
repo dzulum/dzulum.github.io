@@ -25,7 +25,7 @@
     <![endif]-->
 <script>
 $(document).ready(function() {
-    $('a[@href^="https://"]').filter(function() {
+    $('a[href^="https://"]').filter(function() {
         return this.hostname && this.hostname !== location.hostname;
     }).attr('target', '_blank');  
 });
