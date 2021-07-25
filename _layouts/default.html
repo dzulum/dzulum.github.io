@@ -1,54 +1,96 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<HEAD>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<!--Estilos para el sitio-->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dzulum.css">
-
+<link rel="stylesheet" type="text/css" href="./css/dzulum.css">
+<link rel="stylesheet" type="text/css" href="./css/prism.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-{% include meta.html %}
+<!--Utilitarios para el sitio-->
+<script src="./js/analytics.js"></script>
+<script src="./js/activetop.js"></script>
+<script src="./js/topnav.js"></script>
+<script src="./js/prism.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 {% if site.tags != "" %}
   {% include collecttags.html %}
 {% endif %}
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-</head>
-<body>
-
-<div class="header">
-  <img src="{{ site.baseurl }}/images/logo.jpg" width="80%">
+</HEAD>
+<BODY>
+<!--Header y navegacion-->
+<h1 class="top">Dzulúm</h1>
+<div class="topnav" id="myTopnav">
+  <a href="menu.html"><i class="fa fa-fw fa-home"></i>Inicio</a>
+  <a href="menu2.html"><i class="fa fa-anchor"></i>Enlaces</a>
+  <a href="menu3.html"><i class="fa fa-camera"></i>Galerias</a>
+  <a href="#about"><i class="fa fa-download"></i>Descargas</a>
+  <a href="#about"><i class="fa fa-user-circle-o"></i>Sobre Mi</a>
+ <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+ </a>
 </div>
+<!--Contenido y lateral-->
 
-<div class="navbar">
-  <a href="http://dzulum.tk">Inicio</a>
-  <a href="/about">Sobre Mi</a>
-  <a href="/enlaces">Enlaces de interes</a>
-  <a href="/galleries">Galerias</a>
-  <!--a href="https://chat.whatsapp.com/J8OQd7vEBwG9UU4wbspHHa" class="right" target="_blank">Grupo de Whatsapp</a-->
-</div>
-
-<div class="row">
-  <div class="side">
-     {% include archive.html %}
-<hr>     
-     {% include svg-icons.html %}
-<hr>
-     {% include search.html %}
-<hr>     
-<a class="twitter-timeline" data-width="250" data-height="450" data-dnt="true" data-theme="dark" href="https://twitter.com/MxSicker?ref_src=twsrc%5Etfw">Tweets by MxSicker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>     
+<div class="col-12 blackt separador">
+  <div class="col-3 darkgrey">
+    <div class="separador">
+    {% include archive.html %}
+    </div>
+    <div class="separador">
+    {% include search.html %}
+    </div>
   </div>
-  <div class="main">
-     {{ content }}
+  <div class="col-9">
+    {{ content }}
   </div>
 </div>
+<!--Footer-->
+<div class="col-12 darkgreyt">
+  <div class="col-4">
+  <div class="center">
+  <!--Twitter-->  
+    <a class="twitter-timeline" data-width="100%" data-height="450" data-dnt="true" data-theme="dark" href="https://twitter.com/MxSicker?ref_src=twsrc%5Etfw">Tweets por MxSicker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  </div>
 
-<div class="footer">
-  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Dzulum</a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+  <div class="col-4 sociales">
+      <h1>Sociales</h1>
+      <!--Enlaces-->
+<ul>
+    <li><a href="#">Facebook</a></li>
+    <li><a href="#">Twitter</a></li>
+    <li><a href="#">Github</a></li>
+    <li><a href="#">Tumblr</a></li>
+    <li><a href="#">Disqus</a></li>
+    <li><a href="#">e-Mail</a></li>
+    <li><a href="#">RSS</a></li>
+</ul>
+  </div>
+  <div class="col-4 sociales">
+     <!--Tecnologias-->
+    <h1><a href="http://dzulum.tk">Dzulúm</a> usa tecnologias:</h1>
+     <ul>
+    <li><a href="#">Jekyll</a></li>
+    <li><a href="#">Github</a></li>
+    <li><a href="#">Font Awesome</a></li>
+    <li><a href="#">Light Box</a></li>
+    <li><a href="#">Jquery</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">JavaScript</a></li>
+  </ul>
+     </div>
+  </div>
+  <div class="col-12 blackt footer separador">
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Dzulum</a> Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 </div>
-</body>
-</html>
+</BODY>
+</HTML>

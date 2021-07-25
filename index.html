@@ -5,6 +5,9 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+<h1>
+	<a href="{{ post.url }}">{{ post.title }}</a>
+</h1>
 {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -17,25 +20,21 @@ layout: default
             {% endif %}
         {% endif %}
       {% endfor %}
-<h1>
-	<a href="{{ post.url }}">{{ post.title }}</a>
-</h1>
-<p class="author">
-	<span class="date">{{ post.date }}</span>
+	<span class="blackt">{{ post.date }}</span>
 </p>
 <div class="content"> {{ post.content | markdownify | strip_html | truncatewords: 50 }} </div>
 {% endfor %}
 <!-- Pagination links -->
 <div class="pagination">
 	{% if paginator.previous_page %}
-	<a href="{{ paginator.previous_page_path }}" class="previous"> Anterior </a>
+	<a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-angle-double-left"></i> Anterior </a>
 	{% else %}
-	<span class="previous">Anterior</span>
+	<span class="previous"><i class="fa fa-angle-double-left"></i> Anterior</span>
 	{% endif %}
 	<span class="page_number "> Page: {{ paginator.page }} of {{ paginator.total_pages }} </span>
 	{% if paginator.next_page %}
-	<a href="{{ paginator.next_page_path }}" class="next">Siguiente</a>
+	<a href="{{ paginator.next_page_path }}" class="next">Siguiente <i class="fa fa-angle-double-right"></i></a>
 	{% else %}
-	<span class="next ">Siguiente</span>
+	<span class="next ">Siguiente Siguiente <i class="fa fa-angle-double-right"></i></span>
 {% endif %}
 </div>

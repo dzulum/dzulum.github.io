@@ -2,22 +2,21 @@
 layout: default
 comments: true
 ---
-
-<article class="post">
+<div class="darkgreyt center separador esquinas">
+<div class="content leer">
   <h1>{{ post.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+  {{ content }}
   </div>
 
-  <div class="date">
+  <div class="blackt">
     Escrito en {{ page.date | date: "%B %e, %Y" }}
   </div>
-<span>[
+<span class="blackt">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <a href="/tag/{{ tag_name }}" class="tag">{{ tag_name }}</a>
   {% endfor %}
 ]</span>
   {% include disqus.html %}
-</article>
+</div>
+</div>
