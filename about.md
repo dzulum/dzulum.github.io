@@ -4,6 +4,25 @@ title: About
 permalink: /about/
 ---
 
+# Sobre mi... 
+
+No, no es sobre mi, es sobre nosotros.
+
+Este blog en un inicio fue creado para compartir mis relatos, aquellos escritos que poco a poco llenan mis bytes y varias paginas de papel, fue creado para alimentar mi ego y decir que tenia algo propio creado desde cero por mis propias manos, pero en realidad nada de eso es lo primordial aquí.
+
+A pesar de los años hay alguien que ha estado conmigo y hoy quiero dedicarle este pequeño esfuerzo, quiero que sepa que es especial, que la amo por encima de todo, que al final de todo es mi fuente de inspiración.
+
+Si es ella, mi amada esposa, ¿quien más podría ser?
+
+Esta obra enferma es para ti mi amor.
+
+<h1 class="top">Sicker & Miztyk</h1>
+
+Hay que darle asco al mundo...
+
+Y no, esta no es tu sorpresa aún.
+
+---
 Dzulum es un blog con diferentes temáticas, desde apuntes de informática hasta historias de terror.
 
 ### Mas info
