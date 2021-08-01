@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<HEAD>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<!--Estilos para el sitio-->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/css/dzulum.css">
+<link rel="stylesheet" type="text/css" href="/css/prism.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+<!--Utilitarios para el sitio-->
+<script src="/js/analytics.js"></script>
+<script src="/js/activetop.js"></script>
+<script src="/js/topnav.js"></script>
+<script src="/js/prism.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<script>
+$(document).ready(function() {
+    $('a[href^="https://"]').filter(function() {
+        return this.hostname && this.hostname !== location.hostname;
+    }).attr('target', '_blank');  
+});
+</script>
+7d379fbbe5d95fa1886ed53d8f5680596ce878d3
+</HEAD>
+<BODY>
+<!--Header y navegacion-->
+<h1 class="top">Dzulúm</h1>
+<div class="topnav" id="myTopnav">
+  <a href="http://dzulum.tk"><i class="fa fa-fw fa-home"></i>Inicio</a>
+  <a href="/enlaces/"><i class="fa fa-anchor"></i>Enlaces</a>
+  <a href="/galleries/"><i class="fa fa-camera"></i>Galerias</a>
+  <a href="/descargas/"><i class="fa fa-download"></i>Descargas</a>
+  <a href="/about/"><i class="fa fa-user-circle-o"></i>Sobre Mi</a>
+ <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+ </a>
+</div>
+<!--Contenido y lateral-->
+
+<div class="col-12 blackt separador">
+  <div class="col-3 darkgrey">
+    <div class="separador">
+    {% include archive.html %}
+    </div>
+    <div class="separador">
+    {% include search.html %}
+    </div>
+  </div>
+  <div class="col-9">
+    {{ content }}
+  </div>
+</div>
+<!--Footer-->
+<div class="col-12 darkgreyt">
+  <div class="col-4">
+  <div class="center">
+  <!--Twitter-->  
+    <a class="twitter-timeline" data-width="100%" data-height="450" data-dnt="true" data-theme="dark" href="https://twitter.com/MxSicker?ref_src=twsrc%5Etfw">Tweets por MxSicker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  </div>
+
+  <div class="col-4 sociales">
+      <h1>Sociales</h1>
+      <!--Enlaces-->
+<ul>
+    <li><a href="https://facebook.com/mxsicker/#">Facebook</a></li>
+    <li><a href="https://twitter.com/mxsicker">Twitter</a></li>
+    <li><a href="https://github.com/dzulum/">Github</a></li>
+    <li><a href="https://sickermx.tumblr.com/">Tumblr</a></li>
+    <li><a href="https://disqus.com/by/sickermx/">Disqus</a></li>
+    <li><a href="mailto:dzulum[@]mortemale.org">e-Mail</a></li>
+    <li><a href="http://dzulum.tk/feed.xml">RSS</a></li>
+</ul>
+  </div>
+  <div class="col-4 sociales">
+     <!--Tecnologias-->
+    <h1><a href="http://dzulum.tk">Dzulúm</a> usa tecnologias:</h1>
+     <ul>
+    <li><a href="https://jekyllrb.com/">Jekyll</a></li>
+    <li><a href="https://github.com/">Github</a></li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+    <li><a href="https://lokeshdhakar.com/projects/lightbox2/">Light Box</a></li>
+    <li><a href="https://jquery.com/">Jquery</a></li>
+    <li><a href="https://www.w3.org/html/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
+     </div>
+  </div>
+  <div class="col-12 blackt footer separador">
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Dzulum</a> Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+</div>
+</BODY>
+</HTML>
