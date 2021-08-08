@@ -7,6 +7,8 @@ title: Descargas
 
 Aquí iré colocando algunos enlaces de descargas para ustedes, desde un simple PDF informativo hasta libros y otras cosas que me han parecido interesantes.
 
+Veamos que tan buenos lectores son, la contraseña de los archivos es http://dzulum.tk, espero que no anden como imbéciles preguntándola por no haber leído, animo banda, solo detesto a la gente que quiere todo a cambio de nada y sin un mínimo esfuerzo.
+
 ## Libros
 
 - [Libros de Gerardo Bloomerfield](https://www.mediafire.com/file/pyn5un769lnssyj/bloomerfield.rar/file) (Nota: Están en formato .exe, necesitas Windows o Wine en Linux para leerlos)
