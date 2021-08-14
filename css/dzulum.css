@@ -312,7 +312,7 @@ position: relative;}
  font-weight: lighter;
 
 }
-.sociales ul, .tag ul{
+.sociales ul, .tg ul{
  list-style-image: url("../images/dot.gif");
 }
 .sociales ul li a:hover{
@@ -324,7 +324,7 @@ position: relative;}
  font-weight: lighter;
 
 }
-.tag {
+.tg {
   font: bold 12px gabriele-l;
   text-decoration: none;
   background-color: #600;
@@ -335,7 +335,7 @@ position: relative;}
   border-radius: 10px 10px 10px 10px;
   text-transform: uppercase;
 }
-.tag:hover{ 
+.tg:hover{ 
   text-decoration: underline;
 }
 .leer{
@@ -374,14 +374,21 @@ img{
   align-content: center;
   text-align: center;
   border-radius: 10px 10px 10px 10px;
-    padding-top: 15;
+  padding-top: 15;
   padding-bottom: 15;
   padding-right: 15;
   padding-left: 15;
   margin: auto auto;
   width: 95%;
 }
+.thumb{width:150px;}
+.thumbl img {width: 200px;}
 a{
   color: red;
 }
 a:hover{ color: white; }
+a img{
+  width: 150px;
+  height: auto;
+  }
+code{background-color: #333;color: white;}

@@ -5,6 +5,7 @@ tags: tech
 image: /images/2021-03-15-limpio.png
 title: Configurando (ahora si) I3
 ---
+# Configurando (ahora si) I3
 
 Pues ahora si iniciamos a hacer la magia, en esta publicación voy a dejar mi configuración actual y los ajustes que he escrito en el archivo de configuración para lograr esto.
 
@@ -24,7 +25,7 @@ Bien, eso fue una leve explicación de lo que viste en la imagen, ahora vamos a 
 
 Esto es parte de mi archivo de configuración ubicado en `/home/sicker/.config/i3/config`
 
-~~~
+~~~bash
 # Usamos la tecla windows como modificador
 # Para usar Alt como modificador seria Mod1
 set $mod Mod4
@@ -50,7 +51,7 @@ Mas abajo se da la orden de que las nuevas ventanas tengan un borde de un pixel 
 
 ![Accesos directos](/images/2021-03-15-i3config-2.png)
 
-~~~
+~~~bash
 #####################################
 ## Accesos Directos
 #####################################
@@ -116,7 +117,7 @@ Hasta aquí todo lo importante de ese texto.
 
 ![Audio y pantalla](/images/2021-03-15-i3config-3.png)
 
-~~~
+~~~bash
 #audio
 bindsym XF86AudioRaiseVolume exec "amixer sset Master 1dB+ && $refresh_i3status; notify-send 'Volume INC'"
 bindsym XF86AudioLowerVolume exec "amixer sset Master 1dB- && $refresh_i3status; notify-send 'Volume DEC'"
@@ -142,7 +143,7 @@ Un poco mas abajo tenemos un nuevo bloque de codigo e instrucciones, para mover 
 
 ![Ventanas Flotantes y cierres](/images/2021-03-15-i3config-4.png)
 
-~~~
+~~~bash
 # usa el modificador y el mouse para mover ventanas
 floating_modifier $mod
 
@@ -163,7 +164,7 @@ Por ultimo hay una linea que indica el acceso directo `$mod+Shift+q` `Win+Shift+
 
 Ahora viene la sección donde apuntamos y movemos las diferentes ventanas que podamos tener en un espacio de trabajo, a grandes rasgos mover las ventanas seria `Win+Shift+la tecla de dirección que quieras usar` y para apuntar `Win+Tecla de dirección a cual apuntar`
 
-~~~
+~~~bash
 # menú de programas
 bindsym $mod+d exec --no-startup-id rofi -show drun
 
@@ -215,7 +216,7 @@ Después viene el floating toggle, intercambia entre modo ventana flotante `Win+
 
 Aqui es donde esta lo mas interesante de la configuración, por lo menos para mi, como se puede observar en la imagen de arriba dice que se asignan los nombres de los espacios de trabajo y se asignan sus respectivos accesos directos.
 
-~~~
+~~~bash
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1: Terminal"
@@ -253,7 +254,7 @@ Todos están asignados a las teclas de numero mas la combinación de la tecla wi
 
 `Win+Shift+1` hasta `Win+Shift+0` Correspondiendo 1 al espacio 1 y 0 al espacio 10.
 
-~~~
+~~~bash
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
 bindsym $mod+Shift+2 move container to workspace number $ws2
@@ -274,7 +275,7 @@ Y ahora, vamos a mostrar la magia de organizar todo como mejor te parezca y para
 ![Programas por espacio](/images/2021-03-15-i3config-9.png)
 ![Programas por espacio](/images/2021-03-15-i3config-10.png)
 
-~~~
+~~~bash
 #Asignando programas a sus espacios y cambiando a la ventana recién abierta Terminales
  
 assign [class="XTerm"] $ws1  
@@ -371,7 +372,7 @@ En esta imagen se ven accesos directos para recargar el archivo de configuració
 
 Mas abajo la configuración para el modo de redimensión de ventanas y su correspondiente acceso directo `Win+r`.
 
-~~~
+~~~bash
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
@@ -411,8 +412,7 @@ Por ultimo declaramos donde y como se va a ver la barra y el acceso directo para
 
 Esta ultima parte solo la deje así, venia en la configuración inicial.
 
-~~~
-
+~~~bash
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {

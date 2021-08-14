@@ -31,7 +31,7 @@ Espero que hayas leído, porque no voy a explicar mucho, solo pondré ejemplos y
 
 Un documento HTML tiene una sintaxis básica que debe seguirse si o si, son una serie de etiquetas que componen de manera básica el documento en cuestión y por ende lo van estructurando.
 
-~~~
+~~~html
 <HTML>
 	<HEAD>
 		<TITLE></TITLE>
@@ -54,7 +54,7 @@ Abre tu editor de texto y copia y pega el código de arriba, o si lo prefieres e
 
 Ahora vamos a escribir dentro de las etiquetas de BODY.
 
-~~~
+~~~{:.language-html}
 Este es un texto normal.<br>
 Este es un texto un poco mas largo, pero que no deja de ser normal.<br>
 
@@ -71,7 +71,7 @@ Para que vayas sabiendo que es cada etiqueta te explico a grandes rasgos, `<BR>`
 
 La etiqueta mas interesante de este ejercicio es la etiqueta `<a></a>` (antes de esto te habrás dado cuenta que use mayúsculas al inicio y ahora minúsculas, bien, es a propósito, porque para HTML es indiferente) esta etiqueta tiene varios atributos que pueden ser utilizados.
 
-~~~
+~~~{:.language-html}
 <a href="#">Enlace Normal</a>
 <a href="#" target="_blank">Enlace abierto en página nueva</a>
 <a href="#Ancla">Enlace a una sección de la pagina actual llamada #Ancla</a>
@@ -96,7 +96,7 @@ Su pongamos que en tu carpeta de trabajo tienes los siguientes archivos:
 
 Bien si eso es la estructura de tu carpeta debes enlazar todo, vamos a escribir ese código.
 
-~~~
+~~~html
 <a href="index.html">Inicio</a>
 <a href="sobremi.html">Sobre Mí</a>
 <a href="productos.html">Productos</a>
@@ -108,7 +108,7 @@ Ahora ese mismo código debe estar presente en todas las paginas de tu carpeta, 
 
 Bien, hasta aquí creo que no hay ningún motivo para pensar que HTML es difícil de aprender, vamos a escribir nuestra primer página completa y después vamos a explicar un poco más el código.
 
-~~~
+~~~html
 <HTML>
 	<HEAD>
 		<TITLE>Titulo bien shidoris</TITLE>

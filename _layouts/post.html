@@ -14,7 +14,7 @@ comments: true
 <span class="blackt">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}" class="tag">{{ tag_name }}</a>
+    <a href="/tag/{{ tag_name }}" class="tg">{{ tag_name }}</a>
   {% endfor %}
 ]</span>
   {% include disqus.html %}
