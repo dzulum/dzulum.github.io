@@ -76,9 +76,9 @@ sass:
 
 # Use the following plug-ins
 #gems:
-#  - jekyll-sitemap # Create a sitemap
-#  - jekyll-feed # Create an Atom feed
-#  - jekyll-paginate
+- jekyll-sitemap # Create a sitemap
+- jekyll-feed # Create an Atom feed
+- jekyll-paginate
 plugins:
   - jekyll-paginate
   - jekyll-feed
