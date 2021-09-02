@@ -250,6 +250,17 @@ position: relative;}
   margin: auto auto;
   width: 95%;
 }
+.center img{
+  width: 20%;
+  align-content: center;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  padding-top: 15;
+  padding-bottom: 15;
+  padding-right: 15;
+  padding-left: 15;
+  margin: auto auto;
+}
 .separador{
   margin-bottom: 5px;
   margin-top: 5px;
@@ -379,7 +390,6 @@ img{
   padding-right: 15;
   padding-left: 15;
   margin: auto auto;
-  width: 95%;
 }
 .thumb{width:150px;}
 .thumbl img {width: 200px;}
