@@ -20,7 +20,7 @@ Estos pasos no son tan difíciles como crees, lo primero es crear un archivo del
 En el directorio de includes de tu blog crea un archivo que contendrá código genérico administrado por iVoox, en mi caso lo llamaré `ivoox.html`
 
 ~~~html
-<iframe id='audio_{{include.id}}' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://mx.ivoox.com/es/player_ej_{{include.id}}_6_1.html'></iframe>
+<iframe id='audio_\{\{include.id\}\}' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://mx.ivoox.com/es/player_ej_\{\{include.id\}\}_6_1.html'></iframe>
 ~~~
 
 Ese código lo obtuve desde el sitio de iVoox en la sección de compartir.
@@ -31,7 +31,7 @@ El archivo que acabamos de crear y sin pasarle el ID luce así en nuestro navega
 
 ![Post de iVoox en Jekyll](/images/ivoox/ivoox-codigo.png)
 
-Como puedes ver quité el número que tiene en el codigo y lo sustituí por `{{include.id}}`, eso es lo que hará la magia, pues se lo vamos a pasar desde el archivo de la publicación.
+Como puedes ver quité el número que tiene en el codigo y lo sustituí por `\{\{include.id\}\}`, eso es lo que hará la magia, pues se lo vamos a pasar desde el archivo de la publicación.
 
 ### 2. Creando la publicación y llamando ivoox.html
 
@@ -45,16 +45,16 @@ date: 2021-09-02 02:30:01 -0600
 title: La macabra historia de la familia Berlanga
 ---
 ![Play](/images/play.png)
-{% include ivoox.html id='' %}
+\{\% include ivoox.html id='' \%\}
 
 ~~~
 
-Como puedes ver en el contenido de tu archivo hay una linea `{% include ivoox.html id='' %}` y tenemos faltante el ID, bueno, es hora de ir a conseguir uno que nos agrade para publicar en nuestro blog, en mi caso no tengo un canal de podcast en ivoox pero quiero compartir un podcast que me gusta, asi que voy por mi ID.
+Como puedes ver en el contenido de tu archivo hay una linea `\{\% include ivoox.html id='' \%\}` y tenemos faltante el ID, bueno, es hora de ir a conseguir uno que nos agrade para publicar en nuestro blog, en mi caso no tengo un canal de podcast en ivoox pero quiero compartir un podcast que me gusta, asi que voy por mi ID.
 
 
 ### 3. Seleccionando el ID del audio en iVoox
 
-¿Recuerdas el `{{include.id}}`? pues aquí lo vamos a definir.
+¿Recuerdas el `\{\{include.id\}\}`? pues aquí lo vamos a definir.
 
 ![Seleccionando iVoox ID](/images/ivoox/ivoox-id.png)
 
@@ -70,7 +70,7 @@ date: 2021-09-02 02:30:01 -0600
 title: La macabra historia de la familia Berlanga
 ---
 ![Play](/images/play.png)
-{% include ivoox.html id='55032450' %}
+\{\% include ivoox.html id='55032450' \%\}
 
 ~~~
 
@@ -83,3 +83,7 @@ Simplemente hay que hace un push como siempre para desplegar el commit que envia
 ![Post de iVoox en Jekyll](/images/ivoox/ivoox-jekyll.png)
 
 Aquí el resultado [La macabra historia de la familia Berlanga](https://dzulum.tk/La-macabra-historia-de-la-familia-Berlanga/)
+
+{% include ivoox.html id='55032450' %}
+
+Como ultima nota, en local no me eliminaba los backslash al publicar, pero en git no salían las tag correctamente, así que si por algún motivo salen los backslash en el código bórralos para poder usarlo, hasta pronto y espero te sea útil esta publicación, deja comentarios si necesitas ayuda.
