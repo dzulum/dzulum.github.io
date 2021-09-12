@@ -10,6 +10,7 @@ comments: true
 
   <div class="blackt">
     Escrito en {{ page.date | date: "%B %e, %Y" }}
+{% include related-post.html %}
   </div>
 <span class="blackt">
   {% for tag in page.tags %}
