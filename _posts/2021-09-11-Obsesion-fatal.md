@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 tags: relato
 date: 2021-09-11 19:08:00
 title: Obsesión Fatal
