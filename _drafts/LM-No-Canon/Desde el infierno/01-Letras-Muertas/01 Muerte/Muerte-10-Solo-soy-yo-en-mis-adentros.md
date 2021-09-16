@@ -1,0 +1,27 @@
+# Solo soy yo en mis adentros...
+
+Sé que has oído hablar de monstruos, que comen carroña, haz oído de gente que mata, haz oído de personas que odian a dios...
+Pero ellos son inocentes comparados conmigo, yo soy peor...
+
+He, lastimado a mucha gente, entre ellos a mis seres amados, no he sabido dar amor a cambio de nada, no he sabido hacer bien las cosas, yo solo soy una catástrofe andante.
+
+He matado todas las ilusiones de las personas que me aman, he escapado de las garras de la muerte, he entrado y salido del infierno solo por diversión.
+
+No te espantes, ya que no te lastimare si no me amas o bien si no me odias solo lee mis plegarias, mas nunca seas aficionado a mi pues te decepcionaras.
+
+Nunca he dado soluciones que sirvan de mucho, así que no pidas mi ayuda  si no quieres arruinarte la vida...
+
+¡No es para que te rías!... ¡es
+para que pienses!, solo para eso...
+
+Para que pienses un poco en que yo no soy quien para decirte como vivir tu vida, ya que es cuestión tuya y de nadie más.
+
+Me he mirado en un espejo para tratar de buscar mi razón de ser, pero nunca he encontrado algo que me lo diga, he puesto más interés en
+cosas que no valen la pena, pero nunca he puesto atención en mis
+estúpidos actos...
+
+Todos esos estúpidos actos violentos que me han marcado pero más han marcado a los seres que según yo amo.
+
+Y, mi pareja ha sido a quien más he afectado, eso sin contar a mi persona, sé que he dicho que el arrepentimiento es cobardía pero me he arrepentido de muchas cosas...
+
+Esta es mi descripción de mí pero aun así falta mucho, pues no hay palabras para describir mi egoísmo, mi crueldad y mi estupidez...

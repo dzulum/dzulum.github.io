@@ -1,0 +1,39 @@
+# EL DESEO
+
+Leo era un hombre que tenía una obsesión. Otros como él coleccionaban millones de estampillas o cajetillas de cigarros de todos los paises, o se pasaban toda su vida tratando de inventar un sistema infalible de apuestas, o un método seguro de hundir la bolsa de valores. La obsesión particular de Leo era la magia.
+
+Vivía solo en una piesa arrendada, y solo tenía un gato por toda compañía. Las mesas y las sillas de la habitación estaban repletas de libros y manuscritos antiguos, las paredes cubiertas con herramientas propias de un brujo, y los armarios Llenos de hierbas y esencias mágicas. La gente le dejaba solo, y a Leo le gustaba que fuera así.
+
+Sabía que algún día terminaría por encontrar el hechizo adecuado, que entonces aparecería un demonio y le concederia un deseo glorioso. En eso soñaba por la noche; y por la mañana seguia trabajando en sus fórmulas. Su gato negro estaba echado cerca, con los ojos amarillentos medio cerrados, como si fuera la misma alma de la magia. Y Leo siguió trabajando, analizando las permutaciones infinitas de sus fórmulas.
+
+Se había acostumbrado tanto al fracaso, que el éxito le cogió por sorpresa.
+
+Una nubecilla de humo apareció en el pentágono trazado en el suelo. Un demonio adquirió forma lentamente; y Leo, que tanto había anhelado aquel momento, se encontró temblando de miedo. De algún modo, durante todos aquellos años nunca había llegado a decidir exactamente qué pediría cuando apareciera el demonio.
+
+La nubecilla de humo se convirtió en una enorme forma gris. Leo deambuló de uno a otro lado de la habitación, se retorció las manos, acarició al gato, rechinó los dientes, se mordió las uñas y trató desesperadamente de pensar. Un deseo y solo un deseo, ésa era la regla.
+
+Pero ¿que podía pedir? ¿Riqueza? ¿O acaso el poder era mas valioso? ¿Debía considerar la eventualidad de pedir la inmortalidad? ¿O sería más seguro un deseo algo más modesto?
+
+Ahora, el demonio ya había adquirido su forma. Su cabeza puntiaguda rozaba el techo, y sus labios estaban retorcidos en una expresion demoniaca.
+
+-¿Cuál es tu deseo? -preguntó el demonio con un tono de voz tan fuerte que tanto Leo como el gato retrocedieron.
+
+Pero, después de veinte años de esfuerzos, Leo quería pedir el mejor deseo posible. Volvió a pensar en las diversas ventajas que le ofrecían el poder, o la riqueza, o la inmortalidad. Y entonces, cuando estaba a punto de decidirse, vio que el demonio le miraba con una sonrisa burlona.
+
+-Es algo irregular -dijo el demonio pero creo que cumple con las condiciones.
+
+Leo no supo de qué estaba hablando. Entonces se sintió invadido por una oleada de vértigo, y la habitación se oscureció. Cuando recobró la visión, Leo vio que el demonio se había marchado.
+
+«Una ocasión perdida», pensó. El demonio había desaparecido y todo seguía como antes.
+
+Bueno, no exactamente igual. Porque Leo notó que sus orejas se habían alargado, y que su nariz se había agrandado aún mucho más.
+
+Tenía un pelo grisáceo en lugar de su piel, y le habia salido un rabo. ¡Aquel demonio traicionero le había convertido en una bestia! Entonces, Leo escuchó un ruido tras él. Y se dio cuenta de lo ocurrido.
+
+Echó a correr con la velocidad que solo da la desesperación, alrededor de una habitación que ahora se veía enorme.
+
+Un golpe cayó sobre él, y vio un rostro con bigotes y unos dientes gigantescos listos para morder...
+
+Y Leo supo entonces que sus dudas habían provocado su ruina. Ahora, le resultaba horriblemente evidente que su gato habia tenido un deseo antes que él... un deseo que el demonio habia aceptado.
+
+Y, del modo más natural, su gato había deseado cazar un ratón.

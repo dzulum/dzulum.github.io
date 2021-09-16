@@ -1,0 +1,93 @@
+   [DEL: :DEL] //OwnerIQ var __oiq_pct = 50; if( __oiq_pct>=100 ||
+   Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) { var _oiqq = _oiqq
+   || []; _oiqq.push(['oiq_addPageBrand','Lycos']);
+   _oiqq.push(['oiq_addPageCat','Internet > Websites']);
+   _oiqq.push(['oiq_addPageLifecycle','Intend']);
+   _oiqq.push(['oiq_doTag']); (function() { var oiq =
+   document.createElement('script'); oiq.type = 'text/javascript'; oiq.as
+   ync = true; oiq.src = document.location.protocol +
+   '//px.owneriq.net/stas/s/lycosn.js'; var s =
+   document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(oi q, s); })(); } /////// Google Analytics
+   var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-21402695-21']);
+   _gaq.push(['_setDomainName', 'angelfire.com']);
+   _gaq.push(['_setCustomVar', 1, 'member_name', 'stars2/poemas', 3]);
+   _gaq.push(['_trackPageview']); (function() { var ga =
+   document.createElement('script'); ga.type = 'text/javascript'; ga.asy
+   nc = true; ga.src = ('https:' == document.location.protocol ?
+   'https://ssl' : 'http://www ') + '.google-analytics.com/ga.js'; var s =
+   document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(
+   ga, s); })(); ////// Lycos Initialization ///////////////////// var
+   lycos_ad = Array(); var lycos_search_query = ""; var
+   lycos_onload_timer; var cm_role = "live"; var cm_host =
+   "angelfire.lycos.com"; var cm_taxid = "/memberembedded"; var
+   angelfire_member_name = "stars2/poemas"; var angelfire_member_page =
+   "stars2/poemas/claudia.html"; var angelfire_ratings_hash =
+   "1615157215:58c5b4f142d89fee1a17d541e2c9db4c"; var lycos_ad_category =
+   {"dmoz":"society\/relationships","ontarget":"&CAT=family
+   %20and%20lifestyles&L2CAT=relationships","find_what":"paris"}; var
+   lycos_ad_remote_addr = "209.202.244.9"; var lycos_ad_www_server =
+   "www.angelfire.lycos.com"; var edit_site_url =
+   "www.angelfire.lycos.com/landing/landing.tmpl?utm_source=hou
+   se&utm_medium=landingpage&utm_campaign=toolbarlink";
+
+   [1]Site hosted by Ange lfire.com: Build your free website today!
+   undefined
+
+   undefined
+
+   [2]Site hosted by Angelfire.com: Build your free website today!
+
+   IFRAME: [3]./claudia_files/saved_resource.html
+
+                          Claudia: durkav@civila.com
+
+                                    CREDO
+
+                        No hay dolor, no hay un cielo
+                         mi existencia es un enredo
+                         estoy sola, no lo entiendo
+
+                           Mi odio es tan complejo
+                          mi sentir es un infierno
+
+                        El rencor hierve en mi sangre
+                          mi espíritu es de hierro
+
+                        Todo es relativo a mi pensar
+                       sin embargo mi pasión es veneno
+                         mis palabras son estrechas
+                         pero mis ideas son eternas
+
+                    Odio la indeferencia de los corderos
+                         es traición o es un acuerdo
+                            o tan solo confusión
+
+                            Regresa a tu libertad
+                           toma tu propio sentido
+                            no busques la verdad
+                        solo son pensamientos necios
+                      de un ciego que guía a otro ciego
+
+                      Se ahogaran con su propia sangre
+                  a todos los consumira su propio infierno
+
+                        Tu pensamiento es un tornado
+                               toma mi consejo
+                         vive con tu propia libertad
+                      no con la que siempre has creído
+
+                         Es tu bienestar, no el mío
+                       mi palabra solo toma un sentido
+
+                                  [4]Atrás
+
+   IFRAME: [5]./claudia_files/eps.html
+
+References
+
+   1. https://www.angelfire.lycos.com/
+   2. https://www.angelfire.lycos.com/
+   3. file:///home/sicker/Downloads/web/0/claudia_files/saved_resource.html
+   4. https://www.angelfire.com/stars2/poemas/losinternos.html
+   5. file:///home/sicker/Downloads/web/0/claudia_files/eps.html

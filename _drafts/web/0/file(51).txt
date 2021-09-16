@@ -1,0 +1,561 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.or
+g/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TradeDoubler site verification 1695487 -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="verify-v1" content="D5SETcUDl0Eb/CMD4Jg86Nk99T8rESYuvLAvtDR9gog=" />
+<meta property="og:image" content="http://www.estasmuerto.com/img/logo_pie.gif"
+/>
+<title>:: EstasMuerto.com :: Conoce el dÃa de tu muerte o comunÃcate con mÃ¡s no
+ muertos...</title>
+<link rel="shortcut icon" href="img/favicon2.ico" >
+<link rel="STYLESHEET" type="text/css" media="all" href="css/estilo.css" />
+<script src="system/jquery.js" type="text/javascript"></script>
+<script src="system/jfunctions.js" type="text/javascript"></script>
+<script src="system/whizzywig.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-15556049-8";
+</script>
+<!--[if IE 6]>
+        <link rel="STYLESHEET" type="text/css" media="all" href="css/estilo_6.cs
+s" />
+<![endif]-->
+<!--[if IE 7]>
+        <link rel="STYLESHEET" type="text/css" media="all" href="css/estilo_7.cs
+s" />
+<![endif]-->
+</head>
+
+<body>
+        <div id="shadow">
+</div>
+<div id="popup">
+        .
+
+
+                <div id="emergecont" class="emergecont">
+
+                        <b class="right cerrar popupcerrar"/><img src="img/cerra
+rpopup.png"></b>
+
+                        <div id="contenidoemergente">
+
+
+
+
+                        </div>
+
+                </div>
+
+        </div>
+<div id="main">
+
+        <div id="head">
+
+                <div id="cabeceravuelta"></div>
+                <div class="banner">
+                        <div id="botonaudio"><img src="img/audio_off.png" id="au
+dio_off"></div>         <script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=16");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a7c
+e30e1&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7ce3
+0e1' border='0' alt='' /></a></noscript>
+
+                </div>
+                <div id="nav">
+
+                                <a href='?L=tuhora'><img src="img/hora.png" clas
+s="hoverbotton"/></a>
+                                <a href='?L=esquela'><img src="img/esquela.png"
+ class="hoverbotton"/></a>
+                                <a href='?L=amenazas'><img src="img/amenazas.png
+"   class="hoverbotton" /></a>
+                                <a href='?L=leyendas'><img src="img/leyendas.png
+"  class="hoverbotton" /></a>
+                                <a href='?L=almas'><img src="img/almas.png"  cla
+ss="hoverbotton" /></a>
+                                <a href='?L=foro&forumcall=index.php'><img src="
+img/foro.png"  class="hoverbotton" /></a>
+
+                </div>
+
+        </div>
+
+        <div id="content">
+
+                <div id="left">
+                        <div  class="div_usuario borde_blanco">
+        <a href='http://www.estasmuerto.com//index.php?action=register'>
+                                <img src='img/bt_registrarse.jpg'>
+                                </a>
+                <form action="http://www.estasmuerto.com/index.php?action=login2
+" method="post" accept-charset="ISO-8859-1">
+                        <table border="0" cellspacing="1" cellpadding="0" class=
+"ssi_table">
+                                <tr>
+                                        <td align="right"><label for="user">Usua
+rio:</label>&nbsp;</td>
+                                </tr><tr>
+                                        <td><input type="text" id="user" name="u
+ser" size="9" value="" /></td>
+                                </tr><tr>
+                                        <td align="right"><label for="passwrd">C
+ontrase&ntilde;a:</label>&nbsp;</td>
+                                </tr><tr>
+                                        <td><input type="password" name="passwrd
+" id="passwrd" size="9" /></td>
+                                </tr><tr>
+                                        <td><input type="hidden" name="cookielen
+gth" value="-1" /></td>
+                                </tr><tr>
+                                        <td><input type="submit" value="Ingresar
+" /></td>
+                                </tr>
+                        </table>
+                </form></div>
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=39");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a39
+1a403&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=39&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a391a
+403' border='0' alt='' /></a></noscript>
+
+
+                </div>
+
+                <div id="right">
+
+<div class="div_leyenda">
+<div class="div_leyenda">
+<h2>Demetrio y la niña quemada</h2><p class='right'><i>por  DomingoX León </i></
+p><br/><br/><br/>      El viejo reloj cucú de Demetrio marcó las 10:00 pm, mient
+ras este apagaba las lámparas de aceite alrededor de su casa para ir a dormir, h
+abía sido un día muy pesado. Pasados 8 minutos después de que el reloj le diera
+la bienvenida a las 10:00 pm, cuando ya Demetrio se acomodaba en su cama de paja
+, se escuchó tocar la puerta.- TOC, TOC, TOC- se escuchaban lentas y pesadas aqu
+ellas tocadas, como si quien las diera estuviera sufriendo mucho al hacerlo. Dem
+etrio algo extrañado, éncendió la lámpara que descansaba a su lado en la mesa de
+ noche, y fué destinado a abrir la puerta. Cual fue la sorpresa de Demetrio al a
+brirla, alcanzó a ver por el brillo que emanaba su lámpara, a una niña de no más
+ de 7 años, totalmente quemada, que le decía<br />
+<br />
+-Agua!!, Agua por favor!, AGUA!!!. Demetrio con el corazón casi saliendole por l
+a garganta, cerró la puerta de un azote, cerró las ventanas y casi infartado se
+acostó a dormir. Al día siguiente, exactamente a la misma hora sucedió lo mismo
+cuando Demetrio ya se estaba acomodando para dormir. Fue por eso que al día sigu
+iente se lo comentó, a un amigo que vivía  cerca de su casa, y este le recomendó
+ ir a que una señora espiritista que tenía un pequeño tarantín a las afueras del
+ pueblo. Demetrio; que no creía en esas cosas; decidió ir con el objeto de darle
+ fin a aquella molesta situación que le espantaba el sueño todas las noches. Sal
+ió tempranito, cuando a lo lejos divisó el tarantín rojo donde hacía su trabajo
+aquella vieja bruja. Al entrar, a la señora le dió una fuerte corazonada cuando
+vio entrar a Demetrio, pero no le hizo caso. -Bienvenido, que desea?- Preguntó M
+adame lalou a Demetrio. Éste contó lo que le sucedía, y ésta comenzó a llorar. L
+e dijo que esa niña era su sobrina, que había muerto en un incendio a las 10:08
+pm, ella estaba dormida, y tenía sed. Toda su familia murió en ese incendio, per
+o es el alma de mi sobrina María el que vaga, pidiendo un poco de agua.<br />
+<br />
+     Demetrio aún con los pelos erizados, preguntó:<br />
+<br />
+- Y no hay forma alguna de hacer que se vaya?, que no me moleste mas?.<br />
+<br />
+- Sí, si hay una forma- Dijo la anciana - Cuando la niña se aparezca de nuevo po
+r su casa, sencillamente ábrale la puerta y dele un poco de agua, es la única fo
+rma de que deje de molestarlo.<br />
+<br />
+       Ese día, Demetrio padeció un escalofrío constante a lo largo de su cuerpo
+. El reloj, dió las 10. Faltaban 8 minutos!, Demtrio se ponía las manos en la ca
+beza y sudaba a litros. De repente, se escuchó el crujir de la paja seca, y.....
+. TOC, TOC, TOC.<br />
+<br />
+       Demetrio brincó, corrió a la cocina, y tomó agua fresca en un tarro que y
+a tenía preparado para ese momento. Abrió la puerta. Y ahi estaba, aquel cuerpo
+casi amorfo a causa de las llamas que la acobijaron aquella noche, a aquella mis
+ma hora. -Agua!!!, por favor agua!!, AGUA!!-Suplicó la niña.<br />
+<br />
+      Ya con el tarro en la mano y sin pensarlo dos veces, Demetrio le sirvió ag
+ua, la cual la niña bebió en un segundo. -Más por favor!!- Le dijo la niña de nu
+evo.<br />
+<br />
+      Éste le sirvió de nuevo. En los ojos de la péqueña niña, Demetrio distingu
+ió perfectamente, como si fuera una película, el momento en el que la niña se qu
+emaba, un frío intenso heló la piel de Demetrio, y en los ojos de la infante, aú
+n se reflejaba el momento de su tragedia. Ya acabado el tarro, la niña se volteó
+ y se fué, atravesando los matorrales, atravesando el bosque como si flotara, ha
+sta que se perdió de los ojos de aquel asustado hombre. Se volteó y se acostó, s
+u cama se encontraba hirviendo!!!, como si fuera el infierno propio.<br />
+<br />
+      Al día siguiente cuando fué a buscar leña para su consumo, observó parte d
+el bosque totalmente quemada, del cual obtuvo un exqucito carbón que vendió en e
+l pueblo y que le dió mucho dinero. Dicen, que de esta forma aquella niña dió gr
+acias a Demetrio por saciarle su necesidad, y así, poder descansar en paz.</div>
+ <a href="http://www.estasmuerto.com/index.php?L=resultadosleyenda&palabra="></a
+><hr>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Mimy</b></div>
+
+                <div class="comentario_text">
+                Me gusto mucho saludos                          <i>2016-08-20 11
+:49:50</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Santiago4444444444</b></div>
+
+                <div class="comentario_text">
+                0!0!0!                          <i>2015-09-11 02:57:53</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Zamiel</b></div>
+
+                <div class="comentario_text">
+                No tiene suspenso, y la cosa que asusta, de nuevo, es la bendita
+ ortografía....                         <i>2014-04-20 07:32:02</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>flopymuerta2011</b></div>
+
+                <div class="comentario_text">
+                muy linda me dio pena pero fue buena
+<i>2014-01-18 04:52:24</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Sofya Rondon</b></div>
+
+                <div class="comentario_text">
+                huiiiiiiiiiiiiiii q miedoooo                            <i>2012-
+02-20 08:52:19</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Sangre fria 204</b></div>
+
+                <div class="comentario_text">
+                Estoy cn shuby jajajaj yo tabn pense q iba a morir quemao jajjaj
+a xD jejejje mu bna                     <i>2011-12-11 06:16:56</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>licantcamus</b></div>
+
+                <div class="comentario_text">
+                no manches una de las mejores obras combina de todo suspenso, mi
+edo, y armonia                          <i>2011-06-26 10:11:47</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>auscias</b></div>
+
+                <div class="comentario_text">
+                ESTA BUENA AUNK ME DA PENA AKELLA NIÑA
+<i>2011-06-01 04:05:36</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Haku</b></div>
+
+                <div class="comentario_text">
+                Me Fascino *0* me dio un poko de pena u,u Pero iwal me encanto
+                        <i>2011-05-07 04:10:12</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>jozhita_16</b></div>
+
+                <div class="comentario_text">
+                Oh! Muy Buena! Me Encanto! Escribe un Libro jasjajsj xD Bye!
+                        <i>2011-03-02 07:27:30</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>jozhita_16</b></div>
+
+                <div class="comentario_text">
+                Oh! Muy Buena! Me Encanto! Escribe un Libro jasjajsj xD Bye!
+                        <i>2011-03-02 07:27:28</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>chocolathica venenoza</b></div>
+
+                <div class="comentario_text">
+                no me asustho pero estha buenisima me gustho, de una a escala de
+l 1 al 10 the doi un 10 mui buena histhoria :D                          <i>2010-
+11-21 09:26:33</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>monC</b></div>
+
+                <div class="comentario_text">
+                buena historia un poco mas de cuidado al escribir pero muy super
+ entrete...                     <i>2010-10-22 05:17:01</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>yuventus</b></div>
+
+                <div class="comentario_text">
+                la mas chida historia voy a lorrar .-.- muy linda la historia .-
+.-
+                      .
+                      .
+                        <i>2010-09-13 08:26:18</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>ignaxio</b></div>
+
+                <div class="comentario_text">
+                me encanto                      <i>2010-08-28 12:43:56</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>lamuma2009</b></div>
+
+                <div class="comentario_text">
+                    Que bonito mas bien suena tierna esta historia
+<i>2010-08-13 03:21:58</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>purita</b></div>
+
+                <div class="comentario_text">
+                me encanto la historia, no siempre las almas tienen que ser perv
+ersas                           <i>2010-08-12 01:57:14</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>niña14</b></div>
+
+                <div class="comentario_text">
+                ay que esta historia estuvo increible
+<i>2010-08-03 05:09:44</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>ko0nyxd</b></div>
+
+                <div class="comentario_text">
+                aha yo lei esta historia ase años como 3 o cuatro años atras ^^
+muy buena tienes mi voto                        <i>2010-07-23 06:56:12</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+                <div class="comentario">
+                <div class="avatar_coment"><img src="/img/skull.png">
+                        <b>Mel_Kaulitz</b></div>
+
+                <div class="comentario_text">
+                jaja,, yo tmb estaba pensando en alessa,, jaja!! te voto, me enk
+anto ^^ aunqe qe hdp el tipo de cerrarle la puerta!!
+<i>2010-06-19 01:15:51</i>
+                        </div>
+                        <hr class='clearboth'>
+                </div>
+
+
+
+
+
+</div>
+                </div>
+
+
+
+
+        </div>
+
+        <div id="footer">
+                        <div style="float: left; height: 125px; width: 125px; fo
+nt-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9px; color: rgb(50, 68
+, 103); background-image: url(http://www.es/banners/125x125-boom-es.png); text-a
+lign: center; margin-left: 20px;">
+<div style="height: 22px;"></div>
+<br>
+<ul style="list-style-type: none; margin-left: -40px; font-size: 11px;">
+</ul>
+</div >
+
+<div class="banner">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boom.es/www/delivery/ajs
+.php':'http://ads.boom.es/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=17");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_
+used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (docume
+nt.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.refe
+rrer));
+   if (document.context) document.write ("&context=" + escape(document.context))
+;
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.boom.es/www/delivery/ck.php?n=a3f
+ef439&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boo
+m.es/www/delivery/avw.php?zoneid=17&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3fef
+439' border='0' alt='' /></a></noscript>
+</div>
+
+<br clear="all">
+<div >
+                <a href="http://www.estasmuerto.com"><img src="img/logo_pie.gif"
+ align="left" alt="Estasmuerto.com" /></a>
+                <p><a href="index.php?L=legal">Aviso Legal</a> Designed by <a hr
+ef="http://fixandchips.es/">F.A.C.</a> &copy;Copyright 2002-2021 </p>
+                <p>Estasmuerto.com es una página de entretenimiento, y como tal
+se ha de tomar. Estasmuerto.com no se responsabiliza del uso que se dé de esta w
+eb, siendo responsabilidad última del usuario.</p>
+
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
+p://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
+js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15556049-8");
+pageTracker._setDomainName(".estasmuerto.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+        </div>
+
+</div>
+
+
+</body>
+</html>
+
+
+
+
+
+

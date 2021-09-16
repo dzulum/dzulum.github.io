@@ -1,0 +1,2022 @@
+    #[1]alternate [2]alternate
+
+   [3]Skip to content
+
+   [4]HTML.com logo
+
+   Learn HTML Code, Tags & CSS
+   MENUMENU
+     * [5]Tags
+          + [6]A
+               o [7]<a>
+               o [8]<abbr>
+               o [9]<acronym>
+               o [10]<address>
+               o [11]<app>
+               o [12]<applet>
+               o [13]<area>
+               o [14]<article>
+               o [15]<aside>
+               o [16]<audio>
+          + [17]B
+               o [18]<b>
+               o [19]<base>
+               o [20]<basefont>
+               o [21]<bdi>
+               o [22]<bdo>
+               o [23]<bgsound>
+               o [24]<big>
+               o [25]<blink>
+               o [26]<blockquote>
+               o [27]<body>
+               o [28]<br>
+               o [29]<button>
+          + [30]C
+               o [31]<canvas>
+               o [32]<caption>
+               o [33]<center>
+               o [34]<cite>
+               o [35]<code>
+               o [36]<col>
+               o [37]<colgroup>
+               o [38]<comment>
+               o [39]Comment Tag <!-- o o o -->
+          + [40]D
+               o [41]<datalist>
+               o [42]<dd>
+               o [43]<del>
+               o [44]<details>
+               o [45]<dfn>
+               o [46]<dialog>
+               o [47]<dir>
+               o [48]<div>
+               o [49]<dl>
+               o [50]<!DOCTYPE ...>
+               o [51]<dt>
+          + [52]E
+               o [53]<em>
+               o [54]<embed>
+          + [55]F
+               o [56]<fieldset>
+               o [57]<figcaption>
+               o [58]<figure>
+               o [59]<font>
+               o [60]<footer>
+               o [61]<form> HTML Tag
+               o [62]<frame>
+               o [63]<frameset>
+          + [64]H
+               o [65]<head>
+               o [66]<header>
+               o [67]Heading Tags
+               o [68]<hr>
+               o [69]<html>
+               o [70]<hype>
+          + [71]I
+               o [72]<i>
+               o [73]<iframe>
+               o [74]<img>
+               o [75]<input>
+               o [76]<ins>
+               o [77]<isindex>
+          + [78]K
+               o [79]<kbd>
+               o [80]<keygen>
+          + [81]L
+               o [82]<label>
+               o [83]<legend>
+               o [84]<li>
+               o [85]<link>
+               o [86]<listing>
+          + [87]M
+               o [88]<main>
+               o [89]<map>
+               o [90]<mark>
+               o [91]<marquee>
+               o [92]<menu>
+               o [93]<menuitem>
+               o [94]<meta>
+               o [95]<meter>
+               o [96]<multicol>
+          + [97]N
+               o [98]<nav>
+               o [99]<nobr>
+               o [100]<noembed>
+               o [101]<noframes>
+               o [102]<noscript>
+          + [103]O
+               o [104]<object>
+               o [105]<ol>
+               o [106]<optgroup>
+               o [107]<option>
+               o [108]<output>
+          + [109]P
+               o [110]<p>
+               o [111]<param>
+               o [112]<plaintext>
+               o [113]<pre>
+               o [114]<progress>
+          + [115]Q
+               o [116]<q>
+          + [117]R
+               o [118]<rt>
+               o [119]<ruby>
+               o [120]<rp>
+          + [121]S
+               o [122]<s>
+               o [123]<samp>
+               o [124]<script>
+               o [125]<section>
+               o [126]<select>
+               o [127]<small>
+               o [128]<sound>
+               o [129]<source>
+               o [130]<spacer>
+               o [131]<span>
+               o [132]<strong>
+               o [133]<style>
+               o [134]<sub>
+               o [135]<summary>
+          + [136]T
+               o [137]<table>
+               o [138]<tbody>
+               o [139]<td>
+               o [140]<textarea>
+               o [141]<tfoot>
+               o [142]<th>
+               o [143]<thead>
+               o [144]<time>
+               o [145]<title>
+               o [146]<tr>
+               o [147]<track>
+               o [148]<tt>
+          + [149]U
+               o [150]<u>
+               o [151]<ul>
+          + [152]V
+               o [153]<var>
+               o [154]<video>
+          + [155]W
+               o [156]<wbr>
+          + [157]X
+               o [158]<xmp>
+     * [159]Attributes
+     * [160]Tutorials
+          + [161]HTML Cheat Sheet
+          + [162]Applets
+          + [163]How to Use Anchors & Links in HTML
+          + [164]CSS
+          + [165]Document Structure
+          + [166]Fonts
+          + [167]HTML Guide To Building Web Forms - Novice Developers
+            Should Keep This Close To Hand
+          + [168]How To Use <frame> Tags In HTML
+          + [169]HTML5
+          + [170]Lists Bring Order To Web Pages: Here's The HTML Code To
+            Create Them
+          + [171]Embedding Modern Media With HTML5: Get The Code &
+            Instructions To Succeed
+          + [172]Web Images: Best Practices and HTML Code In One Useful
+            Guide
+          + [173]8 Invalid HTML Elements You Should Stop Using Immediately
+          + [174]Javascript: The Beginner's Guide To Understanding Modern
+            Javascript
+          + [175]Paragraphs
+          + [176]What On Earth Is Semantic Markup? (And Why Should You
+            Learn To Write It)
+          + [177]Symbols
+          + [178]HTML Tables: Find Out When To Use Them (And When To
+            Avoid)
+     * [179]Hosting Guide
+          + [180]A2 Hosting
+          + [181]BlueHost
+          + [182]DreamHost
+          + [183]FatCow.com
+          + [184]GoDaddy.com
+          + [185]GreenGeeks
+          + [186]HostGator
+          + [187]HostMonster
+          + [188]HostPapa
+          + [189]iPage
+          + [190]JustHost
+          + [191]Liquid Web
+          + [192]Lunarpages
+          + [193]Media Temple
+          + [194]Midphase
+          + [195]MyHosting.com
+          + [196]Network Solutions
+          + [197]One.com
+          + [198]SiteGround
+          + [199]Web Hosting Hub
+          + [200]WestHost
+          + [201]WP Engine
+          + [202]Yahoo! Hosting
+     * [203]Blog
+          + [204]6 Bad Digital Habits and How to Beat Them
+          + [205]Defending Your Data
+          + [206]Barbaric Data Center Downtime Costs - Exposed!
+          + [207]The 7 Most Hated Internet Innovations of All Time
+          + [208]10 Completely Innocent Websites Britain Blocked (And How
+            It Happened)
+          + [209]7 Free Wifi Safety Steps And How To Implement Them
+            [Infographic]
+          + [210]How to Establish a BYOD Policy
+          + [211]What Is Doxing? (And Why Is It So Scary?): An Infographic
+     * [212]About
+          + [213]Contact Us
+          + [214]The Student Web Developer's Ultimate Resource Centre - 10
+            Articles You Need In 2019
+          + [215]We're Hiring
+
+   MENUMENU
+     * [216]Tags
+          + [217]A
+               o [218]<a>
+               o [219]<abbr>
+               o [220]<acronym>
+               o [221]<address>
+               o [222]<app>
+               o [223]<applet>
+               o [224]<area>
+               o [225]<article>
+               o [226]<aside>
+               o [227]<audio>
+          + [228]B
+               o [229]<b>
+               o [230]<base>
+               o [231]<basefont>
+               o [232]<bdi>
+               o [233]<bdo>
+               o [234]<bgsound>
+               o [235]<big>
+               o [236]<blink>
+               o [237]<blockquote>
+               o [238]<body>
+               o [239]<br>
+               o [240]<button>
+          + [241]C
+               o [242]<canvas>
+               o [243]<caption>
+               o [244]<center>
+               o [245]<cite>
+               o [246]<code>
+               o [247]<col>
+               o [248]<colgroup>
+               o [249]<comment>
+               o [250]Comment Tag <!-- o o o -->
+          + [251]D
+               o [252]<datalist>
+               o [253]<dd>
+               o [254]<del>
+               o [255]<details>
+               o [256]<dfn>
+               o [257]<dialog>
+               o [258]<dir>
+               o [259]<div>
+               o [260]<dl>
+               o [261]<!DOCTYPE ...>
+               o [262]<dt>
+          + [263]E
+               o [264]<em>
+               o [265]<embed>
+          + [266]F
+               o [267]<fieldset>
+               o [268]<figcaption>
+               o [269]<figure>
+               o [270]<font>
+               o [271]<footer>
+               o [272]<form> HTML Tag
+               o [273]<frame>
+               o [274]<frameset>
+          + [275]H
+               o [276]<head>
+               o [277]<header>
+               o [278]Heading Tags
+               o [279]<hr>
+               o [280]<html>
+               o [281]<hype>
+          + [282]I
+               o [283]<i>
+               o [284]<iframe>
+               o [285]<img>
+               o [286]<input>
+               o [287]<ins>
+               o [288]<isindex>
+          + [289]K
+               o [290]<kbd>
+               o [291]<keygen>
+          + [292]L
+               o [293]<label>
+               o [294]<legend>
+               o [295]<li>
+               o [296]<link>
+               o [297]<listing>
+          + [298]M
+               o [299]<main>
+               o [300]<map>
+               o [301]<mark>
+               o [302]<marquee>
+               o [303]<menu>
+               o [304]<menuitem>
+               o [305]<meta>
+               o [306]<meter>
+               o [307]<multicol>
+          + [308]N
+               o [309]<nav>
+               o [310]<nobr>
+               o [311]<noembed>
+               o [312]<noframes>
+               o [313]<noscript>
+          + [314]O
+               o [315]<object>
+               o [316]<ol>
+               o [317]<optgroup>
+               o [318]<option>
+               o [319]<output>
+          + [320]P
+               o [321]<p>
+               o [322]<param>
+               o [323]<plaintext>
+               o [324]<pre>
+               o [325]<progress>
+          + [326]Q
+               o [327]<q>
+          + [328]R
+               o [329]<rt>
+               o [330]<ruby>
+               o [331]<rp>
+          + [332]S
+               o [333]<s>
+               o [334]<samp>
+               o [335]<script>
+               o [336]<section>
+               o [337]<select>
+               o [338]<small>
+               o [339]<sound>
+               o [340]<source>
+               o [341]<spacer>
+               o [342]<span>
+               o [343]<strong>
+               o [344]<style>
+               o [345]<sub>
+               o [346]<summary>
+          + [347]T
+               o [348]<table>
+               o [349]<tbody>
+               o [350]<td>
+               o [351]<textarea>
+               o [352]<tfoot>
+               o [353]<th>
+               o [354]<thead>
+               o [355]<time>
+               o [356]<title>
+               o [357]<tr>
+               o [358]<track>
+               o [359]<tt>
+          + [360]U
+               o [361]<u>
+               o [362]<ul>
+          + [363]V
+               o [364]<var>
+               o [365]<video>
+          + [366]W
+               o [367]<wbr>
+          + [368]X
+               o [369]<xmp>
+     * [370]Attributes
+     * [371]Tutorials
+          + [372]HTML Cheat Sheet
+          + [373]Applets
+          + [374]How to Use Anchors & Links in HTML
+          + [375]CSS
+          + [376]Document Structure
+          + [377]Fonts
+          + [378]HTML Guide To Building Web Forms - Novice Developers
+            Should Keep This Close To Hand
+          + [379]How To Use <frame> Tags In HTML
+          + [380]HTML5
+          + [381]Lists Bring Order To Web Pages: Here's The HTML Code To
+            Create Them
+          + [382]Embedding Modern Media With HTML5: Get The Code &
+            Instructions To Succeed
+          + [383]Web Images: Best Practices and HTML Code In One Useful
+            Guide
+          + [384]8 Invalid HTML Elements You Should Stop Using Immediately
+          + [385]Javascript: The Beginner's Guide To Understanding Modern
+            Javascript
+          + [386]Paragraphs
+          + [387]What On Earth Is Semantic Markup? (And Why Should You
+            Learn To Write It)
+          + [388]Symbols
+          + [389]HTML Tables: Find Out When To Use Them (And When To
+            Avoid)
+     * [390]Hosting Guide
+          + [391]A2 Hosting
+          + [392]BlueHost
+          + [393]DreamHost
+          + [394]FatCow.com
+          + [395]GoDaddy.com
+          + [396]GreenGeeks
+          + [397]HostGator
+          + [398]HostMonster
+          + [399]HostPapa
+          + [400]iPage
+          + [401]JustHost
+          + [402]Liquid Web
+          + [403]Lunarpages
+          + [404]Media Temple
+          + [405]Midphase
+          + [406]MyHosting.com
+          + [407]Network Solutions
+          + [408]One.com
+          + [409]SiteGround
+          + [410]Web Hosting Hub
+          + [411]WestHost
+          + [412]WP Engine
+          + [413]Yahoo! Hosting
+     * [414]Blog
+          + [415]6 Bad Digital Habits and How to Beat Them
+          + [416]Defending Your Data
+          + [417]Barbaric Data Center Downtime Costs - Exposed!
+          + [418]The 7 Most Hated Internet Innovations of All Time
+          + [419]10 Completely Innocent Websites Britain Blocked (And How
+            It Happened)
+          + [420]7 Free Wifi Safety Steps And How To Implement Them
+            [Infographic]
+          + [421]How to Establish a BYOD Policy
+          + [422]What Is Doxing? (And Why Is It So Scary?): An Infographic
+     * [423]About
+          + [424]Contact Us
+          + [425]The Student Web Developer's Ultimate Resource Centre - 10
+            Articles You Need In 2019
+          + [426]We're Hiring
+
+HTML For Beginners The Easy Way: Start Learning HTML & CSS Today
+
+   Disclosure: Your support helps keep the site running! We earn a
+   referral fee for some of the services we recommend on this page.
+   [427]Learn more
+   Study HTML and Learn to Code With Our Step-By-Step Guide Study HTML and
+   Learn to Code With Our Step-By-Step Guide
+
+Welcome! You've Found the Easiest Way to Learn HTML and CSS.
+
+   Contents
+     * [428]1 Welcome! You've Found the Easiest Way to Learn HTML and CSS.
+     * [429]2 HTML for Absolute Beginners
+          + [430]2.1 What is HTML?
+          + [431]2.2 The History of HTML
+          + [432]2.3 What are Tags and Attributes?
+          + [433]2.4 HTML Editors
+          + [434]2.5 Creating Your First HTML Webpage
+          + [435]2.6 Adding Content
+          + [436]2.7 How To Close an HTML Document
+          + [437]2.8 Troubleshooting
+     * [438]3 Our Other HTML Tutorials
+          + [439]3.1 Intermediate & Advanced Tutorials
+          + [440]3.2 HTML Reference Guides
+          + [441]3.3 HTML Attributes Reference Guide
+          + [442]3.4 HTML Cheat Sheet
+          + [443]3.5 The HTML.com Blog
+          + [444]3.6 The HTML.com Guide to Web Hosting
+     * [445]4 Improve Your HTML Skills
+
+   Whether you are a novice, hoping to delve into the world of web design
+   or an experienced webmaster keen to improve your skills, we've got
+   online tutorials tailored to your web design needs.
+
+     In a rush? Go [446]straight to our tutorial and start learning HTML
+     now!
+
+   Our [447]absolute beginner tutorial will turn you from wannabe to
+   webmaster in just a few hours. Unlike many other HTML tutorials, it's a
+   step-by-step guide - not a boring long-winded reference.
+
+   Our step-by-step guide teaches you the basics of HTML and how to build
+   your first website. That means how to layout an HTML page, how to add
+   text and images, how to add headings and text formatting, and how to
+   use tables.
+
+   We'll get you building your new website in minutes, not hours.
+
+HTML for Absolute Beginners
+
+   While many guides on the internet attempt to teach HTML using a lot of
+   mind-boggling theory, this tutorial will instead focus on giving you
+   the practical skills to build your first site.
+
+   The aim is to show you `how' to create your first web page without
+   spending the entire tutorial focusing too much on the "why."
+
+   By the end of this tutorial, you will have the know-how to create a
+   basic website and we hope that this will inspire you to delve further
+   into the world of HTML using our follow-on guides.
+
+What is HTML?
+
+   Okay, so this is the only bit of mandatory theory. In order to begin to
+   write HTML, it helps if you know what you are writing.
+
+   HTML is the language in which most websites are written. HTML is used
+   to create pages and make them functional.
+
+   The code used to make them visually appealing is known as CSS and we
+   shall focus on this in a later tutorial. For now, we will focus on
+   teaching you how to build rather than design.
+
+The History of HTML
+
+   HTML was first created by Tim Berners-Lee, Robert Cailliau, and others
+   starting in 1989. It stands for Hyper Text Markup Language.
+
+   Hypertext means that the document contains links that allow the reader
+   to jump to other places in the document or to another document
+   altogether. The latest version is known as [448]HTML5.
+
+   A Markup Language is a way that computers speak to each other to
+   control how text is processed and presented. To do this HTML uses two
+   things: tags and attributes.
+
+What are Tags and Attributes?
+
+   Tags and attributes are the basis of HTML.
+
+   They work together but perform different functions - it is worth
+   investing 2 minutes in differentiating the two.
+
+What Are HTML Tags?
+
+   [449]Tags are used to mark up the start of an HTML element and they are
+   usually enclosed in angle brackets. An example of a tag is: <h1>.
+
+   Most tags must be opened <h1> and closed </h1> in order to function.
+
+What are HTML Attributes?
+
+   [450]Attributes contain additional pieces of information. Attributes
+   take the form of an opening tag and additional info is placed inside.
+
+   An example of an attribute is:
+
+   <img src="mydog.jpg" alt="A photo of my dog.">
+
+   In this instance, the image source (src) and the alt text (alt) are
+   attributes of the <img> tag.
+
+Golden Rules To Remember
+
+    1. The vast majority of tags must be opened (<tag>) and closed
+       (</tag>) with the element information such as a title or text
+       resting between the tags.
+    2. When using multiple tags, the tags must be closed in the order in
+       which they were opened. For example:
+       <strong><em>This is really important!</em></strong>
+
+HTML Editors
+
+   Now that we've gotten the basic theory out of the way. It's time to
+   learn how to build our first website.
+
+   First off, we must ensure that we have the right tools. Most important,
+   we need an HTML editor.
+
+   There are many choices on the market. Here are a handful of the most
+   popular:
+
+Sublime Text 3
+
+   However, for this tutorial, we will use the [451]Sublime Text 3 as it
+   is free and also offers cross-platform support for Windows, Mac, and
+   Linux users.
+   Sublime Text 3 Sublime Text 3 Sublime Text 3 has a mini-preview window
+   on the right.
+
+Pros
+
+     * Easily customizable
+     * Beginner-friendly
+     * Pleasant color schemes to choose from.
+
+Cons
+
+     * Can't print documents or code
+     * No toolbar or dashboard available.
+
+Notepad ++
+
+   Another common choice for HTML and other language coders is
+   [452]Notepad ++. It is a tiny program to download and perform the
+   functions you need for writing clean code.
+   HTML Notepad ++ HTML Notepad ++ This is Notepad ++. Far from glamorous
+   but does the job.
+
+Pros
+
+     * Distraction-free interface
+     * Auto-completion feature
+     * Plugin options for extended functionalities.
+
+Cons
+
+     * Can be difficult to get used to for beginners
+     * No support for Mac.
+
+Komodo Edit
+
+   [453]Komodo Edit is one of two editors released by the same label. They
+   offer a simple, open-source editor with a variety of extensions and
+   language support.
+
+   It is free to download.
+   Komodo Editor Komodo Editor Komodo isn't one for a flash interface
+   either but is simple to use.
+
+Pros
+
+     * Easy-to-grasp coding interface
+     * Available for Mac, Windows, and Linux
+     * Impressive language support.
+
+Cons
+
+     * No autocompletion by default
+     * Visual settings are difficult to find and change.
+
+What To Avoid
+
+     Your code's front-end view varies from browser to browser - you will
+     learn more about this with advanced CSS.
+
+   Do not use Microsoft Word or any other word processor when writing HTML
+   code, only an HTML editor or at the very least, your machine's built-in
+   notepad, is suitable for the task.
+
+   Secondly, ensure that you've installed a number of different browsers
+   such as [454]Chrome and [455]Firefox in order to preview your upcoming
+   creation.
+
+Creating Your First HTML Webpage
+
+   First off, you need to open your HTML editor, where you will find a
+   clean white page on which to write your code.
+
+   From there you need to layout your page with the following tags.
+
+Basic Construction of an HTML Page
+
+   These tags should be placed underneath each other at the top of every
+   HTML page that you create.
+
+   [456]<!DOCTYPE html> -- This tag specifies the language you will write
+   on the page. In this case, the language is HTML 5.
+
+   [457]<html> -- This tag signals that from here on we are going to write
+   in HTML code.
+
+   [458]<head> -- This is where all the metadata for the page goes --
+   stuff mostly meant for search engines and other computer programs.
+
+   [459]<body> -- This is where the content of the page goes.
+   HTML Structure HTML Structure This is how your average HTML page is
+   structured visually.
+
+Further Tags
+
+   Inside the <head> tag, there is one tag that is always included:
+   <title>, but there are others that are just as important:
+
+   [460]<title>
+          This is where we insert the page name as it will appear at the
+          top of the browser window or tab.
+
+   [461]<meta>
+          This is where information about the document is stored:
+          character encoding, name (page context), description.
+
+   Let's try out a basic <head> section:
+<head>
+<title>My First Webpage</title>
+<[462]meta charset="UTF-8">
+<[463]meta name="description" content="This field contains information about you
+r page. It is usually around two sentences long.">.
+<meta name="author" content="Conor Sheils">
+</header>
+
+Adding Content
+
+   Next, we will make [464]<body> tag.
+
+   The HTML <body> is where we add the content which is designed for
+   viewing by human eyes.
+
+   This includes text, images, tables, forms and everything else that we
+   see on the internet each day.
+
+How to Add HTML Headings To Your Web Page
+
+   In HTML, [465]headings are written in the following elements:
+     * <h1>
+          + <h2>
+               o <h3>
+                    # <h4>
+                         @ <h5>
+                              - <h6>
+
+   As you might have guessed <h1> and <h2> should be used for the most
+   important titles, while the remaining tags should be used for
+   sub-headings and less important text.
+
+   Search engine bots use this order when deciphering which information is
+   most important on a page.
+
+Creating Your Heading
+
+   Let's try it out. On a new line in the HTML editor, type:
+
+   <h1>Welcome to My Page</h1>
+
+   And hit save. We will save this file as "index.html" in a new folder
+   called "my webpage."
+
+     The Moment of Truth: Click the newly saved file and your first ever
+     web page should open in your default browser. It may not be pretty
+     it's yours... all yours. *Evil laugh*
+
+   Well let's not get carried away; we've still got loads of great
+   features that we can add to your page.
+
+How To Add Text In HTML
+
+   Adding text to our HTML page is simple using an element opened with the
+   tag [466]<p> which creates a new paragraph. We place all of our regular
+   text inside the element <p>.
+
+   When we write text in HTML, we also have a number of other elements we
+   can use to control the text or make it appear in a certain way.
+
+Other Key Elements
+
+   They are as follows:
+   Element Meaning Purpose
+   <b> Bold Highlight important information
+   <strong> Strong Similarly to bold, to highlight key text
+   <i> Italic To denote text
+   <em> Emphasised Text Usually used as image captions
+   <mark> Marked Text Highlight the background of the text
+   <small> Small Text To shrink the text
+   <strike> Striked Out Text To place a horizontal line across the text
+   <u> Underlined Text Used for links or text highlights
+   <ins> Inserted Text Displayed with an underline to show an inserted
+   text
+   <sub> Subscript Text Typographical stylistic choice
+   <sup> Superscript Text Another typographical presentation style
+
+   These tags must be opened and closed around the text in question.
+
+   Let's try it out. On a new line in the HTML editor, type the following
+   HTML code:
+
+   <p>Welcome to <em>my</em> brand new website. This site will be my
+   <strong>new<strong> home on the web.</p>
+
+   Don't forget to hit save and then refresh the page in your browser to
+   see the results.
+
+How To Add Links In HTML
+
+   As you may have noticed, the internet is made up of lots of [467]links.
+
+   Almost everything you click on while surfing the web is a link takes
+   you to another page within the website you are visiting or to an
+   external site.
+
+   Links are included in an attribute opened by the [468]<a> tag. This
+   element is the first that we've met which uses an attribute and so it
+   looks different to previously mentioned tags.
+
+The Anchor Tag
+
+   The <a> (or anchor) opening tag is written in the format:
+
+   <[469]a href="[470]https://blogging.com/how-to-start-a-blog/">Your Link
+   Text Here </a>
+
+   The first part of the attribute points to the page that will open once
+   the link is clicked.
+
+   Meanwhile, the second part of the attribute contains the text which
+   will be displayed to a visitor in order to entice them to click on that
+   link.
+
+   If you are building your own website then you will most likely host all
+   of your pages on professional [471]web hosting. In this case, internal
+   links on your website will <a href="mylinkedpage.html">Link Title
+   Here</a>.
+
+Let's Create An Anchor Tag
+
+   Let's try it out. Make a duplicate of the code from your current
+   index.html page. Copy / paste it into a new window in your HTML editor.
+
+   Save this new page as "page2.html" and ensure that it is saved in the
+   same folder as your index.html page.
+
+   On page2.html add the following code:
+
+   <a href="[472]http://www.google.com">Google</a>
+
+   This will create a link to Google on page 2. Hit save and return to
+   your index.html page.
+
+   On a new line on index.html add the following code:
+
+   <a href="*folder(s)*/page2.html">Page2</a>
+
+   Ensure the folder path to the file (page2.html) is correct. Hit save
+   and preview index.html in your browser.
+
+   If everything is correct then you will see a link which will take you
+   to your second page. On the second page, there will be a link that will
+   take you to google.com.
+
+How To Add Images In HTML To Your Website
+
+   In today's modern digital world, [473]images are everything. The
+   [474]<img> tag has everything you need to display images on your site.
+   Much like the <a> anchor element, <img> also contains an attribute.
+
+   The attribute features information for your computer regarding the
+   source, height, width and alt text of the image.
+
+Styling and Formats
+
+   Image Property Image Property You can check the file type of an image
+   by right-clicking the item and selecting `Properties'.
+
+   You can also define borders and other styles around the image using the
+   class attribute. However, we shall cover this in a later tutorial.
+
+   The file types generally used for image files online are: .jpg, .png,
+   and (less and less) .gif.
+
+   Alt text is important to ensure that your site is ranked correctly on
+   search sites and also for visually impaired visitors to your site.
+
+   The [475]<img> tag normally is written as follows:
+
+   <img src="yourimage.jpg" alt="Describe the image" height="X" width="X">
+
+   Let's try it out.
+
+Create Your Own Image With An Alt Text
+
+     Don't be afraid to play around with the test code - it's a great way
+     to have fun while learning.
+
+   Save an image (.jpg, .png, .gif format) of your choice in the same
+   folder where you've saved index.html and page2.html. Call this image
+   "testpic.jpg."
+
+   On a new line in your HTML editor enter the following code:
+
+   <img src="testpic.jpg" alt="This is a test image" height="42"
+   width="42">
+
+   Hit save and preview the index.html page in your browser.
+
+How To Make an HTML List
+
+   In web design, there are 3 different types of lists which you may wish
+   to add to your site.
+
+Ordered List
+
+   The first is an [476]<ol>: This is an ordered list of contents. For
+   example:
+    1. An item
+    2. Another item
+    3. Another goes here.
+
+   Inside the <ol> tag we list each item on the list inside [477]<li>
+   </li> tags.
+
+   For example:
+<ol>
+<li>An item </li>
+<li>Another item </li>
+<li>Another goes here </li>
+</ol>
+
+Unordered List
+
+   The second type of list that you may wish to include is an [478]<ul>
+   unordered list. This is better known as a bullet point list and
+   contains no numbers.
+
+   An example of this is:
+<ul>
+<li>This is </li>
+<li>An Unordered </li>
+<li>List </li>
+</ul>
+
+Definition List
+
+   Finally, you may wish to include a definition list [479]<dl> on your
+   page. An example of a <dl> list is as follows:
+
+   HTML
+          Hypertext markup language is a programming language used to
+          create web pages and is rendered by a web browser.
+
+   The code used for the above is as follows:
+<dl>
+<dt>Item</dt>
+<dd>The definition goes here</dd>
+</dl>
+
+   Let's try it out. Open index.html and on a new line, enter the
+   following HTML:
+<p>This website will have the following benefits for my business:</p>
+<ul>
+<li>Increased traffic </li>
+<li>Global Reach</li>
+<li>Promotional Opportunities</li>
+</ul>
+
+   Now hit save and check out the results in your browser. If everything
+   worked out then it will display a bullet-pointed table displaying the
+   information above.
+
+How To Add Tables In HTML
+
+   HTML Tables HTML Tables Tables can be styled in various ways -
+   Codepen.io offers live previews to keep track of changes.
+
+   Another way to keep your website looking neat and orderly is through
+   the use of a table.
+
+     Do not use a table to layout your website. Search engines hate it
+     and it is generally a bad idea. Just... don't. See our [480]CSS
+     tutorial, instead.
+
+   This is definitely the most complicated part of this tutorial, however,
+   learning it will certainly pay off in the long-run.
+
+   With this in mind, tables can still be a useful way to present content
+   on your page.
+
+What Does a Table Consist Of?
+
+   When drawing a table we must open an element with the [481]<table>
+   opening tag. Inside this tag, we structure the table using the table
+   rows, [482]<tr>, and cells, [483]<td>.
+
+   An example of an HTML table is as follows:
+<table>
+<tr>
+<td>Row 1 - Column 1</td>
+<td>Row 1 - Colunm 2 </td>
+<td>Row 1 - Column 3 </td>
+</tr>
+<tr>
+<td>Row 2 - Column 1</td>
+<td>Row 2 - Column 2</td>
+<td>Row 2 - Column 3</td>
+</tr>
+</table>
+
+   This will produce a 2-row table with 3 cells in each row.
+
+   Tables can get quite complicated, so be sure to check out our special
+   [484]HTML tables tutorial.
+
+Table Tags
+
+   However, watch out for these tags so that you can recognize them and
+   use them as your skills develop.
+
+   Here are the tables tags presented in a table - pun totally intended.
+   Table Tag    Meaning               Location
+   <thead>    Table Head   Top of the table
+   <tbody>    Table Body   Content of the table
+   <tfoot>    Table Foot   Bottom of the table
+   <colgroup> Column Group Within the table
+   <th>       Table Header Data cell for the table header
+
+   Tables, borders, spacing are usually [485]styled using CSS but we will
+   cover this in a later tutorial.
+
+Let's Make a Table
+
+   Go to a new line on the index.html page within your text editor. Enter
+   the following HTML code:
+<table>
+<tr>
+<td>Row 1 - Column 1</td>
+<td>Row 1 - Column 2 </td>
+</tr>
+<tr>
+<td>Row 2 - Column 1</td>
+<td>Row 2 - Column 2</td>
+</tr>
+</table>
+
+   Hit save and preview it in your browser.
+
+   Congratulations: You did it!
+
+How To Close an HTML Document
+
+   You've reached the end of our absolute beginners HTML tutorial.
+
+   The final step we need to complete is to close the <body> and <html>
+   tags at the end of each page using the following HTML code:
+</body>
+</html>
+
+     In this guide, you've learned how to create basic HTML web pages.
+
+   You've also learned to add headings, text, images, links, lists and
+   basic tables to these pages.
+
+What's Next?
+
+   You can now use this knowledge to create your own web pages containing
+   these features and link them together.
+
+   We suggest that you further enhance your skills by experimenting with
+   the code you've learned using different variables. You may also wish to
+   learn about how to make your pages beautiful using [486]CSS.
+
+   The power to create your own website is now in your hands.
+
+Troubleshooting
+
+   In case things didn't work out as intended, simply check your HTML code
+   against the examples below.
+
+   Index.html troubleshooting code:
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Webpage</title>
+<meta charset="UTF-8">
+<meta name="description" content="This is my first website. It includes lots of
+information about my life.">
+</head>
+<body>
+<h1>Welcome to my webpage</h1>
+<p>Welcome to <em>my</em> brand new website.</p>
+<p>This site will be my <strong>new</strong> home on the web.</p>
+<a href="/page2.html">Page2</a>
+<img src="testpic.jpg" alt="This is a test image" height="42" width="42">
+<p>This website will have the following benefits for my business:</p>
+<ul>
+<li>Increased traffic </li>
+<li>Global Reach</li>
+<li>Promotional Opportunities</li>
+</ul>
+<table>
+<tr>
+<td>Row 1 - Column 1</td>
+<td>Row 1 - Column 2 </td>
+</tr>
+<tr>
+<td>Row 2 - Column 1</td>
+<td>Row 2 - Column 2</td>
+</tr>
+</table>
+</body>
+</html>
+
+   page2.html troubleshooting code:
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Webpage</title>
+<meta charset="UTF-8">
+<meta name="description" content="This is my first website. It includes lots of
+information about my life.">
+</head>
+<body>
+<h1>Welcome to my webpage</h1>
+<p>Welcome to <em>my</em> brand new website.</p>
+<p>This site will be my <strong>new<strong> home on the web.</p>
+<a href="http://www.google.com">Google</a>
+</body>
+</html>
+
+Our Other HTML Tutorials
+
+   Our HTML tutorials teach you how to create a personal website or site
+   for your business, without forcing you to learn unnecessary theory.
+
+   Our most popular beginner's tutorials include:
+
+   [487]HTML tables
+
+   These tutorials guide you through the process of creating tables for
+   your exact needs. Tables were once the primary means by which pages
+   were laid out.
+
+   With the adoption of CSS, this is no longer necessary. And for good
+   reason, because this created pages that were almost impossible to
+   maintain. But for the purpose of display tables, HTML offers all the
+   tools you will need.
+
+   [488]Links
+
+   There's a lot more to links than just moving from page to page. In this
+   tutorial, you will learn how to navigate pages and download files.
+
+   You'll also learn how to make your links as user-friendly as possible.
+   Links are the core of HTML so this is important stuff.
+
+   [489]Forms
+
+   Forms are important for marketing as well as creating web applications
+   and more.
+
+   This detailed tutorial will guide you from the very basics to the most
+   advanced uses of forms with CSS and JavaScript.
+
+   [490]Fonts
+
+   At one time, the font was an HTML tag and it made creating maintainable
+   web pages a nightmare. Now we use CSS to set fonts and their attributes
+   like weight, style, and size.
+
+   And by using CSS, you can set the look of your pages consistently with
+   the ability to radically change them by changing just a few lines of
+   code. This tutorial explains all.
+
+   [491]Images
+
+   With the use of the img tag and CSS, you can do just about anything you
+   want.
+
+   But with HTML5, you have the addition of the picture and figure
+   elements. Find out how to do images right with this thorough tutorial.
+
+Intermediate & Advanced Tutorials
+
+   We've plenty of topics for intermediate and advanced HTML learners,
+   too:
+
+   [492]CSS tutorials
+
+   CCS, Cascading Style Sheets, allow you to design and ornament your web
+   pages.
+
+   This tutorial takes you from the beginning to being fluent in CSS so
+   that you can create complex pages that are easily maintained.
+
+   [493]JavaScript
+   HTML Javascript HTML Javascript Javascript is often used to add dynamic
+   elements (like this countdown clock) to web pages.
+
+   JavaScript is arguably the most important web coding language after
+   HTML. Most websites you visit employ at least a little bit of
+   JavaScript coding.
+
+   Along with HTML and CSS, JavaScript makes the trinity of webpage design
+   and construction.
+
+   This tutorial assumes you know nothing and gets you going with this
+   essential programming language. It even introduces you to advanced
+   subjects like AJAX and jQuery.
+
+   [494]HTML5
+
+   Video: This 3 minute crash course is a great way to start understanding
+   HTML5.
+
+   HTML5 has revolutionized webpage markup with things like semantic and
+   multimedia elements. Find out all about the new goodies that are
+   waiting to be explored.
+
+   [495]Semantic Markup
+
+   This tutorial introduces you to semantic markup that allows you to
+   construct pages so that their structure reveals their content.
+
+   This is especially useful as search engines become more and more
+   advanced -- allowing them to find users the right information they are
+   looking for.
+
+   [496]Logical tags
+
+   You may have noticed that few people use the i tag for italics and
+   instead use the em tag.
+
+   This is because the i tag is just a formatting tag and thus should
+   really be accomplished with CSS. The em has meaning: the text is
+   emphasized.
+
+   Logical tags like em and cite are important in the same way as semantic
+   markup. Find more in this brief discussion.
+
+HTML Reference Guides
+
+   Meanwhile, our detailed [497]HTML tags reference lets you find out more
+   about every single HTML tag from [498]<a> to [499]<xmp>.
+
+   Each tag reference includes background and examples, which show how to
+   use the tag in question. It's perfect for when you want to troubleshoot
+   problems while coding HTML.
+
+   Below are some of the most common tags -- used by nearly every website
+   you encounter:
+
+   [500]Button Tag
+   HTML Button HTML Button Buttons can be customized in astonishing ways
+   using CSS and JS. This is Codepen.io - an online editing and code
+   sharing platform.
+
+   A tag that puts a button onto a webpage. It must be combined with
+   JavaScript in order to do anything. This page provides all the details
+   you need.
+
+   [501]Anchor Tag
+
+   Links are far more powerful than new HTML coders realize. Find out all
+   you need to know to make the greatest use of the a tag.
+
+   [502]Link Tag
+
+   The link tag can be confusing because it is easy to mix up with "links"
+   (defined with the a tag).
+
+   But link is a very powerful tag that allows you to link an HTML
+   document to an outside resource like a CSS file. Find out all you need
+   to know here.
+
+   [503]Image Manipulation
+   IMG Code Example IMG Code Example This is an image code with various
+   attributes.
+
+   Although HTML makes displaying images easy with the img tag, by using
+   some JavaScript, you can change images on the fly.
+
+   This tutorial shows you how.
+
+   [504]Character Codes
+
+   Another great aspect of HTML is its ability to use non-keyboard keys
+   like ® (&amp;reg;) and © (&amp;copy;).
+
+   This reference provides you with the information you need to make full
+   use of these symbols.
+
+   [505]Headings
+
+   Headings are a way to make text stand out by breaking up the page.
+
+   [506]Paragraph
+
+   Paragraphs determine line spacing.
+
+   [507]Italics
+
+   Create italics text just like in a word processor.
+
+   [508]Bold
+
+   Bold text emphasizes keywords.
+
+   [509]Anchor
+
+   The anchor tag is most commonly used to create links in combination
+   with the [510]href attribute.
+
+   [511]Unordered List
+
+   Unnumbered lists of bullet points use the Unordered List tag.
+
+   [512]List Item
+
+   Each line on a list is enclosed by a List Item tag.
+
+   [513]Blockquote
+
+   Blockquote tags are used to enclose quotations from people. This tag
+   helps to differentiate the quote from the text around it.
+
+   [514]Horizontal Rule
+
+   A horizontal rule is a straight line commonly used for dividing areas
+   of a webpage.
+
+   [515]Image
+
+   Learn the image tag to find out how to code pictures into your page.
+
+   [516]Division
+
+   The Division tag defines specific layout styles within CSS.
+
+HTML Attributes Reference Guide
+
+   The [517]HTML attributes section is designed to allow you to get up
+   close and personal with the HTML attributes that you know and love
+   while introducing you to some advanced attributes along the way.
+
+   Our most popular attributes include:
+
+   [518]<img src=""> -- Learn how to pick the image to display.
+
+   [519]<img alt=""> -- This sets the name of the image for those who
+   can't see the image for one reason or another.
+
+   [520]<a target=""> - Links don't have to fill the current page. There
+   are other, often better, options.
+
+   [521]<a href=""> -- The basic link attribute sets where it will
+   transport the user to.
+
+   [522]<body background-*=""> -- Learn to set a webpage's background
+   color, image, or more.
+
+   [523]<table bordercolor=""> -- Find out how to set the border color of
+   your tables.
+
+HTML Cheat Sheet
+
+   If you are pretty confident in your HTML abilities but sometimes feel
+   like double-checking your work then look no further than our [524]HTML
+   cheat sheet.
+
+   This handy guide will show you everything you need to know about HTML
+   in a super-compact, and easy-to-understand format. It provides
+   information on [525]particular tags and specific [526]attributes in an
+   alphabetized format.
+
+   You can bookmark the page for easy retrieval. Or you can print out
+   [527]our PDF so you can keep it by your desk.
+
+The HTML.com Blog
+
+   [528]Our blog includes posts covering all corners of the internet.
+
+   [529]Why Did The British Government Ban These 10 Websites?
+
+   The UK uses an "adult content filter" and censors many respected
+   websites. But what they mean by "adult content" may surprise you.
+
+   [530]100+ Places to Post and Share Your Photos Online
+
+   Many dozens of places to upload and display your images. It's often
+   better to host your images away from your website. Here are a number of
+   choices.
+
+   [531]Google Calendar: 50 Themes, Hacks & Add-Ons
+
+   Learn how to integrate your Google Calendar into your website.
+
+   [532]Homebrew Nintendo Wii Hacks & Mods
+
+   Learn 100 cool Wii tips and tricks.
+
+   [533]The 20 Best Internet Scam Stories
+
+   Read all about amazing internet scams that have rocked the world.
+
+   [534]What Is Doxxing?
+
+   Find out about online privacy and the process of having your personal
+   information released to the world.
+
+The HTML.com Guide to Web Hosting
+
+     Keep an eye out for bundles which include site builders and extras -
+     they are out there.
+
+   If you've already built your website then look no further than the
+   [535]HTML.com guide to web hosting.
+
+   We'll help you find the best [536]hosting provider for your website.
+
+   Whether you are searching for a [537]WordPress host, a cheap and
+   cheerful space for your first website, or a dedicated hosting solution,
+   our hosting section has reviews of all the big name hosting providers
+   and a few smaller companies too, including:
+
+   [538]SiteGround
+
+   This is one of the best hosting companies around with a full range of
+   plans for whatever kind of hosting you need.
+
+   [539]Bluehost
+
+   The first host to be officially recommended by WordPress. But they are
+   a good host for any website.
+
+   [540]iPage
+
+   One of the most affordable hosting companies around. If you want to
+   keep costs down without losing quality and features, iPage is a good
+   choice.
+
+   [541]HostGator
+
+   One of the best all-around hosting companies -- well worth checking
+   out.
+
+   [542]WP Engine
+   The number one host for high-end WordPress hosting.
+
+Improve Your HTML Skills
+
+   Now that you've gotten started with HTML, you can improve your skills.
+   It's exciting to see everything you can do with web pages. Check out
+   [543]more of our tutorials and start learning now!
+   [544]Frank
+   Frank Moraes is an editor and writer at HTML.com and other nerdy
+   websites.
+
+   Search HTML.com
+   Search for: ____________________ Search
+
+   Most Popular
+     * [545]Input Pattern: Use It To Add Basic Data Validation In
+       HTML5[546]1,028 views
+     * [547]How To Use The <a> To Make Links & Open Them Where You
+       Want![548]863 views
+     * [549]The HTML Comment Tag: Here's How To Use It In Your
+       Code[550]847 views
+     * [551]How To Use In HTML[552]814 views
+     * [553]HTML Tag: Change The Width Of A Picture In HTML[554]706 views
+
+   [555]HTML.com © 2015-2020 [556]Sitemap | [557]Privacy | [558]Contact
+
+   We use cookies to ensure that we give you the best experience on our
+   website. If you continue to use this site we will assume that you are
+   happy with it.[559]Ok
+
+References
+
+   Visible links:
+   1. https://html.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhtml.com%2F
+   2. https://html.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhtml.com%2F&format=xml
+   3. https://html.com/#site-main
+   4. https://html.com/
+   5. https://html.com/tags/
+   6. https://html.com/tags/
+   7. https://html.com/tags/a/
+   8. https://html.com/tags/abbr/
+   9. https://html.com/tags/acronym/
+  10. https://html.com/tags/address/
+  11. https://html.com/tags/app/
+  12. https://html.com/tags/applet/
+  13. https://html.com/tags/area/
+  14. https://html.com/tags/article/
+  15. https://html.com/tags/aside/
+  16. https://html.com/tags/audio/
+  17. https://html.com/tags/
+  18. https://html.com/tags/b/
+  19. https://html.com/tags/base/
+  20. https://html.com/tags/basefont/
+  21. https://html.com/tags/bdi/
+  22. https://html.com/tags/bdo/
+  23. https://html.com/tags/bgsound/
+  24. https://html.com/tags/big/
+  25. https://html.com/tags/blink/
+  26. https://html.com/tags/blockquote/
+  27. https://html.com/tags/body/
+  28. https://html.com/tags/br/
+  29. https://html.com/tags/button/
+  30. https://html.com/tags/
+  31. https://html.com/tags/canvas/
+  32. https://html.com/tags/caption/
+  33. https://html.com/tags/center/
+  34. https://html.com/tags/cite/
+  35. https://html.com/tags/code/
+  36. https://html.com/tags/col/
+  37. https://html.com/tags/colgroup/
+  38. https://html.com/tags/old-comment-tag/
+  39. https://html.com/tags/comment-tag/
+  40. https://html.com/tags/
+  41. https://html.com/tags/datalist/
+  42. https://html.com/tags/dd/
+  43. https://html.com/tags/del/
+  44. https://html.com/tags/details/
+  45. https://html.com/tags/dfn/
+  46. https://html.com/tags/dialog/
+  47. https://html.com/tags/dir/
+  48. https://html.com/tags/div/
+  49. https://html.com/tags/dl/
+  50. https://html.com/tags/doctype/
+  51. https://html.com/tags/dt/
+  52. https://html.com/tags/
+  53. https://html.com/tags/em/
+  54. https://html.com/tags/embed-tag/
+  55. https://html.com/tags/
+  56. https://html.com/tags/fieldset/
+  57. https://html.com/tags/figcaption/
+  58. https://html.com/tags/figure/
+  59. https://html.com/tags/font/
+  60. https://html.com/tags/footer/
+  61. https://html.com/tags/form/
+  62. https://html.com/tags/frame/
+  63. https://html.com/tags/frameset/
+  64. https://html.com/tags/
+  65. https://html.com/tags/head/
+  66. https://html.com/tags/header/
+  67. https://html.com/tags/heading/
+  68. https://html.com/tags/hr/
+  69. https://html.com/tags/html/
+  70. https://html.com/tags/hype/
+  71. https://html.com/tags/
+  72. https://html.com/tags/i/
+  73. https://html.com/tags/iframe/
+  74. https://html.com/tags/img/
+  75. https://html.com/tags/input/
+  76. https://html.com/tags/ins/
+  77. https://html.com/tags/isindex/
+  78. https://html.com/tags/
+  79. https://html.com/tags/kbd/
+  80. https://html.com/tags/keygen/
+  81. https://html.com/tags/
+  82. https://html.com/tags/label/
+  83. https://html.com/tags/legend/
+  84. https://html.com/tags/li/
+  85. https://html.com/tags/link/
+  86. https://html.com/tags/listing/
+  87. https://html.com/tags/
+  88. https://html.com/tags/main/
+  89. https://html.com/tags/map/
+  90. https://html.com/tags/mark/
+  91. https://html.com/tags/marquee/
+  92. https://html.com/tags/menu/
+  93. https://html.com/tags/menuitem/
+  94. https://html.com/tags/meta/
+  95. https://html.com/tags/meter/
+  96. https://html.com/tags/multicol/
+  97. https://html.com/tags/
+  98. https://html.com/tags/nav/
+  99. https://html.com/tags/nobr/
+ 100. https://html.com/tags/noembed/
+ 101. https://html.com/tags/noframes/
+ 102. https://html.com/tags/noscript/
+ 103. https://html.com/tags/
+ 104. https://html.com/tags/object/
+ 105. https://html.com/tags/ol/
+ 106. https://html.com/tags/optgroup/
+ 107. https://html.com/tags/option/
+ 108. https://html.com/tags/output/
+ 109. https://html.com/tags/
+ 110. https://html.com/tags/p/
+ 111. https://html.com/tags/param/
+ 112. https://html.com/tags/plaintext/
+ 113. https://html.com/tags/pre/
+ 114. https://html.com/tags/progress/
+ 115. https://html.com/tags/
+ 116. https://html.com/tags/q/
+ 117. https://html.com/tags/
+ 118. https://html.com/tags/rt/
+ 119. https://html.com/tags/ruby/
+ 120. https://html.com/tags/rp/
+ 121. https://html.com/tags/
+ 122. https://html.com/tags/s/
+ 123. https://html.com/tags/samp/
+ 124. https://html.com/tags/script/
+ 125. https://html.com/tags/section/
+ 126. https://html.com/tags/select/
+ 127. https://html.com/tags/small/
+ 128. https://html.com/tags/sound/
+ 129. https://html.com/tags/source/
+ 130. https://html.com/tags/spacer/
+ 131. https://html.com/tags/span/
+ 132. https://html.com/tags/strong/
+ 133. https://html.com/tags/style/
+ 134. https://html.com/tags/sub/
+ 135. https://html.com/tags/summary/
+ 136. https://html.com/tags/
+ 137. https://html.com/tags/table/
+ 138. https://html.com/tags/tbody/
+ 139. https://html.com/tags/td/
+ 140. https://html.com/tags/textarea/
+ 141. https://html.com/tags/tfoot/
+ 142. https://html.com/tags/th/
+ 143. https://html.com/tags/thead/
+ 144. https://html.com/tags/time/
+ 145. https://html.com/tags/title/
+ 146. https://html.com/tags/tr/
+ 147. https://html.com/tags/track/
+ 148. https://html.com/tags/tt/
+ 149. https://html.com/tags/
+ 150. https://html.com/tags/u/
+ 151. https://html.com/tags/ul/
+ 152. https://html.com/tags/
+ 153. https://html.com/tags/var/
+ 154. https://html.com/tags/video/
+ 155. https://html.com/tags/
+ 156. https://html.com/tags/wbr/
+ 157. https://html.com/tags/
+ 158. https://html.com/tags/xmp/
+ 159. https://html.com/attributes/
+ 160. https://html.com/
+ 161. https://html.com/cheat-sheet/
+ 162. https://html.com/applets/
+ 163. https://html.com/anchors-links/
+ 164. https://html.com/css/
+ 165. https://html.com/document/
+ 166. https://html.com/fonts/
+ 167. https://html.com/forms/
+ 168. https://html.com/frames/
+ 169. https://html.com/html5/
+ 170. https://html.com/lists/
+ 171. https://html.com/media/
+ 172. https://html.com/images/
+ 173. https://html.com/invalid-html/
+ 174. https://html.com/javascript/
+ 175. https://html.com/paragraphs/
+ 176. https://html.com/semantic-markup/
+ 177. https://html.com/character-codes/
+ 178. https://html.com/tables/
+ 179. https://html.com/web-hosting/
+ 180. https://html.com/web-hosting/a2-hosting/
+ 181. https://html.com/web-hosting/bluehost/
+ 182. https://html.com/web-hosting/dreamhost/
+ 183. https://html.com/web-hosting/fatcow/
+ 184. https://html.com/web-hosting/godaddy/
+ 185. https://html.com/web-hosting/greengeeks/
+ 186. https://html.com/web-hosting/hostgator/
+ 187. https://html.com/web-hosting/hostmonster/
+ 188. https://html.com/web-hosting/hostpapa/
+ 189. https://html.com/web-hosting/ipage/
+ 190. https://html.com/web-hosting/justhost/
+ 191. https://html.com/web-hosting/liquid-web/
+ 192. https://html.com/web-hosting/lunarpages/
+ 193. https://html.com/web-hosting/media-temple/
+ 194. https://html.com/web-hosting/midphase/
+ 195. https://html.com/web-hosting/myhosting-com/
+ 196. https://html.com/web-hosting/network-solutions/
+ 197. https://html.com/web-hosting/one-com/
+ 198. https://html.com/web-hosting/siteground/
+ 199. https://html.com/web-hosting/web-hosting-hub/
+ 200. https://html.com/web-hosting/westhost/
+ 201. https://html.com/web-hosting/wp-engine/
+ 202. https://html.com/web-hosting/yahoo/
+ 203. https://html.com/blog/
+ 204. https://html.com/blog/6-bad-digital-habits/
+ 205. https://html.com/blog/defending-data/
+ 206. https://html.com/blog/data-center-downtime/
+ 207. https://html.com/blog/hated-internet-innovations/
+ 208. https://html.com/blog/websites-britain-blocked/
+ 209. https://html.com/blog/free-wi-fi-safety/
+ 210. https://html.com/blog/byod-policy/
+ 211. https://html.com/blog/doxing/
+ 212. https://html.com/about/
+ 213. https://html.com/contact/
+ 214. https://html.com/resources/
+ 215. https://html.com/about/remote-jobs/
+ 216. https://html.com/tags/
+ 217. https://html.com/tags/
+ 218. https://html.com/tags/a/
+ 219. https://html.com/tags/abbr/
+ 220. https://html.com/tags/acronym/
+ 221. https://html.com/tags/address/
+ 222. https://html.com/tags/app/
+ 223. https://html.com/tags/applet/
+ 224. https://html.com/tags/area/
+ 225. https://html.com/tags/article/
+ 226. https://html.com/tags/aside/
+ 227. https://html.com/tags/audio/
+ 228. https://html.com/tags/
+ 229. https://html.com/tags/b/
+ 230. https://html.com/tags/base/
+ 231. https://html.com/tags/basefont/
+ 232. https://html.com/tags/bdi/
+ 233. https://html.com/tags/bdo/
+ 234. https://html.com/tags/bgsound/
+ 235. https://html.com/tags/big/
+ 236. https://html.com/tags/blink/
+ 237. https://html.com/tags/blockquote/
+ 238. https://html.com/tags/body/
+ 239. https://html.com/tags/br/
+ 240. https://html.com/tags/button/
+ 241. https://html.com/tags/
+ 242. https://html.com/tags/canvas/
+ 243. https://html.com/tags/caption/
+ 244. https://html.com/tags/center/
+ 245. https://html.com/tags/cite/
+ 246. https://html.com/tags/code/
+ 247. https://html.com/tags/col/
+ 248. https://html.com/tags/colgroup/
+ 249. https://html.com/tags/old-comment-tag/
+ 250. https://html.com/tags/comment-tag/
+ 251. https://html.com/tags/
+ 252. https://html.com/tags/datalist/
+ 253. https://html.com/tags/dd/
+ 254. https://html.com/tags/del/
+ 255. https://html.com/tags/details/
+ 256. https://html.com/tags/dfn/
+ 257. https://html.com/tags/dialog/
+ 258. https://html.com/tags/dir/
+ 259. https://html.com/tags/div/
+ 260. https://html.com/tags/dl/
+ 261. https://html.com/tags/doctype/
+ 262. https://html.com/tags/dt/
+ 263. https://html.com/tags/
+ 264. https://html.com/tags/em/
+ 265. https://html.com/tags/embed-tag/
+ 266. https://html.com/tags/
+ 267. https://html.com/tags/fieldset/
+ 268. https://html.com/tags/figcaption/
+ 269. https://html.com/tags/figure/
+ 270. https://html.com/tags/font/
+ 271. https://html.com/tags/footer/
+ 272. https://html.com/tags/form/
+ 273. https://html.com/tags/frame/
+ 274. https://html.com/tags/frameset/
+ 275. https://html.com/tags/
+ 276. https://html.com/tags/head/
+ 277. https://html.com/tags/header/
+ 278. https://html.com/tags/heading/
+ 279. https://html.com/tags/hr/
+ 280. https://html.com/tags/html/
+ 281. https://html.com/tags/hype/
+ 282. https://html.com/tags/
+ 283. https://html.com/tags/i/
+ 284. https://html.com/tags/iframe/
+ 285. https://html.com/tags/img/
+ 286. https://html.com/tags/input/
+ 287. https://html.com/tags/ins/
+ 288. https://html.com/tags/isindex/
+ 289. https://html.com/tags/
+ 290. https://html.com/tags/kbd/
+ 291. https://html.com/tags/keygen/
+ 292. https://html.com/tags/
+ 293. https://html.com/tags/label/
+ 294. https://html.com/tags/legend/
+ 295. https://html.com/tags/li/
+ 296. https://html.com/tags/link/
+ 297. https://html.com/tags/listing/
+ 298. https://html.com/tags/
+ 299. https://html.com/tags/main/
+ 300. https://html.com/tags/map/
+ 301. https://html.com/tags/mark/
+ 302. https://html.com/tags/marquee/
+ 303. https://html.com/tags/menu/
+ 304. https://html.com/tags/menuitem/
+ 305. https://html.com/tags/meta/
+ 306. https://html.com/tags/meter/
+ 307. https://html.com/tags/multicol/
+ 308. https://html.com/tags/
+ 309. https://html.com/tags/nav/
+ 310. https://html.com/tags/nobr/
+ 311. https://html.com/tags/noembed/
+ 312. https://html.com/tags/noframes/
+ 313. https://html.com/tags/noscript/
+ 314. https://html.com/tags/
+ 315. https://html.com/tags/object/
+ 316. https://html.com/tags/ol/
+ 317. https://html.com/tags/optgroup/
+ 318. https://html.com/tags/option/
+ 319. https://html.com/tags/output/
+ 320. https://html.com/tags/
+ 321. https://html.com/tags/p/
+ 322. https://html.com/tags/param/
+ 323. https://html.com/tags/plaintext/
+ 324. https://html.com/tags/pre/
+ 325. https://html.com/tags/progress/
+ 326. https://html.com/tags/
+ 327. https://html.com/tags/q/
+ 328. https://html.com/tags/
+ 329. https://html.com/tags/rt/
+ 330. https://html.com/tags/ruby/
+ 331. https://html.com/tags/rp/
+ 332. https://html.com/tags/
+ 333. https://html.com/tags/s/
+ 334. https://html.com/tags/samp/
+ 335. https://html.com/tags/script/
+ 336. https://html.com/tags/section/
+ 337. https://html.com/tags/select/
+ 338. https://html.com/tags/small/
+ 339. https://html.com/tags/sound/
+ 340. https://html.com/tags/source/
+ 341. https://html.com/tags/spacer/
+ 342. https://html.com/tags/span/
+ 343. https://html.com/tags/strong/
+ 344. https://html.com/tags/style/
+ 345. https://html.com/tags/sub/
+ 346. https://html.com/tags/summary/
+ 347. https://html.com/tags/
+ 348. https://html.com/tags/table/
+ 349. https://html.com/tags/tbody/
+ 350. https://html.com/tags/td/
+ 351. https://html.com/tags/textarea/
+ 352. https://html.com/tags/tfoot/
+ 353. https://html.com/tags/th/
+ 354. https://html.com/tags/thead/
+ 355. https://html.com/tags/time/
+ 356. https://html.com/tags/title/
+ 357. https://html.com/tags/tr/
+ 358. https://html.com/tags/track/
+ 359. https://html.com/tags/tt/
+ 360. https://html.com/tags/
+ 361. https://html.com/tags/u/
+ 362. https://html.com/tags/ul/
+ 363. https://html.com/tags/
+ 364. https://html.com/tags/var/
+ 365. https://html.com/tags/video/
+ 366. https://html.com/tags/
+ 367. https://html.com/tags/wbr/
+ 368. https://html.com/tags/
+ 369. https://html.com/tags/xmp/
+ 370. https://html.com/attributes/
+ 371. https://html.com/
+ 372. https://html.com/cheat-sheet/
+ 373. https://html.com/applets/
+ 374. https://html.com/anchors-links/
+ 375. https://html.com/css/
+ 376. https://html.com/document/
+ 377. https://html.com/fonts/
+ 378. https://html.com/forms/
+ 379. https://html.com/frames/
+ 380. https://html.com/html5/
+ 381. https://html.com/lists/
+ 382. https://html.com/media/
+ 383. https://html.com/images/
+ 384. https://html.com/invalid-html/
+ 385. https://html.com/javascript/
+ 386. https://html.com/paragraphs/
+ 387. https://html.com/semantic-markup/
+ 388. https://html.com/character-codes/
+ 389. https://html.com/tables/
+ 390. https://html.com/web-hosting/
+ 391. https://html.com/web-hosting/a2-hosting/
+ 392. https://html.com/web-hosting/bluehost/
+ 393. https://html.com/web-hosting/dreamhost/
+ 394. https://html.com/web-hosting/fatcow/
+ 395. https://html.com/web-hosting/godaddy/
+ 396. https://html.com/web-hosting/greengeeks/
+ 397. https://html.com/web-hosting/hostgator/
+ 398. https://html.com/web-hosting/hostmonster/
+ 399. https://html.com/web-hosting/hostpapa/
+ 400. https://html.com/web-hosting/ipage/
+ 401. https://html.com/web-hosting/justhost/
+ 402. https://html.com/web-hosting/liquid-web/
+ 403. https://html.com/web-hosting/lunarpages/
+ 404. https://html.com/web-hosting/media-temple/
+ 405. https://html.com/web-hosting/midphase/
+ 406. https://html.com/web-hosting/myhosting-com/
+ 407. https://html.com/web-hosting/network-solutions/
+ 408. https://html.com/web-hosting/one-com/
+ 409. https://html.com/web-hosting/siteground/
+ 410. https://html.com/web-hosting/web-hosting-hub/
+ 411. https://html.com/web-hosting/westhost/
+ 412. https://html.com/web-hosting/wp-engine/
+ 413. https://html.com/web-hosting/yahoo/
+ 414. https://html.com/blog/
+ 415. https://html.com/blog/6-bad-digital-habits/
+ 416. https://html.com/blog/defending-data/
+ 417. https://html.com/blog/data-center-downtime/
+ 418. https://html.com/blog/hated-internet-innovations/
+ 419. https://html.com/blog/websites-britain-blocked/
+ 420. https://html.com/blog/free-wi-fi-safety/
+ 421. https://html.com/blog/byod-policy/
+ 422. https://html.com/blog/doxing/
+ 423. https://html.com/about/
+ 424. https://html.com/contact/
+ 425. https://html.com/resources/
+ 426. https://html.com/about/remote-jobs/
+ 427. https://html.com/disclosure/
+ 428. https://html.com/#Welcome_You8217ve_Found_the_Easiest_Way_to_Learn_HTML_and_CSS
+ 429. https://html.com/#HTML_for_Absolute_Beginners
+ 430. https://html.com/#What_is_HTML
+ 431. https://html.com/#The_History_of_HTML
+ 432. https://html.com/#What_are_Tags_and_Attributes
+ 433. https://html.com/#HTML_Editors
+ 434. https://html.com/#Creating_Your_First_HTML_Webpage
+ 435. https://html.com/#Adding_Content
+ 436. https://html.com/#How_To_Close_an_HTML_Document
+ 437. https://html.com/#Troubleshooting
+ 438. https://html.com/#Our_Other_HTML_Tutorials
+ 439. https://html.com/#Intermediate_Advanced_Tutorials
+ 440. https://html.com/#HTML_Reference_Guides
+ 441. https://html.com/#HTML_Attributes_Reference_Guide
+ 442. https://html.com/#HTML_Cheat_Sheet
+ 443. https://html.com/#The_HTMLcom_Blog
+ 444. https://html.com/#The_HTMLcom_Guide_to_Web_Hosting
+ 445. https://html.com/#Improve_Your_HTML_Skills
+ 446. https://html.com/#tutorial
+ 447. https://html.com/#tutorial
+ 448. https://html.com/html5/
+ 449. https://html.com/tags/
+ 450. https://html.com/attributes/
+ 451. https://www.sublimetext.com/
+ 452. https://notepad-plus-plus.org/
+ 453. https://www.activestate.com/products/komodo-ide/downloads/edit/
+ 454. https://www.google.com/chrome/browser/desktop/index.html
+ 455. https://www.mozilla.org/en-US/firefox/new/
+ 456. https://html.com/tags/doctype/
+ 457. https://html.com/tags/html/
+ 458. https://html.com/tags/head/
+ 459. https://html.com/tags/body/
+ 460. https://html.com/tags/title/
+ 461. https://html.com/tags/meta/
+ 462. https://html.com/tags/meta/
+ 463. https://html.com/attributes/meta-name/
+ 464. https://html.com/tags/body/
+ 465. https://html.com/tags/heading/
+ 466. https://html.com/tags/p/
+ 467. https://html.com/anchors-links/
+ 468. https://html.com/tags/a/
+ 469. https://html.com/attributes/a-href/
+ 470. https://blogging.com/how-to-start-a-blog/
+ 471. https://html.com/web-hosting/
+ 472. https://www.google.com/
+ 473. https://html.com/blog/100-legal-sources-free-stock-images/
+ 474. https://html.com/tags/img/
+ 475. https://html.com/attributes/img-alt/
+ 476. https://html.com/tags/ol/
+ 477. https://html.com/tags/li/
+ 478. https://html.com/tags/ul/
+ 479. https://html.com/tags/dl/
+ 480. https://html.com/css/
+ 481. https://html.com/tags/table/
+ 482. https://html.com/tags/tr/
+ 483. https://html.com/tags/td/
+ 484. https://html.com/tables/
+ 485. https://html.com/css/
+ 486. https://html.com/css/
+ 487. https://html.com/tables/
+ 488. https://html.com/anchors-links/
+ 489. https://html.com/forms/
+ 490. https://html.com/fonts/
+ 491. https://html.com/images/
+ 492. https://html.com/css/
+ 493. https://html.com/javascript/
+ 494. https://html.com/html5/
+ 495. https://html.com/semantic-markup/
+ 496. https://html.com/logical/
+ 497. https://html.com/tags/
+ 498. https://html.com/tags/a/
+ 499. https://html.com/tags/xmp/
+ 500. https://html.com/tags/button/
+ 501. https://html.com/anchor-links/
+ 502. https://html.com/tags/link/
+ 503. https://html.com/images/image-transformations-javascript/
+ 504. https://html.com/character-codes/
+ 505. https://html.com/tags/heading/
+ 506. https://html.com/tags/p/
+ 507. https://html.com/tags/i/
+ 508. https://html.com/tags/b/
+ 509. https://html.com/tags/a/
+ 510. https://html.com/attributes/a-href/
+ 511. https://html.com/tags/ul/
+ 512. https://html.com/tags/li/
+ 513. https://html.com/tags/blockquote/
+ 514. https://html.com/tags/hr/
+ 515. https://html.com/tags/img/
+ 516. https://html.com/tags/div/
+ 517. https://html.com/attributes/
+ 518. https://html.com/attributes/img-src/
+ 519. https://html.com/attributes/img-alt/
+ 520. https://html.com/attributes/a-target/
+ 521. https://html.com/attributes/a-href/
+ 522. https://html.com/attributes/body-background/
+ 523. https://html.com/attributes/table-bordercolor/
+ 524. https://html.com/cheat-sheet/
+ 525. https://html.com/tags/
+ 526. https://html.com/attributes/
+ 527. https://html.com/wp-content/uploads/html-cheat-sheet.pdf
+ 528. https://html.com/blog/
+ 529. https://html.com/blog/websites-britain-blocked/
+ 530. https://html.com/blog/100-places-post-share-photos-online/
+ 531. https://html.com/blog/50-google-calendar-themes-hacks-addons/
+ 532. https://html.com/blog/nintendo-wii-hack-mod-homebrew/
+ 533. https://html.com/blog/20-best-funny-internet-scams-stories/
+ 534. https://html.com/blog/doxing/
+ 535. https://html.com/web-hosting/
+ 536. https://html.com/web-hosting/
+ 537. https://html.com/web-hosting/wordpress/
+ 538. https://html.com/web-hosting/siteground/
+ 539. https://html.com/web-hosting/bluehost/
+ 540. https://html.com/web-hosting/ipage/
+ 541. https://html.com/web-hosting/hostgator/
+ 542. https://html.com/web-hosting/wp-engine/
+ 543. https://html.com/#other-tutorials
+ 544. https://html.com/author/frank/
+ 545. https://html.com/attributes/input-pattern/
+ 546. https://html.com/attributes/input-pattern/#comments
+ 547. https://html.com/attributes/a-target/
+ 548. https://html.com/attributes/a-target/#comments
+ 549. https://html.com/tags/comment-tag/
+ 550. https://html.com/tags/comment-tag/#comments
+ 551. https://html.com/attributes/img-src/
+ 552. https://html.com/attributes/img-src/#comments
+ 553. https://html.com/attributes/img-width/
+ 554. https://html.com/attributes/img-width/#comments
+ 555. https://html.com/
+ 556. https://html.com/sitemap/
+ 557. https://html.com/privacy/
+ 558. https://html.com/contact/
+ 559. https://html.com/
+
+   Hidden links:
+ 561. https://html.com/
+ 562. javascript:void(0);

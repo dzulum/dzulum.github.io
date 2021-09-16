@@ -1,0 +1,1 @@
+sed '1,11 d' Prueba.txt > finalm.txt | sed 's/^ *//g' finalm.txt > test.txt | sed '/^___*/,' test.txt > producto.txt

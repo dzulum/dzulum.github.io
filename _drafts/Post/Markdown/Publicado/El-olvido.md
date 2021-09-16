@@ -1,0 +1,181 @@
+# El olvido
+
+-Cuando todo empezó, hacía poco que había roto con mi segundo marido.  
+-¿Sabe que edad tengo?  
+-No.
+
+Apaga el cigarrillo y se recuesta en la silla. Expele la ultima
+bocanada de humo hacia arriba, como para que el ventilador del techo la disipe; y así lo hace, como de el se espera. Levanta entonces la mirada hacia el comisario, que se encuentra en pie, apoyado en la pared, las manos en los bolsillos. Dice entonces:
+
+-Écheme. ¿Cuantos?
+-Veintiocho
+-Treinta y dos. Tengo treinta y dos años. Cuando mi segundo matrimonio se hundió tenia exactamente treinta años. Dos matrimonios fallidos a mis espaldas con la treintena apenas cumplida. ¿Le parece a usted normal?  
+-No lo se. Dígamelo usted.
+
+Ella suspira, baja la mirada al bolso que cuelga del respaldo de su silla y saca otro cigarrillo de la cajetilla. Lo enciende, expulsa el humo por la nariz.  
+-Esta usted casado?  
+El no responde y la habitación se llena de un silencio perturbado únicamente por el chirrido rítmico, hipnótico, del ventilador mal engrasado que gira sobre ellos.  
+-No quiere hablar sobre ello? Perdone. Estoy desperdiciando su tiempo.  
+-Si. Estoy casado, por si le interesa. Solo que no creo que venga a cuento ahora. En cuanto a mi tiempo, podemos hablar todo el día y toda la noche si hace falta. De sobras sabe que aquí nunca pasa nada.  
+-Excepto lo de la casa de los Lemper.  
+-Que es por lo que me ha hecho venir aquí.
+-Usted lo ha dicho, Señorita Harvey, así pues, ¿proseguirá?
+
+Ella cruza las piernas y junta las manos en su regazo. Echa la cabeza hacia atrás y, cerrados los ojos, prosigue:  
+-Tras esa segunda ruptura no sabia bien que hacer. Estuve un tiempo viajando. Aquí y allá, ya sabe. En realidad mas por desorientación y por retrasar el momento de tomar la decisión de que iba a hacer con mi vida que por placer. Cuando el dinero se termino, pase un tiempo viviendo en casa de mi hermana. Creía entonces que aquello me ayudaría, que al menos me concedería una tregua para pensar. No funciono, naturalmente. Recuerdo oírla marchar todas las mañanas a trabajar desde mi cama. Escuchar la puerta cerrarse y sentirme tremendamente inútil y desamparada.
+
+Se ha sentido usted fuera de lugar alguna vez?. Así me sentía yo. Fue entonces cuando, hojeando el periódico local, leí el
+anuncio.
+
+-¿El de los Lemper?
+-Si. No era un anuncio convencional, que suele decirse. Se solicitaba a una mujer de mediana edad. Algo a medio camino entre dama de compañía, cocinera... No se, de todo un poco. Se hablaba de atender a un matrimonio mayor con una hija.
+
+"Imprescindible formación en piano clásico", añadía.
+
+Llame al numero de teléfono que aparecía en el anuncio. Porque no? Yo reunía todos los requisitos y el sueldo que se ofrecía era sorprendentemente alto. Pero no: Lo que de veras me decidió a llamar fue que también se incluía alojamiento y comida y el anuncio hablaba de una casa situada en un paraje tranquilo.
+
+Enseguida percibí "tranquilo" como eufemismo de "aislado". Me pareció que era la ocasión ideal para dejar la casa de mi hermana. Necesitaba cambiar de aires...  
+-Deje que lo adivine: ¿Una tregua? ¿Tiempo para pensar?
+-Usted se ríe ahora pero, al menos durante las primeras semanas, mi decisión demostró haber sido acertada. Mis competencias no eran demasiadas en realidad. Ayudaba a hacer la comida y la cena, a veces fregaba los platos, limpiaba la casa de vez en cuando. Es cierto que en el anuncio no se decía nada de esas tareas... vamos a decirlo: Propias de una criada. La pregunta es: ¿Hay algún texto de oferta de empleo que diga toda la verdad en los tiempos que corren?
+
+-No, supongo que no.
+-No, claro que no.
+
+Dice, y por primera vez desde que ha entrado por la puerta, sonríe.
+
+Tras una breve pausa prosigue:  
+-Aun con todo ello, disponía de mucho tiempo libre para pensar... La casa tenia una biblioteca privada como nunca he visto otra, así que también recupere mi afición por la lectura.
+
+El paisaje era precioso.
+
+Pasaba largos ratos en sentada en la terraza en los que...  
+-¿Como eran?  
+-¿Como?  
+-Los Lemper. ¿Que clase de gente eran?  
+-Bien... Nunca he creído en la figura del "anciano adorable":   Todos los ancianos que he conocido son por termino general egoístas, refunfuñones y ególatras. Supongo que son males que llegan con la edad y es inevitable.
+
+Sin embargo, enseguida supe ver que el Sr. Lemper se encontraba en las antípodas de esta tipificación: Se trataba de un caballero de pies a cabeza. De la Sra. Lemper, aunque algo mas estirada y distante en su relación conmigo, tampoco tuve queja nunca. Eran buena gente. Algo excéntricos y sus manías tenían, pero imagino que todo eso llega inevitablemente cuando se tiene tanto dinero y se vive prácticamente aislado del mundo exterior.
+
+¿Sabia que el tocaba el violín y ella el violonchelo? Adoraban la musica de cámara. De ahí que quisieran a alguien que
+les acompañara al piano. Su pieza favorita era el segundo movimiento de un trío de Schubert en MI Menor. Lo interpretábamos casi todas las noches...
+
+-Hábleme de la hija.  
+-¿Evelyn? Evelyn era otra historia. ¿Que edad tendría? Cuarenta años, treinta y muchos, en todo caso, era todo un personaje.   Durante los primeros días consiguió que me sintiese francamente incomoda porque apenas conseguía arrancarle palabra. Luego observe que tampoco hablaba casi con sus padres fuera de algún que otro monosílabo. Al principio creí que se trataba de una de esas solteronas amargadas, lo cual no hubiera dejado de ser extraño porque se trataba de una mujer extremadamente bella.
+
+Recuerdo que un hombre al que llamábamos para que viniera a traernos víveres desde el pueblo, me comento en una ocasión
+en que la vio, que se parecía mucho a Marlene Dietrich. La mire y era completamente cierto: Bajo determinado ángulo de luz, era casi idéntica a Marlene Dietrich. No, no se trataba de la típica solterona amargada y pasado el primer mes pude comprobarlo.
+
+Evelyn permanecía horas, días incluso, encerrada en su cuarto y, de repente, un buen día le daba por salir. Pasaba entonces horas vagando por toda la casa como alma en pena, con esa expresión lánguida en el rostro y un cigarrillo entre los labios.
+
+De vez en cuando, sin embargo, cuando sus padres se habían ido ya a dormir, sufría de lo que yo llamaba sus "ataques de verborrea".
+
+Siéntate aquí conmigo un rato, Paula, me decía. ¿Que podía yo hacer? ¿No era acaso "dama de compañía" una de mis atribuciones?
+
+En aquellas ocasiones se transformaba completamente: Quiero decir, que hablaba y hablaba y hablaba. Llegaba a hablar tres y cuatro horas seguidas sin apenas tomar aliento. Las primeras veces que ocurrió, trate de entablar conversación con ella, mas pronto comprendí que no se trataba de una conversación, sino de un monologo: No era una conversadora lo que Evelyn pedía, sino una oyente. Era... bueno... Aparentemente perturbada desde que iniciara su exposición, busca, saca otro cigarrillo de su bolso.
+
+Acerca el encendedor al extremo del pitillo con tal temblor en el pulso, que finalmente es el quien da dos pasos y le da lumbre. Luego recupera su postura original contra la pared de la comisaria. "Prosiga", dice.
+
+-Era muy extraño: Siempre hablaba de lo horrible que se estaba
+volviendo el mundo. No se equivoque: Evelyn nunca hablaba desde
+posturas políticas ni ecologistas ni nada parecido a eso: Era mas bien la suya una postura de negatividad total y absoluta de la que nada ni nadie salia bien parado. Se que puede sonar absurdo ahora, a plena luz del día, pero tanta negrura había en su discurso y tanta era su vehemencia que, cuando finalmente terminaba, cuando se levantaba y subía a su cuarto sin mediar mas palabra, quedaba yo tan hundida y aterrorizada que me costaba reunir el valor para decidirme a irme a la cama. Una vez allí, además, daba vueltas y mas vueltas antes de conseguir dormirme. Llegaban entonces las pesadillas.
+
+Llego el momento en que, cuando los Sres. Lemper daban las buenas noches y subían a su habitación, yo temblaba ante la sola posibilidad de tener que pasar por otro de los "ataques de verborrea". Comprendí entonces que me iba a ser imposible encontrar mi equilibrio en aquella casa. Mas para cuando tome la resolución de poner fin a mi estancia allí, el primer olvido ya había tenido lugar. Luego los olvidos se sucedieron y no tuve valor para dejar a los Lemper solos. Luego... bueno, luego me fue ya imposible...
+
+-¿El primer olvido?  
+-Ocurrió hará cosa de tres meses. Nos encontrábamos interpretando, como casi todas las noches aquel trío de Schubert para violín, violonchelo y piano, cuando de repente el Sr. Lemper fallo una nota. Acto seguido dejo de tocar. La Sra. Lemper y yo nos detuvimos también. La expresión de su rostro... bueno: ¿Puede comprenderlo? El Sr. Lemper llevaba años interpretando aquella pieza a diario. Obviamente, a veces conseguía transmitirle un sentimiento fuera de lo común; otras, se limitaba a una ejecución maquinal, casi como si de un gramófono se tratara; sin embargo, nunca había fallado una nota.
+
+¿Entiende? Nunca en años. Entonces tuvo lugar lo mas aterrador:   Tratamos de reiniciar el tema varias veces, mas, llegado el momento de entrar, el Sr. Lemper se quedaba mirando su violín con una mirada extraña, como quien contempla algo por primera vez, y seguidamente ejecutaba una nota del todo errónea. Tras cuatro tentativas lo dijo: Sacudió la cabeza lentamente, con incredulidad y dijo como para si: "La he olvidado" y repitió, esta vez dirigiéndose a nosotras dos: "La he olvidado".
+
+Dejando el violín sobre una mesa, comenzó a subir las escaleras hacia su habitación, muy despacio, totalmente abatido. La Sra. Lemper permaneció allí unos segundos mas y subió tras el.
+
+-A veces ocurre: Los ancianos pierden la memoria. ¿Demencia senil? ¿Alzheimer?  
+-Déjeme continuar: Al poco se abrió la puerta del cuarto de Evelyn.
+
+Aquella noche, su discurso fue mas negro, mas vehemente, mas prolongado que de costumbre y las conclusiones que se desprendían de el eran mas claras que nunca: No merecíamos ni respirar y era imprescindible que fuéramos erradicados de la faz de la tierra. Como especie, quiero decir. Los primeros rayos de sol se filtraban por entre las rendijas de la persiana de mi habitación y yo no había conseguido aun pegar ojo, sobrecogida por el horror que la visceralidad de Evelyn me transmitió.
+
+Una pausa. Una calada al cigarrillo. Un gemido de ventilador.
+
+Aire muy quieto en la dependencia sin ventanas de una comisaria que al poco comienza a vibrar muy levemente al ritmo de la voz de ella:  
+-¿Demencia senil, dice? Desde luego que no!. Debe comprender que el Sr. Lemper se conservaba del todo lucido. Diré mas: En adelante seguimos interpretando musica de cámara: El Sr. Lemper la ejecutaba impecablemente. Simplemente nunca mas pudimos tocar aquel trío de Schubert de nuevo. Como el dijo, "Lo había olvidado". Si de sencillo.
+
+¿Cuanto tiempo paso? ¿Una semana? Si, mas o menos. Llego entonces el segundo olvido: Un buen día, me encontraba preparando el desayuno cuando el Sr. Lemper entro en la cocina y me pregunto si podía subir un momento a su habitación. Subí; una vez allí, el pobre hombre gesticulando hecho un saco de nervios, trato de explicarme lo inexplicable: La Sra. Lemper había olvidado como bajar escaleras.
+
+La ayudamos a bajar como pudimos, mas era tan dificultoso, que en el tercer tramo prácticamente optamos por bajarla en brazos. De vuelta a su cuarto, sin embargo, las subió perfectamente ella sola. Solo que a la mañana siguiente teníamos el mismo problema.
+
+Y a la siguiente. Y a la otra.
+
+Desesperados, tratamos que aprendiera a bajar escaleras, como a una niña pequeña septuagenaria. Y algún progreso lográbamos, mas todo progreso conseguido durante el día, por nimio que fuera, se evaporaba al día siguiente. Comprendida la inutilidad de recomenzar cada día el aprendizaje desde cero y por comodidad ante el esfuerzo físico de bajarla en volandas, esfuerzo que apenas entre el Sr. Lemper y yo conseguíamos llevar a cabo, optamos por que la Sra. Lemper hiciera en adelante vida en el piso de arriba. Su marido, claro esta, paso desde aquel momento la mayor parte del día con ella.
+
+Ello dejo en el piso de abajo, vía libre a Evelyn para martirizarme con su letanía, no ya solo por las noches, mientras sus padres dormían, si no también a plena luz del día. Sus discursos tomaron una frecuencia casi diaria y poco a poco vi que apuntaban en cierta dirección, cada vez mas evidente. ¿Quiere que se lo cuente?
+
+-Tiene que contármelo. Recuerde: Soy el comisario. Llevo este caso.  
+-Dice el, y ríe como para aliviar la tensión, pero no parece divertido.  
+"¿Me da un vaso de agua, por favor?", pregunta ella. El se dirige a la maquina, en otro cuarto. Al poco, regresa con un vaso de plástico lleno de agua. Ella sorbe brevemente y prosigue. Lo hace así:  
+-Al principio solo creí que solo era debido a mi obsesión con aquellos olvidos tan extraños, tan absurdos. Creí que me estaba volviendo loca, pero cada vez lo notaba en mas y mas referencias: Por aquel entonces, las negras parrafadas de Evelyn, sin perder ápice de aquellos tintes agónicos del principio, se habían vuelto cada vez mas caóticos. En parte, porque a veces se mezclaban en ellos delirios esotéricos que yo
+no acababa de comprender.
+
+Pronto comprendí que no eran impresiones mías: En el discurso de Evelyn se transparentaba el aire profético de una extinción de la especie humana a través del olvido. Durante los últimos discursos, hablaba incluso de ritos, de libros prohibidos...
+
+Se interrumpe y mira en dirección a el en espera de alguna frase. De una palabra. De una pregunta o de una respuesta, tanto da. Al no obtenerla dice:  
+-Diga la palabra que esta pensando.  
+-¿Como?  
+-Sobre Evelyn. Después de lo que le he contado. Dígala. El comprende súbitamente y echa la cabeza atrás en una carcajada.   Se serena y dice:  
+"¿Bruja?" a lo que ella se encoge de hombros por toda respuesta.   "No esta mal", repone asintiendo y sonriendo ligeramente. Solo sus labios sonríen. Una vez mas, ninguno de los dos parece demasiado divertido.
+
+Llega de nuevo el silencio y el quejido eterno del ventilador.   Regresa también, a los pocos segundos, la voz de ella:  
+-Tendría gracia de no ser por como se sucedieron los olvidos a partir del segundo: Uno tras otro, implacables. ¿Quiere que se lo cuente? Es divertido. Tremendamente divertido. Ni siquiera soy capaz de recordarlos todos: El Sr. Lemper empezó olvidando como ponerse el calzado. La Sra. Lemper se vio entonces obligada a calzarle todas las mañanas. Eso fue, claro, hasta que también la Sra. Lemper lo olvido, a partir de lo cual, era yo quien les calzaba. Una bombilla se fundió un buen día y nos dimos entonces cuenta que los tres habíamos del todo olvidado como cambiar una bombilla, así que aun ahora permanece fundida. La Sra. Lemper olvido un buen día como lavarse, así que a partir de entonces nos vimos obligados a soportar su hedor. Ni siquiera nos planteamos lavarla nosotros: Cuando aquello ocurrió, nos habíamos abandonado ya a tal estado de desidia malsana, que nada importaba demasiado salvo aguardar a que vinieran a rescatarnos; o esperar el final.
+
+Para el momento en que tuve conciencia de que tenia que huir de allí al precio que fuera, había olvidado conducir. Mas adelante, al borde de la locura y segura de que prefería morir vagando a pie, perdida en los bosques, que confinada en aquella casa infernal, descubrí que había olvidado como descorrer un cerrojo.
+
+Recuerdo que les señale a los Sres. Lemper la puerta de entrada con aire interrogante. Ambos se miraron y negaron con la cabeza. Estábamos atrapados.
+
+No me pregunte donde estaba Evelyn mientras todo aquello ocurría: No tengo la mas mínima idea. A mi me aterraba la sola idea de pensar en ella y, aunque nunca hablamos de ello, creo que también a sus padres les ocurría algo parecido. A partir de cierto momento, simplemente, desapareció. La puerta de su habitación permaneció cerrada hasta que todo acabo. Por lo que se, muy bien podría encontrarse aun allí.
+
+El caso es que, para nosotros, las cosas siguieron poniéndose feas y mas feas: Rabiamos olvidado hacia ya mucho como utilizar el teléfono así que, privados de poder encargar víveres al hombre del pueblo, vimos reducida nuestra alimentación a conservas y latas. En ese sentido no había problema porque el sótano de la casa estaba de sobra provisto para que los tres pudiéramos alimentarnos durante, pongamos, un año.
+
+Ocurre que, a sabiendas de que en cualquier momento podíamos olvidar como bajar escaleras, o como subirlas o ambas cosas, decidimos distribuirlas a partes iguales entre el sótano, la planta baja y el piso de arriba. Fue entonces cuando yo olvide como abrir latas: El pánico nos atenazo de nuevo: ¿Que ocurriría si los tres olvidábamos como abrir latas y conservas? A partir de aquel día, abríamos a diario una decena de latas en previsión de lo que pudiera pasar. Las conservas abiertas se pudrían y aquello comenzaba a heder de forma que rayaba en lo insoportable.
+
+Se nos ocurrió que los frascos de conserva de vidrio siempre podríamos abrirlos estrellándolos contra el suelo, así que
+decidimos guardarlos para casos de emergencia. Eso, claro, considerando no olvidáramos como estrellar un objeto contra el suelo. ¿Hace falta que siga?
+
+El se adelanta dos pasos y se sienta en la mesa enfrente de ella. Saca su propio tabaco del bolsillo de su camisa y se enciende un pitillo. Le da una larga calada, expulsando a continuación una densa bocanada de humo. El ventilador cumple con su cometido y lo devuelve a la nada de donde vino.
+
+"Ojala pudiera olvidar como fumar" dice, pero llegado este punto, ninguno de los dos hace ya gesto de reír. Tras una larga pausa es el quien habla ahora:  
+-Eso explica el estado en que encontré la casa cuando pase esta mañana para presentarme como el nuevo comisario. No explica, sin embargo que fueran los cadáveres de los tres Lemper, padres y hija, los que encontré allí. Tampoco explica que haya usted abierto el pestillo de la puerta de la oficina de forma impecable cuando ha entrado delante mio.  
+¿Que ocurrió al final?  
+-El Sr. Lemper olvido como tragar. Hubiera muerto de inanición si no fuera porque olvido como respirar antes de que el hambre le matara.
+
+Hacia casi dos semanas que había olvidado como utilizar la taza del lavabo. Eso explica el estado en que lo encontró esta mañana. La Sra. Lemper tuvo menos suerte: Olvido como dormir.
+
+Paso muchos días en los aullando hasta que la muerte se la llevo, ya completamente loca. En cuanto a mi, es decir Paula Harvey, cerré en un determinado momento la boca y olvide como volver a abrirla. Me alimente de zumos a través de una pajita a partir de entonces hasta que no quedo ninguno en la casa.
+
+Iba ya a abrirme las venas cuando me percate de que había olvidado como hacerlo. Por suerte no había olvidado como ahorcarme.
+
+-Señorita Harvey: Se dará usted cuenta de que lo que dice no tiene sentido...  
+Fueron los tres Lemper a quien encontré.  
+-¿Ha contrastado las fotos con su archivo?  
+-Naturalmente.  
+-Oh, vamos, comisario: No me diga que ha olvidado como distinguir un rostro de otro!  
+-Yo... -De repente se le ve azorado.  
+-¿Esta usted casado, comisario?  
+-No lo se. -Sacude la cabeza, la mirada baja, y repite- No lo se.  
+-Mi comisario! -dice. Y le acaricia la mano sobre la mesa- No se
+acuerda!  
+Pues tenga cuidado no vaya a olvidarsele respirar, como al buen Sr. Lemper, papa adorado que en paz descanse!.
+
+El se lleva las manos al pecho y cae de la silla al suelo, donde
+patalea casi durante cinco minutos eternos, cada vez con menor
+intensidad, hasta que al final se queda muy quieto. Ella se levanta entonces. Sale de comisaria y acaricia las aceras con sus tacones altos.
+
+Un joven que viene caminando de frente, la contempla a través de unas gafas de sol Rai Ban wayfarer. Justo antes de que pase a su lado, se detiene un instante y la mira sorprendido por su asombroso parecido con Marlene Dietrich. Vuelve el rostro al frente decidido a proseguir su camino cuando casi profiere una carcajada histérica al percatarse de que acaba de olvidar como andar. Pasara mucho tiempo, allí de pie, mirando al frente aterrado de pánico antes de que se atreva a pedir ayuda.
+
+En una ciudad a doscientas dieciséis millas de allí, veintitrés
+personas de ambos sexos y distintas razas y credos, olvidan en ese momento como beber. En breve plazo morirán deshidratados sin que nadie sepa a ciencia cierta que ha ocurrido.
+
+En Tokio, dos mujeres de barrios distintos, olvidan como llamar a timbres.
+
+A partir de ese momento llamaran a las puertas con los nudillos. 
+
+Al principio les parecerá incluso divertido: Lo comentaran con sus parejas, reirán acerca del tema y no le darán mayor importancia.
+
+Entretanto, dos tacones altos siguen acariciando una acera que arde bajo un sol de justicia.
