@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-09-16 22:31:00
+tags: relato
+title: El hijo del vampiro
+---
+
 # El hijo del vampiro
 
 Probablemente todos los fantasmas sabían que Duggu Van era un

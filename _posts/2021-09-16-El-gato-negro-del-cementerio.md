@@ -1,4 +1,12 @@
+---
+layout: post
+date: 2021-09-16 22:41:00
+tags: relato
+title: El gato negro del cementerio
+---
+
 # El Gato Negro del Cementerio
+
 **Por: Joacir Colombo Quezada,**  
 **e-mail: joacol@alusis.ucb.edu.bo**
 

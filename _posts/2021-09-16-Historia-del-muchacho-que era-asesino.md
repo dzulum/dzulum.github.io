@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-09-16 22:33:00
+tags: relato
+title: Historia del muchacho asesino
+---
+
 # Historia del muchacho que era asesino.
 
 **Autor: Raul Bonilla.**

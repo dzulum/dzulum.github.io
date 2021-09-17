@@ -1,4 +1,11 @@
-# LESBOS IRAE
+---
+layout: post
+date: 2021-09-16 22:40:00
+tags: relato
+title: Lesbos Irae
+---
+
+# Lesbos Irae
 
 La lluvia golpeaba inexorablemente el estigio ventanal de mi vivienda
 presagiando su fractura.

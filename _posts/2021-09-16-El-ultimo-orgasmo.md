@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-09-16
+title: El último orgasmo
+---
+
 # El último orgasmo
 
 La mujer lanzó hacía atrás su largo cabello y soltó un suspiro que
