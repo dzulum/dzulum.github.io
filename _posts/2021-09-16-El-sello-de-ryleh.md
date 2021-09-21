@@ -2,7 +2,7 @@
 layout: post
 tags: relato
 date: 2021-09-16 22:32:00
-title: 'El sello de R'lyeh'
+title: "El sello de R'lyeh"
 ---
 
 # El Sello de R'lyeh

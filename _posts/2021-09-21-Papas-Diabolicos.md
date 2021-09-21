@@ -6,4 +6,4 @@ title: Papas Diabólicos
 ---
 ![Play](/images/play.png)
 # Papas Diabólicos
-{% include="ivoox.html" id="52612328" %}
+{% include ivoox.html id="52612328" %}
