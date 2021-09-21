@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-09-21 18:20:00
-tag: audio
+tags: audio
 title: Terror Online - 44 Días en el infierno
 ---
 ![Play](/images/play.png)
