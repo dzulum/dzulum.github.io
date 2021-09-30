@@ -5,4 +5,4 @@ tags: audio
 title: El Asesino Fantasma
 ---
 ![Play](/images/play.png)
-{% include="ivoox.html" id="52612323" %}
+{% include ivoox.html id="52612323" %}

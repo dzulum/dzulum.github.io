@@ -5,4 +5,4 @@ tags: audio
 title: La noche en que salen todos los espantos del pueblo
 ---
 ![Play](/images/play.png)
-{% include="ivoox.html" id="56101768" %}
+{% include ivoox.html id="56101768" %}

@@ -5,4 +5,4 @@ tags: audio
 title: El coleccionista de muñecas
 ---
 ![Play](/images/play.png)
-{% include="ivoox.html" id="52612325" %}
+{% include ivoox.html id="52612325" %}

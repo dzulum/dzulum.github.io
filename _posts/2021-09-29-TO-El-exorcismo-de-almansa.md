@@ -5,4 +5,4 @@ tags: audio
 title: El exorcismo de Almansa
 ---
 ![Play](/images/play.png)
-{% include="ivoox.html" id="52612327" %}
+{% include ivoox.html id="52612327" %}

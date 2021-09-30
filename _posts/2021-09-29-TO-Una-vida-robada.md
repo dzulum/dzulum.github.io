@@ -5,4 +5,4 @@ tags: audio
 title: Una Vida Robada
 ---
 ![Play](/images/play.png)
-{% include="ivoox.html" id="52612326" %}
+{% include ivoox.html id="52612326" %}
