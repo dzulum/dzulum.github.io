@@ -1,4 +1,12 @@
+---
+layout: post
+date: 2021-09-29 18:50:00
+tags: relato
+title: Por qué no puedo mirarme en el espejo
+---
+
 # Por qué no puedo mirarme en el espejo
+
 **Autor: Al-azraz**
 
 Cuando decidí que saldría con aquella mujer a pasar un agradable día de

@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-09-29 18:54:00
+tags: relato
+title: Historias de Artemisa 2
+---
+
 # Continuación: ARTEMISA
 
    Quedaban aun unas horas antes de que amaneciera. Tenía tiempo. Busqué a

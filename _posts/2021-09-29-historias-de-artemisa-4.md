@@ -1,3 +1,12 @@
+---
+layout: post
+date: 2021-09-29 18:58:00
+tags: relato
+title: Historias de Artemisa 4
+---
+
+# Cont. Artemisa
+
    los balcones y azoteas de todos los edificios colindantes. Era una de
    las mayores concentraciones de vampiros jamas habidas, la mayor que yo
    he visto nunca y jamas volvere a ver. Ante nada dejenme

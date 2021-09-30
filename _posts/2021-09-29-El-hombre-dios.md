@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-09-29 18:43:00
+tags: relato
+title: El hombre dios
+---
+
 # El hombre Dios
 
 **Autor: Bernardino Anguiano García (NINO).**

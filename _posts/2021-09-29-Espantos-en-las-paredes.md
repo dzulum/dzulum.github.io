@@ -1,4 +1,10 @@
-# ESPANTOS EN LAS PAREDES
+---
+layout: post
+date: 2021-09-29 18:45:00
+tags: relato
+title: Espantos en las paredes
+
+# Espantos en las paredes
 
 En casa todo es normal, como siempre, aunque algunos de mis amigos que se han atrevido a venir dicen que todo está vuelto patas para arriba y que no se puede pasar ni un minuto tranquilo sin que aparezca un espanto y los asuste. Yo les digo que es normal que los entes que habitan en las paredes se les aparezcan a cada rato, porque viven allí y porque debe ser muy aburrido estar muerto, pero a mis amigos se les ponen los pelos de punta y salen corriendo y gritando "¡Daniel, Daniel!" y yo les pregunto "¿Qué?", pero no me dicen nada y siguen corriendo sin parar.
 
