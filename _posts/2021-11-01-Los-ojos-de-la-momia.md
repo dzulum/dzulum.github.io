@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:51:00
+tags: relato
+title: Los ojos de la momia
+---
+
 # LOS OJOS DE LA MOMIA
 
 Egipto me ha fascinado siempre; Egipto, tierra de antiguos y

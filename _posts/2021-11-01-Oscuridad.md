@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:55:00
+tags: relato
+title: Oscuridad
+---
+
 # OSCURIDAD
 
 **por Maximiliano Ferrzola**

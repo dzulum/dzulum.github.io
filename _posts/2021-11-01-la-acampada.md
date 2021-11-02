@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:50:00
+tags: relato
+title: La acampada
+---
+
 # LA ACAMPADA
 
 ### Por: Bernardino Anguiano garcía (NINO).

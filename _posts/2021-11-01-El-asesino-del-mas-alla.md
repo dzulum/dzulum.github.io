@@ -1,4 +1,11 @@
-# EL ASESINO DEL MÁS ALLÁ
+---
+layout: post
+tags: relato
+date: 2021-11-01 22:41:00
+title: El asesino del mas allá
+---
+
+# El asesino del mas allá
 
 **Autor: : Desconocido**
 

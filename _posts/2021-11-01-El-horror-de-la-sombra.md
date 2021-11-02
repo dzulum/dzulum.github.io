@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:43:00
+tags: lovecraft
+title: El horror de la sombra
+---
+
 # El horror de la sombra
 
 **Howard Phillips Lovecraft**

@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:54:00
+tags: relato
+title: Pequeños Consejos
+---
+
 # Pequeños Consejos
 
 ### Autor: Diego A. Ortega.

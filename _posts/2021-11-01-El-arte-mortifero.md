@@ -1,3 +1,10 @@
+---
+layout: post
+tags: bloch
+date: 2021-11-01 22:40:00
+title: El arte mortífero
+---
+
 # El arte mortífero
 
 **Robert Bloch**

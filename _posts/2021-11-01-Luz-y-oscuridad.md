@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-01 22:53:00
+tags: relato
+title: Luz y Oscuridad
+---
+
 # Luz y Oscuridad
 
 **Por Muerte 1998**

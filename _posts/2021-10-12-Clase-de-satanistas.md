@@ -1,0 +1,102 @@
+---
+layout: post
+date: 2021-10-12 18:19:00
+tags: satanismo
+title: ¿Qué clase de satanistas?
+---
+# ¿Qué CLASE de Satanistas?
+
+¿Ofitas? ¿Cultos de Pan? ¿Pitagóricos? ¿Tradicionales? ¿Generacionales?
+
+**Tani Jantsang**
+
+1. Satanismo Generacional
+Familias, clanes, y personas, en general, que nacen en una tradición específica, cualquiera que sea el nombre de ésta, y cualquiera que sea el nombre que ellos le den en su lengua materna. La mayoría de éstos se halllan en Oriente, no en Occidente.
+
+Las Doctrinas pertenecen a la Oscuridad Ilimitada, Que-Lo-Penetra-Todo. Nunca ha sido personificada, nunca la han visto como un Ser o Dios real, y NO ESTÁ CENTRALIZADO. Ésta es la Raíz de Todo, el concepto principal, el aspecto MÁS importante de Satán, mucho más allá de cualquier forma arquetípica, mito o leyenda. Las Doctrinas son del yin, sat, sod, y atma (el Hálito de Vida) kundalini, chi, y la palabra hindú pre-védica SAT. Es la Fuerza Oscura que permea y motiva todo en la Naturaleza, todo el Cosmos, animado o inanimado! Equilibra el Universo, es el Cosmocrátor de los Pitagóricos. Es lo que empuja/impulsa TODAS LAS COSAS a nacer/morir. Ésta fuerza también es conocida hoy en día como ENTROPÍA, ya que consume el tiempo/espacio y todas las cosas, pero al hacerlo, crea nueva vida. Es el Apeiron pitagórico, el Ouroboros helénico, la serpiente que devora su propia cola —el alfa y la omega— el "solve et coagula" de los cultos priapicos) las palabras escritas en la Cabra de Mendes dibujada por Eliphas Levi) es decir, la disolución y coagulación (manifiesta) de la existencia. La Doctrina es del Uno (TO EN en griego) y el Todo (TO PAN en griego). Todo proviene del Uno y vuelve al Uno —ergo el Todo ES Uno (concepto del Samsara en la doctrina Tantra) El SAT (la oscuridad ilimitada), y el TAN (que convierte en, que se estrecha). Combinad estas dos palabras: SAT TAN. El saber hacerlo requiere Yoga Kundalini (Kundalini significa 'serpiente'). No es energía, ni tampoco materia! Sin embargo, moldea todo lo que sea materia/energía. En ningún lado hay quietud absoluta. Satán EMPUJA todo a la vida y luego lo HALA de regreso a su esencia primigenia. Empuja/hala AL MISMO TIEMPO. Goethe lo dijo muy bien en su "Fausto": "QUIERE el Mal —pero HACE el Bien!
+
+GLos Satanistas Generacionales son personas que nacen EN culturas que siempre han tenido, y AÚN tienen, éstas tradiciones. Si bien no todos hablen el mismo idioma, al haber sido educados en ésta cultura les facilita reconocer SU PROPIA iconografía en otras culturas, y pueden RECONOCERLA bajo cualquier forma —fácilmente. ¿Alguna duda? Ok: pueden reconocerla TAN FÁCIL como un Católico puede reconocer una cruz Protestante! O tan fácil como cualquier Protestante podría reconocer la imagen de la Virgen María o cualquier Santo Católico. Tan fácil como un romano podía recponocer a su dios Mercurio cuando veían al dios griego Hermes; o Venus cuando veían a Afrodita, o Marte cuando veían a Ares! Estas personas crecieron desde la infancia DENTRO de ésta cultura; la iconografía e imagería se reconoce automáticamente —no tienen que "deducirla!"
+
+Para mayor información, ver el artículo del mismo nombre en Hr. Vad's website así como “All Things,” “Dark Force in Nature,” y “Sat and Tan.” Estas doctrinas están conformadas por las más antiguas y más puras formas de la Doctrina Oscura. ATambién ver el poema BAPHOMET disponible en el mimso sitio.
+
+2. El Culto a Pan o Satanismo Tradicional
+Pueden hallar TODO sobre Satanismo Tradicional (aunque algunos seguidores de la Wicca lo nieguen) leyendo a Robert Graves: La Diosa Blanca. Él ES un académico. Ésta es la Diosa Madre, La Musa de Nueve Facetas, o el Culto a Pan BRUJERÍA, con la imagería de los perros, lobos o chacales aullantes que protegen a la Diosa Madre. Éste tipo de Satanismo era común durante la Edad Media entre los campesinos de las áreas más rurales. No necesito decir más sobte el tema, excepto señalar que en la Edad Media, el Papa y sus Obispos reconocieron un Culto a PAN—no un culto a una Diosa Madre—el cual se había arraigado entre las personas más explotadas y perseguidas. fue una revuelta contra un "Jesús" que en lugar de ser Príncipe de la Paz había sido convertido en en un monstruo de crueldad. En lo que respecta a la Edad media, estoy COMPLETAMENTE de acuerdo con Jules Michelet (Satanismo & Brujería) en lo siguiente: Fue una revuelta contra la tiranía, en una época en la que el Papa controlaba ejércitos y estaba aliado con Reyes crueles. Una rebelión contra el altar y el trono.
+
+Ésto ES Satanismo TRADICIONAL, no importa como lo llamen, no importa cómo le digan: literalmente era EL ADVERSARIO. Lás posteriores prácticas decadentes y pervertidas de la Realeza celebrando misas negras, como LaVoisin, pueden ser consideradas como NINGUNA FORMA de Satanismo: esa gente se merecía que les cortasen la cabeza. El Satanismo Tradicional está bellamente representado en la película The Wicker Man. Nótese que ésta película es puramente agraria, no tiene TANTO que ver con la Doctrina Oscura.
+
+Ver también el artículo “Real Wicca” (disponible para la venta en Hr. Vad's website) para otro número de ejemplos (comparados con Graves). Esta forma de culto estaba presente en las sociedades agrarias, principalmente en Occidente. Es un culto muy antiguo, pero no TAN antiguo (o puro) como el anterior.
+
+¿CAMINO DE LA DERECHA VERSUS CAMINO DE LA IZQUIERDA?
+BLANCO VERSUS NEGRO?
+Algo totalmente malentendido, pero que los Wicca MODERNOS lo consideran "muy importante".
+
+Los Wicca modernos han caracterizado al Camino de la Izquierda como maligno, nocivo, destructivo y egoísta; o bien lo ven como un sistema donde lo divino se manifiesta en la Naturaleza, permeándola, motivándola (lo cual está bien, pero POR QUÉ dan dos definiciones de lo mismo?). Perciben el Camino Derecho como bueno, creativo y altruista; o bien lo ven como lo opuesto al mundo, una doctrina de salvación. (Éso NO está bien; vuelven a lo mismo!) Basta de dualizar todo, y planteémoslo de otra forma manera: CADA VEZ QUE COMES —obviamente PRIVAS a alguien hambriento de SU parte de la comida. JA!
+
+SÓLO LAS DOCTRINAS ORIENTALES tienen lo que APENAS podría llamarse derecha/izquierda. La Luz y la Oscuridad NO SON CONCEBIDAS como bien/mal—ni siquiera se piensa así en Oriente DE estas Tradiciones. Una es YIN y la otra es YANG. El YIN puede existir sólo, pero el YANG no! No son mitades de una misma cosa: NO! Tampoco forman una simetría! Éstos conceptos son de por sí AJENOS al pensamiento Occidental, a excepción de los Pitagóricos, quienes consideraban a su Apeiron (Oscuridad Ilimitada) como algo que existía por sí mismo y que NO necesitaba de más, incluyendo una mitad que sea luz. Las tribus eslavas pre-cristianas tenían un concepto idéntico y lo llamaban CHARNAYA BOG. Pero no se conoce mucho de SU PROPIA Doctrina: fueron Cristianizados a la fuerza y su Doctrina fue exterminada. Y tampoco es de mucha ayuda que los tártaros que los dominaron durante tanto tiempo se hallan convertido al Islam en los días de Batu Khan. Pero ese concepto de VITALIDAD se ve todavía, aún en los tiempos de la Unión Soviética Atea —su visión de la Naturaleza era distinta a la de Occidente. Charnaya Bog significa Dios Negro. Kara Bog es una expresión tártara que significa Dios negro: lo mismo sucede con el MAHAKALA de los Budistas Tártaros y Tibetanos: GRAN OSCURIDAD. NINGUNO de estos pueblos era dualista, y no es de extrañar que luego hayan adoptado el materialismo dialéctico: eso es Doctrina Oscura aplicada al mundo práctico de la socio-economía y la política. Podemos leer la versión PURA más reciente de las Doctrinas en el ensayo del Timonel Mao Tse-Tung "Sobre la Contradicción". Tengo una versión anotada del mismo, que traduce los términos "comunistas" que utiliza Mao en palabras propias de las Doctrinas que entendemos inmediatamente. Lo diré una vez más: Esta Doctrina es reconocida DE INMEDIATO por cualquiera que HAYA NACIDO en ésta Tradición.
+
+Ver el artículo “Real Wicca” (disponible para la venta en Hr. Vad's website) aasí como otros que documentan ampliamente este tema.
+
+3. Judíos Ofitas, o Satanismo Gnóstico
+Esta variante es comparable a las Doctrinas Orientales
+
+Originalmente, los Ofitas eran pueblos Hebreos que volvieron a los Cultos de Seiri, contra los cuales había luchado Moisés. Éste los llamó Obitas —de allí proviene el término "óbico". Comencemos con el Árbol de la Vida de la Cábala Hebrea. El Sefirot es lo mismo que el Arupa Tántrico (Seres sin Forma), el Asura Hindú o los Arcontes Griegos. En este sistema existe un Progenitor —hombre/mujer. A veces simplemente se le llamaba Thelema [Voluntad]. Luego sigue Binah, o Sophia, también llamada Agape [Amor], que es el retoño, la progenie del Progenitor. Luego sigue Hochmah, también llamado Logos [o bien Christos] y es el Hijo Unigénito del Progenitor y Madre. Pero luego la Madre se mezcla con su Hijo para emanar los otras siete sefirot o arcontes. En el sistema Tántrico hay CINCO Asuras y SIETE Devas, que es lo mismo que CINCO Dharmas [verdades] y Rupa [formas]. Puede que el Bahu, o Demiurgo, o Prana haya dado origen a Sophia Achamoth (comparable a Ophioneous —la serpiente). Esto depende de qué tan antigua sea la corriente Gnóstica. En el Gnosticismo No-Judío, este concepto se dualizó, mostrando a Jehovah como el Padre, y al Demiurgo (o Ilda Baoth, Ialdabaoth) como el Diablo que había condenado al hombre a ser de carne. O bien viceversa: Jehova era el Diablo que estaba contra la creación de VIDA y el Demiurgo era el Dios Verdadero que daba VIDA a los seres carnales.
+
+Muchos cultos posteriores se derivarían de éste, y tendrían mucha acogida entre los Gentiles, quienes lo dualizarían todo. El Sefirot, manifestado EN el mundo como Elohim, en el lenguaje Helénico era llamado Eones (algo que es antiguo pero que existe el Tiempo, no fuera de éste, como los Arcontes). En la doctrina Tantra eran los Rupa (formados), en el Hinduismo eran los Devas. Una vez más, en las religiones Gnósticas posteriores que tendrían acogida entre los Gentiles, los conceptos de Eones y Arcontes serían dualizados y confundidos el uno con el otro.
+
+Es interesante notar que los Persas Arios también confundirían los Asuras y los Devas, de modo que Asura se convirtió en Ahura Mazda y todos los Devas fueron demonizados como hijos de Ahriman, como Aeshma Devi (que es el Ashmodai hebreo —Asmodeo!). Muchas personas más "religiosas" creyeron que los Arupa o Asura eran una raza de seres mucho más avanzados que la especie humana, que vivían más allá de nuestro "Mundo" o Cosmos. La mitología que surgió de estas Ideas sobrevivió en la Era Cristiana, bastante alterada y distorsionada, con multitud de dioses, diablos, ángeles, demonios, genios, etc etc etc. Luego serían percibidos como como seres que o bien poseían poder y sabiduría cósmicos, o tenían poderes comparables a los dioses del Panteón griego y que muchas veces vivían juntos. Primero se pensaba que eran seres sobrenaturales, (en el pensamiento Gnóstico que hubo entre los Gentiles). Al principio se pensaba que eran sobrenaturales, incluso el pensamiento Gnóstico posterior los percibió no como seres sobrenaturales per se, pero que eran más avanzados que el Hombre, e incluso después, pensadores mucho más agudos los percibieron como fuerzas elementales y se trató de pensar en ellos en términos de ciencia. Recuerden que esto se dio sólo entre los Gentiles, quienes tenían un concepto de gnostic-ISMO habiéndose olvidado por completo del significado verdadero de GNOSIS!
+
+Decir "gnosticismo" es como decir "saberismo". Se creía que había dos maneras de alcanzar la Gnosis. Una era a través de la meditación, donde se silencia la mente, y no existen los pensamientos (como en algunas formas de Yoga) hasta que solo queda un objeto de concentración, al cual se intenta enfocar a través de "Tercer Ojo". Esta creencia se deterioraría posteriormente en las formas más dementes y estrictas de ascetismo, hasta el punto en que los miembros de varios cultos llegaban a asesinar a sus recién nacidos, porque, para ellos, "hacer más carne" era considerado algo malvado! La otra manera de "alcanzar la Gnosis" era cierta clase de experiencia Dionisíaca donde la mente se excitaba hasta alcanzar cotas muy altas, a la vez que se intentaba enfocar una sola idea. Y si conocen ALGO de historia, sabrán que estos conceptos se deterioraron posteriormente hasta caer en las formas más aberradas y pervertidas de sexualidad que sea posible imaginar. (Resulta bastante extraño que estas prácticas se hayan deteriorado constantemente en el Mundo occidental, donde abundan los esquizodies dualistas. Bueno, no es que sea TAN raro después de todo...)
+
+Volviendo a los métodos normales de alcanzar la Gnosis: En el kundalini Hay cierto efecto de jalar/empujar que puede sentirse. El chakra de los ojos y el chakra del corazón se combinan, y uno SABE. Es más: la neurología moderna diría que ésta es la ÚNICA mnarea en la que una persona tiene lógica —cuando tiene combinados diversos centros de sensación/pensamiento del cerebro (uno no SIENTE en el cerebro, pero ESTÁ pasando en el cerebro). En el Taoísmo, otra palabra para la Gnosis se traduce como Claridad. Esto no significa que uno sepa cuál va a ser el próximo número ganador de la lotería. Significa que uno PUEDE tener cierto sentido de LÓGICA y CONOCIMIENTO SOBRE ciertas cosas del mundo físico que te rodea, y cierto conocimiento sobre uno mismo.
+
+Ver Artículo (disponible para la venta en Hr. Vad's website) sobre la Cábala Oscura, para una explicación mucho más detallada, y sobre el Bafomet, para más detalles.
+
+4. Pitagóricos u Occidentales Generacionales
+(Nota, la raíz griega “Pytha” significa “Serpiente”)
+
+Si bien no es gnóstico, el sistema Pitagórico denominó a las Cinco Verdades en el Pentáculo (comenzando por la punta de abajo y en el sentido de las manecillas del reloj) Zoos, Psyche, Physis, Hypopteros Drys, y Dikaion. Puede decirse que estos principios son la manera como los Pitagóricos categorizaron la fuerza de la Entropía obrando en el mundo. Las "formas horribles" de estas Cinco Verdades, o Formas Aullantes (es decir, los defensores de estos cinco principios que nunca deberían estar EN el mundo) eran: Ophioneus, Echidna, Cthonie, Eurynome y Callirhoe. Las LÍNEAS que CONECTAN las Alfas del Pentáculo también tenían sus funciones respectivas: La línea que conecta a Dikaion con Physis se llamaba Epieikeia (Igualdad). La línea que conecta a Dikaion con Physis se llamaba Eleutheria (Libertad) y la línea que conectaba a Psyche con Hypopteros Drys se llamaba Omonoia (Unidad). ¿Acaso reconocen estas palabras? Porque son muy famosas! En nuestros días se dice así: Igualdad, Libertad, Fraternidad! Igualdad, Libertad, Unidad! ¿LAS RECONOCEN? Y la línea que va desde la punta de abajo y que atraviesa la intersección de la mitad se llamaba Eros.
+
+Cuando digo que el sistema Pitagórico no era Gnóstico, no quiere decir que los Pitagóricos no tuviesen GNOSIS. Gnosis quiere decir SABER, CONOCER, es decir, con una percepción directa de las cosas. Este sistema se remonta a los cultos Órficos que precedieron a los Pitagóricos, y sobre los cuales se ha escrito mucha BASURA. Para comprobarlo, basta con conseguir material Pre-Socrático y LEERLOS EN EL IDIOMA ORIGINAL, y ver por tí mismo!
+
+Dentro del Pentáculo de los Pitagóricos no sólo está el Pentágono, sino el Águila de Dos Cabezas, o Águila Bifronte (lo siento, no tengo la destreza para hacer el gráfico correspondiente). El Águila de Dos Cabezas, o bien Tem Oph Ab (Duplex Avis) se parece más a una Sepiente emplumada. A propósito, por si no se dieron cuenta, Tem Oph Ab es Baphomet al revés. Bahu Mid era el nombre babilonio de Baphe Metis, que significa Bautismo/Iniciación a la medición, o bien, al sistema métrico.
+
+Ver Western Roots Part One (disponible para la venta en Hr. Vad's website), para más detalles. Ver también artículos disponibles para la venta sobre “Tantra, Vajrayana and Pythagoreanism” para más detalles y comparaciones con otras Doctrinas OscurasVer también el artículo “Generational Satanism.” en Hr Vad's Website.
+
+¿Qué es un Adorador del Diablo?
+El término puede aplicarse a tres cosas distintas:
+
+1. Cualquiera que viva en cualquiera de las Tradiciones Satánicas y sea acusado de adorar a un Diablo, ya sea por los Cristianos o por los Musulmanes! (Según esto, los Satanistas Tradicionales lo serían, en un contexto Cristiano o Musulmán, pero no según su propio punto de vista).
+
+2. Cualquiera de una tradición NO-Satánica que identifique en-su-corazón los Conceptos Satánicos CON la antítesis de su propia religión (ya sea Cristiana o Musulmana) y entonces decida SENTIR que adora un Diablo—un opuesto dual de un Dios en el que sigue creyendo.
+
+3. Gente particularmente decadente (y demente también) que trata de "colarse" en las Doctrinas Oscuras para poder SENTIRSE "grande y malo" o para justificar un acto pervertido que desean cometer. Los peores adoran lo que CUALQUIER INDIVIDUO SANO EN CUALQUIER SOCIEDAD consideraría "malo". (por ejemplo, herir y torturar un niño inocente—cualquier persona cuerda lo consideraría malo).
+
+TODAVÍA se revuelven en el dogma en el que nacieron y creen que, para ser un Satanista, deben usar tal dogma A LA INVERSA poniendo de revés todas las creencias Cristianas o Musulmanes. Casi siempre son incapaces de ver siquiera las ideas y prácticas positivas que pueden hallarse en el Cristianismo/Islamismo.
+
+Por su parte, el Satanista no reconoce "el bien y el mal" per se —sino como causa y efecto. (Por ejemplo, cuando se bombardean paises enemigos durante una guerra, mueren muchos niños inocentes, o quedan mutilados: pero es BUENO bombardear al enemigo... o así suele ser el razonamiento, y TODOS —es decir, todos los pueblos y culturas— razonan de esta manera! TODO EL MUNDO
+
+¿Y los sacrficios humanos?
+¿Los Satanistas practican sacrificios humanos? No.
+
+Pero los cultos de Santería —que no es otra cosa que Cristianismo sincretizado— sí lo practican —y ahora es legal! Los Judíos tienen una ceremonia que llevan a cabo para hacer carne Kosher, cosa que muchoss no-judíos pueden pensar que es cruel. Recuerden que TODAS las personas solían cazar y dar muerte su propia carne (animales). No es gran cosa.
+
+Por otro lado, (sin decir lo que podamos pensar o sentir sobre los ejemplos anteriores) los niñitos inadaptados que se deleitan torturando a los animales deberían, en mi opnión, DISPARÁRSELES y DARLES MUERTE antes de que crezcan y se conviertan en asesinos seriales.
+
+¿Qué sienten los Satanistas por el sexo?
+No hay mucho que decir. Así es como todos los animales se reproducen. Cuando una chica es FÉRTIL, ya se le considera una mujer —y esta idea prevalece hoy en día en la mayoría de las culturas. Cuando un chico madura, se le considera un hombre.
+
+La homosexualidad depende única y exclusivamente de la cultura donde uno viva. Sin comentarios.
+
+En estos días, lo más prudente para los Cristianos sería preguntar “¿Qué sienten los MUSULMANES por el sexo!
+
+©1999 Tani Jantsang
+©1999 Traducción y puesta en formato HTML por Tezcat,
+Reproducido con permiso del Autor.
+
+La versión original de este artículo puede hallarse en
+
+Hr Vad's homepage on Satanism
+
+...este artículo también puede hallarse en...
+
+Sitio Oficial de la Church of Satan

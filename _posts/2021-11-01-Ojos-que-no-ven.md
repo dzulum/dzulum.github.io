@@ -1,3 +1,10 @@
+---
+layout: post
+tags: bloomerfield
+date: 2021-11-01
+title: Ojos que no ven
+---
+
 # OJOS QUE NO VEN
 
 **"Cual retazo del Infierno"© 1999 by Gerardo Bloomerfield**
