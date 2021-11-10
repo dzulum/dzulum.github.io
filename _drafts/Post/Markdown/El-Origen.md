@@ -1,7 +1,7 @@
 # El Origen
 
-**Autor: : Jon**
-**Chicago, 9/11/1996**
+**Autor: : Jon**  
+*Chicago, 9/11/1996*
 
 Este es un mundo muy extraño para mi. Por el cielo vuelan unos barcos a
 los que llaman aviones. Hay unos espejos, los llaman televisores, que
@@ -12,7 +12,6 @@ he llegado aquí? Creo que me volveré loco. Tendré que abandonar mi clan
 y unirme a los Malkavian. Si incluso esto que escribo lo hago apretando
 unas letra (teclas, me han dicho que se dicen),¡Y estas se reflejan en
 otro espejo!
-
 Pero empecemos por el principio. ¿Quién soy? Mi nombre es Jon, y nací
 en el año del Señor de 1154. En mi vida mortal no era mas que un
 leñador que vivía en el reino de Inglaterra, una gran isla al norte del
@@ -30,7 +29,6 @@ para mi gusto, y oí las pisadas de alguien corriendo. Vi a un hombre
 atravesar el camino como si lo persiguiese el diablo, y a poca
 distancia tras el aparecieron seis lobos enormes, demasiado grandes,
 pero en aquel momento no me fijé en este detalle. La luna estaba llena.
-
 Oí un cuerpo que caía al suelo, el rugir de los animales, y un grito
 inhumano de dolor. No lo pude evitar. Paré mi carro, cogí la maza, y me
 puse a correr al auxilio de aquel pobre desgraciado.
@@ -38,7 +36,6 @@ puse a correr al auxilio de aquel pobre desgraciado.
 Lo encontré rodeado por los lobos, que lo mordían y rasgaban con sus
 dientes y garras. Alcé mi arma, y ataqué a las bestias. Al oírme, una
 de ellas se giró y me miró. Esa mirada. Nunca olvidaré esa mirada.
-
 Detecté en aquellos dos ojos una gran inteligencia y sabiduría, pero
 mezcladas con un intenso odio y rabia. Me detuve. No podía atacar. Un
 gran temor me llenaba el cuerpo. Entonces, aquel majestuoso, tenebroso
@@ -49,7 +46,6 @@ podía soportar.
 La mirada. El aullido. Cerré los ojos. Oí pasos que se acercaban. Sentí
 que uno de los lobos me olfateaba - noté su aliento en la cara. Yo
 estaba de pié. Atemorizado, aterrado, no me atreví a abrir los ojos.
-
 Noté una cosa que pasaba rozándome. Dos. Tres. Los lobos se iban. No me
 mataban, no me hacían nada. Allí quedé yo. Caí al suelo, temiendo por
 mi cordura, chillando de desesperación. Entonces recordé al extraño.
@@ -80,7 +76,6 @@ demonio pudiese ser abatido por una manada de lobos.
 El día pasó tranquilo, como cualquier otro. Cambié algunos salmones por
 carne de conejo, y narré los hechos que había presenciado a mis
 vecinos. Todos se quedaron azorados, pero no supieron explicarme nada.
-
 Hacia años que no se veían lobos por la zona, es todo lo que saqué en
 claro. Ah, si hubiese hecho caso a las supersticiones... Volví a casa,
 el dormía, un sueño muy profundo. Su cuerpo ya no sangraba. ¿Cómo supe
@@ -91,7 +86,6 @@ que estuviese vivo. Ja. Vivo.
 
 Y llegó la noche. Me fui a dormir, no en la cama, claro. Yo era un
 mortal que fácilmente cogía el sueño. Pero esa noche fue diferente.
-
 Cuando cerraba los ojos tan solo veía la mirada. La mirada del lobo. Y
 oía el aullido. Tenía miedo. Terror. Miedo al lobo. Miedo al extraño,
 miedo a todo. De repente oí un ruido. ¡El extraño! ¡Se había movido! Me
@@ -124,8 +118,7 @@ delante mío, con la boca llena de sangre - mi sangre, extasiado. Y caí
 al suelo. Mis piernas no me aguantaban.
 
 -Te debo la vida, mejor la muerte. No te preocupes, te pagaré. - Oí
-que decía, justo antes de perder la consciencia.
-
+que decía, justo antes de perder la consciencia.  
 Abrí los ojos. Y los volví a abrir. ¿O los tenía abiertos? No veía
 nada. Notaba las muñecas y los tobillos fríos. ¿Cuánto rato había
 estado inconsciente? Estaba atado a la pared mediante argollas. ¿Dónde
@@ -133,7 +126,6 @@ estaba? ¿Cuánto tiempo había estado inconsciente? Y volví a perder el
 conocimiento.
 
 Algo me llenaba la boca. Un líquido caliente, con gusto a hierro.
-
 ¡Sangre! Abrí los ojos. Allá estaba el, el extranjero. Tenía un corte
 en el brazo, y me daba a beber la sangre que manaba.
 
@@ -168,7 +160,6 @@ tienen más sangre fría, y siguen andando. Y yo sigo con el juego. Como
 me gusta hacer ruidos, ¡cómo saltan cuando los oyen! Es deliciosamente
 dulce, el terror... y cuando menos se lo espera, se le echas encima. Y
 suelta ese grito. Y le clavas los dientes. Y empieza a salir la sangre.
-
 ¡Qué éxtasis! Este es el momento que me gusta mas... la roja sangre
 mana rápidamente, con fuerza, y el placer se esparce por mi cuerpo,
 provocándome una calor excitante, oh, que bien me siento.
@@ -193,18 +184,17 @@ siguiente. Ahora que si lo he dejado vivo... ¿sabes cuantas "epidemias"
 he provocado?
 
 Debilidades, palidez, pérdida de fuerzas... estos son algunos de los
-síntomas que provoca la desagnación. Esta noche ataco a uno, la
+síntomas que provoca el desangramiento. Esta noche ataco a uno, la
 siguiente a otro. Ya empiezan a circular rumores. Un par de personas
 mas la noche siguiente, y otra la otra. Y ya tienes una epidemia de
 fiebres. Pero, ¡no la extiendas mucho! No sea que vengan los Nosferatus
 a aprovecharse de la "plaga"...
 
 Pero no puedes salir a cazar cada noche. Vivir en la montaña tiene sus
-inconvenientes, ¿sabías? Y te los puedo resumir en una sola palabra:  
+inconvenientes, ¿sabías? Y te los puedo resumir en una sola palabra :
 Garou. Viven en los bosques, ¿sabes? Y odian a mi gente. ¿Por qué? Pues
 porque si. Y nosotros los odiamos a ellos, ya sabes. Ah, ¿no lo sabías?
 Pues ya lo sabes. ¿Qué dices? ¿Que qué son los garú? No, no, garú no.
-
 Garou. Garou, perros, lobos, hombres lobo... todo es lo mismo. Son
 hombres que creen que son lobos. ¿O lobos que creen que son hombres?
 Pxé, hay de todo. ¿Ves? Ni ellos saben lo que son. ¿Qué te puedes
@@ -217,7 +207,7 @@ Como te lo hiciste para que no te mataran, no lo se. No acostumbra a
 pasar, pero pasó. Y te debo la muerte. Si, si, has oído bien, la
 muerte. Porqué no estoy vivo. ¿Entiendes el chiste?
 
-Jajajajajajajajajajajajajajajajajajajajajajajajajajaja.
+Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja.
 
 Pues como decía, pongámonos serios.
 
@@ -232,7 +222,6 @@ no sea buena? Tu sangre te la habré dado yo.
 Esa fue la primera noche. No se cuanto tiempo había pasado, ni cuanto
 pasó después. Algunas veces tenía frío, otras calor. Había temporadas
 en las que no veía a ese ser, aquel vampiro, durante unos cuantos días.
-
 Y el hambre recorría mi cuerpo.
 
 Necesitaba comer. Entonces aparecía el, y me obligaba a tragar su
@@ -240,7 +229,7 @@ sangre. A veces se pasaba mucho tiempo sin salir de la cueva. Cada
 noche me clavaba esos colmillos, y ese placer, ese maldito placer,
 volvía. Deseaba que me mordiese, y odiaba el simple pensamiento de que
 lo hiciese. Un día se inventó un juego nuevo. Decidió que quería
-experimentar en mi un nuevo método de desagnación. Y apareció con una
+experimentar en mi un nuevo método de desangramiento. Y apareció con una
 maza, mi maza. Y me golpeó el estómago. - ¿No sangras? - Me preguntó. Y
 me golpeó el brazo. - Sí, por ahí sale un poco. Ampliemos el agujero -
 Sacó un cuchillo de entre la ropa con el que me hizo un tajo. Y empezó
@@ -274,13 +263,13 @@ quiere. Y hace tiempo que también percibo tu odio, tu fuerte odio,
 hacia el. ¿Quieres venganza, verdad? Pues yo te puedo proporcionar los
 medios. ¿Te gustaría irte de aquí y ser tan fuerte como el? Yo te
 ofrezco la posibilidad. Pero atención, te costará tu alma. Serás un
-condenado a la vida eterna. A la muerte eterna.  
--Si - contesté yo - Dame tu bautismo de sangre. Quiero ser como tu.  
+condenado a la vida eterna. A la muerte eterna.
+
+-Si - contesté yo - Dame tu bautismo de sangre. Quiero ser como tu.
 Para matarle.
 
 Así fue como recibí el abrazo. Aquel Gangrel, después supe el nombre de
 su clan, me introduzco a la muerte en vida, a la vida en la muerte.
-
 Pasé con el sesenta años, tiempo durante el cual aprendí a ver en la
 oscuridad, a hablar con los animales, a hacerme crecer garras en las
 manos, a soportar el dolor, a fundirme con el suelo. Durante este
@@ -298,7 +287,6 @@ Y a los sesenta años mi sire me dejó libre. - No te puedo enseñar nada
 mas. Hay, pero, muchas cosas que aún no sabes, y que has de descubrir
 por ti mismo. Viaja o establécete en algún lugar. Hagas lo que hagas
 respeta las Tradiciones. Ahora vete. Y que Caín te acompañe.
-
 Estas son las últimas palabras que le oí. Viajé por toda Europa y parte
 de África. Podría decir muchas cosas de esos viajes, pero seamos
 sinceros, no me sirvieron de gran cosa. Mi corazón no estaba en lo que
@@ -313,9 +301,7 @@ me fundí con el suelo para aletargarme, para recuperarme. Y un día me
 desperté. Han pasado 739 años. El mundo no es el mismo, he de volver a
 aprender a vivir, a no vivir. Hay aparatos que te permiten hablar con
 gente muy lejana a ti - teléfonos -, las casas ya no son de madera.
-
 Muchas cosas han cambiado. He de volver a empezar.
-
 ¡Por cierto! Hay alguna cosa que no entiendo. Yo vivía en el reino de
 Inglaterra. ¿Cómo llegué aquí, a dentro de un ataúd, a un continente
 muy lejano al mío, un continente desconocido en mi época. Eso y si mi
