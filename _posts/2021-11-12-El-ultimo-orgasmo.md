@@ -1,3 +1,10 @@
+---
+layout: post
+tags: relato
+date: 2021-11-12 1:31:00
+title: El último orgasmo
+---
+
 # El último orgasmo
 
 La mujer lanzó hacía atrás su largo cabello y soltó un suspiro que parecía un gemido; su cuerpo era torneado, tostado por el sol, y el sudor brillaba sobre su piel debido al esfuerzo, pero no se detenía.

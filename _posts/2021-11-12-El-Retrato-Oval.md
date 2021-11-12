@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 1:30:00
+tags: poe
+title: El retrato oval
+---
+
 # El retrato oval
 
 **Autor: Edgar Allan Poe**

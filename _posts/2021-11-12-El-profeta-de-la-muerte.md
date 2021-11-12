@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 1:29:00
+tags: relato
+title: El profeta de la muerte
+---
+
 # El Profeta de la Muerte
 
 **"Los últimos serán los primeros"**

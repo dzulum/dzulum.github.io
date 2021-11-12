@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+date: 2021-11-12 1:27:00
 tags: relato
 title: Al otro lado del umbral
 ---
