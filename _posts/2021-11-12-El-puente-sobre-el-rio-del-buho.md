@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:03:00
+tags: relato
+title: El puente sobre el río del Buho
+---
+
 # El puente sobre el río del Buho
 
 **Ambrose Bierce**

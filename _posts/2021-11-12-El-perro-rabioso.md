@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12
+tags: relato
+title: El perro rabioso
+---
+
 # El perro rabioso
 
 **(Autor: Horacio Quiroga)**

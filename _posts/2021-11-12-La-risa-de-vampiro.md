@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:05:00
+tags: bloch
+title: La risa del vampiro
+---
+
 # LA RISA DEL VAMPIRO
 
 **Robert Bloch**

@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 19:58:00
+tags: relato
+title: El procesador de palabras de los dioses
+---
+
 # El Procesador de Palabras de los Dioses
 
 A primera vista parecía un procesador de palabras Wang... tenía un

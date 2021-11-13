@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 19:57:00
+tags: king
+title: El piso de cristal
+---
+
 # El Piso de Cristal
 
 **Stephen King**

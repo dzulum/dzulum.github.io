@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:09:00
+tags: relato
+title: Psicoerótico
+---
+
 # PSICOERÓTICO
 
 Este día se realiza algo que he estado esperando por tanto tiempo. Es

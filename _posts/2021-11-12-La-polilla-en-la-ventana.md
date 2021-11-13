@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:05:00
+tags: relato
+title: La polilla en la ventana
+---
+
 # LA POLILLA EN LA VENTANA
 
 La primera vez que apareció en su ventana, se asustó. No era extraño:

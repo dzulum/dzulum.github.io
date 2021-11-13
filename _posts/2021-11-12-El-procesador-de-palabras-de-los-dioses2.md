@@ -1,3 +1,11 @@
+
+---
+layout: post
+date: 2021-11-12 20:00:00
+tags: relato
+title: Cont. Procesador de palabras de los dioses
+---
+
 # Continuación del Procesador de Palabras de los Dioses
 
 Media hora más tarde volvía a estar en su despacho, contemplando el

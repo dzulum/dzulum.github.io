@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:02:00
+tags: relato
+title: El proyecto
+---
+
 # EL PROYECTO
 
 La música llena el lugar, no, más bien la música tapa mis oídos de

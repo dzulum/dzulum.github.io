@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 20:09:00
+tags: relato
+title: Por favor, no me hagas daño
+---
+
 # Por favor, no me hagas daño
 
 Tienes una casa muy bonita.

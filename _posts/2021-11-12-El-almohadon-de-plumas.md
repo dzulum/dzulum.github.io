@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-12 19:52:00
+tags: relato
+title: El almohadón de plumas
+---
+
 # El almohadón de plumas
 
 **(Autor: Horacio Quiroga)**
