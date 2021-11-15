@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2021-11-14 21:28:00
+tags: relato
+title: La pirámide del mal
+---
+
 # LA PIRÁMIDE DEL MAL
 
 **Capítulo 1: La lluvia.**

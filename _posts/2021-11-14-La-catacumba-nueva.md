@@ -1,5 +1,13 @@
+---
+layout: post
+date: 2021-11-14 21:26:00
+tags: relato
+title: La catacumba nueva
+---
+
 # La catacumba nueva
-### Arthur Conan Doyle
+
+**Arthur Conan Doyle**
 
 Escuche, Burger: yo quisiera que usted tuviera confianza en mí dijo Kennedy.
 

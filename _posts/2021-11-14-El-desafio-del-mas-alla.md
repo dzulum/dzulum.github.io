@@ -1,4 +1,11 @@
-# El desafío del Más Allá
+---
+layout: post
+date: 2021-11-14 21:23:00
+tags: lovecraft
+title: El desafío del más allá
+---
+
+# El desafío del más allá
 
 **Autor: C.L. Moore, A. Merritt, H.P. Lovecraft, Robert E. Howard y Frank Belknap Long, Jr.**
 

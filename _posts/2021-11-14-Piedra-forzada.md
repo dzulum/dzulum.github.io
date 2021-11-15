@@ -1,5 +1,13 @@
+---
+layout: post
+date: 2021-11-14 21:24:00
+tags: bloomerfield
+title: Piedra Forzada
+---
+
 # PIEDRA FORZADA
-Autor: Gerardo Bloomerfield
+
+**Autor: Gerardo Bloomerfield**
 
 Todo ha pasado ya. Los años, la dicha, las tres juventudes... la
 adelantada, cuando siendo niños la inventamos... La real, cuando llegada
