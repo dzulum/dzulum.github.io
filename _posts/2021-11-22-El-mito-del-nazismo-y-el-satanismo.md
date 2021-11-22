@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-11-22 1707:00
+date: 2021-11-22 17:07:00
 tags: satanismo
 title: El Mito del Nazismo y el Satanismo
 ---
