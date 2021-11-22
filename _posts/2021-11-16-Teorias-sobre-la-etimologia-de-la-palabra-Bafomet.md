@@ -39,7 +39,7 @@ El Dr. Hugh Schonfield, quien fue uno de los académicos que trabajó con los Ro
 
 Schonfield se sintió muy interesado en los cargos por herejía hechos contra los Caballeros Templarios y por la etimología de la palabra Baphomet. Schonfield decidió aplicar el código Atbash a la palabra Baphomet, y estaba convencido que los Templarios tenían conocimiento de dicho código. Si uno escribe la palabra Baphomet en hebreo —teniendo siempre presente que el hebreo se lee de derecha a izquierda— el resultado es el siguiente (mostramos los nombres de dichas letras de izquierda a derecha)
 
-![Baphomet - Sophia](/images/posts/baphomet-sophia.png)
+![Baphomet - Sophia](/images/post/baphomet-sophia.png)
 
 Aunque escrito en hebreo, se lee como la palabra griega Sophia, que significa "Saber".
 
