@@ -37,8 +37,8 @@ Me esforzaré por dar buen contenido desde el anonimato que un pseudónimo y los
 
 Saludos desde el más allá...
 
-Hace poco más de un año que inicie este proyecto, si bien va lento es al blog que más esfuerzo y cariño le he dedicado, todo con las enormes ansias de regalar un poco de lo que el internet me ha dado, hace poco inicie a escribir sobre linux, aunque mi distribucion favorita es Archlinux las publicaciones que vengo a hacer son sobre el sistema en general, si bien funcionan en arch seguro funcionan en alguna otra distribucion.
+Hace poco más de un año que inicie este proyecto, si bien va lento es al blog que más esfuerzo y cariño le he dedicado, todo con las enormes ansias de regalar un poco de lo que el internet me ha dado, hace poco inicie a escribir sobre linux, aunque mi distribución favorita es Archlinux las publicaciones que vengo a hacer son sobre el sistema en general, si bien funcionan en arch seguro funcionan en alguna otra distribución.
 
-Sobre mis relatos de Horror/Gore, seguro pronto sabran de ellos, si por algun motivo tu si leiste esta pagina hazmelo saber en el correo, ya te mandare saludos en alguna proxima publicacion.
+Sobre mis relatos de Horror/Gore, seguro pronto sabrán de ellos, si por algún motivo tu si leíste esta pagina házmelo saber en el correo, ya te mandare saludos en alguna próxima publicación.
 
 Hasta pronto.

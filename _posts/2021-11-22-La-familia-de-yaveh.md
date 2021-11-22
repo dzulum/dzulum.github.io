@@ -1,0 +1,35 @@
+---
+layout: post
+date: 2021-11-22 17:40:00
+tags: satanismo
+title: La Familia de Yahvé
+---
+
+# La Familia de Yahvé
+
+—**Tezcat**—
+La Biblia encierra muchas sorpresas. Su estudio detallado revela circunstancias que chocan frontalmente con los dogmas establecidos con el paso de los siglos. Una de ellas se refiere a las creencias originales del pueblo judío. En un principio, aunque pocos lo sepan, Israel aceptaba la existencia de otros dioses, pero sometidos a la autoridad de Yahvé. Esa concepción coincidía, a grandes rasgos, con la que tenían los cananeos, el pueblo que habitaba gran parte de las tierras que luego serían conquistadas por lsrael La principal diferencia entre ambos consistía en que, para los primeros, ese dios principal era Yahvé, mientras que, para los segundos, era Baal.
+
+La Ex-Familia de Yahvé
+
+Pero Baal no era sino el hijo de otro dios llamado El, a quien sustituyó en el trono. Curiosamente, Yahvé manifiesta en la Escritura numerosas veces, su odio visceral hacia Baal, pero nunca hacia su progenitor. Sorprende que un dios celoso como era Yahvé permitiera después a los judíos utilizar esa misma palabra, «El», para designar a su persona, tal y como podemos observar en numerosos pasajes de la Biblia.
+
+¿Por qué esa excepción con un dios de sus enemigos los cananeos? ¿Acaso se trataba de un dios diferente? Esas contradicciones han llevado a algunos exégetas a insinuar que ese dios El de los cananeos y su homónimo hebreo —también conocido como Yahvé— podrían ser en realidad el mismo dios. Hay un texto clave en el capítulo 14 del Génesis que parece confirmar tal hipótesis. Allí encontramos a dos personajes, uno judío —Abraham— y otro cananeo —Melquisedec—, que se saludan mutuamente invocando ambos al mismo dios: El-Elyón, nombre compuesto con el del dios cananeo y el superlativo «Elyón» (el Altísimo). El que tanto Melquisedec como Abraham utilizasen en su saludo el mismo nombre, no deja opción a ninguna otra explicación: ambos adoraban al mismo dios. Yahvé no era sino el nombre con el que los judíos conocerían al antiguo dios de las cananeos, y a partir de ese momento el título de «el Altísimo», utilizado hasta entonces sólo por los cananeos, pasaría también a ser empleado por los israelitas para referirse a su dios.
+
+Y si ambos dioses eran en realidad el mismo, las «leyendas» de los textos cananeos pueden también aplicarse a Yahvé. Así, por ejemplo, se dice que de los amores de ese dios con distintas mujeres nacieron varios hijos. Uno de ellos, llamado Sahar (aurora) tiene una relación directa con la historia de nuestro personaje, pues en el texto de Isaías Lucifer es llamado Helel ben Sahar por el propio Yahvé, es decir «Lucero hijo de la Aurora». Y aquí nos encontramos con la paradoja de que —en base a ese título, y según la mitología cananea— Lucifer podría ser descendiente directo, aunque no reconocido, de Yahvé.
+
+Antes de rechazar de plano tan heterodoxa idea deberíamos regresar al texto de Isaías. Allí comprobaremos cómo Lucifer pretendió «escalar el cielo y colocar su trono por encima de las estrellas de El». Se dice que en la Biblia, las estrellas simbolizan los miembros de la corte de Yahvé. Pero el texto menciona algo más: Lucifer ambicionaba «sentarse en la Montaña del Encuentro, en los confines del Safón». «Safón», en hebreo, significa «norte», pero para los cananeos, el Safón era precisamente la montaña donde moraba la divinidad. No lejos de ahí se encontraba «la Montaña del Encuentro», lugar donde los dioses tenían sus asambleas. La idea es casi universal: los griegos hablaban del monte Olimpo, en cuyo pico más alto vivía Zeus, y en su morada convocaba las reuniones con otros dioses; los hindúes mencionan el monte Meru, en cuya cumbre se hallaría la ciudad dorada de Brahma, punto de encuentro de dioses. Tales ideas, lejos de ser ajenas al pensamiento hebreo, se encuentran ratificadas en multitud de puntos de la Escritura, supervivientes a posteriores «retoques» más acordes con la ortodoxia monoteísta de los últimos siglos del judaísmo. Pero, ¿qué ocurría en la privacidad de las reuniones de Yahvé con los otros dioses?
+
+Aunque el Libro de los Salmos es bien conocido, casi nunca se repara en el revelador contenido del número 82. Allí se habla de un Yahvé orgulloso, que ostenta de nuevo la jefatura entre los dioses, dispuesto a poner las cosas en su sitio. Dice así el texto:
+
+«Elohim se yergue en la asamblea de El, en medio de los dioses juzga: ¿Hasta cuándo juzgaréis injustamente y guardaréis consideración a los malvados? Haced justicia al humilde y al huérfano, vindicad al infeliz y al pobre. Rescatad al humilde y al indigente,- de manos de malvados liberadle... Yo me dije: ¡Dioses sois, e hijos de Elyón todos vosotros, sin embargo, moriréis como hombres, y como cualquiera de los príncipes, caeréis».
+
+Estrella Matutina
+
+¡Dioses sois, e hijos, de Elyón! El texto no deja lugar a dudas: los dioses juzgados, aquéllos a quien Yahvé había confiado distintas funciones, son sus propios hijos y el texto pertenece a la Biblia. Ahora bien, ¿qué funciones realizaban estos hijos de Elyón? La respuesta nos la da el Deutemnomio:
+
+«Cuando Elyón repartió las naciones, cuando distribuyó a los hijos de Adán, fijó las Íronteras de los pueblos según el número de los Sene'El [los hijos del dios El], mas la porción de Yahvé fue su pueblo» (Deut. 32, 8-9).
+
+Es decir, cuando Yahvé comenzó tener descendencia, dividió su reino entre sus hijos, reservado para sí una parte del territorio: el quf primero ocuparían los cananeos y luego Israel. Tal pudo ser el origen de muchas monarquías de aquella zona. Pero con el tiempo esos reyes dejaron de ser leales y cuestionaron la supremacía de Yahvé. Incluso su propío hijo Baal llegaría a arrebatarle el trono. Esa fue la razón por la que Yahvé planeó la invasión del territorio cananeo por el pueblo de Abraham: necesitaba que un nuevo pueblo fiel ocupase su antiguo territorio, le rindiera culto y le erigiera de nuevo en dios del lugar. Con ello recuperaría además del trono en aquella zona, el título que había perdido de «Dios de )os dioses» (Jos. 22, 22). En cuanto a esos otros dioses, Yahvé no dudó ni por un momento en acabar con ellos cuando lo creyó necesario. Eso sí, les dedicó bellas palabras que recórdaran su antigua magnificencia. Así, por ejemplo, ocurrió con el rey de Tiro:
+
+«Tú eras sello de perfección —evocaba Yahvé— lleno de sabiduría y de acabada belleza; en el Edén, jardín de Elohim, habitabas. Tú eras un querubín consagrado como protector. Yo te había establecido; estabas en la Santa Montaña de Elohim... hasta que se descubrió en ti la iniquidad. Se enegrió tu corazón por tu belleza, echaste a perder tu sabiduría por tu esplendor. Por tierra te he derribado... te he arrojado de la Montaña de Elohim, y te he destruido, ¡oh, querubín protector!» (Ez. 28).
