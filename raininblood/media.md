@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: raininblood
 title: Media
 permalink: /raininblood/media/
 ---
