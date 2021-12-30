@@ -106,9 +106,9 @@ Una vez que bebi mi cafe sali debia ir a buscar a aquella chica, aproximadamente
 El tipo se quedo mirando muy serio unos segundos, despues cerro la puerta bruscamente y escuche sus pasos alejarse, unos instantes despues salió y con la misma seriedad que momentos antes habia hablado me indico que entrara.
 
 -Sientese ahi, ahora viene mi hija, ¿Que es tan importante como para que venga sin importar quien este aqui?
--Si le digo la verdad tendra que creerme si o si, asi que preparece a escuchar la historia mas disparatada que puede haber escuchado en su vida, le conviene creer porque su familia tambien esta involucrada de cierta forma.
--Habla- Su rostro tomo un aspecto mas serio aun- mejor sera que no quieras venir a burlarte o a amenazar, te va a pesar si lo haces.
--Señor, le insisto, eso ya pudo haber sucedido, ademas... usted esta muerto te miedo por dentro con mi simple presencia.
+-Si le digo la verdad tendra que creerme si o si, asi que prepárese a escuchar la historia mas disparatada que puede haber escuchado en su vida, le conviene creer porque su familia tambien esta involucrada de cierta forma.  
+-Habla- Su rostro tomo un aspecto mas serio aun- mejor sera que no quieras venir a burlarte o a amenazar, te va a pesar si lo haces.  
+-Señor, le insisto, eso ya pudo haber sucedido, ademas... usted esta muerto de miedo por dentro con mi simple presencia.
 
 El tipo se quedo helado por unos segundos.
 
@@ -118,15 +118,17 @@ Iniciando por ese aroma putrafacto que inunda el ambiente todas las noches cuand
 
 Pasaba de medio dia, asi que sabia que era cierto.
 
--¿Como sabes de eso si nunca hay nadie en casa a esas horas?
--Hay cosas que se, es lo unico que puedo decir sin darle mas detalles, como que las llaves de toda la casa deja correr agua a ciertas horas de la noche, todas juntas.
--¿Quien te conto? ¿Fue Ana?
+-¿Como sabes de eso si nunca hay nadie en casa a esas horas?  
+-Hay cosas que se, es lo unico que puedo decir sin darle mas detalles, como que las llaves de toda la casa deja correr agua a ciertas horas de la noche, todas juntas.  
+-¿Quien te conto? ¿Fue Ana?  
 -No señor, yo le conte a ella eso antes de que siquiera me dijera su nombre.
 
 La incomodidad cada vez era mas notable en la cara del tipo, hasta que en un momento de gran tension escuche la voz de aquella chica.
 
--Llegaste muy temprano hoy, ¿ya conociste a mi papá? -dijo mirando hacia mi- papá si no se ha presentado el es Sicker, debo hablar con él a solas.
+-Llegaste muy temprano hoy, ¿ya conociste a mi papá? -dijo mirando hacia mi- papá si no se ha presentado el es Sicker, debo hablar con él a solas.  
 -Ya se de que hablarán- replicó el padre de esta- no se si tu madre este de acuerdo, sabes como es ella.
 
 La madre de Ana era demasiado religiosa, aceptaba la existencia de dios y los santos y que cumplian milagros, pero no podia aceptar las cosas sobrenaturales que sucedian en ningun lugar, mucho menos aceptaria lo que pasaba en su casa.
 
+-Escucha, debemos deshacernos de todo aquello que esta dentro de esta casa, en el patio ayer por la noche habia algo aqui, justo en la entrada y alla en el cuarto del fondo estaba una anciana que tu me señalaste, esa misma anciana estaba cerca de nosotros cuando se escuchaban los pasos, cuando la llama de mi encendedor alumbraba y me tomaste para salir corriendo, era la misma, la pude ver en la ventana que esta al final del patio, cuando te desmayaste la perdi de vista junto al ser que estaba a mi lado, resguardado por la oscuridad al filo de la puerta.  
+Sea lo que sea debemos iniciar por ese cuarto ya que es el mas alejado en la casa, y hay que averigüar quien es la anciana, no se que haga o quien sea, pero seguramente tiene algun control sobre las demas criaturas que hemos sentido y escuchado.  
