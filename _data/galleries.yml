@@ -86,84 +86,83 @@
   imagefolder: /rimages/anuncio
   images:
   - name:  blackroom.jpg
-  - thumb: blackroom-thumb.jpg
-  - text: Blackroom 
+    thumb: blackroom-thumb.jpg
+    text: Blackroom 
   - name: eclipsefm25mar.jpg
-  - thumb: eclipsefm25mar-thumb.jpg
-  - text: Eclipse FM
+    thumb: eclipsefm25mar-thumb.jpg
+    text: Eclipse FM
   - name: elllamadodelabestia.jpg
-  - thumb: elllamadodelabestia-thumb.jpg
-  - text: El Llammado de la bestia
+    thumb: elllamadodelabestia-thumb.jpg
+    text: El Llammado de la bestia
   - name: entrevistaanuncio.jpg
-  - thumb: entrevistaanuncio-thumb.jpg
-  - text: Anuncio de entrevista
+    thumb: entrevistaanuncio-thumb.jpg
+    text: Anuncio de entrevista
   - name: firstbloodanuncio0.jpg
-  - thumb: firstbloodanuncio0-thumb.jpg
-  - text: Anuncio de First Blood
+    thumb: firstbloodanuncio0-thumb.jpg
+    text: Anuncio de First Blood
   - name: firstbloodanuncio1.jpg
-  - thumb: firstbloodanuncio1-thumb.jpg
-  - text: Anuncio First Blood
+    thumb: firstbloodanuncio1-thumb.jpg
+    text: Anuncio First Blood
   - name: firstbloodanuncio2.jpg
-  - thumb: firstbloodanuncio2-thumb.jpg
-  - text: Anuncio First Blood
+    thumb: firstbloodanuncio2-thumb.jpg
+    text: Anuncio First Blood
   - name: firstbloodanuncio3.jpg
-  - thumb: firstbloodanuncio3-thumb.jpg
-  - text: Anuncio First Blood
+    thumb: firstbloodanuncio3-thumb.jpg
+    text: Anuncio First Blood
   - name: firstbloodanuncio4.jpg
-  - thumb: firstbloodanuncio4-thumb.jpg
-  - text: Anuncio First Blood
+    thumb: firstbloodanuncio4-thumb.jpg
+   text: Anuncio First Blood
   - name: firstbloodanuncio.jpg
-  - thumb: firstbloodanuncio-thumb.jpg
-  - text: Anuncio First Blood
+    thumb: firstbloodanuncio-thumb.jpg
+    text: Anuncio First Blood
   - name: firstblood.jpg
-  - thumb: firstblood-thumb.jpg
-  - text: First Blood
+    thumb: firstblood-thumb.jpg
+    text: First Blood
   - name: firstbloodspot.jpg
-  - thumb: firstbloodspot-thumb.jpg
-  - text: Spotyfy First Blood
+    thumb: firstbloodspot-thumb.jpg
+    text: Spotyfy First Blood
   - name: gearsofpainanuncio.jpg
-  - thumb: gearsofpainanuncio-thumb.jpg
-  - text: Anuncio Gears of Pain
+    thumb: gearsofpainanuncio-thumb.jpg
+    text: Anuncio Gears of Pain
   - name: germanradio.jpg
-  - thumb: germanradio-thumb.jpg
-  - text: Anuncio de radio Alemana
+    thumb: germanradio-thumb.jpg
+    text: Anuncio de radio Alemana
   - name: insta.jpg
-  - thumb: insta-thumb.jpg
-  - text: Promocionando a la banda en instagram
+    thumb: insta-thumb.jpg
+    text: Promocionando a la banda en instagram
   - name: mexicanbrutality.jpg
-  - thumb: mexicanbrutality-thumb.jpg
-  - text: Anunciando a Rain In Blood en el Mexican Brutality
+    thumb: mexicanbrutality-thumb.jpg
+    text: Anunciando a Rain In Blood en el Mexican Brutality
   - name: presskitanuncio.jpg
-  - thumb: presskitanuncio-thumb.jpg
-  - text: Promocionando el PressKit colectivo
+    thumb: presskitanuncio-thumb.jpg
+    text: Promocionando el PressKit colectivo
   - name: promo0.jpg
-  - thumb: promo0-thumb.jpg
-  - text: Promocional
+    thumb: promo0-thumb.jpg
+    text: Promocional
   - name: promo1.jpg
-  - thumb: promo1-thumb.jpg
-  - text: Promocional
+    thumb: promo1-thumb.jpg
+    text: Promocional
   - name: promo.jpg
-  - thumb: promo-thumb.jpg
-  - text: Promocional
+    thumb: promo-thumb.jpg
+    text: Promocional
   - name: promomexicanbrutality.jpg
-  - thumb: promomexicanbrutality-thumb.jpg
-  - text: Rain In Blood en Mexican Brutality
+    thumb: promomexicanbrutality-thumb.jpg
+    text: Rain In Blood en Mexican Brutality
   - name: rainbco.jpg
-  - thumb: rainbco-thumb.jpg
-  - text: Logo negro sobre fondo blanco
+    thumb: rainbco-thumb.jpg
+    text: Logo negro sobre fondo blanco
   - name: raininblood1.jpg
-  - thumb: raininblood1-thumb.jpg
-  - text: Rain In Blood
+    thumb: raininblood1-thumb.jpg
+    text: Rain In Blood
   - name: raininblood9.jpg
-  - thumb: raininblood9-thumb.jpg
-  - text: Rain In Blood
+    thumb: raininblood9-thumb.jpg
+    text: Rain In Blood
   - name: raininblood.jpg
-  - thumb: raininblood-thumb.jpg
-  - text: Rain In Blood
+    thumb: raininblood-thumb.jpg
+    text: Rain In Blood
   - name: ruidosisfm.jpg
-  - thumb: ruidosisfm-thumb.jpg
-  - text: Rain In Blood en ruidosisfm
+    thumb: ruidosisfm-thumb.jpg
+    text: Rain In Blood en ruidosisfm
   - name: ultratumbapresskit.jpg
-  - thumb: ultratumbapresskit-thumb.jpg
-  - text: Pronocional Ultratumba PressKit
-
+    thumb: ultratumbapresskit-thumb.jpg
+    text: Pronocional Ultratumba PressKit
