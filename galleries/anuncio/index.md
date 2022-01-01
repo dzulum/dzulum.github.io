@@ -1,5 +1,5 @@
 ---
-title: Galeria anuncios y promos
-layout: gallery
+title: Galería
+layout: rgallery
 galleryid: anuncio
 ---

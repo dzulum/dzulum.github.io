@@ -82,7 +82,7 @@
     thumb: thumb-anime-vamps.jpg
     text: Vampiros
 - id: anuncio
-  description: Galería de Rain In Blood
+  description: Galería de anuncios Rain In Blood
   imagefolder: /rimages/anuncio
   images:
   - name:  blackroom.jpg
@@ -111,7 +111,7 @@
     text: Anuncio First Blood
   - name: firstbloodanuncio4.jpg
     thumb: firstbloodanuncio4-thumb.jpg
-   text: Anuncio First Blood
+    text: Anuncio First Blood
   - name: firstbloodanuncio.jpg
     thumb: firstbloodanuncio-thumb.jpg
     text: Anuncio First Blood
