@@ -1,0 +1,5 @@
+merch.jpg
+merch-thumb.jpg
+stickerscd.jpg
+stickerscd-thumb.jpg
+varias.txt
