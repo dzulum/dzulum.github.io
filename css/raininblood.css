@@ -270,6 +270,9 @@ position: relative;}
   padding-right: 15;
   padding-left: 15;
   margin: auto auto;
+  float: left 50% auto;
+}
+
 .separador{
   margin-bottom: 5px;
   margin-top: 5px;
