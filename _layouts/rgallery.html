@@ -6,14 +6,14 @@ layout: raininblood
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
     <h1>{{ gallery.description }}</h1>
-    <div class="gal">
+    
     {% for image in gallery.images %}
     
         <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="200px" height="auto">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" width="20%" height="auto">
         </a>
     
     {% endfor %}
-    </div>
+    
   {% endif %}
 {% endfor %}

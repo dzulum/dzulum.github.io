@@ -244,9 +244,9 @@ position: relative;}
   color: white;
   font-weight: bold;
 }
-.img{
+/*.img{
   float: left 50% auto;
-}
+}*/
 .center{
   padding-top: 15;
   padding-bottom: 15;
@@ -260,8 +260,23 @@ position: relative;}
   font-weight: bold;
   padding: 5 5 5 5;
 }
-.gal{width: 100%;}
-.gal img{
+a {text-decoration: none;
+    color: red;}
+a img {border: 0;}
+.separador{
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.transparente{
+  opacity:0.5; filter:alpha(opacity=50);
+}
+.content{
+  font-family: gabriele-l;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 5 5 5 5;
+}
+.content img{
   width: 20%;
   align-content: center;
   text-align: center;
@@ -272,22 +287,7 @@ position: relative;}
   padding-left: 15;
   margin: auto auto;
 }
-
-.separador{
-  margin-bottom: 5px;
-  margin-top: 5px;
-}
-.transparente{
-  opacity:0.5; filter:alpha(opacity=50);
-}
-/*.content{
-  text-align: justify;
-  font-family: gabriele-l;
-  font-size: 19px;
-  font-weight: bold;
-  padding: 5 5 5 5;
-}*/
-.center img {width: 70%; height: auto; float: left 50% auto;}
+/*.center img {width: 20%; height: auto; float: left 50% auto;}*/
 .center > P:first-letter { /*Primer letra del parrafo cambia*/
   font-size: 21;
   color: #C33;
