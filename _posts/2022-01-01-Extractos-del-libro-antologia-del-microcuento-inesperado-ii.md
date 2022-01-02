@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2022-01-01 22:55:00
+tags: relato
+title: Vampiros
+---
+
 # Extractos del Libro Antología del Micro-Cuento Inesperado II
 
 # Vampiros

@@ -1,4 +1,11 @@
-# EL EXPRESO DEL OLVIDO...
+---
+layout: post
+date: 2022-01-01 22:52:00
+tags: relato
+title: El expreso del olvido
+---
+
+# EL EXPRESO DEL OLVIDO.
 
 ¿Que pasa?, ya son las 10 :00 p.m. y el maldito camión no ha llegado, maldición, ya debería estar aquí, si me deja no se que voy a hacer, se me ha acabado el dinero, y no quiero molestar a mis tíos, además, mañana hay escuela.... ¡Chin! el cuento, aún no lo he escrito...
 

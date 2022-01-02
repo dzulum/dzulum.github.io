@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2022-01-01 22:54:00
+tags: king
+title: Hay que aguantar a los niños
+---
+
 # Hay que aguantar a los niños
 
 ### Por : Stephen King
