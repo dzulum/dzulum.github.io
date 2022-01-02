@@ -5,6 +5,7 @@ layout: raininblood
 {% include galheader.html %}
 {% for gallery in site.data.galleries %}
   {% if gallery.id == page.galleryid %}
+    <div class="gallery">
     <h1>{{ gallery.description }}</h1>
     
     {% for image in gallery.images %}
@@ -14,6 +15,6 @@ layout: raininblood
         </a>
     
     {% endfor %}
-    
+    </div>
   {% endif %}
 {% endfor %}
