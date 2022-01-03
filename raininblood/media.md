@@ -22,7 +22,7 @@ Revisa nuestro contenido en Spotify / Check out our stuff on Spotify
 - [Fans](/galleries/fans/)
 - [Varias](/galleries/varias/)
 - [Flyers de eventos](/galleries/flyers/)
-- [Anuncios de Rain In Blood](/falleries/anuncio)
+- [Anuncios de Rain In Blood](/galleries/anuncio)
 - [Rain In Blood en acción](/galleries/tokines/)
 - [Rain In Blood con otras Celebridades](/galleries/celeb)
 - [RAIN IN BLOOD](/galleries/banda/)
