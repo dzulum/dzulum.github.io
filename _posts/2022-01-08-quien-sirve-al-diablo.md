@@ -1,0 +1,18 @@
+---
+layout: post
+tags: satanismo
+date: 2022-01-08 15:05:00
+title: Quién sirve al diablo
+---
+
+#Quién Sirve Al Diablo
+
+**—Tezcat—**
+
+Es cómico notar todo el tiempo y esfuerzo que gastan los "justos" para combatir el crecimiento del Satanismo, la violencia y la degradación que abunda entre los jóvenes de nuestra sociedad. Hacen que parezca como si su batalla contra el mal y la corrupción esté centrada alrededor de granujas lloriqueantes. Los "justos" condenan a los músicos que cantan sobre el caos, el mal, Satán, y rebelarse porque sus niños escuchan esta música sólo por irritar a sus padres. Se concentran en esporádicos homicidios rituales cometidos por adolescentes en el nombre de Satán cuando deberían preocuparse por lo que sus niños están aprendiendo en la escuela y si estarán preparados para el futuro. Se esfuerzan en imponerles a los niños un molde único en el que deben encajar, y condenan el individualismo como malo. Perpetúan el mito de que Satán está utilizando a los niños como sus herramientas para controlar el mundo.
+
+¿Será verdad? No lo creo. En la actualidad, los sirvientes y herramientas de Satán son las mismas personas que observan impávidos mientras sus hijos se hacen más distantes, cínicos y violentos. ¿Será que los "justos" en serio creen que Satán utiliza como secuaz a un resentido de 14 años que escucha a Slayer? En su mayoría, el "típico satanista" no pasa de ser un retardado. Los talk shows rebosan de historias sobre satanistas adolescentes y sus horribles actos. Magnífico, un grupo de matones semi-iletrados matan y violan a un compañero de clase. De acuerdo, la mutilación y el estupro son actos malvados que se asocian con el Señor del Mal, pero ¿qué tipo de amenaza representa este tipo de cultos para la sociedad como un todo? Nada. Nothing. Fin. Sus quince minutos de fama han sido utilizados por los medios, y lo único que eles espera es una celda. Ésto no representa las verdaderas fuerzas del mal.
+
+La fuente verdadera de la influencia infernal en la sociedad viene del poder y de aquellos que lo ejercen para fines egoístas o destructivos. En la mayoría de los casos, los fines egoístas bastan para tener efectos malévolos y degradantes en la sociedad. Los hechos verdaderamente insidiosos que plagan la sociedad son aquellos a los que se presta poca atención y se tienen como errores humanos. Los individuos e instituciones que uno debería temer son aquellos que ejercen su poder sobre la sociedad. Quienes demandan temor son por ejemplo, el gerente de fábrica que hace obligatorio el trabajo extra en días festivos, alejando a sus empleados de sus familias. Es el político electo que apoya todos y cada uno de los impuestos que agobian al ciudadano para subsidiar proyectos inútiles y excesivos. El industrial que bota desechos tóxicos cerca a un área poblada. Es el ejecutivo de marketing que promuee una camapaña publicitaria que utiliza alusiones sexuales para vender productos para niños. Es el líder religioso que predica la intolerancia y el elitismo desde su posición de superioridad moral.
+
+No se dejen engañar. Busquen signos de la influencia del Diablo en sus políticos locales, que se llenan los bolsilllos con el dinero de tus impuestos, y en grupos de acción política. En corporaciopnes que envenenan y abusan de sus empleados. Líderes religiosos que te piden dinero en el nombre de Dios y utilizan tu dinero para financiar sus propios pecados. El mal prevalece en el mundo porque los "justos" están buscando en el lugar equivocado. Uno debería preguntarse porqué lo hacen. En lugar de ser un bastión contra las fuerzas del mal, son los más grandes colaboradores a la ciénaga de corrupción que rodea a la sociedad.
