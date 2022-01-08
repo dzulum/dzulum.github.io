@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2022-01-07 19:41:00
+tags: relato
+title: La Operación
+---
+
 # La Operación
 
 **Autor: José León Cano**

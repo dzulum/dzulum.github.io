@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: relato
-date:
+date: 2022-01-07 19:39:00
 title: Oscuridad
 ---
 

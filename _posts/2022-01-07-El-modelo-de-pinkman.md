@@ -1,3 +1,10 @@
+---
+layout: post
+tags: lovecraft
+date: 2022-01-07 19:29:00
+title: El modelo de Pickman
+---
+
 # El modelo de Pickman
 
 **Howard Phillips Lovecraft**

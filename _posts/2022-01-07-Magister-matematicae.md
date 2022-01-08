@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2022-01-07 19:32:00
+tags: relato
+title: Magister Matematicae
+---
+
 # Magister Matematicae
 
 **Autor: : Renato Serrano**
