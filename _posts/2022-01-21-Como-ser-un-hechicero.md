@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2022-01-21 21:51:00
+tags: satanismo
+title: Cómo ser un hechicero
+---
+
+# Cómo Ser Un Hechicero
+
+**—Anton Szandor LaVey—**
+
+Para poder realizar algo sobrenatural, primero debes ser capaz de lograr lo supranormal [por encima de lo normal]. Para poder realizar algo supranormal, será de mucha ayuda el que tú mismo seas supranormal. Para star por encima de lo normal, será de mucha ayuda el ser diferente. Y me refiero a ser de verdad diferente. Ello no significa que debas seguir un procedimiento o curriculum pre-establecido de esoterismo, es decir, aprender las sutilezas de la tradición ocultista. ¿Puedes afirmar, con honestidad, que no sabes, ni te interesa, qué es lo que sucede en las noticias? ¿Eres ignorante, por voluntad propia, de la cultura popular —es decir, no sabes cuáles son las últimas películas, los actores e intérpretes de moda, lo último en música, productos de consumo, etc.? Si la respuesta es "no", ¿las has sustituído por alternativas recomendadas o prescritas, intereses y formas de pensar "avant-garde"? ¿Cuántas personas conoces que no estén incluidas en alguna de esas categorías?
+
+El aislamiento, la exclusividad, y la originalidad, el ser único en su género, son los primeros requisitos para ser lo bastante "diferentes" para ser considerado "supranormal". Un verdadero hechicero nunca está "al tanto de las cosas", porque simplemente no tienen interés alguno para él. Ni está interesado en absoluto en temas ocultos o esotéricos "fuera de línea". Un verdadero hechicero es alguien ajeno, y sus intereses y pasatiempos son virtualmente desconocidos a quienes lo conocen. No es que se enorgullezca mucho de su aislamiento, ni tampoco le preocupa. Simplemente estudia lo que hace y hace lo que hace porque para él es la cosa más natural del mundo. No está "evitando" cosas para aumentar su exclusividad. Simplemente no le interesa.
+
+Uno no "evoluciona" ni "se convierte" en un mago. A pesar de lo que digan las órdenes esotéricas, no hay ejercicios para ello. Existe un viejo dicho, un viejo cliché, que dice "nunca es demasiado tarde para aprender", el cual, en este caso, no tiene validez. Las predisposiciones especiales de alguien lo bastante diferente para ser considerado "supranormal" se dan a una edad muy temprana. Se ha hecho demasiado énfasis —para el consumo popular— en las habilidades "heredadas". Un niño pequeño en sus años formativos es un candidato mucho más plausible para tener "poderes especiales".
+
+¿Cuál es el resultado de todo ésto? ¿Cómo aprende uno? ¿Qué ejercicios y medidas pueden tomarse para alcanzar la condición de "supranormal" —para no hablar de lo "sobrenatural"? ¿La respuesta? No puedes, No hay esperanza. Aprende un oficio. Desarrolla una habilidad. Haz por lo menos algo que te ponga aparte —como un tatuaje extra en tu dedo meñique. Luego, sigue al día con los denominadores comunes de tus semejantes. Aún así estarás lleno de magia —la magia de la vida que te hace mover, actuar, responder, como un organismo que no necesita cables externos.
+
+Tú eres un milagro contenido en tí mismo, y sin réplica alguna. El recorrido independiente de una araña recién nacida, o el caminar tambaleante de un elefante recién nacido puede serte de utilidad cuando llegue la oportunidad de convertirte en un mago verdadero. Pero no te rindas. Puedes ser más mágico de lo que ya eres. Puedes desarrollar mayor juicio y equilibrio sin necesidad de giroscopios. Puedes aprender a escribir (con un corrector de ortografía), cantar (con un Karaoke), tocar un instrumento (con un secuenciador), y desarrollar toda clase de habilidades. Pero nunca serás supranormal, sobrenatural, o un hacedor de milagros. Sin embargo, si te sirve de consuelo, ya eres un milagro, tal como eres. Casi tanto como la araña más pequeña o el elefante más grande.
