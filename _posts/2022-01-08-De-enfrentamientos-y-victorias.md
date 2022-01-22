@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-0108 17:53:00
+date: 2022-01-08 17:53:00
 tags: satanismo bloomerfield
 title: De Enfrentamientos y Victorias
 ---
