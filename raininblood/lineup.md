@@ -16,4 +16,4 @@ permalink: /raininblood/lineup/
 # [Carlos Oriani - Bass](/galleries/oriani/)
 
 ![Dirty](/rimages/dirty/dirty.jpg)
-# [Dirty -Vocals](/rimages/dirty/dirty.jpg)
+# [Dirty -Vocals](/galleries/dirty/)
