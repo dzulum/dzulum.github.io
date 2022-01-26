@@ -1,4 +1,12 @@
+---
+layout: post
+date: 2022-01-26 17:01:00
+tags: relato
+title: El huésped de Drácula
+---
+
 # EL HUÉSPED DE DRÁCULA
+
 **Autor:  BRAM STOKER.**
 
 Cuando iniciamos nuestro paseo, el sol brillaba intensamente sobre

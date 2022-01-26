@@ -1,4 +1,12 @@
+---
+layout: post
+date: 2022-01-26 17:05:00
+tags: relato
+title: El horror de Salem
+---
+
 # EL HORROR DE SALEM
+
 **Autor: Henry Kuttner.**
 
 La primera vez que Carson reparó en los ruidos de su sotano, los

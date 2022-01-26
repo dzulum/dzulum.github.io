@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2022-01-26 16:59:00
+tags: relato
+title: El despertar de los muertos
+---
+
 # El despertar de los muertos
 
 **Autor: Bernardino Anguiano García.**
