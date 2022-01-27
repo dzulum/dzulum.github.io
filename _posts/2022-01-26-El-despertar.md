@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-01-26 16:
+date: 2022-01-26 17:11:00
 tags: relato
 title: El despertar
 ---
