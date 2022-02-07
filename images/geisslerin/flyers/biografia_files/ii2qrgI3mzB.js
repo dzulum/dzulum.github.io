@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("LSInsertAttachmentItem",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1];b.n;var c=[];return b.seq([function(c){return b.db.table(18).add({a:a[0],b:a[1],c:a[2],d:a[4],y:a[30],e:a[7],f:a[8],g:a[9],h:a[12],i:a[13],j:a[14],k:a[15],l:a[16],m:a[17],n:a[18],o:a[19],p:a[20],q:a[21],r:a[22],s:a[23],t:a[24],u:a[25],v:a[26],w:a[28],x:a[29],z:a[32],A:a[34],B:a[35],C:a[36],D:a[38],E:a[39],F:a[40],G:a[42],H:a[43],I:a[44],J:a[45],K:a[46],L:a[47],M:a[48]})},function(a){return b.resolve(c)}])}e.exports=a}),null);

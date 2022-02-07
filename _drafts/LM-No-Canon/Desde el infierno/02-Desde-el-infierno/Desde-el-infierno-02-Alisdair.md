@@ -17,4 +17,3 @@ Dejaron que el mensajero continuara con su camino y volvieron a la morada de Coc
 Temicti destacaba por ser corpulento y bueno en combate, Cocoxqui era bueno con medicinas y artes ocultas, ambos bien instruidos y jóvenes, curiosos sobre las cosas de la vida, pero sobre todo con amor a su tierra.
 
 Salieron antes del atardecer en busca de saber la verdad sobre aquellos seres que habían llegado andando sobre el mar, caminaron por horas hasta que la noche comenzó a caer, y la oscuridad los cubrió con su manto.
-
