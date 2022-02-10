@@ -1,0 +1,79 @@
+I"�<h1 id="publicando-podcasts-de-ivoox-en-jekyll">Publicando podcasts de iVoox en jekyll</h1>
+
+<p>Hoy voy a compartir algo que acabo de implementar aquí en mi blog, la publicacion de capítulos de podcasts alojados en <a href="https://ivoox.com">iVoox</a> directo en tu blog hecho en <a href="https://jekyllrb.com">jekyll</a>, aunque yo tengo hospedado mi blog en <a href="https://github.com">Github</a> esto funcionará aún si tienes tu blog alojado de manera independiente en otro servidor.</p>
+
+<p><img src="/images/ivoox/ivoox-jekyll.png" alt="Post de iVoox en Jekyll" /></p>
+
+<h2 id="preparativos">Preparativos</h2>
+
+<p>Estos pasos no son tan difíciles como crees, lo primero es crear un archivo del tipo include para colocar el código inicial, segundo, hay que crear un post desde donde llamaremos nuestro archivo include con la información que debemos/queremos publicar, tercero, consiguiendo el ID del audio, cuarto, publicar así que, manos a la obra.</p>
+
+<h3 id="1-creando-el-archivo-include">1. Creando el archivo include</h3>
+
+<p>En el directorio de includes de tu blog crea un archivo que contendrá código genérico administrado por iVoox, en mi caso lo llamaré <code class="language-plaintext highlighter-rouge">ivoox.html</code></p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;iframe</span> <span class="na">id=</span><span class="s">'audio_\{\{include.id\}\}'</span> <span class="na">frameborder=</span><span class="s">'0'</span> <span class="na">allowfullscreen=</span><span class="s">''</span> <span class="na">scrolling=</span><span class="s">'no'</span> <span class="na">height=</span><span class="s">'200'</span> <span class="na">style=</span><span class="s">'width:100%;'</span> <span class="na">src=</span><span class="s">'https://mx.ivoox.com/es/player_ej_\{\{include.id\}\}_6_1.html'</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+</code></pre></div></div>
+
+<p>Ese código lo obtuve desde el sitio de iVoox en la sección de compartir.</p>
+
+<p>El archivo que acabamos de crear y sin pasarle el ID luce así en nuestro navegador.</p>
+
+<p><img src="/images/ivoox/ivoox.html.png" alt="Post de iVoox en Jekyll" /></p>
+
+<p><img src="/images/ivoox/ivoox-codigo.png" alt="Post de iVoox en Jekyll" /></p>
+
+<p>Como puedes ver quité el número que tiene en el codigo y lo sustituí por <code class="language-plaintext highlighter-rouge">\{\{include.id\}\}</code>, eso es lo que hará la magia, pues se lo vamos a pasar desde el archivo de la publicación.</p>
+
+<h3 id="2-creando-la-publicación-y-llamando-ivooxhtml">2. Creando la publicación y llamando ivoox.html</h3>
+
+<p>Esta parte es simple, solo debemos crear nuestro archivo regular, como cada que creamos una publicación en nuestro blog.</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="s">audio</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2021-09-02 02:30:01 -0600</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">La macabra historia de la familia Berlanga</span>
+<span class="nn">---</span>
+<span class="p">![</span><span class="nv">Play</span><span class="p">](</span><span class="sx">/images/play.png</span><span class="p">)</span>
+<span class="se">\{\%</span> include ivoox.html id='' <span class="se">\%\}</span>
+
+</code></pre></div></div>
+
+<p>Como puedes ver en el contenido de tu archivo hay una linea <code class="language-plaintext highlighter-rouge">\{\% include ivoox.html id='' \%\}</code> y tenemos faltante el ID, bueno, es hora de ir a conseguir uno que nos agrade para publicar en nuestro blog, en mi caso no tengo un canal de podcast en ivoox pero quiero compartir un podcast que me gusta, asi que voy por mi ID.</p>
+
+<h3 id="3-seleccionando-el-id-del-audio-en-ivoox">3. Seleccionando el ID del audio en iVoox</h3>
+
+<p>¿Recuerdas el <code class="language-plaintext highlighter-rouge">\{\{include.id\}\}</code>? pues aquí lo vamos a definir.</p>
+
+<p><img src="/images/ivoox/ivoox-id.png" alt="Seleccionando iVoox ID" /></p>
+
+<p>En la imagen puedes ver que hay unos números seleccionados, bueno, ese es el ID del audio que vamos a publicar en nuestro blog.</p>
+
+<p>Tu publicación debe quedar así.</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="s">audio</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2021-09-02 02:30:01 -0600</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">La macabra historia de la familia Berlanga</span>
+<span class="nn">---</span>
+<span class="p">![</span><span class="nv">Play</span><span class="p">](</span><span class="sx">/images/play.png</span><span class="p">)</span>
+<span class="se">\{\%</span> include ivoox.html id='55032450' <span class="se">\%\}</span>
+
+</code></pre></div></div>
+
+<h3 id="4-ahora-lo-publicamos">4. Ahora lo publicamos</h3>
+
+<p>Simplemente hay que hace un push como siempre para desplegar el commit que enviará tu archivo include y tu nueva publicación logrando así la tarea prometida.</p>
+
+<p>“Publicar podcast de iVoox en blog Jekyll”</p>
+
+<p><img src="/images/ivoox/ivoox-jekyll.png" alt="Post de iVoox en Jekyll" /></p>
+
+<p>Aquí el resultado <a href="https://dzulum.tk/La-macabra-historia-de-la-familia-Berlanga/">La macabra historia de la familia Berlanga</a></p>
+
+<iframe id="audio_55032450" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="width:100%;" src="https://mx.ivoox.com/es/player_ej_55032450_6_1.html"></iframe>
+
+<p>Como ultima nota, en local no me eliminaba los backslash al publicar, pero en git no salían las tag correctamente, así que si por algún motivo salen los backslash en el código bórralos para poder usarlo, hasta pronto y espero te sea útil esta publicación, deja comentarios si necesitas ayuda.</p>
+:ET

@@ -50,11 +50,6 @@ $(document).ready(function() {
     }).attr('target', '_blank');  
 });
 </script>
-<script>
-$(document.links).filter(function() {
-    return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
-</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8195161638855654" crossorigin="anonymous"></script>
 </HEAD>
 <BODY>
@@ -131,5 +126,21 @@ $(document.links).filter(function() {
   <div class="col-12 blackt footer separador">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Dzulum</a> Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 </div>
+<script>
+    $(document).ready(function () {
+        $('a').click(function () {
+            //removing the previous selected menu state
+            $('.topnav').find('i.active').removeClass('active');
+            //adding the state for this parent menu
+            $(this).parents("i").addClass('active');
+
+        });
+    });
+</script>    
+<script>
+$(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+</script>
 </BODY>
 </HTML>

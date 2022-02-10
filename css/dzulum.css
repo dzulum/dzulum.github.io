@@ -124,7 +124,7 @@ src: url(../fonts/gabriele-l.ttf);
 }
 
 /* Add an active class to highlight the current page */
-.topnav a.active {
+.active,.topnav a:active{
   background-color: #600;
   color: white;
 }
