@@ -1,0 +1,310 @@
+/*Modo rejilla para css responsivo*/
+* {
+  box-sizing: border-box;
+}
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 480px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-m-1 {width: 8.33%;}
+    .col-m-2 {width: 16.66%;}
+    .col-m-3 {width: 25%;}
+    .col-m-4 {width: 33.33%;}
+    .col-m-5 {width: 41.66%;}
+    .col-m-6 {width: 50%;}
+    .col-m-7 {width: 58.33%;}
+    .col-m-8 {width: 66.66%;}
+    .col-m-9 {width: 75%;}
+    .col-m-10 {width: 83.33%;}
+    .col-m-11 {width: 91.66%;}
+    .col-m-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+[class*="col-"] {
+    float: left;
+    padding: 0px;
+    border: 0px solid red;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+/*termina css rejillas*/
+/*Inicia declaracion de fuentes tipograficas*/
+@font-face{
+  font-family: AA_typewriter;
+  src: url(../fonts/AA_typewriter.ttf);
+}
+.AA_typewriter{
+  font-family: AA_typewriter;
+}
+@font-face{
+  font-family: DOKTOR-terror;
+  src: url(../fonts/DOKTOR-terror.ttf);
+}
+.DOKTOR-terror{
+  font-family: DOKTOR-terror;
+}
+@font-face{
+  font-family: bloodofdracula;
+  src: url(../fonts/bloodofdracula.ttf);
+}
+.bloodofdracula{
+  font-family: bloodofdracula;
+}
+@font-face{
+  font-family: GrindMafia;
+  src: url(../fonts/GrindMafia.ttf);
+}
+.GrindMafia{
+  font-family: GrindMafia;
+}
+@font-face {
+  font-family: BlackNight;
+  src: url(../fonts/BlackNight.ttf);
+}
+.BlackNight{
+  font-family: BlackNight;
+}
+@font-face {
+  font-family: bloodandblade;
+  src: url(../fonts/bloodandblade.ttf);
+}
+.bloodandblade{
+  font-family: bloodandblade;
+}
+@font-face {
+  font-family: bloodandbladeo;
+  src: url(../fonts/bloodandblade_outilne.ttf);
+}
+.bloodandbladeo{
+  font-family: bloodandbladeo;
+}
+@font-face {
+  font-family: FancyCardText;
+  src: url(../fonts/FancyCardText.ttf);
+}
+.FancyCardText{
+  font-family: FancyCardText;
+}
+@font-face {
+  font-family: greenfuz;
+  src: url(../fonts/greenfuz.ttf);
+}
+.greenfuz{
+  font-family: greenfuz;
+}
+@font-face {
+  font-family: HEIDH;
+  src: url(../fonts/HEIDH.ttf);
+}
+.HEIDH{
+  font-family: HEIDH;
+}
+@font-face {
+  font-family: HalloweenParty;
+  src: url(../fonts/HalloweenParty.ttf);
+}
+.HalloweenParty{
+  font-family: HalloweenParty;
+  color: red;
+}
+.HalloweenPartyd{
+  font-family: HalloweenParty;
+  color: darkred;
+}
+@font-face {
+  font-family: Rom_Fatl_Gth_Prm;
+  src: url(../fonts/Rom_Fatl_Gth_Prm.ttf);
+}
+.Rom_Fatl_Gth_Prm{
+  font-family: Rom_Fatl_Gth_Prm;
+}
+@font-face {
+  font-family: Rom_Ftl_Gth_Vrsl;
+  src: url(../fonts/Rom_Ftl_Gth_Vrsl.ttf);
+}
+.Rom_Ftl_Gth_Vrsl{
+  font-family: Rom_Ftl_Gth_Vrsl;
+}
+@font-face {
+  font-family: SFGushingMeadow;
+  src: url(../fonts/SFGushingMeadow.ttf);
+}
+.SFGushingMeadow{
+  font-family: SFGushingMeadow;
+}
+@font-face {
+  font-family: SFGushingMeadowSC;
+  src: url(../fonts/SFGushingMeadowSC.ttf);
+}
+.SFGushingMeadowSC{
+  font-family: SFGushingMeadowSC;
+}
+@font-face {
+  font-family: tribal;
+  src: url(../fonts/tribal.ttf);
+}
+.tribal{
+  font-family: tribal;
+}
+@font-face {
+  font-family: tribal2;
+  src: url(../fonts/tribal2.ttf);
+}
+.tribal2{
+  font-family: tribal2;
+}
+@font-face {
+  font-family: Friedolin;
+  src: url(../fonts/Friedolin.ttf);
+}
+.Friedolin{
+  font-family: Friedolin;
+}
+@font-face {
+font-family: ProgressiveText;
+src: url(../fonts/ProgressiveText.ttf);
+}
+@font-face {
+font-family: gabriele-l;
+src: url(../fonts/gabriele-l.ttf);
+}
+@font-face {
+font-family: frankknows;
+src: url(../fonts/frankknows.ttf);
+}
+@font-face {
+font-family: ghoulish;
+src: url(../fonts/ghoulish.ttf);
+}
+@font-face {
+font-family: MB-ForeverRaw;
+src: url(../fonts/MB-ForeverRaw.ttf);
+}
+@font-face {
+font-family: MB-HorrorHouse_Font;
+src: url(../fonts/MB-HorrorHouse_Font.ttf);
+}
+@font-face {
+font-family: neighbors_yard;
+src: url(../fonts/neighbors_yard.ttf);
+}
+@font-face{
+  font-family: thservice;
+  src: url(../fonts/7thservice.ttf);
+}
+.thservice{
+  font-family: thservice;
+}
+.gabriele-l{
+  font-family: gabriele-l;
+}
+.frankknows{
+  font-family: frankknows;
+}
+.ProgressiveText{
+  font-family: ProgressiveText;
+}
+.neighbors_yard{
+  font-family: neighbors_yard;
+}
+.ghoulish{
+  font-family: ghoulish;
+}
+.MB-ForeverRaw{
+  font-family: MB-ForeverRaw;
+}
+.MB-HorrorHouse_Font{
+  font-family: MB-HorrorHouse_Font;
+}
+/*Terminan fuentes tipograficas*/
+.pagination{
+  padding: 10 10;
+  color: #fff;
+  font-family: ProgressiveText;
+  background-color: #111;
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 19px;
+  text-align: center;
+}
+.pagination a{
+  padding: 10 10;
+  color: #fff;
+  font-family: ProgressiveText;
+  background-color: #111;
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 19px;
+}
+.pagination a:hover{
+  padding: 10 10;
+  color: #f00;
+  font-family: ProgressiveText;
+  background-color: #111;
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 19px;
+}
+.lateral img{
+    width: 85%;
+    position: relative;
+    margin-left: 7.5%;    
+}

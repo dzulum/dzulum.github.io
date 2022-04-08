@@ -13,7 +13,7 @@ mal, de aquellos seres despreciables que causan repugnancia con su
 simple presencia, segui caminando hacia donde ellos estaban, claro que
 mi rostro estaba convertido en una gran mueca de desagrado hacia ellos,
 cuando por fin llegue a su lado camine mas lento, con la cabeza en alto
-y con aquella miradfa despresiva tan comun en nosotros los
+y con aquella mirada despresiva tan comun en nosotros los
 metaleros.<p>
 
 mire a los ojos a cada uno, sin vacilar, sin darles tregua, al primer signo

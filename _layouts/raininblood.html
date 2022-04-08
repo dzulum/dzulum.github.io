@@ -21,48 +21,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/raininblood.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 <!--Utilitarios para el sitio-->
 <script src="{{ site.baseurl }}/js/analytics.js"></script>
-<script src="{{ site.baseurl }}/js/activetop.js"></script>
 <script src="{{ site.baseurl }}/js/topnav.js"></script>
-<script src="{{ site.baseurl }}/js/prism.js"></script>
-<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-<!--script>
-$(document).ready(function() {
-    $('a[href^="https://"]').filter(function() {
-        return this.hostname && this.hostname !== location.hostname;
-    }).attr('target', '_blank');  
-});
-</script>
-
-<script>
-$(document).ready(function() {
-    $('a[href^="http://"]').filter(function() {
-        return this.hostname && this.hostname !== location.hostname;
-    }).attr('target', '_blank');  
-});
-</script-->
-<script>
-$(document.links).filter(function() {
-    return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
-</script>
 </HEAD>
 <BODY>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v12.0" nonce="e0Kk3cAa"></script>
-<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script src="{{ site.baseurl }}/js/topnav.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="col-12 blackt separador top">
-<img src="{{ site.baseurl }}/rimages/toplogo0.png" width="40%" height="auto">
+<img src="{{ site.baseurl }}/images/toplogo.png" width="40%" height="auto">
 </div>
 <div class="topnav" id="myTopnav">
   <a href="{{ site.baseurl }}/raininblood/" class="MB-ForeverRaw"><i class="fa fa-fw fa-home"></i>Main</a>

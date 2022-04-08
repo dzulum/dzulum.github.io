@@ -1,6 +1,6 @@
 # Azzkorpze
 
-¿Alguna vez escuchaste de -Black_Mass-?, me imagino que si, veras,
+¿Alguna vez escuchaste de Black_Mass?, me imagino que si, veras,
 algún día se encontró conmigo y no fue nada agradable nuestro
 encuentro, caminaba por aquella sucia y muy insegura ciudad, si, hablo
 de la ciudad de México con mi atuendo de siempre zapatos de vestir,

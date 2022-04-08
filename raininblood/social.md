@@ -4,7 +4,7 @@ title: Social
 permalink: /raininblood/social/
 ---
 
-![Rain In Blood Contacts](/rimages/varias/contactos.jpg)
+![Rain In Blood Contacts](/images/varias/contactos.jpg)
 
 ## [Facebook Page](https://www.facebook.com/RaininBloodband/)
 ## [Instagram](https://www.instagram.com/raininbloodmetalband/)

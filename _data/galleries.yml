@@ -83,7 +83,7 @@
     text: Vampiros
 - id: anuncio
   description: Galería de anuncios Rain In Blood
-  imagefolder: /rimages/anuncio
+  imagefolder: /images/anuncio
   images:
   - name:  blackroom.jpg
     thumb: blackroom-thumb.jpg
@@ -168,7 +168,7 @@
     text: Pronocional Ultratumba PressKit
 - id: banda
   description: Galeria de la Banda
-  imagefolder: /rimages/banda
+  imagefolder: /images/banda
   images:
   - name: banda.jpg
     thumb: banda-thumb.jpg
@@ -229,7 +229,7 @@
     text: Rain In Blood
 - id: celeb
   description: Rain In Blood con celebridades
-  imagefolder: /rimages/celeb
+  imagefolder: /images/celeb
   images:
   - name: animal.jpg
     thumb: animal-thumb.jpg
@@ -278,7 +278,7 @@
     text: Tu merol mole
 - id: dirty
   description: Dirty Vocals
-  imagefolder: /rimages/dirty
+  imagefolder: /images/dirty
   images:
   - name: cumpledirty.jpg
     thumb: cumpledirty-thumb.jpg
@@ -315,7 +315,7 @@
     text: Dirty y Carlos
 - id: fans
   description: Galeria de Fans
-  imagefolder: /rimages/fans
+  imagefolder: /images/fans
   images:
   - name: fans0.jpg
     thumb: fans0-thumb.jpg
@@ -361,7 +361,7 @@
     text: Rain In Blood y Sicker
 - id: flyers
   description: Galería de Flayers de eventos pasados
-  imagefolder: /rimages/flyers
+  imagefolder: /images/flyers
   images:
   - name: 10ago19.jpg
     thumb: 10ago19-thumb.jpg
@@ -491,7 +491,7 @@
     text: 3 de octubre 2019
 - id: oriani
   description: Carlos Oriani Bass
-  imagefolder: /rimages/oriani
+  imagefolder: /images/oriani
   images:
   - name: oriani0.jpg
     thumb: oriani0-thumb.jpg
@@ -531,7 +531,7 @@
     text: Carlos Oriani
 - id: renato
   description: Renato Pinedo Lead Guitar
-  imagefolder: /rimages/renato
+  imagefolder: /images/renato
   images:
   - name: renato01.jpg
     thumb: renato01-thumb.jpg
@@ -550,7 +550,7 @@
     text: Lead Guitar Renato Pinedo
 - id: tokines
   description: Galería de Rain In Blood en acción
-  imagefolder: /rimages/tokines
+  imagefolder: /images/tokines
   images:
   - name: 0tokin22jul18.jpg
     thumb: 0tokin22jul18-thumb.jpg
@@ -590,7 +590,7 @@
     text: Rain In Blood en acción
 - id: toro
   description: Drums Toro Neria
-  imagefolder: /rimages/toro
+  imagefolder: /images/toro
   images:
   - name: toro0.jpg
     thumb: toro0-thumb.jpg
@@ -627,7 +627,7 @@
     text: Toro Neria Drums
 - id: varias
   description: Imagenes Variadas
-  imagefolder: /rimages/varias
+  imagefolder: /images/varias
   images:
   - name: edgarstaffr.jpg
     thumb: edgarstaffr-thumb.jpg

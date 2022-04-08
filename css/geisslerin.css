@@ -1,0 +1,220 @@
+@import '../css/generic.css';
+body {
+  background: #000;
+  background-image: url(../images/geisslerin/gbg.png);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 0 0;
+  background-image: url(../images/geisslerin/gbg.png), -moz-linear-gradient(top, #000 0%, #300 75%, #660000 100%);
+  background-image: url(../images/geisslerin/gbg.png), -webkit-linear-gradient(top, #000 0%, #300 35%, #660000 100%);
+  background-image: url(../images/geisslerin/gbg.png), linear-gradient(to bottom, #000 0%, #300 75%, #660000 100%);
+}
+h1,h2,h3,h4,h5,h6{text-shadow: 0px 0px 5px black; text-align:center; margin:0; font-family: ProgressiveText; font-weight:lighter;}
+article h1 a, h1 a {
+  font-size: 35px;
+  color: #fff;
+  font-family: Friedolin;
+  text-decoration: none;
+  text-shadow: 0px 0px 10px #800;
+}
+article h1 a:hover, h1 a:hover {
+  font-size: 35px;
+  color: #000;
+  font-family: Friedolin;
+  text-decoration: none;
+  text-shadow: 0px 0px 10px #f00;
+}
+.top{ /*Titulo de la pagina*/
+  font-size: 65px;
+  color: #111;
+  font-weight: lighter;
+  font-family: ProgressiveText;
+  text-shadow: 0px 0px 10px #f00;
+}
+/* barra de navegacion responsiva */
+.topnav {
+  background-color: rgba(0, 0, 0, .9);
+  overflow: hidden;
+  overflow: hidden;
+  /*position: fixed;  quitar comentario si deseas 
+  top: 0; barra de navegacion fija en el top 
+  left:  0;*/
+  width: 100%; /* Full width */
+  font-family: MB-HorrorHouse;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #800;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 35px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #300;
+  color: red;
+}
+
+/* Add an active class to highlight the current page */
+.active,.topnav a:active{
+  background-color: #600;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+/*Lateral*/
+.lateral{
+  background-color: rgba(25, 25, 25, .9);
+  color: white;
+  font-weight: bold;
+}
+.content{
+  border-radius: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: #666;
+  border-width: 1px;
+  background-color: rgba(0, 0, 0, .5);
+  color: white;
+  font-weight: bold;
+}
+.main{
+  background-color: rgba(0, 0, 0, .7);
+  color: white;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.foot a{color: red;}
+.foot a:hover{color: white;}
+.foot {
+  color: white;
+  font-family: gabriele-l;
+  font-weight: bolder;
+}
+article{
+border-radius: 10px 10px 10px 10px;
+border-style: solid;
+border-color: darkred;
+border-width: 1px;
+background-color: rgba(30, 30, 30, .5);
+color: silver;
+font-weight: light;
+margin-bottom: 10px;
+margin-top: 10px;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 15px;
+padding-left: 15px ;
+margin-left: auto;
+margin-right: auto;
+width: 95%;
+font-family: gabriele-l;
+font-size: 18px;
+font-weight: bolder;
+text-align: justify;
+}
+article h1{font-size: 25px;}
+article a{color: white}
+article a:hover{color: red}
+article img{
+  width: 85%;
+  margin-left: 7.5%;
+}
+.entry{
+  background-color: rgba(255, 222, 173, .3);
+  color: black;
+  text-align: justify;
+}
+.aimg{
+  width: 25%;
+}
+
+.date{
+  color: black;
+  background-color: white;
+  float:  right;
+  font-family: AA_typewriter;
+  font-size: 14px;
+  font-weight: bolder;
+}
+.tg {
+  font-weight: bolder ;
+  font-size: 12px;
+  font-family: gabriele-l;
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #880000);
+  background-image: -moz-linear-gradient(top, #000000, #880000);
+  background-image: -ms-linear-gradient(top, #000000, #880000);
+  background-image: -o-linear-gradient(top, #000000, #880000);
+  background-image: linear-gradient(to bottom, #000000, #880000);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 10px;
+  color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 3px 3px 3px 3px;
+}
+.tg:hover {
+  background: #000000;
+  color: red;
+  text-decoration: underline;
+}
+
+.sociales ul, .sociales li, .tg ul{
+ list-style-image: url("../images/dot.gif");
+}
+.sociales ul li a:hover{
+ color: #f00;
+ text-decoration: underline;
+ font-family: Friedolin;
+ font-weight: lighter;
+}
+.sociales a{
+  color: white;
+  font-family: Friedolin;
+  text-decoration: none;
+  font-size: 20px;
+}
+.sociales h1{
+  color:  white;
+  font-family: GrindMafia;
+}
+.sociales{
+font-family: gabriele-l;
+font-size: 18px;
+font-weight: bolder;
+}

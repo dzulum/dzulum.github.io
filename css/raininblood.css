@@ -88,11 +88,11 @@
 /*termina css rejillas*/
 @font-face {
 font-family: ProgressiveText;
-src: url(http://dzulum.com/fonts/ProgressiveText.ttf);
+src: url(../fonts/ProgressiveText.ttf);
 }
 @font-face {
 font-family: gabriele-l;
-src: url(http://dzulum.com/fonts/gabriele-l.ttf);
+src: url(../fonts/gabriele-l.ttf);
 }
 /* barra de navegacion responsiva */
 .topnav {
@@ -161,7 +161,7 @@ src: url(http://dzulum.com/fonts/gabriele-l.ttf);
 
 body {
   background: #000;
-  background-image: url(http://dzulum.com/rimages/RIBlogobg.jpg);
+  background-image: url({{ site.baseurl }}/images/RIBlogobg.jpg);
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -410,7 +410,7 @@ border: 0;
 .top img {width: 40%; height: auto; float: left 50% auto;}
 @font-face {
 font-family: MB-ForeverRaw;
-src: url(http://dzulum.com/fonts/MB-ForeverRaw.ttf);
+src: url(../fonts/MB-ForeverRaw.ttf);
 }
 .MB-ForeverRaw{
   font-family: MB-ForeverRaw;

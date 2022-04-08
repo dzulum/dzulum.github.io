@@ -1,10 +1,10 @@
+Ultimas publicaciones <br>
 <ul>
-  {% for post in site.related_posts limit:10 %}
+  {% for post in site.related_posts limit:5 %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-      <time>{{ post.date | date: "%B %-d, %Y" }}</time>
     </li>
   {% endfor %}
 </ul>

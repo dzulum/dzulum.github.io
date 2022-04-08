@@ -1,0 +1,21 @@
+---
+layout: techl
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Publicación {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}" class="tg">{{ tag_name }}</a>
+  {% endfor %}
+  {% include posts-related.html %}
+  {% include disqus.html %}
+</article>

@@ -17,3 +17,7 @@ Habrian transcurrido diez minutos desde que George llegara al sauce cuando la pu
 Tranquio pero con cierta impaciencia espero a su amada Belita, cuando por fin llego a su lado George la tomo cuidadosamente de las manos, la miro serio y en silencio, Belita se esperaba una mala noticia sin saber lo que e destino le tenia preparado.
 
 Sin mediar palabra George deposito un tierno beso en los labios de su amada (un beso como lo que solo han dado aquellos que han estado enamorados), sonrio y comenzaron a caminar hacia el camino que subia al mirador donde hacia tiempo pasaban varias horas al dia, un lugar que si bien era publico para la pareja era casi su santuario.
+
+Aquella tarde se respiraba tranquillidad y sobre todo una atmosfera de paz, mas George sufria su nerviosismo al no reunir el valor suficiente para expresar su deseo a la mujer que amaba, su mirada perdida en el horizonte delataba que su mente se encontraba en un dilema, George que en ese momentos encontraba muy ensimismado solto un suspiro y rompio el silencio, -¿Quieres casarte conmigo, me cumpliriras ese deseo Belita?- Belita sintio aquello como un balde de agua helada, sintio como se estremecia desde la cabeza hasta la punta de sus dedos, todo su cuerpo parecia haber recibido una gran descarga electrica, por un momento el mundo parecia haberse esfumado, no daba credito a las palabras que seronaban haciendo eco en su mente, repitiendolas como cuando rompieron el silencio hasta llegar a sus oidos.
+
+Sus ojos se vieron cristalinos, la vista borrosa apenas dejaba

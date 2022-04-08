@@ -1,23 +1,21 @@
 ---
 layout: default
-comments: true
 ---
-<div class="darkgreyt center separador esquinas">
-<div class="content leer">
-  <h1>{{ post.title }}</h1>
-  {{ content }}
+
+<article>
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
   </div>
 
-  <div class="blackt">
-    Escrito en {{ page.date | date: "%B %e, %Y" }}
-{% include posts-related.html %}
+  <div class="date">
+    Publicación {{ page.date | date: "%B %e, %Y" }}
   </div>
-<span class="blackt">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}" class="tg">{{ tag_name }}</a>
   {% endfor %}
-]</span>
+  {% include posts-related.html %}
   {% include disqus.html %}
-</div>
-</div>
+</article>

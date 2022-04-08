@@ -1,22 +1,9 @@
+# ¡No, a mi no!
 
-126
-el sepulcro/ino, a mi no!<p>
+La noche habia caido no hacia mucho y los estudiantes de la preparatoria local salian como cada noche hartos de estudiar, yo merodeaba por ahi buscando una chica a la cual ofrecer mi compañia y "encaminar" a su casa, espere a que salieran todos y ahi estaba mi victima predilecta, la habia visto en algunas ocaciones y sabia su nombre, Jaqueline, cuando la vi salir sola como siempre, me acerque a ella y le comence a hablar.
 
-la noche habia caido no hacia mucho y los estudiantes de la preparatoria
-local salian como cada noche hartos de estudiar yo merodeaba por ahi
-buscando una chica a la cual ofrecer mi compañia y "encaminar" a su
-casa, espere a que salieran todos y ahi estaba mi victima predilecta, la
-habia visto en algunas ocaciones y sabia su nombre, jaqueline, cuando la
-vi salir como siempre, sola, me acerque a ella y le comenze a hablar
--buenas noches señorita, ¿la puedo acompañar a su casa?- dije con tono
-respetuoso hacia ella -me gustaria ser tan afortunado de poder hacerlo si
-o le molesta- creo que esa manera de expresarme le agrado, pues
-acepto un poco sonrojada, -permitame llevar su mochila, una señorita
-como usted no deberia cansarse con esas cosas- dije tratando de
-inspirarle mas confianza -a proposito me llamo alisdair, ¿cual es su
-nombre? -jaqueline- contesto -¿no te he visto antes? -tal vez- conteste
--quiza alguna ocacion, pero no aqui...- caminamos hacia la estacion del
-metro con paso lento, -¿vives muy lejos?- pregunte -ojala y si, por que
+ -buenas noches señorita, ¿la puedo acompañar a su casa?- dije con tono respetuoso hacia ella -me gustaria ser tan afortunado de poder hacerlo si no le molesta- creo que esa manera de expresarme le agrado, pues acepto un poco sonrojada, -permitame llevar su mochila, una señorita como usted no deberia cansarse con esas cosas- dije tratando de inspirarle mas confianza -a proposito me llamo alisdair, ¿cual es su
+nombre? -jaqueline- contesto -¿no te he visto antes? -tal vez- conteste -quiza alguna ocacion, pero no aqui...- caminamos hacia la estacion del metro con paso lento, -¿vives muy lejos?- pregunte -ojala y si, por que
 quiero decirte muchas cosas- volteo y sonrio, -como a una hora de aqui-
 contesto -pero hoy pueden ser dos o mas, por que no hay nadie en casa
 y me hace falta divertirme como nunca en mi vida, ¿te gusta ir al cine?-
@@ -32,27 +19,22 @@ sus cursilerias de "¿te habian dicho que eres muy bonita?" malditos
 fresas de mierda los odio... perdon por la expresion pero me chocan esos
 tipos que... ash, ya voy a empezar, bueno dime como te llamas, y por
 que ese cambio de ser tan caballeroso a ser tan... bueno aventado- bien
-
-jaqueline, me llamo alisdair- conteste - ella se quedo sorprendida de que
-
-127
-yo supirea su nombre, ¿sabes hace mucho te he mirado y hoy decidi
+jaqueline, me llamo alisdair- conteste - ella se quedo sorprendida de que yo supiera su nombre, ¿sabes hace mucho te he mirado y hoy decidi
 acercarme a ti, te invito al cine, como dices tu, yo te invito o a donde
 quieras de todas formas yo invito- se quedo un poco pensativa y despues
 de unos segundos contesto- sabes el idiota de mi novio esta enojado
 conmigo y ademas no sabe lo que necesito, tu si sabes ¿verdad?- claro,
 yo lo se todo niña bonita, todo, pero me gusta preguntar para
-asegurarme de que mi edad no hace que se me olviden las cosas...<p>
+asegurarme de que mi edad no hace que se me olviden las cosas...
+
 seguimos caminando ahora ya no er al cine, sino a el hotel hacia donde
 caminabamos, -sabes, conozco un buen lugar, pero esta algo lejos de
 aqui y de noche es preferible quedarse en el- dije -se llama "el zar del
 peñon", pero si no te parece podriamos haces escala en cualquier
 esquina y...- hoy puedo quedarme- interrumpio -no hay nadie en mi casa
 y si lo deseo puedo no llegar- seguimos hacia la estacion del metro, sta.
-m., acatitla, asi hasta llegar a peñon viejo, al bajar del metro caminamos
-hacia "7 hermanos" y llegamos hacia el lugar mencionado, -su
-habitacion esta lista joven-, se escucho una voz de mujer atras del cristal
-de la recepcion -gracias jessica- conteste, hacia ya algunas semanas que
+m., acatitla, asi hasta llegar a peñon viejo, al bajar del metro caminamos hacia "7 hermanos" y llegamos hacia el lugar mencionado, -su
+habitacion esta lista joven-, se escucho una voz de mujer atras del cristal de la recepcion -gracias jessica- conteste, hacia ya algunas semanas que
 habia llegado a hospedarme en el hotel despues de mi llegada a mexico
 de uno de esos viajes en los que me adentraba por meses hacia ningun
 lugar, siempre sin una ruta fija hoy mexico, luego texas, luego berlin, en
@@ -67,10 +49,7 @@ jajaja, creeme, querras no volver a saber de mi, y no por que tenga sida
 O algo asi- mientras cruzabamos palabras llegamos a la puerta de la
 habitacion, entramos y sin mas preambulos la tome de la cintura y
 comenze a besarla, ella me aparte diciendo -deja la mochila- y
-
 quitandomela al momento, nuevamente la abraze y comenzamos a
-
-128
 besarnos como si fueramos una pareja hace tiempo, mientras la besaba
 por encima de su uniforme tocaba sus deliciosos pechos, y esas nalgas
 tan apetecibles, ella era bajita por lo cual decidimos acostarnos para
@@ -89,9 +68,7 @@ molesta si te trato como puta?- no, a mi no- y acerque mi pene a su boca
 y lo introduje en ella para comenzar a orinar -¿te molesta si te uso de
 migitorio?- no, a mi no- y la hize como quize, la golpee, me cague sobre
 ella, la orine, hasta le di "pozole" (como los "judas") en el jaccuzzy y
-siempre su puta respuesta fue "no, a mi no",<p>
-
-a no puta si no te molesta eso entonces no puedo hacer nada, por que si
+siempre su puta respuesta fue "no, a mi no", a no puta si no te molesta eso entonces no puedo hacer nada, por que si
 no me muestras tu incomodidad yo no puedo seguir haciendote esto, y
 decidi hacerle el amor, asi de vulgar con besos y caricias, como cualquier
 vulgar y normal parejay note su incomodidad, tanto que hasta le dije un
@@ -102,4 +79,4 @@ vas a estar diciendo puta, mierda, si te vas a cagar enciama mio, si me
 vas a orinar la cara y dentro de la boca, si me vas a pegar, si me vas a
 intentar ahorar en la bañera, aceptaria si hacerlo asi te agrada, puedo
 soportar que de guste hacer "el amor" por que te agrada, pero de que a
-mi me agrade "no, ami no"...<p>
+mi me agrade "no, ami no"...

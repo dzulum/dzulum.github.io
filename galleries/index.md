@@ -2,8 +2,11 @@
 layout: default
 title: Galerias (Indice)
 ---
-
-### Galerias Disponibles:
+  <div class="sociales">
+      <h1>Galerías Disponibles</h1>
+<ul>
 {% for gallery in site.data.galleries %}
-- [{{ gallery.description }}]({{ gallery.id }})
+<li><a href="{{ gallery.description }}">{{ gallery.id }}</a></li>
 {% endfor %}
+</ul>
+</div>

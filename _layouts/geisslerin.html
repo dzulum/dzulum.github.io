@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/geisslerin.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="{{ site.baseurl }}/js/topnav.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
+  </head>
+  <body>
+    <center><img src="{{ site.baseurl }}/images/geisslerin/glogo.png"></center>
+    <div class="topnav" id="myTopnav">
+  <a href="{{ site.baseurl }}/geisslerin/" class="MB_HorrorHouse"><i class="fa fa-fw fa-home"></i>Main</a>
+  <a href="{{ site.baseurl }}/geisslerin/social/" class="MB_HorrorHouse"><i class="fa fa-anchor"></i>Social</a>
+  <a href="{{ site.baseurl }}/geisslerin/presskit/" class="MB_HorrorHouse"><i class="fa fa-camera"></i>Press Kit</a>
+  <a href="{{ site.baseurl }}/geisslerin/media/" class="MB_HorrorHouse"><i class="fa fa-download"></i>Media</a>
+  <a href="{{ site.baseurl }}/geisslerin/lineup/" class="MB_HorrorHouse"><i class="fa fa-user-circle-o"></i>Line-Up</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+<div class="main col-12">
+    <div class="lateral col-3">
+      {% include links.html %}
+    </div>
+    <div class="col-9">
+      <article>
+      {{ content }}
+    </article>
+    </div>
+</div>
+      {% include footer.html %}
+  </body>
+</html>
