@@ -3,6 +3,7 @@ layout: geisslerin
 title: Social
 permalink: /geisslerin/social/
 ---
+# Siguenos en nuestras redes sociales y suscribete
 
 <ul>
     <li><a href="https://www.facebook.com/geisslerin.metalband" target="_blank">Facebook</a></li>

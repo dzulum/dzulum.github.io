@@ -1,7 +1,7 @@
 ---
 title: Alineación
 layout: geisslerin
-permalink: /geislerin/lineup/
+permalink: /geisslerin/lineup/
 ---
 
 # Las filas infernales de Geisslerin son comandadas por:
