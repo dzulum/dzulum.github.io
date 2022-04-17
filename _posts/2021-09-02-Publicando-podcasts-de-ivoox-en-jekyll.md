@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tech
 tags: tech audio dzulum
 date: 2021-09-02 22:41:00
 title: Publicando podcasts de iVoox en jekyll

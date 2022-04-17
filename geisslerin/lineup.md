@@ -4,16 +4,10 @@ layout: geisslerin
 permalink: /geislerin/lineup/
 ---
 
-# Las filas infernales de Geisslerin son comandadas por
+# Las filas infernales de Geisslerin son comandadas por:
 
-![Toro Neria](/images/toro/toro.jpg)
-# [Toro Neria - Drums](/galleries/toro/)
+ALEJANDRO RIOS (guitarra y voz) 
 
-![Renato Pinedo](/images/renato/renato.jpg)
-# [Renato Pinedo - Lead Guitar](/galleries/renato/)
+EDUARDO GONZALEZ (bajo)
 
-![Carlos Oriani](/images/oriani/orianiseintegra.jpg)
-# [Carlos Oriani - Bass](/galleries/oriani/)
-
-![Dirty](/images/dirty/dirty.jpg)
-# [Dirty -Vocals](/galleries/dirty/)
+SAMAEL ALEJANDRO R.(bateria) 

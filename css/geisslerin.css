@@ -1,15 +1,15 @@
 @import '../css/generic.css';
 body {
   background: #000;
-  background-image: url(../images/geisslerin/gbg.png);
+  background-image: url("../images/geisslerin/gbg.png");
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   padding: 0 0;
-  background-image: url(../images/geisslerin/gbg.png), -moz-linear-gradient(top, #000 0%, #300 75%, #660000 100%);
-  background-image: url(../images/geisslerin/gbg.png), -webkit-linear-gradient(top, #000 0%, #300 35%, #660000 100%);
-  background-image: url(../images/geisslerin/gbg.png), linear-gradient(to bottom, #000 0%, #300 75%, #660000 100%);
+  background-image: url("../images/geisslerin/gbg.png"), -moz-linear-gradient(top, #000 0%, #300 75%, #660000 100%);
+  background-image: url("../images/geisslerin/gbg.png"), -webkit-linear-gradient(top, #000 0%, #300 35%, #660000 100%);
+  background-image: url("../images/geisslerin/gbg.png"), linear-gradient(to bottom, #000 0%, #300 75%, #660000 100%);
 }
 h1,h2,h3,h4,h5,h6{text-shadow: 0px 0px 5px black; text-align:center; margin:0; font-family: ProgressiveText; font-weight:lighter;}
 article h1 a, h1 a {
@@ -101,6 +101,7 @@ article h1 a:hover, h1 a:hover {
   color: white;
   font-weight: bold;
 }
+.lateral img{width: 80%;}
 .content{
   border-radius: 10px 10px 10px 10px;
   border-style: solid;

@@ -150,6 +150,7 @@ article a:hover{color: cyan;}
   color: black;
   text-align: justify;
 }
+.entry img {width: 99%;}
 .aimg{
   width: 25%;
 }
