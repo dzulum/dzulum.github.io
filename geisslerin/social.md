@@ -4,11 +4,9 @@ title: Social
 permalink: /geisslerin/social/
 ---
 
-![Rain In Blood Contacts](/images/varias/contactos.jpg)
-
-## [Facebook Page](https://www.facebook.com/RaininBloodband/)
-## [Instagram](https://www.instagram.com/raininbloodmetalband/)
-## [Spotify](https://open.spotify.com/artist/2ph1MompWrmSL3Iv8DK8vb?si=YLmrpL4pQ4CGc1tEU9Y2CA&nd=1)
-
-## Whatsapp 5534628109
-## eMail raininbloodband[at]gmail.com
+<ul>
+    <li><a href="https://www.facebook.com/geisslerin.metalband" target="_blank">Facebook</a></li>
+    <li><a href="https://soundcloud.com/geisslerin-metal-band" target="_blank">SoundCloud</a></li>
+    <li><a href="https://geisslerin.bandcamp.com/" target="_blank">Bandcamp</a></li>
+    <li><a href="https://www.youtube.com/channel/UCF2DNSED0G-cLLu2nq9SQnw" target="_blank">YouTube</a></li>
+</ul>
