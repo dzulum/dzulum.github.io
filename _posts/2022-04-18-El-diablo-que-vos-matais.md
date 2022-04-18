@@ -2,7 +2,7 @@
 layout: post
 date: 2022-04-18 13:30
 tags: relato
-title: El diabo que vos matais
+title: El diablo que vos matais
 ---
 
 ¿Qué tal que no existiera el diablo? Es tan necesaria su presencia en la Tierra, como el agua, como el verde del árbol, como la mujer. Sin su aporte malicioso, inteligente incluso, Adán y Eva aún vivirían en un paraíso artificial, sin sudores ni lágrimas, idealizados, metidos en una burbuja incontaminada. ¿Qué sería de nosotros sin sus tentaciones?

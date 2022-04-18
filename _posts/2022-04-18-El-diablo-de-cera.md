@@ -2,7 +2,7 @@
 layout: post
 date: 2022-04-18 13:31
 tags: relato
-title: El Diabo de cera
+title: El Diablo de cera
 ---
 
 **John Flanders**
