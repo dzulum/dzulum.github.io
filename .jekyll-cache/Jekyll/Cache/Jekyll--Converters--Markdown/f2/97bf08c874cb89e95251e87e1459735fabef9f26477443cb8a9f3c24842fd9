@@ -1,0 +1,21 @@
+I"_<h1 id="castero">Castero</h1>
+
+<p>Hoy quiero hablarl/escribir sobre 
+<a href="https://github.com/xgi/castero">Castero</a>, es un programa para escuchar, 
+descargar y suscribirte a tus podcasts favoritos desde la terminal y 
+justo eso lo que más me agrada de este, la interfaz es muy simple y 
+sencilla, solo consta de tres columnas y una barra de titulo.</p>
+
+<p>En arch y derivados se instala desde aur o bien en general desde git.</p>
+
+<p><img src="/images/castero/castero.png" alt="Castero" /></p>
+
+<p>En la siguiente imagen vemos la pantalla de ayuda, como vemos en la 
+misma no hay mucho que hacer, solo agregar el feed y listo.</p>
+
+<p><img src="/images/castero/castero-help.png" alt="Castero Help" /></p>
+
+<p>No es muy extensa esta publicación pero espero te vaya causando 
+curiosidad entrar al mundo de linux y sobre todo entrar al mundo 
+terminal.</p>
+:ET
