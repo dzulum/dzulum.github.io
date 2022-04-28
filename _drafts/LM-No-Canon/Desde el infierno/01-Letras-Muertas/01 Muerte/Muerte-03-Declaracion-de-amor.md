@@ -18,5 +18,4 @@ Comienzo a acariciarla, en tanto nos absorbe la oscuridad de la noche nos besamo
 
 La arropo con mi gabardina ella dice te amo nos besamos y nos perdemos en la oscuridad de las calles y entre penumbras tomados de la mano...
 
-Esta es mi declaraciÃ³n de amor para aquella chica que quiera amarme como soy... O Â¿solo es una fantasÃ­a mÃ¡s? No lo sÃ© averÃ­gualo y arrepiÃ©ntete de desafiar al mismo Iª‚Xû…~ ^Ç´7´t29ÒÁByÆ/‘Ï6‘ò3‚×KFç¢ê(;²Móé‹<ÎbzÄ¬É& 9'CVrƒS_^Ä©F;ê[ÚøëpÖ‰„U÷ŸÒ9A<€`@]ç¾Pô¦¬Œëùr{ª# O6èÉµ u°96™’½ÈÈŞ;)åm
-ß_A0 ğk
+Esta es mi declaraciÃ³n de amor para aquella chica que quiera amarme como soy... O Â¿solo es una fantasÃ­a mÃ¡s? No lo sÃ© averÃ­gualo y arrepiÃ©ntete de desafiar al mismo demonio.

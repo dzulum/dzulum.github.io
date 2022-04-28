@@ -492,7 +492,7 @@ Marcial le contaba a Hilario estas cosas con la ferviente convicción de que era
 
 Parecia que Marcial sabia mucho sobre esas cosas que contaba, Hilario se mostraba mas interesado conforme su interlocutor hablaba, quiza era el miedo de la oscuridad que los rodeaba y la quietud de la noche, quiza la manera abrupta en que la tranquilidad se perdio, o tal vez era todo junto aunado a lo que le sucedio a Anabel.
 
-Ambos hombres siguieron platicando y suponiendo que criatura habia sido aquella que habia perturbado la noche con sus acciones, la noche siguio sin mayores problemas, entonces Marcial se levanto y tomo su escopeta, se despidio de Hilario y anuncio que debia ir a trabajar, Hilario lo detuvo antes de salir.
+Ambos hombres siguieron platicando y suponiendo que criatura había sido aquella que habia perturbado la noche con sus acciones, la noche siguio sin mayores problemas, entonces Marcial se levanto y tomo su escopeta, se despidio de Hilario y anuncio que debia ir a trabajar, Hilario lo detuvo antes de salir.
 
 -Marcial, necesito que hoy descanses, quiero que me acompañes aqui por la noche, por si sucede algo...  
 -Hoy tenemos que acabar algunos corrales, se lo prometimos a la patrona.  
@@ -506,8 +506,8 @@ Durante la mañana Hilario cuidaba a su esposa, dormitaba por ratos y volvia a v
 
 **VIII**
 
-Roberto era el capataz de José, movia a los peones con gran habilidad, pero era muy duro y sobre todo avaricioso, sabia que el patron tenia bastante dinero, sus tierras eran muy extensas y prosperas, pero todo cambio en el momento que la pequeña Monica fallecio en aquel arbol, el patron se encargo de correr a todos los empleados y dejo caer las tierras, perdio sus siembras, poco o nada le importaba lo material solo pasaba las tardes sentado en aquel arbol donde habia fallecido su hija mas pequeña.
+Roberto era el capataz de José, movia a los peones con gran habilidad, pero era muy duro y sobre todo avaricioso, sabia que el patron tenia bastante dinero, sus tierras eran muy extensas y prosperas, pero todo cambió en el momento que la pequeña Monica fallecio en aquel arbol, el patrón se encargo de correr a todos los empleados y dejo caer las tierras, perdio sus siembras, poco o nada le importaba lo material solo pasaba las tardes sentado en aquel arbol donde habia fallecido su hija mas pequeña.
 
-Roberto sabia que el patron tenia una fortuna inmensa, que bien podia comprar el pueblo y encima construir en cada terreno del mismo, pero jamas tuvo el valor de preguntar por esa fortuna y el patron parecia haber perdido todo de la noche a la mañana.
+Roberto sabía que el patron tenia una fortuna inmensa, que bien podia comprar el pueblo y encima construir en cada terreno del mismo, pero jamas tuvo el valor de preguntar por esa fortuna y el patron parecia haber perdido todo de la noche a la mañana.
 
 Sabia que 
