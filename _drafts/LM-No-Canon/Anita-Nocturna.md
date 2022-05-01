@@ -7,8 +7,7 @@ title: Nocturna
 
 # Nocturna
 
-Recién me había acercado a la chica que conocí en un local de comida, mi pretexto fue invitarle un café aunque la verdad tenia algo que contarle, sabia cosas de su vida que ella no había podido contarle a nadie aún, pues con todo y la confianza que tenía con sus padres simplemente no le había contado lo que hacia unos días había comenzado a pasarle 
-cuando estaba a solas en su habitación.
+Recién me había acercado a la chica que conocí en un local de comida, mi pretexto fue invitarle un café aunque la verdad tenia algo que contarle, sabia cosas de su vida que ella no había podido contarle a nadie aún, pues con todo y la confianza que tenía con sus padres simplemente no le había contado lo que hacia unos días había comenzado a pasarle cuando estaba a solas en su habitación.
 
 -Siento la inesperada manera en que te llame por tu nombre, se que no debería llamarte así sin haberme presentado ni mucho menos decirte que hago aquí, bueno pues me llamo Sicker y hace tiempo tengo cierta habilidad para detectar personas que necesitan algún tipo de ayuda espiritual, no soy brujo ni adivino o algo parecido, solo se que hay algo que te ha estado molestando hace días y sé que lo provoco- fue lo primero que se me ocurrió decirle después de invitarle el café casi a fuerza, pues lo había ordenado sin siquiera presentarme.
 
@@ -16,8 +15,7 @@ Ella me miro fijamente, con cierta sorpresa pregunto como sabia su nombre, aunqu
 
 Le conté algo que vi en un destello dentro de mi mente, aquello que vivía a solas en su habitación, aquello que se callaba para no provocar burlas por parte de sus familiares, para que me creyera tuve que ser explicito y comencé.
 
-Esa noche habías llegado de casa de una amiga, cuando llegaste a casa no había nadie así que fuiste directo a tu habitación a cambiarte para descansar, escuchaste ruidos y a manera de broma invitaste a pasar a "eso" cuando se abrió la puerta de tu habitación pensando que era el aire que había entrado por la ventana y esa corriente había abierto tu 
-puerta.
+Esa noche habías llegado de casa de una amiga, cuando llegaste a casa no había nadie así que fuiste directo a tu habitación a cambiarte para descansar, escuchaste ruidos y a manera de broma invitaste a pasar a "eso" cuando se abrió la puerta de tu habitación pensando que era el aire que había entrado por la ventana y esa corriente había abierto tu puerta.
 
 Se quedo mirándome a los ojos, sosteniendo la humeante taza frente a su rostro.
 
@@ -29,8 +27,7 @@ Se quedo mirándome a los ojos, sosteniendo la humeante taza frente a su rostro.
 
 Así comenzó aquella velada, platicábamos mientras cenamos cuando terminamos salimos a la calle y terminamos caminando a su casa, ahí afuera platicamos un rato y después de un rato me despedí y me retire, dejándola ahí, en la entrada de su casa, no sin antes hacerle saber que a la noche siguiente volvería a verla.
 
-Volví al departamento donde vivía en ese momento y en el camino solo podía pensar en aquello que había visto en mi mente cuando mire por primera vez a esa chica sabia que de alguna forma íbamos a vivir algunas cosas juntos, justo al llegar al departamento se desato una lluvia muy fuerte acompañada de una tormenta eléctrica, apenas pude entrar sin 
-mojarme, me dispuse a descansar.
+Volví al departamento donde vivía en ese momento y en el camino solo podía pensar en aquello que había visto en mi mente cuando mire por primera vez a esa chica sabia que de alguna forma íbamos a vivir algunas cosas juntos, justo al llegar al departamento se desato una lluvia muy fuerte acompañada de una tormenta eléctrica, apenas pude entrar sin mojarme, me dispuse a descansar.
 
 Ya estando en mi habitación recostado sobre la cama aun me daba vueltas en la cabeza todo aquello, no podía dejar de pensar en aquellas visiones hasta que el sueño me venció.
 
@@ -94,18 +91,18 @@ A la mañana siguiente desperte casi a las nueve, apenas desperte me fui a prepa
 
 Una vez que bebi mi cafe sali debia ir a buscar a aquella chica, aproximadamente una hora y media despues llegué a mi destino, toque en su puerta y espere a que alguien saliera, salio su padre y me miro con cara de pocos amigos.
 
--¿Que se te ofrece?
--Busco a Ana... Anita.
--¿Quien eres y que quieres con ella?
--Vera señor...- Esperaba me dijera su nombre pero no sucedió- tengo asuntos personales con ella, no es nada malo ni privado, si gusta puede estar presente mientras hablo con ella.
--¿Personales? Pues habla, te escucho.
--Es necesario hablar con ella, tengo una solución que ella busca, si esta dentro por favor digale que Sicker esta aquí, se lo pido con todo el respeto que se merece usted.
--¡hum! ¿seguro? Espero que no quieras pasarte de listo.
+-¿Que se te ofrece?  
+-Busco a Ana... Anita.  
+-¿Quien eres y que quieres con ella?  
+-Vera señor...- Esperaba me dijera su nombre pero no sucedió- tengo asuntos personales con ella, no es nada malo ni privado, si gusta puede estar presente mientras hablo con ella.  
+-¿Personales? Pues habla, te escucho.  
+-Es necesario hablar con ella, tengo una solución que ella busca, si esta dentro por favor digale que Sicker esta aquí, se lo pido con todo el respeto que se merece usted.  
+-¡hum! ¿seguro? Espero que no quieras pasarte de listo.  
 -Creame señor, he tenido la oportunidad de hacerlo y aparte de respetar a su hija he respetado su casa, su hijo sabe de mi tambien.
 
 El tipo se quedo mirando muy serio unos segundos, despues cerro la puerta bruscamente y escuche sus pasos alejarse, unos instantes despues salió y con la misma seriedad que momentos antes habia hablado me indico que entrara.
 
--Sientese ahi, ahora viene mi hija, ¿Que es tan importante como para que venga sin importar quien este aqui?
+-Sientese ahi, ahora viene mi hija, ¿Que es tan importante como para que venga sin importar quien este aqui?  
 -Si le digo la verdad tendra que creerme si o si, asi que prepárese a escuchar la historia mas disparatada que puede haber escuchado en su vida, le conviene creer porque su familia tambien esta involucrada de cierta forma.  
 -Habla- Su rostro tomo un aspecto mas serio aun- mejor sera que no quieras venir a burlarte o a amenazar, te va a pesar si lo haces.  
 -Señor, le insisto, eso ya pudo haber sucedido, ademas... usted esta muerto de miedo por dentro con mi simple presencia.
@@ -132,3 +129,5 @@ La madre de Ana era demasiado religiosa, aceptaba la existencia de dios y los sa
 
 -Escucha, debemos deshacernos de todo aquello que esta dentro de esta casa, en el patio ayer por la noche habia algo aqui, justo en la entrada y alla en el cuarto del fondo estaba una anciana que tu me señalaste, esa misma anciana estaba cerca de nosotros cuando se escuchaban los pasos, cuando la llama de mi encendedor alumbraba y me tomaste para salir corriendo, era la misma, la pude ver en la ventana que esta al final del patio, cuando te desmayaste la perdi de vista junto al ser que estaba a mi lado, resguardado por la oscuridad al filo de la puerta.  
 Sea lo que sea debemos iniciar por ese cuarto ya que es el mas alejado en la casa, y hay que averigüar quien es la anciana, no se que haga o quien sea, pero seguramente tiene algun control sobre las demas criaturas que hemos sentido y escuchado.  
+
+El padre de la chica sabia que aquello que se hablaba momentos antes era serio, de alguna manera estaba en medio de un dilema, pues su esposa no iba a creer ni permitir nada de lo que se deberia hacer para expulsar a aquellos entes de su casa.
