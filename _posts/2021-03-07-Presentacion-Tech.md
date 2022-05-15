@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tech
 date: 2021-03-07 22:28:00 -0600
 tags: tech
 title: Presentación

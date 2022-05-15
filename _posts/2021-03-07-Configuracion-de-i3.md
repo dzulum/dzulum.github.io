@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tech
 tags: tech
 date: 2021-03-07 22:30:00 -0600
 title: "Configuración de i3"

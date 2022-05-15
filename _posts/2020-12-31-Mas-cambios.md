@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tech
 tags: blog audio dzulum tech
 date: 2020-12-31 15:20:40 -0600
 title: 'Más Cambios'

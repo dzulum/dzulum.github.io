@@ -4,7 +4,9 @@ date: 2020-11-14 00:00:04
 tags: relato
 title: Agujero Negro
 ---
-# Agujero Negro
+![Agujero Negro](/images/post/agujero-negro.jpg)
+
+Foto por <a href="https://pixnio.com/es/diverso/hombre-sol-abstracto-arte-sombra-silueta" target="_blank">Devanath</a> en <a href="https://pixnio.com/es/" target="_blank">Pixnio</a>.
 
 **Por Alfonso Chacón**
 
