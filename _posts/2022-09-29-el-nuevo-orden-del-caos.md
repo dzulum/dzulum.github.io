@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: relato
-date 2022-09-29 20:39:00
-title: "El nuevo orden del caos"
+date: 2022-09-29 20:39:00
+title: El nuevo orden del caos
 ---
 
 # El nuevo orden del caos
