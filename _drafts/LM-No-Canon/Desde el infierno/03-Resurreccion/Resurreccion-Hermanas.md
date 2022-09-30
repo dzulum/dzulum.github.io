@@ -27,7 +27,7 @@ dura en provicia y que no siempre hay oportunidades buenas en un pequeño
 pueblo lleno de muchachillos que lo mas alto que pueden aspirar es tener 
 un tractor para no mover la tierra a mano y una camioneta que si bien es 
 utilitaria la usaran para sentir que tienen el auto mas lujoso del 
-mundo, la contraparte de estos chico le parecia eran las chiquillas 
+mundo, la contraparte de estos chicos le parecia eran las chiquillas 
 bobas que no sabian el valor del dinero y se deslumbraban a la primer 
 situacion monetaria que veian.
 
@@ -35,7 +35,7 @@ Esa mañana desayuno con mucho gusto la comida que su madre le habia
 preparado y de subito anuncio que estaba lista para irse, queria ser 
 secretaria y en aquel entonces se veia venir a la vanguardia de las 
 asistentes es saber utilizar una computadora, los finales de los 80's y 
-princupios de los 90's fuero caoticos en la informacion y formacion de 
+principios de los 90's fueron caoticos en la informacion y formacion de 
 las personas y ella queria aprender eso y mejorar lo que aprendio en 
 secundaria.
 
@@ -84,7 +84,7 @@ mata de finos vellos pubicos broto un chorro de tibia orina, se escucho
 el repiqueteo en el metal y poco a poco su alma fue sintiendo el alivio 
 de deshacerse de aquella molestia, tomo un poco de papel y se seco, 
 devolvio su ropa interior a su lugar y procedio a lavar sus manos, 
-saliod el baño y volvio a su lugar entre el vaiven del autobus, perdida 
+salio del baño y volvio a su lugar entre el vaiven del autobus, perdida 
 entre penumbras a media luz, apenas habia tomado asiento el autobus se 
 rodeo de luz, llegaban a una gasolinera y el chofer se aparco afuera de 
 un restaurante.
@@ -133,7 +133,7 @@ una de refaccion, cuando por fin sucedio reanudaron su marcha, esta ves
 Amelia no pudo dormir y siguio en vela todo el trayecto simplemente 
 mirando la oscuridad.
 
-El viaje continuo sin contratiempos al llegar a la centras campionera de 
+El viaje continuo sin contratiempos al llegar a la central campionera de 
 la cuidad su hermana la estaba esperando, ambas se abrazaron con mucho 
 cariño y se dirigieron a la casa de Carmela.
 
@@ -177,7 +177,7 @@ Carmela ayudo a su pequeña hermana a maquillarse para que se viera aun
 mas linda, ambas chicas eran muy agraciadas fisicamente, ambas muy 
 guapas, hermosas en realldad.
 
-Salieron inoscentes en busca de una tarde de diversion, viajaron en 
+Salieron inocentes en busca de una tarde de diversion, viajaron en 
 metro unas cuantas estaciones hasta llegar al metro Guelatao, ahi 
 bajaron del mismo y caminaron unas  cuadras, ya en el lugar Carmela 
 comenzo a saludar a unas cuantas personas, ella habia visitado el lugar 
@@ -186,7 +186,7 @@ tenia algunos conocidos.
 
 La tarde transcurria sin menor contratiempo ambas bailaban con los 
 chicos que se acercaban a pedirles una pieza, Amelia noto que un chico 
-muy bien vestido llegaba, nadie se le acercaba y lo saludaban, parecia 
+muy bien vestido llegaba, nadie se le acercaba ni lo saludaban, parecia 
 como perdido asi que golpeo levemente a su hermana con el codo.
 
 -¿Quien es ese? esta guapo.  
@@ -247,11 +247,11 @@ mientras esta caia desmayada.
 
 El tipo saco unas esposas de la guantera, se las dio a Carmela y le 
 exigio que la esposara a la manija de la puerta para que no pudiera 
-escapar si despertaba, ella obedecio a punta de pistola, cuando esposo a 
+escapar si despertaba, ella obedecio a punta de pistola, cuando esposó a 
 su hermana el la tomo del cabello, la bajo del auto y comenzo a arrancar 
 sus ropas.
 
-Descarro su blusa y la hizo girones, arranco sus sosten dejando ver 
+Desgarró su blusa y la hizo girones, arranco sus sosten dejando ver 
 aquel hermoso par de pechos, ni bien habia arrancado la blusa de Carmela 
 ella intento cubrirse, pero un duro puño la golpeo en el rostro, entre 
 lamentos suplicaba al tipo que se detuviera, pero este no hacia caso, 
@@ -262,19 +262,19 @@ El tipo bajo sus pantalones y de ellos broto un pene erecto, palpitante,
 la tomo con una mano por el cabello y acerco su arma que sostenia en la 
 otra -¡Abre el hocico perra! -ordeno imponente a la pobre chica qu 
 sollozaba, ella no hizo caso a la primer orden, el la golpeo con la boca 
-del cañon justo en la nariz -¡Que habar el hocico puta!- volvio a rugir 
+del cañon justo en la nariz -¡Que habrás el hocico puta!- volvio a rugir 
 el tipo.
 
 Ella estaba ahi desvalida, indefensa, solo le quedo abrir la boca y 
 terminar pronto aquella pesadilla, queria evitar eso para su hermana, el 
-pene se introdujo entre lagrimas y la sangre de a chica a la boca de 
+pene se introdujo entre lagrimas y la sangre de la chica a la boca de 
 esta, -¡mamalo puta, mamalo!- exclamaba el tipo jalandola del cabello, 
 mas tarde que temprano la voluntad de Carmela cedio y comenzo a cooperar 
 para terminar lo antes posible con esa traumatica experiencia.
 
 Despues de unos minutos el tipo la hizo levantarse y la llevo al cofre 
 del auto, ahi la recargo contra la lamina fria y penetro su vagina, ella 
-lloraba y genia de dolor, pero a el nada le importo, y siguio, de pronto 
+lloraba y gemia de dolor, pero a el nada le importo, y siguio, de pronto 
 y sin haber eyaculado en ella ni afuera la tiro al piso, tomo el 
 revolver y de la nada le dio tres dirparos en la cabeza, ahi quedo la 
 pobre chica, con sus sueños frustrados, con la vida arrancada por un ser 
@@ -343,7 +343,7 @@ movimiento y tras un grito desgarrador estaba disfrutando de un trasero
 virgen.
 
 El se movia freneticamente, mientras la chiquilla apenas tenia fuerzas 
-para respirar, estaba destrozada, casi desmayada por el descaste fisico 
+para respirar, estaba destrozada, casi desmayada por el desgaste fisico 
 al cual fue obligada, de un momento al otro el tipo inicio a quejarse y 
 llego el momento del descanso, se quedo ahi, sobre sus rodillas, con el 
 esfinter dilatado, escurriendo semen, sangre y mierda.
@@ -352,7 +352,7 @@ esfinter dilatado, escurriendo semen, sangre y mierda.
 que acababa de robarle todo aquello de lo que se sentia orgullosa- 
 segundos despues ella intento girarse y ponerse de pie, un certero 
 disparo le destrozo el pomulo, mandandola de vuelta al piso, ella no 
-pudo mos y se desmayo.
+pudo más y se desmayo.
 
 Cuando desperto el tipo se habia marchado, la dejo ahi, esposada, 
 desnuda, volvio a mirar el cuerpo de su hermana y lloro 

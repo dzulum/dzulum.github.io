@@ -1,4 +1,9 @@
-# El previsor
+---
+layout: post
+date: 2022-09-29 23:31:00
+tags: relato
+title: "El previsor"
+---
 
 La campanilla de hojalata tintineó por encima de la puerta.  
 Van Gor levantó los ojos del bolígrafo que bailaba entre sus largos dedos; el hombrecillo entró lentamente arrastrando sus piececillos por la moqueta, pese a lo lentamente que se cerraba la vieja puerta tuvo que hacer un movimiento con el hombro para no golpearse. Van Gor reprimió una risilla al ver a personaje tan excéntrico: embutido en una gabardina, un ser enjuto que apenas se elevaba a 1'50 sobre el suelo, escondía un rostro arrugado bajo el cuello levantado del abrigo, su calva brillaba bajo los tubos de luz que albergaban a miles de polillas

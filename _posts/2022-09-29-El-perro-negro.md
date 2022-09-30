@@ -1,4 +1,9 @@
-# EL PERRO NEGRO
+---
+layout: post
+date: 2022-09-29 22:36:00
+tags: relato
+title: "EL PERRO NEGRO"
+---
 
 Para el cumplimiento de determinadas funciones, los brujos disponen de
 diversas criaturas, especialmente aves. Estos animales, a los cuales de
@@ -50,7 +55,7 @@ Cuando el marido volvió a casa, ella le contó lo ocurrido, pero él no
 le creyó.
 
 Entonces, cuando vino la noche, y el matrimonio se fue a dormir, el
-siniestro suceso ocurrió otra vez.....primero se sintió el grito del
+siniestro suceso ocurrió otra vez... primero se sintió el grito del
 Coo, luego el perro entró a la casa a través de la pared, y se sentó
 junto a la cama mostrando los dientes y gruñendo. Ahora ni el hombre ni
 la mujer se podían mover, pues la extraña fuerza mantenía a ambos

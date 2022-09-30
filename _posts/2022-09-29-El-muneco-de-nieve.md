@@ -1,4 +1,9 @@
-# EL MUÑECO DE NIEVE
+---
+layout: post
+tags: relato
+date: 2022-09-29 20:25:00
+title:  "EL MUÑECO DE NIEVE"
+---
 
 El relato que aquí nos ocupa ocurrió en una aldea palentina norteña,
 hoy ya desaparecida. Se trata de un suceso en el que la nieve tuvo

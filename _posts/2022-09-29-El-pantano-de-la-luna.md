@@ -1,4 +1,9 @@
-# EL PANTANO DE LA LUNA
+---
+layout: post
+date: 2022-09-29 22:30:00
+tags: lovecraft
+title: "EL PANTANO DE LA LUNA"
+---
 
 **H. P. Lovecraft**
 

@@ -1,4 +1,10 @@
-# El momento de las sabias decisiones.
+---
+layout: post
+date: 2022-09-29 20:21:00
+tags: relato
+date: 2022-09-29 20:21:00
+title: "El momento de las sabias decisiones"
+---
 
 **Por Juan Antonio Aguilar Herrera**
 

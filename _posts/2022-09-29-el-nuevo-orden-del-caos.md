@@ -1,4 +1,9 @@
-# EL NUEVO ORDEN DEL CAOS
+---
+layout: post
+tags: relato
+date 2022-09-29 20:39:00
+title: "EL NUEVO ORDEN DEL CAOS"
+---
 
 ### PREFACIO
 
