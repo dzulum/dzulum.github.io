@@ -42,7 +42,7 @@ cojan a las muy perras, le expreso cuanto lo amaba, pues era su amado
 padre... Su amado padre ejemplar, Ed hecho de reversa el auto y salió
 del estacionamiento de la escuela
 
-Miro a la hermosa diana y le sonrió tocándole la pierna con la inocencia
+Miró a la hermosa diana y le sonrió tocándole la pierna con la inocencia
 de un padre morboso y le dijo que hoy no iría a la escuela, sino que irían
 a visitar a sus tías, las cuales ciertamente eran un par de viejas arañas
 ponzoñosas, y así fue, el buen y ejemplar Ed explico a sus gordas y
@@ -84,7 +84,7 @@ pasar ¿verdad?, pero no te estoy pidiendo perdón, solo te digo que no
 pasara nunca más porque... Morirás hoy-, acto seguido camino hacia la
 cama y con el cigarrillo quemo el seno derecho de Mari, fumo y lo volvió
 a hacer y así una y otra vez hasta que se acabó el cigarrillo, se quedó
-parado un momento observando aquel panorama de cenizas y carne irritada, cogió un bisturí que tenía preparado, tomo el pezón derecho de Mari con los dedos índice y pulgar, lo estiro y lo corto desde la deliciosa aureola rosada, Mari se retorció del dolor, pero eso no impidió que Ed lo hiciera, Ed tomo el pezón y lo introdujo en su boca masticándolo suave y lentamente, después comenzó a beber la sangre que escurría de la teta de Mari, encendió otro cigarrillo y cauterizo la herida con quemaduras.
+parado un momento observando aquel panorama de cenizas y carne irritada, cogió un bisturí que tenía preparado, tomo el pezón derecho de Mari con los dedos índice y pulgar, lo estiro y lo corto desde la deliciosa aureola rosada, Mari se retorció del dolor, pero eso no impidió que Ed lo hiciera, Ed tomo el pezón y lo introdujo en su boca masticándolo suave y lentamente, después comenzó a beber la sangre que escurría de la teta de Mari, encendió otro cigarrillo y cauterizo la herida con quemaduras.
 
 Mary no soportaba más, su llanto se desvanecía poco a poco de su rostro
 hasta que se desmayó del dolor, apenas había perdido el conocimiento
@@ -179,7 +179,7 @@ característica de los niños problema pregunto -¿y mi mama donde esta?-
 en la cocina-contesto muy sonriente Ed, pero no te preocupes hará una
 deliciosa comida para cuando salgamos de la ducha, así que comienza a
 desnudarte para que nos duchemos-, y así lo hizo, Diego comenzó a
-quitarse la ropa y se dirigió hacia el cuarto de baño, Ed lo siguió
+quitarse la ropa y se dirigió hacia el cuarto de baño, Ed lo siguió
 igualmente desnudo y ambos entraron a aquella habitación la cual sería
 la última que pisaría el estúpido niño, ya dentro Ed abrió la llave de agua
 caliente pero no la del agua fría, ¡claro! Sin que aquel estúpido escuincle
@@ -202,16 +202,10 @@ el violar el cadáver de aquel maldito niño que lo había hecho molestase
 durante tantos años, lo violo con tanta saña que hasta volteo su esfínter,
 después de unos minutos de esos movimientos frenéticos Ed eyaculo
 dentro del recto de su tan amado hijo, su tan apreciado juguete sexual,
-solo eso un juguete "Nuevo y desechable",
+solo eso un juguete "Nuevo y desechable", no me importa si piensan que soy un maldito degenerado, o si piensan que Ed lo es, bien Ed limpio su verga en el cuerpo, ¡ups!, cadáver de su hijo y lo llevo a la cocina para comenzar a destazar aquel miserable cuerpo y arrancar la piel para así lavar la carne y hacer un delicioso caldo con verduras, el tan conocido "Caldo Tlalpeño" En México.
 
-No me importa si piensan que soy un maldito degenerado, o si piensan
-que Ed lo es, bien Ed limpio su verga en el cuerpo, ¡ups!, cadáver de su
-hijo y lo llevo a la cocina para comenzar a destazar aquel miserable
-cuerpo y arrancar la piel para así lavar la carne y hacer un delicioso caldo
-con verduras, el tan conocido "Caldo Tlalpeño" En México.
-
-Arranco la piel cuidadosamente ayudado de un filoso cuchillo, después
-abrió el cuerpo y saco las vísceras del miserable cuerpo, al terminar lo
+Arrancó la piel cuidadosamente ayudado de un filoso cuchillo, después
+abrió el cuerpo y saco las vísceras del miserable cuerpo, al terminar lo
 destazo y comenzó a lavar la carne parte por parte, guardo lo que no
 necesitaría en el refrigerador y puso a hervir el resto en una olla mientras
 picaba las verduras y hacia su rica salsa para degustar ese delicioso
@@ -235,16 +229,14 @@ comida casera.
 Pero lo que más le gusto al imbécil de Tom fue su refresco de cola con
 pastillas para dormir que Ed le había puesto discretamente antes de
 comer y ya comenzaban a hacer efecto, así que Ed como buen padre
-cargo a su somnoliento hijo a su habitación para que durmiera... Por
-
-última vez...
+cargo a su somnoliento hijo a su habitación para que durmiera... Por última vez...
 
 Lo amarro con el hilo de pescar al punto de que sus cuatro extremidades
 se comenzaron a poner moradas al cabo de unos minutos, los anzuelos
 los atravesó en los pezones de Tom y uno más en su pene como si este
 fuera simple carnada para un pez , los ato todos con hilo y lo estiro hasta
 que quedo bastante tenso, pero el maldito escuincle no sintió nada por el
-efecto de las pastillas, Ed siguió con su juego pero no sin antes claro,
+efecto de las pastillas, Ed siguió con su juego pero no sin antes claro,
 ponerle una mordaza a Tom para que no gritara, desarmo el estéreo de
 la casa y le quito el regulador, si aquel cuadro con una bobina que se usa
 para hacer máquinas de toques, tomo el cable y lo coloco en las agujas
@@ -276,7 +268,7 @@ rata y la devoraban, pero esta vez tendrían un manjar de carne tierna y
 lo disfrutarían bastante, quizá hasta podrían guardar un poco para
 degustar más carne en la mañana, cuando Ed salió del sótano las ratas
 se abalanzaron sobre Tom mordiendo varias partes de su cuerpo,
-principalmente las nalgas y piernas pues es donde más carne había, solo
+principalmente las nalgas y piernas pues es donde más carne había, solo
 se escuchaba el chillido de las ratas y los sollozos de Tom, después de un
 tiempo los sollozos cesaron, Tom había muerto desangrado por que unas
 ratas mordieron su yugular y varias venas más haciéndole pasar una
@@ -308,7 +300,7 @@ idea, Ed camino entre los pasillos para buscar lencería aún más sexy que
 esos simples trajes de baño, pero también busco una par de faldas
 parecidas a las escolares y un par de blusas para hacer juego, pero como
 "Irían a la playa" Diana debía verse bien para causar buena impresión así
-que Ed pregunto si ella deseaba rasurar o depilar sus deliciosos labios
+que Ed pregunto si ella deseaba rasurar o depilar sus deliciosos labios
 vaginales, Diana se quedó pensativa, dudosa, pero no por sospechar
 algo de Ed, sino porque sabía que rasurarse era rápido pero días después
 habría comezón, pero, por otro lado jamás se había depilado y tuvo
@@ -340,7 +332,7 @@ buen padre llevo el auto a donde estaba ella para que no caminara
 mucho en el peligroso estacionamiento pues uno nunca sabe las malas
 intenciones de la gente que pueda estar en un sitio así... (¡ja ja ja!).
 
-Diana subió al auto y Ed manejo algo lento para que la sal hiciera su
+Diana subió al auto y Ed manejo algo lento para que la sal hiciera su
 efecto y diana comenzara a tomar puesto dentro del plan y así fue,
 bendito sábado, mucha gente sale de trabajar temprano y hay un tráfico
 de la mierda, claro que el sol ayudaba un poco más pues hacía un calor
@@ -372,7 +364,7 @@ Al salir Diana esperaba en la entrada de la casa a Ed para que abriera el
 porta equipaje para sacar la ropa que habían comprado en aquella tienda,
 pero esa sensación que sentía entre sus piernas seguía ahí, era extraña
 pues no la había sentido nunca, estaba tan confundida que había
-pensado en decirle a su padre lo que le ocurría, pero se detenía por que
+pensado en decirle a su padre lo que le ocurría, pero se detenía por que
 también presentía que no sería bueno, así que solo espero a que Ed le
 diera las bolsas y hecho esto entro al baño y se desnudó pero noto que
 su ropa interior estaba húmeda, después toco su vulva y en sus dedos
@@ -403,8 +395,7 @@ poseerla por primera vez, ella estaba bien informada de sexualidad por
 medio de su escuela, pero jamás había tenido siquiera esa sensación de
 haber necesitado las caricias de un hombre, y como es de saberse algo
 se le quedo de la sick-o-logia de ser padre, sabiendo ella desde hace
-mucho que Ed quería ser el primer hombre entre sus piernas, ambos
-dentro de su acuerdo siguieron entregándose ese amor de siempre como
+mucho que Ed quería ser el primer hombre entre sus piernas, ambos dentro de su acuerdo siguieron entregándose ese amor de siempre como
 padre e hija pero a un nuevo nivel ya que ahora se demostraban cuanto
 se amaban, ella se relajó lo más que pudo y se acomodó preparándose
 así para la penetración, Ed acomodo su glande en la deliciosa vulva de
@@ -437,7 +428,7 @@ puerta, sino por una pequeña ventana que había en el baño, ¡maldita sea!
 Había por lo menos un francotirador afuera, esta había sido su primera
 vez, su primer crimen y fue capturado.
 
-Ed fue llevado a corte, y se le sentencio a cuarenta años por cargos de
+Ed fue llevado a corte, y se le sentencio a cuarenta años por cargos de
 homicidio múltiple, incesto, violación, canibalismo y varios agravantes
 más por su condición de sick-o-logo.
 
@@ -464,5 +455,4 @@ Los encabezados de los periódicos dicen: Niña queda huérfana después
 de morir su padre en prisión, misteriosamente ella es asesinada, al
 parecer el asesino solo la mato, no hay indicios de violencia, ni de
 violación, la muerte de la chica identificada como Diana G. R. Murió de
-
 una puñalada en la sien, el asesino esta suelto...

@@ -34,7 +34,7 @@ ella me tendió la mano, cuando él se acerco ella pareció rechazarlo muy fría
 -aguántala vieja, ya perdóname- dijo el tipo llorando.
 
 Y como no iba a estar enojada la mujer que venia a atenderse el parto,
-si todo el tiempo el tipo se la pasaba fuera de la casa, bebiendo, jugando
+si todo el tiempo el tipo se la pasaba fuera de la casa, bebiendo, jugando
 domino en la cantina y discutiendo con los amigos, el auto lo tenia por
 mera coincidencia de que su padre se lo había regalado hacia menos de
 dos meses, y cuando trabajaba lo hacia para su vicio, pues varios
@@ -202,7 +202,7 @@ mientras ella trabajaba para sacar dinero para malcomer y para ir
 pasando la renta.
 
 La vieja con la que trabajaba era mas o menos buena de repente y dejaba que Rosa, la mujer de mi papa, se llevara la comida que sobraba en la fonda para nosotros pero un día rosa murió atropellada a unas cuantas calles de donde vivíamos, ella nunca fue mala, de hecho la veía como toda una madre, siempre muy sumisa y respetuosa ante su imponente macho ya fallecido, no se por que jamas me denuncio si por mi culpa había sido peligroso el parto de mi
-hermanito, cuando ella murió vino la tía chucha por mis hermanitos pero
+hermanito, cuando ella murió vino la tía chucha por mis hermanitos pero
 no por mi, ni por el bebe vino por los de nueve y seis años, a mi me miro
 despectivamente con el bebe en brazos y me dijo con esa cara de desprecio  
 -tu ya estas muy grande y por lo que se ve cuidas bien del mocoso ese, hay se quedan y haber como le haces para vivir-  
@@ -228,7 +228,7 @@ que comenzara a oler mal, trataba de comer mucho para así no mirar su
 pequeño cuerpo ahí tirado sobre el viejo sartén que ahora solo contenía
 partes de su cuerpo y coágulos de sangre.
 
-Después de mi hermanito fueron varios mas y deje de hacerlo un tiempo,
+Después de mi hermanito fueron varios mas y deje de hacerlo un tiempo,
 pero luego fueron otros mas, y ahora la vieja Leo me insistía en hacerlo
 nuevamente, la vieja Leo parecía esperar con ansia el momento pues
 desde que tome al bebe no paraba de mirarme, lo puse encima de una

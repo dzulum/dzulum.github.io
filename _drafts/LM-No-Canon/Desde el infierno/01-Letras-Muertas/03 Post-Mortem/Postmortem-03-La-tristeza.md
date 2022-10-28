@@ -20,9 +20,8 @@ Marduk vendrá de entre los desterrados hijo mio... -fue la respuesta de ella-
 -Prefiero ser juzgado ante la corte de la tierra de Nod por haber acabado con los antiguos, que sentir esto... ¡Lilith... Madre!... Por favor haz que Caín sepa que ahora no estoy mas dentro del sabbath, no estoy del lado de la camarilla, no estoy con los anti-tribu, solo soy... Yo... Tu hijo, hazle saber que si el se dice ser el mas antiguo entonces yo seré quien levante
 a los antiguos en su contra, no olvides que también fui "Nigromante" antes de ser vampiro y aun no olvido nada, muy por el  contrario he aprendido mas, a lo cual digo que así como yo envié a los antiguos al infierno puedo levantarlos del mismo... Y si lo hago solo sera autoproclamarme su señor, ahora que veo tu no pareces protegerlo tanto o ya habrías callado mi boca...
 
-Ella me dio la espalda
-
--sabes que no es así, ven sígueme, ella esta afuera, esta llorando, ve y abrázala contra tu pecho te necesita-  
+Ella me dio la espalda
+-sabes que no es así, ven sígueme, ella esta afuera, esta llorando, ve y abrázala contra tu pecho te necesita-  
 -pero madre Marduk esta aquí, hazla pasar por favor-,  
 -no puedo, ella no es mi hija,  
 -madre... Esta bien yo lo haré-.

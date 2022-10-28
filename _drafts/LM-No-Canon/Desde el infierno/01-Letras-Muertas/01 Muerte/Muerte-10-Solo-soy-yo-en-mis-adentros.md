@@ -11,8 +11,7 @@ No te espantes, ya que no te lastimare si no me amas o bien si no me odias solo 
 
 Nunca he dado soluciones que sirvan de mucho, así que no pidas mi ayuda  si no quieres arruinarte la vida...
 
-¡No es para que te rías!... ¡es
-para que pienses!, solo para eso...
+¡No es para que te rías!... ¡es para que pienses!, solo para eso...
 
 Para que pienses un poco en que yo no soy quien para decirte como vivir tu vida, ya que es cuestión tuya y de nadie más.
 
