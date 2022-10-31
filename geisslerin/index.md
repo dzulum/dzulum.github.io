@@ -6,5 +6,8 @@ permalink: /geisslerin/
 
 Bienvenido a este sitio, un homenaje a la banda mexicana de death metal GEISSLERIN.
 
-![Rain In Blood - First Blood]({{ site.baseurl }}/images/geisslerin/gbg.png)
+![Geisslerin Logo]({{ site.baseurl }}/images/geisslerin/gbg.png)
 
+# Promo del Nuevo Albúm
+
+{% include youtube.html id="P94yihw_THI" %}

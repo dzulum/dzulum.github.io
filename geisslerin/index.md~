@@ -1,0 +1,13 @@
+---
+layout: geisslerin
+title: Main
+permalink: /geisslerin/
+---
+
+Bienvenido a este sitio, un homenaje a la banda mexicana de death metal GEISSLERIN.
+
+![Geisslerin Logo]({{ site.baseurl }}/images/geisslerin/gbg.png)
+
+# Promo del Nuevo Albúm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P94yihw_THI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
