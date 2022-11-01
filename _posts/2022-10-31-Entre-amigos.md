@@ -1,4 +1,10 @@
-# ENTRE AMIGOS
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: Entre amigos
+---
+
 **Por Grey Wolf (J. David Guardado L,).**  
 **E-mail: greywolf1@writeme.com**
 

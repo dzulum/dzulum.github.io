@@ -1,4 +1,9 @@
-# El Valle del Dios Sombrío
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: El Valle del Dios Sombrío
+---
 
 Tenía dieciséis años cuando aquéllo pasó. Aún ahora, que mi vida se va escapando como agua entre mis dedos y debo dictar estas notas a la guapa enfermera que amablemente se ha ofrecido a pasarlas a escrito -gracias, miss Kinnian-, aún ahora, digo, recuerdo a la perfección aquellos sucesos con la misma claridad como si hubiesen acontecido ayer.
 

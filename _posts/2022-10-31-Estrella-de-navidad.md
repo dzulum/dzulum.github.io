@@ -1,4 +1,9 @@
-# ESTRELLA DE NAVIDAD
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: Estrella de navidad
+---
 
 Mónica odiaba la navidad. Desde hacía mucho tiempo, por supuesto, antes de que estuviera de moda decir que uno detesta la fiesta más familiar y entrañable del año, por el simple hecho de serlo. Antes de que esas pandillas de biopunkis y macarras se adueñaran de las calles y bajo el lema de la contracultura hubieran decidido detestar en masa la antigua fiesta del invierno, celebrada por la humanidad en todos los lugares del mundo desde hacía diez mil años. No, los motivos de Mónica eran muy diferentes, aunque igualmente intangibles. Hacía seis años que Luis, su marido, había sido asesinado en estas mismas fechas. Un grupo de motoristas se le acercó mientras estaba patrullando, y, sin la menor provocación, le descerrajaron un tiro a bocajarro en pleno rostro. Un
 vecino que oyó la escena, pero que luego no quiso testificar ante la Policía, aseguró haber escuchado tremendas risotadas mientras los asesinos se marchaban. Mónica no oyó las risas, pero por algún motivo, las tenía grabadas en el corazón. Las había oído desde siempre, las había estudiado, las conocía y casi podía ver las caras de las que partían: salvajes, atroces, sin escrúpulos. Tal vez drogados.

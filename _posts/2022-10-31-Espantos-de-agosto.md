@@ -1,4 +1,9 @@
-# ESPANTOS DE AGOSTO
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: Espantos de agosto
+---
 
 Llegamos a Arezzo un poco antes del medio día, y perdimos más de dos horas buscando el castillo renacencista que el escritor venezolano Miguel Otero Silva había comprado en aquel recodo idílico de la campina toscana. Era un domingo de principios de agosto, ardiente y bullicioso, y no era fácil encontrar a alguien que supiera algo en las calles abarrotadas de turistas. Al cabo de muchas tentativas inútiles volvimos al automóvil, abandonamos la ciudad por un sendero de cipreses sin indicaciones viales, y una vieja pastora de gansos nos indicó con precisión dónde estaba el castillo. Antes de despedirse nos preguntó si pensábamos dormir allí, y le contestamos, como lo teníamos previsto, que sólo íbamos a almorzar.
 

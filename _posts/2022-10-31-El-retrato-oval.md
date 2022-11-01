@@ -1,6 +1,11 @@
-# El retrato oval
+---
+layout: post
+date: 2022-10-31 21:49:00
+tags: poe
+title: El retrato oval
+---
 
-Autor: Edgar Allan Poe
+**Autor: Edgar Allan Poe**
 
 El castillo en el cual mi criado se le había ocurrido penetrar a la
 fuerza en vez de permitirme, malhadadamente herido como estaba, de

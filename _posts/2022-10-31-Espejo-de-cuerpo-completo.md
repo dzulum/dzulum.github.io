@@ -1,4 +1,9 @@
-# ESPEJO DE CUERPO ENTERO
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: Espejo de cuerpo entero
+---
 
 Hoy subí al viejo desván, son ya cuatro años desde que olvide ahí el
 espejo. Aun recuerdo la noche en que lo cubrí, estaba dispuesto a

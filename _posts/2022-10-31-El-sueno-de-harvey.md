@@ -1,4 +1,10 @@
-# El Sueño de Harvey
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: king
+title: El Sueño de Harvey
+---
+
 **Por STEPHEN KING**  
 **Publicado el 23 de Junio de 2003 en The New Yorker**  
 **Traducción por Andrés García P.**

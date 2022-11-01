@@ -1,4 +1,9 @@
-# Escuela Nocturna
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: bloch
+title: Escuela Nocturna
+---
 
 **Robert Bloch**
 

@@ -1,4 +1,9 @@
-#¿Estás ahí, querida?
+---
+layout: post
+date: 2022-10-31 22:07:00
+tags: relato
+title: ¿Estás ahí, querida?
+---
 
 Andrés y Laura habían discutido por un malentendido. Andrés con
 cordialidad había acompañado a su novia a su casa pero no la besó en
