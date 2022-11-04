@@ -42,7 +42,7 @@ article h1 a:hover, h1 a:hover {
   top: 0; barra de navegacion fija en el top 
   left:  0;*/
   width: 100%; /* Full width */
-  font-family: MB-HorrorHouse;
+  font-family: MB-HorrorHouse_Font;
 }
 
 /* Style the links inside the navigation bar */
@@ -93,7 +93,7 @@ article h1 a:hover, h1 a:hover {
     float: none;
     display: block;
     text-align: left;
-    font-family: MB-HorrorHouse;
+    font-family: MB-HorrorHouse_Font;
   }
 }
 /*Lateral*/
