@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2020-11-14 00:00:01
-tags: tortura
+date: 2022-11-05 12:58:00
+tags: relato
 title: La cicatriz
 ---
-# LA CICATRIZ
 
 ### Juanma (textos)
    

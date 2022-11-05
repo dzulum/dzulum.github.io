@@ -1,0 +1,41 @@
+---
+layout: post
+date: 2022-11-05 12:58:00
+tags: relato
+title: La cicatriz
+---
+
+### Juanma (textos)
+   
+«Comienza en mi sien izquierda como una fina línea blanca, con
+modestia, haciendo gala de una discreción que finalmente queda
+desmentida, notable a pesar de su delgadez, anti estética sin llegar a ser desagradable...»
+   
+Aquella noche, como cada vez que me acostaba con alguien que no era
+Ella, me sentía horriblemente culpable; aquella noche, como siempre que me corría en una vagina que no era la Suya, mi conciencia me
+recriminaba desde su inalcanzable púlpito de moralidad; aquella noche, como cada vez que compartía mi sexo con otra mujer, me sentía como un auténtico hijo de puta. Cuando ya no pude aguantar más la vergüenza que me corroía, besé la boca de mi acompañante circunstancial; lo hice sin pasión, tan solo un ligero roce de nuestros labios secos, codificando con cuidado el mensaje, procurando que diese por entendido que aquello se trataba de una despedida. Tenía la seguridad de que, como a las otras, no volvería a verla jamás.
+   
+«A la altura del pómulo se ensancha, tomando personalidad de forma
+súbita. Bordea con elegancia la línea natural que delimita la patilla y la sombra de la barba, conservando el mismo grosor durante todo el tramo, lo cual impone cierto toque de disciplina anterior al caos...»
+
+De vuelta a mi casa me obligué a entrar en dos bares, el primero para calmar mi sed y mi bochorno con el mismo elixir alcohólico, el segundo para superponer el tufo de tabaco y sudor al perfume de sexo y sudor.
+
+Bebiendo en soledad, cumpliendo sin premeditación un ritual de redención, me juraba que aquélla había sido la última vez, que jamás volvería a engañarla, que aquél iba a ser el primer minuto de toda una vida de fidelidad.
+   
+«La llegada a la mejilla se produce de forma abrupta y violenta, con un giro brusco hacia la nariz que no logra romper cierta coherencia en la trayectoria. Por último, ya en el carrillo, se ensancha, engorda, crece como un proceso cancerígeno hasta llegar a la comisura del labio como si se tratara de un río que desemboca en el mar formando un delta. El conjunto no deja de ser irónico tiene la forma de la más siniestra de las sonrisas»
+   
+Cuando por fin regresé a mi casa, me sorprendió ver luz en el
+dormitorio, Ella no solía esperarme despierta. Entré en el cuarto
+bamboleando mi cuerpo embriagado, y la vi tumbada en la cama,
+seductora, desnuda, mostrándome sin pudor Su cuerpo de diosa, ansiosa por ser follada. En cuanto me tuvo a su alcance, se abalanzó sobre mí; en lugar de hacerme preguntas, me despojó a toda prisa de mi ropa, para que pudiésemos estar de igual a igual, para que pudiésemos comenzar una guerra que los dos ganaríamos.
+   
+Ella sacó de la mesa de noche la cuerda con la que en tantas ocasiones nos habíamos divertido, sin esperar instrucciones me tumbé y extendí mis brazos para ser atado. Una vez estuvieron sujetos mis miembros por cuatro férreos nudos... sacó el bisturí. 
+
+Sin saber aún lo que se proponía, sentí miedo; cuando vi que se aproximaba a mi cara, comencé a suplicar. Clavó la punta en mi sien, con la presión suficiente para dejarme su marca, lo bastante suave para no dejarme tuerto; cuando llegó al pómulo, hundió el arma hasta tocar el hueso, hasta poder marcar también la estructura ósea; después, siguió descendiendo hasta que no hubo hueso que arañar, y me atravesó sin compasión la carne de la mejilla; por último, un limpio corte fue suficiente para que el bisturí saliese teñido de sangre por mi boca abierta.
+   
+Ya está, mi amor, me dijo al oído, casi gritando para que pudiese
+escucharla entre mis propios gritos. Compréndelo. Así nadie te podrá desear, desfigurado me serás siempre fiel.
+   
+Sentía un dolor indescriptible, mi carrillo izquierdo colgaba en dos fragmentos independientes y ensangrentados. Sentía nauseas, el sabor de mi sangre me producía unas arcadas que apenas era capaz de aplacar con ingentes dosis de fuerza de voluntad. Pero, sobre todo, sentía amor.
+   
+FIN.

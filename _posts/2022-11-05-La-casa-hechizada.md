@@ -1,4 +1,9 @@
-# LA CASA HECHIZADA
+---
+layout: post
+date: 2022-11-05 12:58:00
+tags: relato
+title: La casa hechizada
+---
 
 ### CHARLES DICKENS
 

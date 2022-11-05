@@ -1,4 +1,10 @@
-# La comadre de la muerte invernal
+---
+layout: post
+date: 2022-11-05 12:58:00
+tags: relato
+title: La comadre de la muerte invernal
+---
+
 ### Por José M. Pulido
 
    Tal parece que algunos, aunque no quisieran o aunque no lo hubieran

@@ -1,4 +1,9 @@
-# La calavera que gritaba
+---
+layout: post
+date: 2022-11-05 12:58:00
+tags: relato
+title: La calavera que gritaba
+---
 
 ###   F. Marion Crawford
 

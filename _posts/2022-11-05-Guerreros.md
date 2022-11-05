@@ -1,4 +1,10 @@
-# GUERREROS
+---
+layout: post
+date: 2022-11-05 12:58:00
+tags: relato
+title: Guerreros
+---
+
 **Por: Bernardino Anguiano García (NINO)**  
 **INTRODUCCIÓN**
 
