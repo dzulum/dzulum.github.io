@@ -1,0 +1,95 @@
+Generador de tramas para mis historias.
+
+Campo 1 "Personaje Principal"
+Campo 2 "Año del evento"
+Campo 3 "Tipo de victima"
+Campo 4 "Ofrece pelea"
+Campo 5 "La pelea es buena"
+Campo 7 "Hay violacion"
+Campo 8 "Que armas"
+Campo 9 "Tipo de muerte"
+Campo 10 "Lugar de la historia"
+Campo 11 "Testigos"
+
+La idea original era generar todo por simple modo aleatorio y automatico,
+justo ahora se me ocurre un script donde deba elegir algunas cosas y con
+algunas condicionales ir generando el tipo de historia.
+
+Por ejemplo seleccionar el personaje:
+-Alisdair - Puede andar de dia - no tiene poderes vampiricos - sabe de computadoras
+-Azzkorpze - Puede andar de dia - vampiro decadente - muy debil
+-Sicker - Puede andar de dia - vampiro extramadamente peligroso - sabe de todo
+-Dzulum - no puede andar de dia - demonio evolucionado de azzkorpze - mas peligroso aun que sicker
+
+A partir de lo que puede hacer el personaje sale un año aleatorio donde puede 
+desarrollarse una historia con ese personaje.
+
+Al elegir tipo de victima aleatoriamente selecciona si ofrece pelea y si la pelea es buena (grado de pelea 0 un putazo muere 10 queda moribundo despues de poner en riesgo al personaje)
+
+Solo se activa si la victima es mujer
+
+Despues de la pelea (y violacion si la hay) automaticamente elige si hay armas para matar a la victima
+
+Automaticamente elige la manera de matar a la victima
+
+Automaticamente elige el lugar y si hay testigos
+
+El final es abierto al escritor
+
+Intentare hacer ambos scripts.
+
+<form name="form1" id="form1" action="/action_page.php">
+  Subjects: <select name="subject" id="subject">
+    <option value="" selected="selected">Select subject</option>
+  </select>
+  <br><br>
+  Topics: <select name="topic" id="topic">
+    <option value="" selected="selected">Please select subject first</option>
+  </select>
+  <br><br>
+  Chapters: <select name="chapter" id="chapter">
+    <option value="" selected="selected">Please select topic first</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+var subjectObject = {
+  "Front-end": {
+    "HTML": ["Links", "Images", "Tables", "Lists"],
+    "CSS": ["Borders", "Margins", "Backgrounds", "Float"],
+    "JavaScript": ["Variables", "Operators", "Functions", "Conditions"]
+  },
+  "Back-end": {
+    "PHP": ["Variables", "Strings", "Arrays"],
+    "SQL": ["SELECT", "UPDATE", "DELETE"]
+  }
+}
+window.onload = function() {
+  var subjectSel = document.getElementById("subject");
+  var topicSel = document.getElementById("topic");
+  var chapterSel = document.getElementById("chapter");
+  for (var x in subjectObject) {
+    subjectSel.options[subjectSel.options.length] = new Option(x, x);
+  }
+  subjectSel.onchange = function() {
+    //empty Chapters- and Topics- dropdowns
+    chapterSel.length = 1;
+    topicSel.length = 1;
+    //display correct values
+    for (var y in subjectObject[this.value]) {
+      topicSel.options[topicSel.options.length] = new Option(y, y);
+    }
+  }
+  topicSel.onchange = function() {
+    //empty Chapters dropdown
+    chapterSel.length = 1;
+    //display correct values
+    var z = subjectObject[subjectSel.value][this.value];
+    for (var i = 0; i < z.length; i++) {
+      chapterSel.options[chapterSel.options.length] = new Option(z[i], z[i]);
+    }
+  }
+}
+
+verificar las condicionales para restringir

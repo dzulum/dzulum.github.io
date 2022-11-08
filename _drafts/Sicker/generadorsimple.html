@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de aventuras en los mundos de Cthulhu</title>
+    <style>
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;  
+        }
+        body{            
+            color: honeydew;
+            background-color: black;
+            background-image: url("cthulhuBACK.jpg");
+            background-repeat: no-repeat;
+        }
+
+        .tabla {
+            color: burlywood;
+            text-shadow: 1px 1px black;
+            
+        }
+
+        #resultado1, #resultado2, #resultado3, #resultado4, #resultado5, #resultado6, #resultado7, #resultado8, #resultado9, #resultado10 {
+            color: white;
+        }
+
+        h1 {
+            font-size: 20px;
+            color:chartreuse;
+        }
+    </style>
+</head>
+<body>    
+    <p>Generador de Aventuras de Horror Primigenio de Ricard Ibáñez.</p>
+    <p>Usando los datos de su <a href="http://nivel36.blogspot.com/2020/05/generador-de-aventuras-de-horror.html?m=1" target="blank_"> artículo</a>.</p>
+    <p>Pulsa en Generar para que se genere de forma aleatoria el contexto de la aventura.</p>
+    
+    <button type="button" onclick="generar()">¡Generar!</button>
+    
+    <div class="tabla">
+        <h1 class="titulo">Localización</h1>
+        <p>La aventura tendrá lugar en... <span id="resultado1"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Inicio</h1>
+        <p>Los PJs empiezan la aventura por...
+        <span id="resultado2"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Aliados</h1>
+        <p>En la aventura los PJ contarán con la ayuda de...
+        <span id="resultado3"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Contactos</h1>
+        <p>Los PJ pueden obtener información por parte de...
+        <span id="resultado4"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Enemigos secundarios</h1>
+        <p>Los PJ se van a enfrentar principalmente a:
+            <span id="resultado5"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Enemigos peligrosos</h1>
+        <p>Los PJ pueden tropezarse con uno o varios...
+            <span id="resultado6"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Enemigo principal</h1>
+        <p>Tras toda la trama está:
+            <span id="resultado7"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Pista importante</h1>
+        <p>Los PJ pueden encontrar información valiosa en:
+        <span id="resultado8"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Objeto mágico</h1>
+        <p>En el curso de su investigación, los PJ pueden encontrar...
+        <span id="resultado9"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Imprevistos</h1>
+        <p>Durante la aventura puede suceder que...
+        <span id="resultado10"></span></p>
+
+    </div>
+
+    <script>
+        function generar() {
+            //tablas:
+            var tabla1 = ["Una ciudad de Europa","Estados Unidos: Costa del Pacífico","Zona inexplorada de África","Estados Unidos: Central"," Selva de América latina","Estados Unidos: Arkham","Una exótica ciudad de Asia","Estados Unidos: Providence","Bosques de Canadá", "Estados Unidos: En una de las 13 colonias originales"];
+            var tabla2 = ["Una petición de ayuda por parte de un amigo o familiar","Son contratados por un millonario excéntrico","Una noticia en el periódico les llama la atención","Presencian un suceso macabro y/o inexplicable","Un amigo (o personaje influyente) les pide un favor","Encuentran una referencia en un antiguo libro que les pone sobre la pista"];
+            var tabla3 = ["Profesor de Universidad","Mafioso","Delincuente de poca monta","Policía","Ocultista","El enemigo de su enemigo"];
+            var tabla4 = ["Un nativo del lugar","Un camarero","Un mendigo","Un profesor de universidad","Un anticuario","Un médico","Un policía","Un anticuario","Un periodista","Un funcionario"];
+            var tabla5 = ["Delincuentes del crimen organizado","Sectarios","Profundos","Gules","Hombres serpiente","Muertos vivientes"];
+            var tabla6 = ["Mi-Gos","Byakhees","Perros de Tíndalos","Semilla estelar de Cthulhu","Shantaks","Shoggoth","Ángeles descarnados de la noche","Gran Raza de Yith","Vagabundos dimensionales","Vampiros de fuego"];
+            var tabla7 = ["Un hechicero humano","Cthulhu","Nyarlathotep","Yog-Sothoth","Un fantasma o maldición","Yig"];
+            var tabla8 = ["Una biblioteca","El registro civil","La taberna local","El hospital (y/o la Morgue)","El domicilio de una víctima, o sospechoso","La comisaría de policía","La redacción del periódico","Un lugar supuestamente maldito","El manicomio","Un casino ilegal y/o burdel"];
+            var tabla9 = ["Un grimorio", "Una daga con sed de sangre","Un símbolo arcano","El Signo amarillo","Un Trapezoedro Resplandeciente","Un elixir con propiedades asombrosas"];
+            var tabla10 = ["Un aliado traiciona a los PJ","Una fiera salvaje (o grupo de ellas) ataca al grupo","Los naturales de la zona se muestran hostiles hacia los PJ","Intentan envenenar a uno o varios de los PJ","La información que les han dado a los PJ era falsa","Los PJ se ven envueltos en un altercado callejero","Una pieza del equipo es de mala calidad y se rompe","Un ladrón roba a los PJ un objeto importante","Posibilidad de accidente (en un principio no mortal)","La policía intenta detener a los PJ por un delito que no han cometido (o si)"];
+            //tiradas:
+            var a = aleatorio(10);  
+            document.getElementById("resultado1").innerHTML = tabla1[a];
+            var a = aleatorio(6);
+            document.getElementById("resultado2").innerHTML = tabla2[a];
+            var a = aleatorio(6);
+            document.getElementById("resultado3").innerHTML = tabla3[a];
+            var a = aleatorio(10);
+            document.getElementById("resultado4").innerHTML = tabla4[a];
+            var a = aleatorio(6);
+            document.getElementById("resultado5").innerHTML = tabla5[a];
+            var a = aleatorio(10);
+            document.getElementById("resultado6").innerHTML = tabla6[a];
+            var a = aleatorio(6);
+            document.getElementById("resultado7").innerHTML = tabla7[a];
+            var a = aleatorio(10);
+            document.getElementById("resultado8").innerHTML = tabla8[a];
+            var a = aleatorio(6);
+            document.getElementById("resultado9").innerHTML = tabla9[a];
+            var a = aleatorio(10);
+            document.getElementById("resultado10").innerHTML = tabla10[a];
+            
+          
+        }
+
+        function aleatorio(n){
+            var resultado = Math.floor(Math.random()*n);
+            return resultado;
+        }
+    </script>
+
+</body>
+</html>
