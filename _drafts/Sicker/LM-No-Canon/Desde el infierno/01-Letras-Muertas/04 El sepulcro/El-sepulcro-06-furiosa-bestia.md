@@ -1,6 +1,4 @@
-
-118
-el sepulcro/furiosa bestia...<p>
+el sepulcro/furiosa bestia...<p>
 
 las sirenas de las patrullas y ambulancias aturdian mis oidos, la selva de
 concreto fue una vez mas testigo silencioso de un asesinato a sangre fria,

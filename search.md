@@ -1,4 +1,4 @@
-<!-- Html Elements for Search -->
+<!-- Html Elements for Search buscador -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Buscar...">
 <ul id="results-container"></ul>

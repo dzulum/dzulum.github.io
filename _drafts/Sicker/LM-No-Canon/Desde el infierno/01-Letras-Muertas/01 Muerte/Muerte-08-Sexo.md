@@ -66,4 +66,4 @@ pero... Jessica falleció.
 
 Lleve a Laura para que la conocieran en mi casa algunos de mis familiares, pero antes de presentarla, me desconcertaron sus palabras, y no menos a Laura, éramos hermanos, su padre le dijo que yo existía pero, no le dijo quién era, y yo ni siquiera sabía que era hermano de alguien pues nunca me lo mencionaron...
 
--Mierda... el 2000 fue buen año-
+-Mierda... el 2000 fue buen año-

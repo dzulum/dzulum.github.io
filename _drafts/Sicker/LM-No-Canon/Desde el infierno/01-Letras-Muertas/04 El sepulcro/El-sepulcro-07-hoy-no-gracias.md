@@ -1,6 +1,4 @@
-
-120
-el sepulcro/hoy no, gracias.<p>
+El sepulcro/hoy no, gracias.<p>
 
 hacia varios dias que pasaba la chica de la comida por el local y
 preguntaba -¿vas a comer algo?- y todos esos dias yo compraba el

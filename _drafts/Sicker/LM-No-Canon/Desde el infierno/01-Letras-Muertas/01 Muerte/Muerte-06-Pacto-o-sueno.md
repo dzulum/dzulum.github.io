@@ -6,9 +6,7 @@ Comenzaba a oscurecer y las gotas del alcohol rozaban mi frágil
 garganta, la cual se sentía como el mismo fuego del infierno y a su vez
 mis sentidos se desvanecían como la neblina del amanecer dándole paso
 al sol, a cada sorbo de alcohol que pasaba por mis entrañas me sentía
-más lejos del mundo material, sentía como el mismo señor de la oscuridad se acercaba hacia mi ser, sentía como la luz de la luna destrozaba mis entrañas, como el alcohol corroía mis intestinos, sentía
-la necesidad de sentir calor un calor especial, así fue como decidí
-matarme para sentir las llamas del infierno y su calor...
+más lejos del mundo material, sentía como el mismo señor de la oscuridad se acercaba hacia mi ser, sentía como la luz de la luna destrozaba mis entrañas, como el alcohol corroía mis intestinos, sentía la necesidad de sentir calor un calor especial, así fue como decidí matarme para sentir las llamas del infierno y su calor...
 
 Todo se fue oscureciendo y cada vez estaba más cerca de mi Satanás,
 Lucifer, como lo quieras llamar, pero yo sé que es el señor de la oscuridad, se introdujo a mi habitación, se acercó a mi sin que yo lo notara y me hablo, me preguntó por qué lo molestaba, porqué turbaba su descanso, yo solo le dije que quería todo aquello que me había negado dios, dicha, riqueza, felicidad, alguien a quien amar y buena vida.

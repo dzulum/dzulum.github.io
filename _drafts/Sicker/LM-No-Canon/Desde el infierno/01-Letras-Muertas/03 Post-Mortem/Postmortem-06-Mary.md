@@ -56,10 +56,10 @@ permiso de usar el baño para peinarse y maquillarse pues no tardaría en
 irse, cuando vinieron sus amigas por ella y nos quedamos solos mi nena
 y yo le comente acerca de lo que me había pedido Mary, ella se molesto
 de por que Mary había pedido que no le dijera nada a mi nena, -no te
-preocupes amor-  
-dije  
--quedate hoy conmigo en el local para que veas que no hay nada entre ella y yo-  
-no me preocupa que se queden solos-  
+preocupes amor-  
+dije  
+-quedate hoy conmigo en el local para que veas que no hay nada entre ella y yo-  
+no me preocupa que se queden solos-  
 respondió -me preocupa que este aquí contigo toda la noche y pase algo
 mas por que la conozco bien-  
 quedate y cuando venga ella y toque te metes al baño, así sabrás que tan perra es tu amiga o que tan fácil soy yo-  
@@ -79,7 +79,7 @@ tequila y unas "Caguamas" Miro hacia atrás suyo y dijo a sus amigas
 después comenzó a reír, había entendido el chiste, -¿ya nos vamos a
 acostar?- pregunto -seguro que si- conteste - ya nos vamos a acostar-
 mientras caminábamos por el pasillo después de meter la mochila y
-asegurar la puerta de la cortina, cuando le di la espalda me dijo -hay que
+asegurar la puerta de la cortina, cuando le di la espalda me dijo -hay que
 "Pistolota" Traes ahí, ¿no me la prestas para jugar con ella un ratito?- no
 puedo, no es para jugar y ademas te puede lastimar- dije como siempre
 en doble sentido, saque la colchoneta y la tendí en el suelo, después un
@@ -112,7 +112,7 @@ quedando encendidos solo algunos monitores y una luz de emergencia,
 -¡ya basta!- grite -ustedes si parecen un par de perras en brama
 peleándose por un macho- tome a Miztyk del cabello y la jale hacia atrás
 pues ella estaba arriba, y me avalancé sobre Mary -¡órale perra!,
-¿querías que te cogiera no puta?, pues órale aquí me tienes y la tome del
+¿querías que te cogiera no puta?, pues órale aquí me tienes y la tome del
 cabello y comencé a azotar su cabeza en el suelo hasta que se desmayo,
 -trae con que amarrarla amor- dije mientras la cargaba, la senté en una
 silla mientras Miztyk traía con que amarrarla, después de sentarla ahí
@@ -144,7 +144,7 @@ a la perra de Mary lo que hacíamos con ella por que no gritaba y me
 pedía que le acercara la botella de cerveza para beber, le di de beber y
 seguimos jugando mi nena y yo con su cuerpo, después de verla así de
 indefensa y ebria comenzamos a besarnos Miztyk y yo y nos fuimos
-desnudando ahí enfrente de ella hasta que comenzamos a tener
+desnudando ahí enfrente de ella hasta que comenzamos a tener
 relaciones sexuales en frente de Mary quien pedía ahora hacerle sexo
 oral a mi nena mientras yo le daba por el culo, mi nena se acomodo y en
 vez de darle por el culo le di por la concha lo cual Mary aprovecho para

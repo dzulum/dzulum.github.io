@@ -29,9 +29,9 @@ Dzulum es un blog con diferentes temáticas, desde apuntes de informática hasta
 
 Me esforzaré por dar buen contenido desde el anonimato que un pseudónimo y los servicios de privacidad de internet me puedan dar.
 
-### Contacta me
+### Contactame
 
-[Dzulum](mailto:dzulum@mortemale.org)
+[Dzulum](mailto:sicker@dzulum.com)
 
 # Dzulum un año despúes...
 
