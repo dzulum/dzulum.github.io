@@ -304,9 +304,10 @@ src: url(../fonts/neighbors_yard.ttf);
   font-size: 19px;
 }
 .lateral img{
-    width: 85%;
     position: relative;
-    margin-left: 7.5%;    
+    width: 75%;
+    height: auto;
+    margin: auto;   
 }
 .youtube-wrapper { 
    /* position: relative; */

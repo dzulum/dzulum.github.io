@@ -41,4 +41,4 @@ Hace poco más de un año que inicie este proyecto, si bien va lento es al blog 
 
 Sobre mis relatos de Horror/Gore, seguro pronto sabrán de ellos, si por algún motivo tu si leíste esta pagina házmelo saber en el correo, ya te mandare saludos en alguna próxima publicación.
 
-Hasta pronto.
+Hasta pronto, nos veremos en el infierno...
