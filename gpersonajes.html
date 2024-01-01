@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/blog.css">
+    <title>Generador de Personajes</title>
+    <style type="text/css">
+        span {color: #f00;}
+    </style>
+</head>
+<body>
+<div class="article main">
+    <h1>Generador de Personajes</h1>
+    <p>Este script de generación de personajes esta basajo en una hoja de personaje de Vampiro la Mascarada.</p>
+    
+    <button type="button" onclick="generar()">¡Una caridaaaa para mi medecina de los ataques!</button>
+    
+    <div class="col-12 main">
+        <h1>Atributos</h1>
+        <div class="col-4">
+            <h2>Fisicos</h2>
+            <hr width="80%">
+            <h3>Fuerza<span id="resultado1"></span></h3>
+            <h3>Destreza<span id="resultado2"></span></h3>
+            <h3>Resistencia<span id="resultado3"></span></h3>
+        </div>
+        
+        <div class="col-4">
+            <h2>Sociales</h2>
+            <hr width="80%">
+            <h3>Carisma<span id="resultado4"></span></h3>
+            <h3>Manipulación<span id="resultado5"></span></h3>
+            <h3>Apariencia<span id="resultado6"></span></h3>
+        </div>
+    
+        <div class="col-4">
+            <h2>Mentales</h2>
+            <hr width="80%">
+            <h3>Percepción<span id="resultado7"></span></h3>
+            <h3>Inteligencia<span id="resultado8"></span></h3>
+            <h3>Astucia<span id="resultado9"></span></h3>
+        </div>
+    </div>
+
+    <div class="col-12 main">
+        <h1>Habilidades</h1>
+        <div class="col-4">
+            <h2>Talentos</h2>
+            <hr width="80%">
+            <h3>Alerta<span id="resultado10"></span></h3>
+            <h3>Atletismo<span id="resultado11"></span></h3>
+            <h3>Callejeo<span id="resultado12"></span></h3>
+            <h3>Consciencia<span id="resultado13"></span></h3>
+            <h3>Empatia<span id="resultado14"></span></h3>
+            <h3>Expresióm<span id="resultado15"></span></h3>
+            <h3>Intimidación<span id="resultado16"></span></h3>
+            <h3>Liderazgo<span id="resultado17"></span></h3>
+            <h3>Pelea<span id="resultado18"></span></h3>
+            <h3>Subterfugio<span id="resultado19"></span></h3>
+        </div>
+        
+        <div class="col-4">
+            <h2>Técnicas</h2>
+            <hr width="80%">
+            <h3>Armas de fuego<span id="resultado20"></span></h3>
+            <h3>Artesania<span id="resultado21"></span></h3>
+            <h3>Conducir<span id="resultado22"></span></h3>
+            <h3>Etiqueta<span id="resultado23"></span></h3>
+            <h3>Interpretación<span id="resultado24"></span></h3>
+            <h3>Latrocinio<span id="resultado25"></span></h3>
+            <h3>Pelea con armas<span id="resultado26"></span></h3>
+            <h3>Sigilo<span id="resultado27"></span></h3>
+            <h3>Supervivencia<span id="resultado28"></span></h3>
+            <h3>Trato con animales<span id="resultado29"></span></h3>
+        </div>
+    
+        <div class="col-4">
+            <h2>Conocimientos</h2>
+            <hr width="80%">
+            <h3>Academisismo<span id="resultado30"></span></h3>
+            <h3>Ciencias<span id="resultado31"></span></h3>
+            <h3>Finanzas<span id="resultado32"></span></h3>
+            <h3>Informática<span id="resultado33"></span></h3>
+            <h3>Investigacón<span id="resultado34"></span></h3>
+            <h3>Leyes<span id="resultado35"></span></h3>
+            <h3>Medicina<span id="resultado36"></span></h3>
+            <h3>Ocultismo<span id="resultado37"></span></h3>
+            <h3>Política<span id="resultado38"></span></h3>
+            <h3>Tecnología<span id="resultado39"></span></h3>
+        </div>
+    </div>
+
+
+    <script>
+        function generar() {
+            //tablas:
+            var fuerza = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var destreza = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var resistencia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var carisma = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var manipulacion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var apariencia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var percepcion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var inteligencia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var astucia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var alerta = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var atletismo = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var callejeo = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var conciencia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var empatia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var expresion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var intimidacion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var liderazgo = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var pelea = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var subterfugio = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var armasdefuego = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var artesania = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var conducir = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var etiqueta = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var interpretacion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var latrocinio = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var peleaconarmas = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var sigilio = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var supervivencia = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var tratoconanimales = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var academicismo = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var ciencias = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var finanzas = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var informatica = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var investigacion = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var leyes = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var medicina = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var ocultismo = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var politica = ["1","2","3","4","5","6","7","8","9","10","0"];
+            var tecnologia = ["1","2","3","4","5","6","7","8","9","10","0"];
+
+            //tiradas:
+            var a = aleatorio(11);  
+            document.getElementById("resultado1").innerHTML = fuerza[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado2").innerHTML = destreza[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado3").innerHTML = resistencia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado4").innerHTML = carisma[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado5").innerHTML = manipulacion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado6").innerHTML = apariencia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado7").innerHTML = percepcion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado8").innerHTML = inteligencia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado9").innerHTML = astucia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado10").innerHTML = alerta[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado11").innerHTML = atletismo[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado12").innerHTML = callejeo[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado13").innerHTML = conciencia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado14").innerHTML = empatia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado15").innerHTML = expresion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado16").innerHTML = intimidacion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado17").innerHTML = liderazgo[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado18").innerHTML = pelea[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado19").innerHTML = subterfugio[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado20").innerHTML = armasdefuego[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado21").innerHTML = artesania[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado22").innerHTML = conducir[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado23").innerHTML = etiqueta[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado24").innerHTML = interpretacion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado25").innerHTML = latrocinio[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado26").innerHTML = peleaconarmas[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado27").innerHTML = sigilio[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado28").innerHTML = supervivencia[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado29").innerHTML = tratoconanimales[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado30").innerHTML = academicismo[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado31").innerHTML = ciencias[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado32").innerHTML = finanzas[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado33").innerHTML = informatica[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado34").innerHTML = investigacion[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado35").innerHTML = leyes[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado36").innerHTML = medicina[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado37").innerHTML = ocultismo[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado38").innerHTML = politica[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado39").innerHTML = tecnologia[a];
+            }
+
+        function aleatorio(n){
+            var resultado = Math.floor(Math.random()*n);
+            return resultado;
+        }
+    </script>
+
+</body>
+</html>
