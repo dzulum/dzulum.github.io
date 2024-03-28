@@ -1,4 +1,9 @@
-# La Leyenda de los Condenados
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La Leyenda de los Condenados
+---
 
    Son seres del otro mundo. Cuando alguien muere de buena manera, su
    alma, antes de morir, recorre los lugares donde sufrió o donde fue

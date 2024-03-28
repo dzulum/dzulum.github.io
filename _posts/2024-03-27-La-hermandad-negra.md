@@ -1,4 +1,9 @@
-# La Hermandad Negra
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La Hermandad Negra 
+---
 
 **Autor: H. P. Lovecraft y August Derleth.**
 

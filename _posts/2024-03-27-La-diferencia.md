@@ -1,3 +1,9 @@
+---
+layout: post
+tag: relato
+date: 2023-03-27 22:35:00
+title: La Diferencia
+---
 # LA DIFERENCIA
 
 Era diferente, completamente diferente. Al menos eso era lo que el

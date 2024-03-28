@@ -1,4 +1,9 @@
-# La Guardia Eterna
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La Guardia Eterna 
+---
 
 La marea azul se escapó de los sueños y reflejó su llanto en el
 amanecer, cuando logró atravesar la barrera que obstruía el paso;

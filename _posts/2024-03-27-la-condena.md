@@ -1,4 +1,9 @@
-# LA CONDENA
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:43:00
+title: La Condena 
+---
 ### Por Maximiliano Ferzzola (MadMax)
 ### I
 

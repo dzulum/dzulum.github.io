@@ -1,4 +1,9 @@
-# La Iguana toma Venganza
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La Iguana toma Venganza 
+---
 
 Cuando todavía existían las representaciones de medianoche, a veces se
 veía un hombre con un gran abrigo y con el sombrero casi cubriendo los

@@ -1,5 +1,9 @@
-# La declaración de Randolph Carter
-
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La declaración de Randolph Carter
+---
 Les repito, caballeros, que su encuesta es inútil. Enciérrenme para siempre, si quieren; ejecútenme, si necesitan una víctima para
 propiciar la ilusión que ustedes llaman justicia; pero yo no puedo decir más de lo que ya he dicho. Todo lo que puedo recordar se lo he contado a ustedes con absoluta sinceridad. No he ocultado ni desfigurado nada, y si algo continúa siendo vago, se debe únicamente a la oscura nube que ha invadido mi cerebro... A esa nube, y a la confusa naturaleza de los horrores que cayeron sobre mí.
 

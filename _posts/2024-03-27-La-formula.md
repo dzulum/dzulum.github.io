@@ -1,5 +1,9 @@
-# LA FORMULA
-
+---
+layout: post
+tag: relato
+date: 2024-03-27 22:35:00
+title: La Formula
+---
 Mi profesor y maestro, el Doctor Víctor Garcilaso, no estaría más en el laboratorio dando instrucciones. Esto me lo repetía una y otra vez a mi mismo mientras franqueaba, por primera vez desde el trágico suceso de su muerte, la puerta del laboratorio de Bioquímica de la Facultad de Ciencias de La Universidad de Santiago. El profesor Víctor Garcilaso era extrañamente joven, en apariencia incluso más joven que yo, que era su discípulo. Por palabras del personal de servicio y de otros catedráticos que llevaban años ejerciendo en la Facultad, éste habría superado la edad de jubilación. ¡Quién lo diría!. Nunca le di demasiada
 importancia a este hecho. Supongo que hay personas que acomodan mejor el paso de los años entre los surcos de su piel. Por supuesto que el profesor llevaba una vida muy controlada, no bebía ni fumaba, y el sol no araba su rostro porque pasaba los días encerrado en el laboratorio, encierro que tan sólo interrumpía esporádicamente para hacerse cargo de las pocas clases que él personalmente presidía. De cualquier forma, el profesor Víctor Garcilaso no había muerto de viejo ni de enfermo, sino a consecuencia de un estúpido accidente de automóvil. Ahora, con tan sólo 40 años de edad, quedaba en mis manos la dura responsabilidad de hacerme cargo del laboratorio y continuar su obra.
 
