@@ -1,13 +1,8 @@
 ---
 layout: post
-tags: []
-categories[]
-date: 2020-10-13 00:00:00
+date: 2024-04-10 22:32:01
 title:'La llegada del cazador de almas'
 ---
-
-# La Llegada del Cazador de Almas
-
 ### Autor: J. David Guardado L.
 
    El Cazador de Almas despertó. Parecía que por fin la noche había

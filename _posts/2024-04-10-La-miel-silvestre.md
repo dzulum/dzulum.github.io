@@ -1,4 +1,9 @@
-# La miel silvestre
+---
+layout: post
+date: 2024-04-10 22:35:01
+title:'La miel silvestre'
+---
+
 **Autor: Horacio Quiroga**
 
 Tengo en el Salto Oriental dos primos, hoy hombres ya, que a sus doce
