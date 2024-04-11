@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-10 22:35:01
-title:'La miel silvestre'
+title: 'La miel silvestre'
 ---
 
 **Autor: Horacio Quiroga**

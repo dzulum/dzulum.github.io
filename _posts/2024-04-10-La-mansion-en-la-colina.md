@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-10 22:35:01
-title:'La mansión de la colina'
+title: 'La mansión de la colina'
 ---
 
 **(Dedicado a Randolph Carter)**

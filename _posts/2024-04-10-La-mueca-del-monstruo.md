@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-10 22:35:01
-title:'La mueca del monstruo'
+title: 'La mueca del monstruo'
 ---
 
 **Robert Bloch**

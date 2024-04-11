@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-04-10 22:32:01
-title:'La llegada del cazador de almas'
+title: 'La llegada del cazador de almas'
 ---
 ### Autor: J. David Guardado L.
 
