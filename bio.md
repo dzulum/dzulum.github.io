@@ -8,13 +8,13 @@ Saludos desde el más allá, esto es parte de mi historia, quizá para algunos s
 
 Lo único que se que es real de mí es mí nombre, ni siquiera mis apellidos, mis padres se separaron incluso antes de que yo hubiera nacido.
 
-Criado y registrado por mi abuela materna, maltratado por los demás que me rodeaban a excepción de la más pequeña de mis tías, la única que me trató con respeto en mi niñez sin contar a mi abuela, que hasta el día de hoy es una de las pocas personas que me demuestra cariño real y a quien yo puedo corresponder.
+Criado y registrado por mi abuela materna (hoy fallecida), maltratado por los demás que me rodeaban a excepción de la más pequeña de mis tías, la única que me trató con respeto en mi niñez sin contar a mi abuela, que hasta el día de hoy es una de las pocas personas que me demuestra cariño real y a quien yo puedo corresponder.
 
 Conocí a mi padre a los ocho años de edad, a mi madre no recuerdo cuando, por muchos años no le hablé e incluso hoy procuro no hacerlo, aunque ahora no guardo rencor hacia ella no me nace hacerlo.
 
 Los demás de la familia, simplemente todos hipócritas, vividores y mantenidos, me da igual su existencia así que, simplemente no hablo más de ellos.
 
-Crecí en las calles, aún a pesar de eso guarde las enseñanzas de mi abuela y no me considero mala persona, he probado drogas más no me enganche jamás a ninguna, solo al alcohol, que desde los quince años hasta hoy sigue siendo la fuente de mi tranquilidad, problemas y sin duda de las mejores aventuras y peores desventuras de mi vida.
+Crecí en las calles, aún a pesar de eso guarde las enseñanzas de mi abuela y no me considero mala persona, he probado drogas más no me enganche jamás a ninguna, solo al alcohol (Hoy llevo casi 3 años de no beber y espero seguir), que desde los quince años hasta hoy sigue siendo la fuente de mi tranquilidad, problemas y sin duda de las mejores aventuras y peores desventuras de mi vida.
 
 Tuve problemas con la ley, fuí mala influencia de algunos, viví en las calles, dormí entre basura, comí de ahí mismo, no me siento orgulloso pero tampoco me da pena admitirlo, de alguna manera aprendí de ello y sigo aprendiendo.
 
@@ -28,13 +28,13 @@ Sicker es el ser más enfermo que puedas conocer, quien va a darte las respuesta
 
 Año de nacimiento 1985 (Se dice que 1 de diciembre mi acta dice 19 de agosto, yo me celebro cuando se me antoja beber).
 
-Música, aunque no cabe duda que amo el metal, créeme no todo el metal me gusta, ni siquiera todo el rock, me aburre el ska en su mayoría, igual que otros géneros, detesto por sobre todo el "mierdaton" y los "nacocorridos" y esa basura de alterado y seguramente otros géneros igual de estúpidos que salgan a comercializarse.
+Música, aunque no cabe duda que amo el metal, aunque, créeme no todo el metal me gusta, ni siquiera todo el rock, me aburre el ska en su mayoría, igual que otros géneros, detesto por sobre todo el "mierdaton" y los "nacocorridos" y esa basura de alterado y seguramente otros géneros igual de estúpidos que salgan a comercializarse.
 
 Películas, me gusta el cine en general, te desconecta del mundo de mierda donde vives, claro, prefiero lo que puedo ver con mis hijas y esposa.
 
 Lectura, bueno... si comienzo a leer algo y es interesante me gusta y si no es así... ¿que te digo?
 
-Espiritualmente... podrido como todo en mi cabeza.
+Espiritualmente... podrido, como todo en mi cabeza.
 
 Deseos, bueno... la lista es larga, matar, torturar, violar, descuartizar, golpear, envenenar, enloquecer, lapidar, comer, cagar en, vomitar en y un largo etcétera, en (la mayoría de) seres queridos, conocidos y allegados, a los desconocidos también pero con saña.
 
