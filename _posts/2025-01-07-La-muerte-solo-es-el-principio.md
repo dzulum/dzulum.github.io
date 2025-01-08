@@ -1,4 +1,9 @@
-# La muerte es solo el principio.
+---
+layout: post
+date: 2025-01-07 21:15:01
+tags: relato
+title: La muerte es solo el principio.
+---
 
 Me hallo sobre una gran ciudad, una más, una de tantas.
 

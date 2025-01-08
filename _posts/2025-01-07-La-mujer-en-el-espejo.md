@@ -1,4 +1,9 @@
-# La mujer en el espejo
+---
+layout: post
+date: 2025-01-07 21:13:01
+tags: relato
+title: La mujer en el espejo
+---
 
 Santa Rosa era un pueblito muy pequeño y demasiado tranquilo que se
 escondía entre cerros áridos y hostiles. Demasido tranquilo para que
