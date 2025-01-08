@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2025-01-04 19:43:01
+tags: sicker dzulum blog
 title: 'Cosas Nuevas'
 ---
 
