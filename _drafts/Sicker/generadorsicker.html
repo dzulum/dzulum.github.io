@@ -35,11 +35,9 @@
     </style>
 </head>
 <body>    
-    <p>Generador de Aventuras de Horror Primigenio de Ricard Ibáñez.</p>
-    <p>Usando los datos de su <a href="http://nivel36.blogspot.com/2020/05/generador-de-aventuras-de-horror.html?m=1" target="blank_"> artículo</a>.</p>
-    <p>Pulsa en Generar para que se genere de forma aleatoria el contexto de la aventura.</p>
+    <p>Generador básico de historias para sicker/dzulum.</p>
     
-    <button type="button" onclick="generar()">¡Generar!</button>
+    <button type="button" onclick="generar()">¡Que se armen los pinche chingadazos!</button>
     
     <div class="tabla">
         <h1 class="titulo">Personaje principal</h1>
@@ -47,13 +45,13 @@
 
     </div>
     <div class="tabla">
-        <h1 class="titulo">Inicio</h1>
+        <h1 class="titulo">Inicio de la historia</h1>
         <p>Año del evento...
         <span id="resultado2"></span></p>
 
     </div>
     <div class="tabla">
-        <h1 class="titulo">Victima</h1>
+        <h1 class="titulo">Victima principal</h1>
         <p>Tipo de victima...
         <span id="resultado3"></span></p>
 
@@ -115,7 +113,7 @@
             var tabla9 = ["Un grimorio", "Una daga con sed de sangre","Un símbolo arcano","El Signo amarillo","Un Trapezoedro Resplandeciente","Un elixir con propiedades asombrosas"];
             var tabla10 = ["Un aliado traiciona a los PJ","Una fiera salvaje (o grupo de ellas) ataca al grupo","Los naturales de la zona se muestran hostiles hacia los PJ","Intentan envenenar a uno o varios de los PJ","La información que les han dado a los PJ era falsa","Los PJ se ven envueltos en un altercado callejero","Una pieza del equipo es de mala calidad y se rompe","Un ladrón roba a los PJ un objeto importante","Posibilidad de accidente (en un principio no mortal)","La policía intenta detener a los PJ por un delito que no han cometido (o si)"];
             //tiradas:
-            var a = aleatorio(4);  
+            var a = aleatorio(5);  
             document.getElementById("resultado1").innerHTML = tabla1[a];
             var a = aleatorio(8);
             document.getElementById("resultado2").innerHTML = tabla2[a];

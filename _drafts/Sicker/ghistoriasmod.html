@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de aventuras en los mundos de Cthulhu</title>
+    <style>
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;  
+        }
+        body{            
+            color: honeydew;
+            background-color: black;
+            background-image: url("cthulhuBACK.jpg");
+            background-repeat: no-repeat;
+        }
+
+        .tabla {
+            color: burlywood;
+            text-shadow: 1px 1px black;
+            
+        }
+
+        #resultado1, #resultado2, #resultado3, #resultado4, #resultado5, #resultado6, #resultado7, #resultado8, #resultado9, #resultado10 {
+            color: white;
+        }
+
+        h1 {
+            font-size: 20px;
+            color:chartreuse;
+        }
+    </style>
+</head>
+<body>    
+    <p>Generador básico de historias para sicker/dzulum.</p>
+    
+    <button type="button" onclick="generar()">¡Que se armen los pinche chingadazos!</button>
+    
+    <div class="tabla">
+        <h1 class="titulo">Personaje principal</h1>
+        <p>El personaje es... <span id="resultado1"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Inicio de la historia</h1>
+        <p>Año del evento...
+        <span id="resultado2"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Victima principal</h1>
+        <p>Tipo de victima...
+        <span id="resultado3"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Conflicto</h1>
+        <p>Ofrece pelea...
+        <span id="resultado4"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Pornogore</h1>
+        <p>habra violacion?:
+            <span id="resultado5"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Armas</h1>
+        <p>¿que armas hay disponibles?
+            <span id="resultado6"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Forma de morir</h1>
+        <p>Ojala haya mucha sangre:
+            <span id="resultado7"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Lugar de desarrollo</h1>
+        <p>Lugar:
+        <span id="resultado8"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">Testigos</h1>
+        <p>¿Hay testigos?
+        <span id="resultado9"></span></p>
+
+    </div>
+    <div class="tabla">
+        <h1 class="titulo">si hay testigos</h1>
+        <p>que tan brutal es la muerte...
+        <span id="resultado10"></span></p>
+
+    </div>
+
+    <script>
+        function generar() {
+            //tablas:
+            var personaje = ["Sicker","Azzkorpze","Alisdair","Dzulum","Persojane ficticio"];
+            var fechaevento = ["1980 a 1985","1985 a 1990","1995 a 2000","2000 a 2005","2005 a 2010","2010 a 2015","2015 a 2020","Actualidad","Fuera del tiempo"];
+            var victimaprincipal = ["Hombre normal","Mujer Normal","Hombre Mendigo","Mujer Mendiga","Prostituta","Hombre Estudiante","Mujer Estudiante","Mujer adolescente","Persona random"];
+            var dificultadpelea = ["0","1","2","3","No pelea","4","5","6","7","Sin resistencia","8","9","10","Coopera"];
+            var pornogore = ["Si","No"];
+            var armas = ["Navajas","Cuchillo de caza","Manos","Espada","Espada Oxidada","Machete","Arma de fuego corta","Arma de fuego larga","Bate de baseball","Tubo de metal","Bate de baseball de madera modificado","Arco o Ballesta"];
+            var formamuerte = ["Pierde las extremidades","Muere sin viceras","Comida para animales","Golpes","Desangrado","Molido a golpes","Decapitación","DBSM","Electrocicion","Hervido vivo","Tortura","Veneno","Empalamiento","Acido","Cazado como animal"];
+            var lugar = ["Una biblioteca","Callejon Oscuro","Bar","El hospital (y/o la Morgue)","El domicilio de una víctima","La comisaría de policía","Calle solitaria","Carretera de noche","Bosque","Orilla del rio","Playa","Parque de diversiones"];
+            var testigos = ["1 muere","1","Una pareja","Una pareja mueren","Grupo chico","Grupo chico mueren","Grupo mediano","Grupo mediano mueren","Grupo grande","Grupo grande mueren","Vieja chismosa muere"];
+            var testigosmueren = ["Cazados como animales","Masacre sangrienta","Masacre brutal con necrofilia","Desmembramiento","Calcinamiento","Muerte simple","Veneno","Horca","Tortura Machacar","Desollamiento"];
+            //tiradas:
+            var a = aleatorio(5);  
+            document.getElementById("resultado1").innerHTML = personaje[a];
+            var a = aleatorio(9);
+            document.getElementById("resultado2").innerHTML = fechaevento[a];
+            var a = aleatorio(9);
+            document.getElementById("resultado3").innerHTML = victimaprincipal[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado4").innerHTML = dificultadpelea[a];
+            var a = aleatorio(2);
+            document.getElementById("resultado5").innerHTML = pornogore[a];
+            var a = aleatorio(12);
+            document.getElementById("resultado6").innerHTML = armas[a];
+            var a = aleatorio(15);
+            document.getElementById("resultado7").innerHTML = formamuerte[a];
+            var a = aleatorio(12);
+            document.getElementById("resultado8").innerHTML = lugar[a];
+            var a = aleatorio(11);
+            document.getElementById("resultado9").innerHTML = testigos[a];
+            var a = aleatorio(10);
+            document.getElementById("resultado10").innerHTML = testigosmueren[a];
+            
+          
+        }
+
+        function aleatorio(n){
+            var resultado = Math.floor(Math.random()*n);
+            return resultado;
+        }
+    </script>
+
+</body>
+</html>
