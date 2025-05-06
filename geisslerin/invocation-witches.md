@@ -1,7 +1,0 @@
----
-layout: geisslerin
-title: Invocation Witches
-permalink: /geisslerin/invocation-witches/
----
-# Invocation Witches
-{% include youtube.html id="yr9QxV65u90" %}
