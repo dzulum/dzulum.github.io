@@ -1,123 +1,11 @@
-/*Modo rejilla para css responsivo*/
-* {
-  box-sizing: border-box;
-}
-/* For desktop: */
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-
-@media only screen and (max-width: 480px) {
-    /* For mobile phones: */
-    [class*="col-"] {
-        width: 100%;
-    }
-}
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
-}
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    .col-1 {width: 8.33%;}
-    .col-2 {width: 16.66%;}
-    .col-3 {width: 25%;}
-    .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
-    .col-6 {width: 50%;}
-    .col-7 {width: 58.33%;}
-    .col-8 {width: 66.66%;}
-    .col-9 {width: 75%;}
-    .col-10 {width: 83.33%;}
-    .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
-}
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
-}
-@media only screen and (min-width: 600px) {
-    /* For tablets: */
-    .col-m-1 {width: 8.33%;}
-    .col-m-2 {width: 16.66%;}
-    .col-m-3 {width: 25%;}
-    .col-m-4 {width: 33.33%;}
-    .col-m-5 {width: 41.66%;}
-    .col-m-6 {width: 50%;}
-    .col-m-7 {width: 58.33%;}
-    .col-m-8 {width: 66.66%;}
-    .col-m-9 {width: 75%;}
-    .col-m-10 {width: 83.33%;}
-    .col-m-11 {width: 91.66%;}
-    .col-m-12 {width: 100%;}
-}
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    .col-1 {width: 8.33%;}
-    .col-2 {width: 16.66%;}
-    .col-3 {width: 25%;}
-    .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
-    .col-6 {width: 50%;}
-    .col-7 {width: 58.33%;}
-    .col-8 {width: 66.66%;}
-    .col-9 {width: 75%;}
-    .col-10 {width: 83.33%;}
-    .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
-}
-[class*="col-"] {
-    float: left;
-    padding: 0px;
-    border: 0px solid red;
-}
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-/*termina css rejillas*/
-@font-face {
-font-family: ProgressiveText;
-src: url(../fonts/ProgressiveText.ttf);
-}
-@font-face {
-font-family: gabriele-l;
-src: url(../fonts/gabriele-l.ttf);
-}
-:root {
-  /* Paleta de Servicios de TI */
-  --color-primario: #0056b3; /* Azul Oscuro Profesional - Trust */
-  --color-secundario: #00c0aa; /* Teal/Cian Moderno - Technology/Accent */
-  --color-llamada-accion: #ffc107; /* Amarillo Brillante - CTA/Highlight */
-  
-  /* Fondos y Texto */
-  --color-fondo-oscuro: #1b2838; /* Azul muy oscuro para fondos principales */
-  --color-fondo-claro: #f8f9fa; /* Gris Muy Claro */
-  --color-texto-oscuro: #343a40; /* Gris Oscuro - Legibilidad */
-  --color-texto-claro: #ffffff; /* Blanco */
-  
-  /* Colores de Sombra/Transparencia */
-  --color-sombra-acento: rgba(0, 192, 170, 0.7); /* Teal semitransparente */
-  --color-semitransparente-oscuro: rgba(27, 40, 56, 0.7); /* Fondo oscuro semitransparente */
-}
-
-/* --- ESTILOS ACTUALIZADOS --- */
-
 /* barra de navegacion responsiva */
 .topnav {
-  background-color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
+  background-color: #111;
   overflow: hidden;
-  /* (otras propiedades sin color...) */
+  overflow: hidden;
+  /*position: fixed;  quitar comentario si deseas 
+  top: 0; barra de navegacion fija en el top 
+  left:  0;*/
   width: 100%; /* Full width */
   font-family: ProgressiveText;
 }
@@ -126,7 +14,7 @@ src: url(../fonts/gabriele-l.ttf);
 .topnav a {
   float: left;
   display: block;
-  color: var(--color-texto-claro); /* #fff -> Blanco */
+  color: #fff;
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
@@ -135,14 +23,14 @@ src: url(../fonts/gabriele-l.ttf);
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: var(--color-secundario); /* #600 -> Teal Moderno */
-  color: var(--color-fondo-oscuro); /* red -> Azul Oscuro */
+  background-color: #600;
+  color: red;
 }
 
 /* Add an active class to highlight the current page */
 .active,.topnav a:active{
-  background-color: var(--color-primario); /* #600 -> Azul Profesional */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: #600;
+  color: white;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -174,51 +62,50 @@ src: url(../fonts/gabriele-l.ttf);
 }
 
 body {
-  background: var(--color-primario); /* #400 -> Azul Profesional */
+  background: #400;
   background-image: url(../images/bg.png);
   background-attachment:fixed;
   background-repeat: no-repeat;
   background-position: center center;
   padding: 0 0;
-  /* Actualizado para usar las variables y el color secundario como gradiente de acento */
-  background-image: url(../images/bg.png), -moz-linear-gradient(top, var(--color-primario) 0%, #004d99 35%, var(--color-fondo-oscuro) 100%);
-  background-image: url(../images/bg.png), -webkit-linear-gradient(top, var(--color-primario) 0%, #004d99 35%, var(--color-fondo-oscuro) 100%);
-  background-image: url(../images/bg.png), linear-gradient(to bottom, var(--color-primario) 0%, #004d99 35%, var(--color-fondo-oscuro) 100%);
+  background-image: url(../images/bg.png), -moz-linear-gradient(top, #400 0%, #300 35%, #000000 100%);
+  background-image: url(../images/bg.png), -webkit-linear-gradient(top, #400 0%, #300 35%, #000000 100%);
+  background-image: url(../images/bg.png), linear-gradient(to bottom, #400 0%, #300 35%, #000000 100%);
 }
 
 h1,h2,h3,h4,h5,h6{text-shadow: 0px 0px 5px black; text-align:center; margin:0; font-family: ProgressiveText; font-weight:lighter;}
 h1 a {
   font-size: 35;
-  color: var(--color-texto-claro); /* #fff -> Blanco */
+  color: #fff;
   font-family: ProgressiveText;
   text-decoration: none;
-  text-shadow: 0px 0px 10px var(--color-secundario); /* #800 -> Teal Moderno */
+  text-shadow: 0px 0px 10px #800;
 }
 h1 a:hover {
   font-size: 35;
-  color: var(--color-texto-oscuro); /* #000 -> Gris Oscuro */
+  color: #000;
   font-family: ProgressiveText;
   text-decoration: none;
-  text-shadow: 0px 0px 10px var(--color-llamada-accion); /* #f00 -> Amarillo CTA */
+  text-shadow: 0px 0px 10px #f00;
 }
 .top{ /*Titulo de la pagina*/
   font-size: 65px;
-  color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
+  color: #111;
   font-weight: Lighter;
   font-family: ProgressiveText;
-  text-shadow: 0px 0px 10px var(--color-secundario); /* #f00 -> Teal Moderno */
+  text-shadow: 0px 0px 10px #f00;
 }
 
 P:first-letter { /*Primer letra del parrafo cambia*/
   font-size: 40;
-  color: var(--color-texto-oscuro); /* #000 -> Gris Oscuro */
+  color: #000;
   font-weight: Lighter;
   font-family: ProgressiveText;
-  text-shadow: 0px 0px 3px var(--color-secundario); /* red -> Teal Moderno */
+  text-shadow: 0px 0px 3px red;
   }
 
 .cont, cont{
-color: var(--color-texto-claro); /* #fff -> Blanco */
+color: #fff;
 padding-top:0;
 z-index: -1;
 position: relative;}
@@ -235,28 +122,28 @@ position: relative;}
   display: table;
 }
 .black{
-  background-color: var(--color-fondo-oscuro); /* black -> Azul Oscuro */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: black;
+  color: white;
   font-weight: bold;
 }
 .blackt{
-  background-color: var(--color-semitransparente-oscuro); /* rgba(0, 0, 0, .7) -> Fondo oscuro transparente */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: rgba(0, 0, 0, .7);
+  color: white;
   font-weight: bold;
 }
 .darkred{
-  background-color: var(--color-primario); /* #400 -> Azul Profesional */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: #400;
+  color: white;
   font-weight: bold;
 }
 .darkgrey{
-  background-color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: #111;
+  color: white;
   font-weight: bold;
 }
 .darkgreyt{
-  background-color: rgba(27, 40, 56, .5); /* rgba(25, 25, 25, .5) -> Fondo oscuro transparente */
-  color: var(--color-texto-claro); /* white -> Blanco */
+  background-color: rgba(25, 25, 25, .5);
+  color: white;
   font-weight: bold;
 }
 .center{
@@ -305,34 +192,34 @@ position: relative;}
 }
 .content > P:first-letter { /*Primer letra del parrafo cambia*/
   font-size: 20;
-  color: var(--color-texto-oscuro); /* #000 -> Gris Oscuro */
+  color: #000;
   font-weight: bold;
   font-family: gabriele-l;
-  text-shadow: 0px 0px 3px var(--color-secundario); /* red -> Teal Moderno */
+  text-shadow: 0px 0px 3px red;
   }
 .pagination{
   padding: 10 10;
-  color: var(--color-texto-claro); /* #fff -> Blanco */
+  color: #fff;
   font-family: ProgressiveText;
-  background-color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
+  background-color: #111;
   text-decoration: none;
   font-weight: lighter;
   font-size: 19px;
 }
 .pagination a{
   padding: 10 10;
-  color: var(--color-texto-claro); /* #fff -> Blanco */
+  color: #fff;
   font-family: ProgressiveText;
-  background-color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
+  background-color: #111;
   text-decoration: none;
   font-weight: lighter;
   font-size: 19px;
 }
 .pagination a:hover{
   padding: 10 10;
-  color: var(--color-llamada-accion); /* #f00 -> Amarillo CTA */
+  color: #f00;
   font-family: ProgressiveText;
-  background-color: var(--color-fondo-oscuro); /* #111 -> Azul Oscuro */
+  background-color: #111;
   text-decoration: none;
   font-weight: lighter;
   font-size: 19px;
@@ -340,11 +227,11 @@ position: relative;}
 .esquinas{
   border-radius: 10px 10px 10px 10px;
   border-style: solid;
-  border-color: #666; /* Mantenido como gris suave */
+  border-color: #666;
   border-width: 1px;
 }
 .sociales ul li a{
- color: var(--color-texto-claro); /* #fff -> Blanco */
+ color: #fff;
  text-decoration: none;
  font-size: 25;
  font-family: ProgressiveText;
@@ -355,8 +242,8 @@ position: relative;}
  list-style-image: url("../images/dot.gif");
 }
 .sociales ul li a:hover{
- color: var(--color-fondo-oscuro); /* #000 -> Azul Oscuro */
- background-color: var(--color-texto-claro); /* #fff -> Blanco */
+ color: #000;
+ background-color: #fff;
  text-decoration: underline;
  font-size: 25;
  font-family: ProgressiveText;
@@ -366,10 +253,10 @@ position: relative;}
 .tg {
   font: bold 12px gabriele-l;
   text-decoration: none;
-  background-color: var(--color-primario); /* #600 -> Azul Profesional */
-  color: var(--color-texto-claro); /* #fff -> Blanco */
+  background-color: #600;
+  color: #fff;
   padding: 3px 7px 3px 7px;
-  border: 1px 1px 1px 1px solid var(--color-secundario); /* red -> Teal Moderno */
+  border: 1px 1px 1px 1px solid red;
   margin: 2px 2px 2px 2px;
   border-radius: 10px 10px 10px 10px;
   text-transform: uppercase;
@@ -378,19 +265,19 @@ position: relative;}
   text-decoration: underline;
 }
 .leer{
-  background-color: var(--color-fondo-claro); /* navajowhite -> Gris Muy Claro */
-  background-color: rgba(248, 249, 250, .9); /* rgba(255, 222, 173, .5) -> Fondo Claro semitransparente */
-  color: var(--color-texto-oscuro); /* black -> Gris Oscuro */
+  background-color: navajowhite;
+  background-color: rgba(255, 222, 173, .5);
+  color: black;
   padding: 15px 15px 15px 15px;
 }
 .footer{
-  color: var(--color-texto-claro); /* white -> Blanco */
+  color: white;
   font-family: gabriele-l;
   font-size: 15px;
   text-align: center;
 }
 .footer a{
-  color: var(--color-secundario); /* red -> Teal Moderno */
+  color: red;
   font-family: gabriele-l;
   font-size: 15px;
 }
@@ -422,11 +309,11 @@ img{
 .thumb{width:150px;}
 .thumbl img {width: 200px;}
 a{
-  color: var(--color-secundario); /* red -> Teal Moderno */
+  color: red;
 }
-a:hover{ color: var(--color-texto-claro); /* white -> Blanco */ }
+a:hover{ color: white; }
 a img{
   width: 150px;
   height: auto;
   }
-code{background-color: #333;color: var(--color-texto-claro);}
+code{background-color: #333;color: white;}
