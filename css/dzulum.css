@@ -239,7 +239,7 @@ position: relative;}
 
 }
 .sociales ul, .tg ul{
- list-style-image: url("../images/dot.gif");
+ list-style-image: url("{{ site.baseurl }}/images/dot.gif");
 }
 .sociales ul li a:hover{
  color: #000;
