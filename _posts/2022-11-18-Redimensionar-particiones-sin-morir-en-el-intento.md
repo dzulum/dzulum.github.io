@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: post
 tags: tech
 date: 2022-11-18 23:22:00
 title: Redimensionar particiones sin morir en el intento

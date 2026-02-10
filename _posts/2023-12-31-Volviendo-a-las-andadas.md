@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: post
 tags: tech
 date: 2023-12-31 20:46:00
 title: Volviendo a las andadas...

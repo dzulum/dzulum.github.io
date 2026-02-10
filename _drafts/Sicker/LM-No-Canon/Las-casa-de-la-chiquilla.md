@@ -1,1 +1,0 @@
-esta historia hablara de un asesino que tiene una casa abandonada llena de trampas y camaras ocultas para grabar como mueren unos exploradores urbanos.

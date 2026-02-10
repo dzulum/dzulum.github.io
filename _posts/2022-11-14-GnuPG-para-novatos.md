@@ -1,5 +1,5 @@
 ---
-layout: tech
+layout: post
 date: 2022-11-13 15:18:00
 tags: tech
 title: GnuPG para novatos
