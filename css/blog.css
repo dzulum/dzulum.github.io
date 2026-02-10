@@ -331,3 +331,58 @@ code {
 #results-container::-webkit-scrollbar-thumb {
     background: var(--cyan-neon);
 }
+/* --- CORRECCIÓN DE OVERFLOW PARA PRISM.JS --- */
+
+/* 1. Forzar al contenedor pre a respetar el ancho máximo */
+pre[class*="language-"] {
+    max-width: 100%;
+    overflow: auto; /* Permite scroll interno */
+    word-wrap: normal; /* Evita que rompa palabras a menos que sea necesario */
+    white-space: pre;  /* Mantiene el formato original del código */
+    position: relative;
+    
+    /* Estética Sicker: Borde y fondo */
+    background: rgba(5, 7, 10, 0.9) !important;
+    border: 1px solid rgba(0, 242, 255, 0.2) !important;
+    border-left: 3px solid var(--cyan-neon) !important;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    padding: 1.5em !important;
+    margin: 1.5em 0 !important;
+}
+
+/* 2. Asegurar que el tag code no fuerce el estiramiento */
+code[class*="language-"] {
+    max-width: 100%;
+    white-space: pre;
+    display: inline-block; /* Ayuda a controlar el flujo interno */
+    vertical-align: middle;
+}
+
+/* 3. Scrollbar personalizada para el código (Estilo Cyan) */
+pre[class*="language-"]::-webkit-scrollbar {
+    height: 6px; /* Scroll horizontal delgado */
+    width: 6px;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-track {
+    background: #000;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-thumb {
+    background: rgba(0, 242, 255, 0.3);
+    border-radius: 3px;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-thumb:hover {
+    background: var(--cyan-neon);
+}
+
+/* 4. Opción para forzar el salto de línea (Wrappable) */
+/* Si prefieres que el código salte de línea en lugar de hacer scroll, 
+   descomenta lo siguiente: */
+/*
+pre[class*="language-"] {
+    white-space: pre-wrap !important;
+    word-break: break-all !important;
+}
+*/
