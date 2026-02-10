@@ -1,43 +1,89 @@
-/* barra de navegacion responsiva */
-.topnav {
-  background-color: #111;
-  overflow: hidden;
-  overflow: hidden;
-  /*position: fixed;  quitar comentario si deseas 
-  top: 0; barra de navegacion fija en el top 
-  left:  0;*/
-  width: 100%; /* Full width */
-  font-family: ProgressiveText;
+/* TECH SUPPORT HUB - SICKER PROTOCOL v2.4 
+   Basado en Jekyll - Estética Cyber-Tech / Neon Cyan
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap');
+
+:root {
+  --cyan-neon: #00f2ff;
+  --cyan-glow: 0px 0px 12px rgba(0, 242, 255, 0.7);
+  --dark-bg: #05070a;
+  --panel-bg: rgba(10, 15, 20, 0.85);
+  --border-tech: 1px solid rgba(0, 242, 255, 0.2);
 }
 
-/* Style the links inside the navigation bar */
+/* --- RESET Y BASE --- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--dark-bg);
+  background-image: radial-gradient(circle at 50% 50%, #0a1a1d 0%, #05070a 100%);
+  background-attachment: fixed;
+  color: #e0e0e0;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* --- BARRA DE NAVEGACIÓN (TOPNAV) --- */
+.topnav {
+  background-color: #000;
+  overflow: hidden;
+  width: 100%;
+  font-family: 'Orbitron', sans-serif;
+  border-bottom: 1px solid var(--cyan-neon);
+  box-shadow: 0 0 15px rgba(0, 242, 255, 0.1);
+  z-index: 1000;
+}
+
 .topnav a {
   float: left;
   display: block;
   color: #fff;
   text-align: center;
-  padding: 10px 10px;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 19px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  transition: 0.3s;
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #600;
-  color: red;
+  background-color: rgba(0, 242, 255, 0.1);
+  color: var(--cyan-neon);
+  text-shadow: var(--cyan-glow);
+}
+/* Ajuste para los iconos de la Navbar */
+.topnav a i {
+  margin-right: 8px;
+  color: var(--cyan-neon); /* Los iconos brillan por defecto */
+  transition: 0.3s;
 }
 
-/* Add an active class to highlight the current page */
-.active,.topnav a:active{
-  background-color: #600;
-  color: white;
+.topnav a:hover i {
+  transform: rotate(10deg) scale(1.2); /* Pequeña animación técnica */
+  text-shadow: var(--cyan-glow);
 }
 
-/* Hide the link that should open and close the topnav on small screens */
+/* El icono de la barra de menú en responsive */
+.topnav .icon i {
+  font-size: 20px;
+  color: var(--cyan-neon);
+}
+.active, .topnav a:active {
+  background-color: var(--cyan-neon);
+  color: #000;
+  font-weight: bold;
+}
+
 .topnav .icon {
   display: none;
 }
-/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+
+/* Responsive Topnav */
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -46,7 +92,6 @@
   }
 }
 
-/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
@@ -61,259 +106,206 @@
   }
 }
 
-body {
-  background: #400;
-  background-image: url({{ site.baseurl }}/images/bg.png);
-  background-attachment:fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  padding: 0 0;
-  background-image: url({{ site.baseurl }}/images/bg.png), -moz-linear-gradient(top, #400 0%, #300 35%, #000000 100%);
-  background-image: url(../images/bg.png), -webkit-linear-gradient(top, #400 0%, #300 35%, #000000 100%);
-  background-image: url({{ site baseurl }}/images/bg.png), linear-gradient(to bottom, #400 0%, #300 35%, #000000 100%);
-}
-
-h1,h2,h3,h4,h5,h6{text-shadow: 0px 0px 5px black; text-align:center; margin:0; font-family: ProgressiveText; font-weight:lighter;}
-h1 a {
-  font-size: 35;
-  color: #fff;
-  font-family: ProgressiveText;
-  text-decoration: none;
-  text-shadow: 0px 0px 10px #800;
-}
-h1 a:hover {
-  font-size: 35;
-  color: #000;
-  font-family: ProgressiveText;
-  text-decoration: none;
-  text-shadow: 0px 0px 10px #f00;
-}
-.top{ /*Titulo de la pagina*/
-  font-size: 65px;
-  color: #111;
-  font-weight: Lighter;
-  font-family: ProgressiveText;
-  text-shadow: 0px 0px 10px #f00;
-}
-
-P:first-letter { /*Primer letra del parrafo cambia*/
-  font-size: 40;
-  color: #000;
-  font-weight: Lighter;
-  font-family: ProgressiveText;
-  text-shadow: 0px 0px 3px red;
-  }
-
-.cont, cont{
-color: #fff;
-padding-top:0;
-z-index: -1;
-position: relative;}
-/* Column container */
-.row {  
-    display: -ms-flexbox; /* IE10 */
-    display: flex;
-    -ms-flex-wrap: wrap; /* IE10 */
-    flex-wrap: wrap;
-    }
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-.black{
-  background-color: black;
-  color: white;
-  font-weight: bold;
-}
-.blackt{
-  background-color: rgba(0, 0, 0, .7);
-  color: white;
-  font-weight: bold;
-}
-.darkred{
-  background-color: #400;
-  color: white;
-  font-weight: bold;
-}
-.darkgrey{
-  background-color: #111;
-  color: white;
-  font-weight: bold;
-}
-.darkgreyt{
-  background-color: rgba(25, 25, 25, .5);
-  color: white;
-  font-weight: bold;
-}
-.center{
-  padding-top: 15;
-  padding-bottom: 15;
-  padding-right: 15;
-  padding-left: 15;
-  margin: auto auto;
-  width: 95%;
-}
-.center img{
-  width: 20%;
-  align-content: center;
+/* --- ENCABEZADOS Y TEXTO TECH --- */
+h1, h2, h3, h4, h5, h6, .top {
+  font-family: 'Orbitron', sans-serif;
+  color: var(--cyan-neon);
+  text-shadow: var(--cyan-glow);
   text-align: center;
-  border-radius: 10px 10px 10px 10px;
-  padding-top: 15;
-  padding-bottom: 15;
-  padding-right: 15;
-  padding-left: 15;
-  margin: auto auto;
-}
-.leer img{
-  width: 80%;
-  align-content: center;
-  text-align: center;
-  border-radius: 10px 10px 10px 10px;
-  padding-top: 15;
-  padding-bottom: 15;
-  padding-right: 15;
-  padding-left: 15;
-  margin: auto auto;
-}
-.separador{
-  margin-bottom: 5px;
-  margin-top: 5px;
-}
-.transparente{
-  opacity:0.5; filter:alpha(opacity=50);
-}
-.content{
-  text-align: justify;
-  font-family: gabriele-l;
-  font-size: 18px;
-  font-weight: bold;
-  padding: 10px 10px 10px 10px;
-}
-.content > P:first-letter { /*Primer letra del parrafo cambia*/
-  font-size: 20;
-  color: #000;
-  font-weight: bold;
-  font-family: gabriele-l;
-  text-shadow: 0px 0px 3px red;
-  }
-.pagination{
-  padding: 10 10;
-  color: #fff;
-  font-family: ProgressiveText;
-  background-color: #111;
-  text-decoration: none;
-  font-weight: lighter;
-  font-size: 19px;
-}
-.pagination a{
-  padding: 10 10;
-  color: #fff;
-  font-family: ProgressiveText;
-  background-color: #111;
-  text-decoration: none;
-  font-weight: lighter;
-  font-size: 19px;
-}
-.pagination a:hover{
-  padding: 10 10;
-  color: #f00;
-  font-family: ProgressiveText;
-  background-color: #111;
-  text-decoration: none;
-  font-weight: lighter;
-  font-size: 19px;
-}
-.esquinas{
-  border-radius: 10px 10px 10px 10px;
-  border-style: solid;
-  border-color: #666;
-  border-width: 1px;
-}
-.sociales ul li a{
- color: #fff;
- text-decoration: none;
- font-size: 25;
- font-family: ProgressiveText;
- font-weight: lighter;
-
-}
-.sociales ul, .tg ul{
- list-style-image: url("{{ site.baseurl }}/images/dot.gif");
-}
-.sociales ul li a:hover{
- color: #000;
- background-color: #fff;
- text-decoration: underline;
- font-size: 25;
- font-family: ProgressiveText;
- font-weight: lighter;
-
-}
-.tg {
-  font: bold 12px gabriele-l;
-  text-decoration: none;
-  background-color: #600;
-  color: #fff;
-  padding: 3px 7px 3px 7px;
-  border: 1px 1px 1px 1px solid red;
-  margin: 2px 2px 2px 2px;
-  border-radius: 10px 10px 10px 10px;
+  margin: 20px 0;
+  font-weight: 700;
   text-transform: uppercase;
 }
-.tg:hover{ 
+
+h1 a {
+  color: var(--cyan-neon);
+  text-decoration: none;
+  font-size: 35px;
+}
+
+h1 a:hover {
+  color: #fff;
+  text-shadow: 0 0 20px var(--cyan-neon);
+}
+
+.top {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+/* Letra Capital (Drop Cap) */
+P:first-letter, .content > P:first-letter {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3.5rem;
+  color: var(--cyan-neon);
+  float: left;
+  line-height: 1;
+  padding-right: 10px;
+  text-shadow: var(--cyan-glow);
+  font-weight: 700;
+}
+
+/* --- ESTRUCTURA Y CONTENEDORES --- */
+.center {
+  padding: 20px;
+  margin: auto;
+  width: 95%;
+  max-width: 1100px;
+}
+
+.leer {
+  background-color: var(--panel-bg);
+  border: var(--border-tech);
+  color: #fff;
+  padding: 30px;
+  border-radius: 4px;
+  backdrop-filter: blur(5px);
+}
+
+.content {
+  text-align: justify;
+  font-size: 18px;
+}
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 4px;
+}
+
+/* --- MULTIMEDIA (IMÁGENES Y VIDEO) --- */
+img, .leer img, .center img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 242, 255, 0.2);
+  transition: 0.4s ease;
+  display: block;
+  margin: 20px auto;
+}
+
+img:hover {
+  border-color: var(--cyan-neon);
+  box-shadow: var(--cyan-glow);
+  transform: scale(1.01);
+}
+
+.youtube-wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  border: var(--border-tech);
+}
+
+/* --- COMPONENTES ESPECIALES --- */
+
+/* Firma de Sicker */
+.sicker-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background: rgba(0, 242, 255, 0.05);
+  border: 1px solid var(--cyan-neon);
+  margin-top: 40px;
+}
+
+.sicker-avatar {
+  width: 80px;
+  height: 80px;
+  background: #000;
+  position: relative;
+  border: 1px solid var(--cyan-neon);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.shadow-halo {
+  position: absolute;
+  width: 100%; height: 100%;
+  box-shadow: inset 0 0 20px #000, 0 0 10px rgba(0,242,255,0.2);
+}
+
+.sicker-info h4 {
+  text-align: left;
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* Code e Inline Code */
+code {
+  background-color: #05070a;
+  color: #00ffaa;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+  border: 1px solid #1a1a1a;
+}
+
+/* Tags (.tg) */
+.tg {
+  font-family: 'Orbitron', sans-serif;
+  text-decoration: none;
+  background-color: transparent;
+  color: var(--cyan-neon);
+  padding: 4px 10px;
+  border: 1px solid var(--cyan-neon);
+  border-radius: 4px;
+  font-size: 11px;
+  text-transform: uppercase;
+  transition: 0.3s;
+}
+
+.tg:hover {
+  background: var(--cyan-neon);
+  color: #000;
+  box-shadow: var(--cyan-glow);
+}
+
+/* Paginación */
+.pagination, .pagination a {
+  font-family: 'Orbitron', sans-serif;
+  background-color: #000;
+  color: var(--cyan-neon);
+  padding: 10px 15px;
+  text-decoration: none;
+  border: 1px solid rgba(0, 242, 255, 0.3);
+}
+
+.pagination a:hover {
+  color: #fff;
+  border-color: var(--cyan-neon);
+  box-shadow: var(--cyan-glow);
+}
+
+/* Footer */
+.footer {
+  padding: 40px 0;
+  color: var(--text-dim);
+  font-family: 'Inter', sans-serif;
+  border-top: 1px solid rgba(0, 242, 255, 0.1);
+  text-align: center;
+}
+
+.footer a {
+  color: var(--cyan-neon);
+  text-decoration: none;
+}
+
+.footer a:hover {
   text-decoration: underline;
 }
-.leer{
-  background-color: navajowhite;
-  background-color: rgba(255, 222, 173, .5);
-  color: black;
-  padding: 15px 15px 15px 15px;
+
+/* Enlaces generales */
+a {
+  color: var(--cyan-neon);
+  transition: 0.3s;
 }
-.footer{
-  color: white;
-  font-family: gabriele-l;
-  font-size: 15px;
-  text-align: center;
+
+a:hover {
+  color: #fff;
 }
-.footer a{
-  color: red;
-  font-family: gabriele-l;
-  font-size: 15px;
-}
-.youtube-wrapper { 
-   /* position: relative; */
-    width: 80%;
-    height: 400px;
-    padding-bottom: 0%;
-    } 
-.youtube-wrapper iframe { 
-/*position: absolute;
-top: 0;
-left: 0; */
-width: 100%; 
-height: 400px;
-border: 0; 
-}
-img{
-  width: 80%;
-  align-content: center;
-  text-align: center;
-  border-radius: 10px 10px 10px 10px;
-  padding-top: 15;
-  padding-bottom: 15;
-  padding-right: 15;
-  padding-left: 15;
-  margin: auto auto;
-}
-.thumb{width:150px;}
-.thumbl img {width: 200px;}
-a{
-  color: red;
-}
-a:hover{ color: white; }
-a img{
-  width: 150px;
-  height: auto;
-  }
-code{background-color: #333;color: white;}
