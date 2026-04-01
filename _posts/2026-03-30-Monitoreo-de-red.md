@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Red Monitoreo ICMP SNMP Zabbix Nagios
+tags: Red Monitoreo
 title: Monitoreo de Red: Si no lo mides, no lo controlas.
 date: 2026-03-30 20:44:00
 ---
