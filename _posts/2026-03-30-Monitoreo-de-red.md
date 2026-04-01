@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Red Monitoreo
-title: Monitoreo de Red: Si no lo mides, no lo controlas.
+title: Monitoreo de Red
 date: 2026-03-30 20:44:00
 ---
 
