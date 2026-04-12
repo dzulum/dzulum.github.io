@@ -6,7 +6,7 @@
 name: Dzulum
 
 # Short bio or description (displayed in the header)
-description: Desearas Morir.
+description: Soporte Técnico.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/dzulum/dzulum.github.io/master/images/dzulum.jpg
@@ -21,7 +21,7 @@ paginate_path: "/:num/"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dzulum@mortemale.org
+  email: sicker@dzulum.com
   facebook: mxsicker/
   flickr:
   github: dzulum
