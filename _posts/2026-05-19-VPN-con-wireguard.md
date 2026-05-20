@@ -4,7 +4,7 @@ tags: Seguridad
 date: 2026-05-19 20:05:15
 title: VPN con WireGuard.
 ---
-#WireGuard
+# WireGuard
 Saludos a todos. Bienvenidos a esta charla sobre **WireGuard**. Como profesionales y entusiastas de la privacidad, sabemos que asegurar nuestro tráfico de red ya no es un lujo, sino una necesidad básica. Hoy vamos a desglosar qué es WireGuard, por qué ha dejado obsoletas a tecnologías como OpenVPN o IPsec, cómo impacta positivamente en su infraestructura diaria, el hardware ideal para exprimirlo y cómo desplegarlo desde cero sin complicaciones.
 
 ---
